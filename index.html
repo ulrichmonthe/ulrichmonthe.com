@@ -1,0 +1,785 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ulrich Monthe — AI Product Leader | Responsible AI for Mission-Driven Organizations</title>
+  <meta name="description" content="Ulrich Monthe is an AI transformation and product leader who deploys responsible generative AI and drives organization-wide adoption for mission-driven organizations. Product Director at the Black Wealth Data Center, a Bloomberg Philanthropies company.">
+  <link rel="canonical" href="https://ulrichmonthe.com/">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <meta property="og:title" content="Ulrich Monthe — AI Product Leader">
+  <meta property="og:description" content="Responsible AI strategy, generative-AI delivery, and enterprise adoption for organizations where trust is the product.">
+  <meta property="og:type" content="profile">
+  <meta property="og:url" content="https://ulrichmonthe.com/">
+  <meta property="og:site_name" content="Ulrich Monthe">
+  <meta property="og:image" content="https://ulrichmonthe.com/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Ulrich Monthe — AI Product Leader">
+  <meta name="twitter:description" content="AI that strengthens human judgment — not replaces it. Responsible AI strategy and enterprise adoption for mission-driven organizations.">
+  <meta name="twitter:image" content="https://ulrichmonthe.com/og-image.png">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Ulrich Monthe",
+    "url": "https://ulrichmonthe.com/",
+    "jobTitle": "AI Product Leader & Product Director",
+    "description": "AI transformation and product leader who deploys responsible generative AI and drives organization-wide adoption for mission-driven organizations.",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Black Wealth Data Center (Bloomberg Philanthropies)"
+    },
+    "address": { "@type": "PostalAddress", "addressLocality": "Washington", "addressRegion": "DC" },
+    "email": "mailto:umonthe1@gmail.com",
+    "sameAs": [
+      "https://linkedin.com/in/ulrich-monthe",
+      "https://learnsignal.ai"
+    ],
+    "alumniOf": [
+      { "@type": "CollegeOrUniversity", "name": "George Washington University" },
+      { "@type": "CollegeOrUniversity", "name": "Concordia University Texas" }
+    ],
+    "knowsAbout": [
+      "AI Strategy", "Responsible AI", "AI Governance", "Generative AI",
+      "Retrieval-Augmented Generation", "LLM Evaluation", "Change Management",
+      "Enterprise AI Adoption", "Nonprofit Technology", "Product Management"
+    ],
+    "knowsLanguage": ["English", "French"]
+  }
+  </script>
+  <style>
+    :root {
+      --ink: #1c1a17;
+      --ink-soft: #5b554c;
+      --paper: #f5f1e8;
+      --paper-raised: #fbf9f3;
+      --accent: #a8763e;
+      --accent-deep: #8a5f30;
+      --accent-soft: #efe6d6;
+      --rule: #e2dbcb;
+      --serif: "Newsreader", "Iowan Old Style", Georgia, serif;
+      --sans: "Instrument Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: var(--serif);
+      background: var(--paper);
+      color: var(--ink);
+      line-height: 1.6;
+      font-size: 18px;
+      -webkit-font-smoothing: antialiased;
+    }
+    .wrap { max-width: 880px; margin: 0 auto; padding: 0 24px; }
+
+    nav {
+      font-family: var(--sans);
+      font-size: 14px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 28px 0;
+    }
+    nav .mark { display: inline-flex; align-items: center; gap: 11px; text-decoration: none; color: var(--ink); }
+    .mark-mono {
+      font-family: var(--serif);
+      font-size: 17px;
+      font-weight: 600;
+      color: var(--paper);
+      background: var(--accent);
+      width: 31px; height: 31px;
+      border-radius: 7px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      letter-spacing: -0.03em;
+    }
+    .mark-name { font-family: var(--serif); font-size: 20px; font-weight: 500; letter-spacing: -0.01em; }
+    nav ul { display: flex; gap: 28px; list-style: none; }
+    nav ul a { color: var(--ink-soft); text-decoration: none; }
+    nav ul a:hover { color: var(--accent-deep); }
+
+    header.hero { padding: 72px 0 64px; }
+    .kicker {
+      font-family: var(--sans);
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--accent-deep);
+      margin-bottom: 20px;
+    }
+    h1 {
+      font-size: clamp(34px, 5.5vw, 54px);
+      line-height: 1.15;
+      font-weight: 600;
+      letter-spacing: -0.015em;
+      max-width: 18ch;
+    }
+    .hero p.lede {
+      margin-top: 24px;
+      font-size: 21px;
+      color: var(--ink-soft);
+      max-width: 58ch;
+    }
+    .hero .cta-row { margin-top: 36px; display: flex; gap: 16px; flex-wrap: wrap; align-items: center; }
+    .btn {
+      font-family: var(--sans);
+      font-size: 15px;
+      font-weight: 600;
+      text-decoration: none;
+      padding: 12px 22px;
+      border-radius: 6px;
+    }
+    .btn-primary { background: var(--accent-deep); color: var(--paper); }
+    .btn-quiet { color: var(--accent-deep); padding-left: 0; }
+    .btn-copy {
+      background: transparent;
+      color: var(--accent-deep);
+      border: 1px solid var(--rule);
+      cursor: pointer;
+      transition: border-color 0.2s, color 0.2s;
+    }
+    .btn-copy:hover { border-color: var(--accent); }
+    .btn-copy.copied { color: #fff; background: var(--accent-deep); border-color: var(--accent-deep); }
+
+    .proof {
+      border-top: 1px solid var(--rule);
+      border-bottom: 1px solid var(--rule);
+      padding: 28px 0;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 24px;
+    }
+    .proof div { font-family: var(--sans); }
+    .proof strong { display: block; font-size: 22px; letter-spacing: -0.01em; }
+    .proof span { font-size: 13.5px; color: var(--ink-soft); }
+
+    section { padding: 72px 0 8px; }
+    h2 {
+      font-size: 15px;
+      font-family: var(--sans);
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent-deep);
+      margin-bottom: 28px;
+    }
+    .principles { display: grid; grid-template-columns: 1fr 1fr; gap: 32px 48px; }
+    .principle h3 { font-size: 20px; font-weight: 600; margin-bottom: 8px; }
+    .principle p { color: var(--ink-soft); font-size: 17px; }
+
+    article.case {
+      background: var(--paper-raised);
+      border: 1px solid var(--rule);
+      border-radius: 10px;
+      padding: 40px;
+      margin-bottom: 28px;
+    }
+    article.case .case-org {
+      font-family: var(--sans);
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--ink-soft);
+      margin-bottom: 10px;
+    }
+    article.case h3 { font-size: 24px; font-weight: 600; line-height: 1.3; margin-bottom: 14px; max-width: 32ch; }
+    article.case p { color: var(--ink-soft); max-width: 62ch; }
+    article.case p + p { margin-top: 12px; }
+    .case-facts {
+      margin-top: 20px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      font-family: var(--sans);
+      font-size: 13px;
+    }
+    .case-facts span {
+      background: var(--accent-soft);
+      color: var(--accent-deep);
+      font-weight: 600;
+      padding: 5px 12px;
+      border-radius: 100px;
+    }
+    .shot-placeholder {
+      margin-top: 26px;
+      border: 1.5px dashed var(--rule);
+      border-radius: 8px;
+      background: var(--paper);
+      padding: 40px 24px;
+      text-align: center;
+      font-family: var(--sans);
+      font-size: 14px;
+      color: #9a968c;
+    }
+    .shot-grid { margin-top: 26px; display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+    .shot-grid.single { grid-template-columns: 1fr; }
+    figure.shot img {
+      width: 100%;
+      height: auto;
+      display: block;
+      border: 1px solid var(--rule);
+      border-radius: 8px;
+      box-shadow: 0 2px 12px rgba(26, 26, 24, 0.06);
+    }
+    figure.shot figcaption {
+      margin-top: 10px;
+      font-family: var(--sans);
+      font-size: 13.5px;
+      color: var(--ink-soft);
+      line-height: 1.5;
+    }
+    @media (max-width: 680px) { .shot-grid { grid-template-columns: 1fr; } }
+
+    /* Inline slide deck */
+    .deck { margin-top: 26px; }
+    .deck-stage {
+      position: relative;
+      background: linear-gradient(155deg, #2a2218 0%, #1c1a17 100%);
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 4px 20px rgba(28, 26, 23, 0.22);
+    }
+    .deck-viewport { overflow: hidden; }
+    .deck-track { display: flex; transition: transform 0.45s cubic-bezier(0.4, 0, 0.2, 1); }
+    .slide {
+      flex: 0 0 100%;
+      min-width: 100%;
+      padding: 38px 44px 40px;
+      color: var(--paper);
+      min-height: 300px;
+      display: flex;
+      flex-direction: column;
+    }
+    .slide-num {
+      font-family: var(--sans);
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.14em;
+      color: #cba876;
+    }
+    .slide-kicker {
+      margin-top: 18px;
+      font-family: var(--sans);
+      font-size: 12.5px;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: #dcc7a2;
+    }
+    .slide h4 {
+      margin-top: 10px;
+      font-size: 25px;
+      font-weight: 600;
+      line-height: 1.25;
+      letter-spacing: -0.01em;
+      max-width: 24ch;
+    }
+    .slide p.slide-body { margin-top: 18px; max-width: none; font-size: 16.5px; line-height: 1.55; color: #ece4d6; }
+    .slide-points { margin-top: 18px; list-style: none; display: grid; gap: 9px; }
+    .slide-points li {
+      font-family: var(--sans);
+      font-size: 14.5px;
+      line-height: 1.45;
+      color: #e6ded0;
+      padding-left: 18px;
+      position: relative;
+    }
+    .slide-points li::before {
+      content: "";
+      position: absolute;
+      left: 0; top: 8px;
+      width: 6px; height: 6px;
+      border-radius: 2px;
+      background: #a8763e;
+    }
+    .slide-phases { margin-top: 22px; display: grid; gap: 10px; }
+    .phase-row {
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 14px;
+      align-items: baseline;
+      font-family: var(--sans);
+      padding: 11px 14px;
+      border-radius: 7px;
+      background: rgba(255, 255, 255, 0.05);
+    }
+    .phase-row.active { background: rgba(168, 118, 62, 0.22); box-shadow: inset 0 0 0 1px rgba(168, 118, 62, 0.5); }
+    .phase-row .ph-n { font-size: 12px; font-weight: 700; letter-spacing: 0.08em; color: #cba876; white-space: nowrap; }
+    .phase-row .ph-t { font-size: 14px; color: #e6ded0; }
+    .phase-row.active .ph-t { color: #fff; font-weight: 600; }
+    .slide-note {
+      margin-top: auto;
+      padding-top: 18px;
+      font-family: var(--sans);
+      font-size: 13px;
+      font-style: italic;
+      color: #b7a385;
+    }
+    .deck-nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 14px 20px;
+      background: rgba(0, 0, 0, 0.16);
+    }
+    .deck-btn {
+      font-family: var(--sans);
+      font-size: 18px;
+      line-height: 1;
+      color: var(--paper);
+      background: rgba(255, 255, 255, 0.1);
+      border: none;
+      border-radius: 6px;
+      width: 38px; height: 34px;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    .deck-btn:hover { background: rgba(255, 255, 255, 0.22); }
+    .deck-btn:disabled { opacity: 0.3; cursor: default; }
+    .deck-dots { display: flex; gap: 8px; }
+    .deck-dots button {
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      border: none;
+      padding: 0;
+      background: rgba(255, 255, 255, 0.28);
+      cursor: pointer;
+      transition: background 0.2s, transform 0.2s;
+    }
+    .deck-dots button.on { background: #cba876; transform: scale(1.3); }
+    .deck-caption {
+      margin-top: 12px;
+      font-family: var(--sans);
+      font-size: 13px;
+      color: var(--ink-soft);
+    }
+    @media (max-width: 680px) {
+      .slide { padding: 28px 24px 30px; }
+      .slide h4 { font-size: 21px; }
+    }
+
+    .quote-block {
+      border-left: 3px solid var(--accent);
+      padding-left: 28px;
+      font-size: 24px;
+      line-height: 1.45;
+      max-width: 30em;
+      font-style: italic;
+    }
+    .quote-block footer {
+      margin-top: 14px;
+      font-family: var(--sans);
+      font-size: 14px;
+      font-style: normal;
+      color: var(--ink-soft);
+    }
+
+    .about-grid p { color: var(--ink-soft); max-width: 62ch; font-size: 19px; }
+    .about-grid p + p { margin-top: 16px; }
+
+    footer.site {
+      margin-top: 88px;
+      border-top: 1px solid var(--rule);
+      padding: 36px 0 56px;
+      font-family: var(--sans);
+      font-size: 14px;
+      color: var(--ink-soft);
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 16px;
+    }
+    footer.site a { color: var(--accent); text-decoration: none; }
+
+    @media (max-width: 680px) {
+      .principles { grid-template-columns: 1fr; }
+      article.case { padding: 28px 22px; }
+      nav ul { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <nav>
+      <a class="mark" href="#top" aria-label="Ulrich Monthe — home">
+        <span class="mark-mono">UM</span>
+        <span class="mark-name">Ulrich Monthe</span>
+      </a>
+      <ul>
+        <li><a href="#principles">Point of View</a></li>
+        <li><a href="#work">Selected Work</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+
+    <header class="hero">
+      <div class="kicker">AI Product &amp; Transformation Leader</div>
+      <h1>AI that strengthens human judgment — not replaces it.</h1>
+      <p class="lede">
+        I help mission-driven organizations decide what to build with AI, what
+        <em>not</em> to build, and how to make adoption stick — from
+        responsible-AI guardrails to organization-wide change management.
+        Currently Product Director at the Black Wealth Data Center, a Bloomberg
+        Philanthropies company.
+      </p>
+      <div class="cta-row">
+        <a class="btn btn-primary" href="#work">See the work</a>
+        <a class="btn btn-quiet" href="#contact">Get in touch →</a>
+      </div>
+    </header>
+
+    <div class="proof">
+      <div><strong>Bloomberg-backed</strong><span>funder-mandated AI strategy &amp; delivery</span></div>
+      <div><strong>5,000+ orgs</strong><span>trained across 9 countries</span></div>
+      <div><strong>$2M budget</strong><span>21-person teams across 4 world regions</span></div>
+      <div><strong>10+ years</strong><span>mission-driven product leadership</span></div>
+    </div>
+
+    <section id="principles">
+      <h2>How I Work</h2>
+      <div class="principles">
+        <div class="principle">
+          <h3>Differentiation is a build gate</h3>
+          <p>If users can already get the answer from a general AI tool, we don't build it. I've halted funded builds on exactly that test — saying no is the strategy.</p>
+        </div>
+        <div class="principle">
+          <h3>Guardrails before features</h3>
+          <p>Mandatory source citation, bounded refusal, and automated LLM-as-judge evaluation gates ship in the proof of concept — not as a fast-follow.</p>
+        </div>
+        <div class="principle">
+          <h3>Adoption is the product</h3>
+          <p>A tool nobody trusts is shelfware. I run discovery on real workflows, train by role, and cultivate internal champions so systems outlive my involvement.</p>
+        </div>
+        <div class="principle">
+          <h3>Leave capability, not dependence</h3>
+          <p>Success is an organization running its AI systems independently — with the governance, skills, and momentum to keep evolving them.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="work">
+      <h2>Selected Work</h2>
+
+      <article class="case">
+        <div class="case-org">Black Wealth Data Center · Bloomberg Philanthropies</div>
+        <h3>Setting AI strategy under a funder mandate — including what not to build</h3>
+        <p>
+          Led a Greenwood Initiative–backed AI sprint that set organizational AI
+          direction through three testable hypotheses, with differentiation as an
+          explicit build / no-build gate. Shipped a generative-AI proof of concept
+          for a vulnerable-population context with guardrails built in: mandatory
+          source citation, a non-fabrication framework, bounded refusal, and
+          automated LLM-as-judge evaluation gating.
+        </p>
+        <div class="case-facts">
+          <span>AI strategy</span><span>Responsible AI</span><span>RAG</span><span>LLM evaluation</span><span>Build/no-build gates</span>
+        </div>
+        <div class="shot-grid">
+          <figure class="shot">
+            <img src="assets/bwdc/genai-poc.png" width="1386" height="1400" alt="BWDC generative-AI proof of concept — a natural-language question answered with a generated chart and mandatory source citations" loading="lazy">
+            <figcaption>The gen-AI proof of concept in action — every answer carries mandatory source citations (Census ACS, metric ID, geography, vintage). No citation, no answer.</figcaption>
+          </figure>
+          <figure class="shot">
+            <img src="assets/bwdc/rwed-api-assistant.png" width="1384" height="1246" alt="RWED API documentation with embedded AI assistant that builds API request URLs from natural-language descriptions" loading="lazy">
+            <figcaption>Phase three of the roadmap — a public data API whose embedded AI assistant turns a plain-English request into a ready-to-use endpoint, repositioning the platform toward B2B workflow integration.</figcaption>
+          </figure>
+        </div>
+      </article>
+
+      <article class="case">
+        <div class="case-org">Black Wealth Data Center</div>
+        <h3>Organization-wide AI adoption that runs without me</h3>
+        <p>
+          Led a six-month, organization-wide implementation of an AI-enabled
+          knowledge-management and workflow system — Notion AI, custom agents, and
+          automation — through workflow discovery, role-specific training, and
+          stakeholder buy-in against real resistance. Thirty staff across five
+          teams now operate it independently.
+        </p>
+        <div class="case-facts">
+          <span>Change management</span><span>Knowledge management</span><span>AI agents</span><span>Capability building</span>
+        </div>
+
+        <div class="deck" id="notion-deck" aria-roledescription="carousel" aria-label="Notion adoption case study">
+          <div class="deck-stage">
+            <div class="deck-viewport">
+              <div class="deck-track">
+
+                <figure class="slide">
+                  <div class="slide-num">01 / 06</div>
+                  <div class="slide-kicker">Starting point</div>
+                  <h4>Knowledge scattered across half a dozen tools</h4>
+                  <p class="slide-body">Project context, decisions, and documentation lived across issue trackers, chat, shared drives, and individual files. No single place to see what was happening or why.</p>
+                  <div class="slide-note">The cost wasn't storage — it was coordination.</div>
+                </figure>
+
+                <figure class="slide">
+                  <div class="slide-num">02 / 06</div>
+                  <div class="slide-kicker">The approach</div>
+                  <h4>Run adoption as a project, not a filing cabinet</h4>
+                  <ul class="slide-points">
+                    <li>A formal rollout with an owner, task tracking, and completion criteria</li>
+                    <li>Existing documentation migrated into one home</li>
+                    <li>Executive sponsorship to embed it into real workflows</li>
+                    <li>Role-specific training and onboarding, not a tool announcement</li>
+                  </ul>
+                </figure>
+
+                <figure class="slide">
+                  <div class="slide-num">03 / 06</div>
+                  <div class="slide-kicker">A maturity arc</div>
+                  <h4>Moving the org up the adoption curve</h4>
+                  <div class="slide-phases">
+                    <div class="phase-row"><span class="ph-n">PHASE 1</span><span class="ph-t">Documentation storage</span></div>
+                    <div class="phase-row"><span class="ph-n">PHASE 2</span><span class="ph-t">Project organization</span></div>
+                    <div class="phase-row active"><span class="ph-n">PHASE 3</span><span class="ph-t">Cross-functional operating system &nbsp;·&nbsp; now here</span></div>
+                    <div class="phase-row active"><span class="ph-n">PHASE 4</span><span class="ph-t">AI-enabled knowledge intelligence layer &nbsp;·&nbsp; emerging</span></div>
+                  </div>
+                </figure>
+
+                <figure class="slide">
+                  <div class="slide-num">04 / 06</div>
+                  <div class="slide-kicker">Where adoption stuck</div>
+                  <h4>It took hold where coordination mattered most</h4>
+                  <ul class="slide-points">
+                    <li>Onboarding hubs that ramp new hires on a 30/60/90 plan</li>
+                    <li>A live knowledge base for a high-intensity AI sprint</li>
+                    <li>Technical and analytics documentation, readable beyond engineering</li>
+                    <li>Leadership-facing weekly updates and governance frameworks</li>
+                  </ul>
+                </figure>
+
+                <figure class="slide">
+                  <div class="slide-num">05 / 06</div>
+                  <div class="slide-kicker">What changed</div>
+                  <h4>From "we store docs here" to "we run work here"</h4>
+                  <ul class="slide-points">
+                    <li>Faster onboarding — less dependence on ad-hoc explanation</li>
+                    <li>Durable institutional memory of how decisions were made</li>
+                    <li>Cross-functional alignment on one source of truth</li>
+                    <li>Day-to-day execution made visible to leadership</li>
+                  </ul>
+                </figure>
+
+                <figure class="slide">
+                  <div class="slide-num">06 / 06</div>
+                  <div class="slide-kicker">The result that matters</div>
+                  <h4>It runs without me</h4>
+                  <p class="slide-body">Roughly 30 staff across five teams now operate the system independently — the real test of adoption is what survives after the lead steps away.</p>
+                  <div class="slide-note">Capability left behind, not dependence created.</div>
+                </figure>
+
+              </div>
+            </div>
+            <div class="deck-nav">
+              <button class="deck-btn deck-prev" aria-label="Previous slide">&larr;</button>
+              <div class="deck-dots" role="tablist"></div>
+              <button class="deck-btn deck-next" aria-label="Next slide">&rarr;</button>
+            </div>
+          </div>
+          <div class="deck-caption">An adoption story in six slides — use the arrows, dots, or arrow keys.</div>
+        </div>
+      </article>
+
+      <article class="case">
+        <div class="case-org">Black Wealth Data Center</div>
+        <h3>Rebuilding a data platform with the community it serves</h3>
+        <p>
+          Led the end-to-end rebuild of Explore Data grounded in equity-based
+          participatory research with 55 participants — interviews, co-design, and
+          prototype workshops — converting insights into a prioritized roadmap and
+          a scalable data-foundations layer. Shipped NLP search, a guided query
+          builder, AI-generated chart summaries, and first-ever mobile access.
+        </p>
+        <div class="case-facts">
+          <span>Participatory research</span><span>Data products</span><span>NLP search</span><span>Roadmap</span>
+        </div>
+        <div class="shot-grid">
+          <figure class="shot">
+            <img src="assets/bwdc/explore-data.png" width="1440" height="820" alt="BWDC Explore Data — guided search across 10+ million wealth insights" loading="lazy">
+            <figcaption>Explore Data (live) — guided search across 10+ million wealth insights, designed so non-analysts can refine a question and trust what comes back.</figcaption>
+          </figure>
+          <figure class="shot">
+            <img src="assets/bwdc/wealth-explorer.png" width="1440" height="820" alt="BWDC Local Wealth Explorer — census-tract-level wealth mapping" loading="lazy">
+            <figcaption>Local Wealth Explorer (live) — Black wealth indicators at census-tract level, with toggleable map layers and city-to-city comparison.</figcaption>
+          </figure>
+        </div>
+      </article>
+
+      <article class="case">
+        <div class="case-org">DAI · Sustainable Business Group</div>
+        <h3>Global platform adoption at enterprise scale</h3>
+        <p>
+          Owned a $2M budget across three enterprise SaaS platforms and led 21
+          staff across four world regions. Trained 5,000+ companies in 9 countries
+          and led legacy-to-global platform migrations and relaunches — while
+          owning GDPR compliance and SOC 2 certification.
+        </p>
+        <div class="case-facts">
+          <span>Portfolio leadership</span><span>Global adoption</span><span>Compliance</span><span>Vendor management</span>
+        </div>
+        <div class="shot-grid">
+          <figure class="shot">
+            <img src="assets/dai/smp-economic-impact.png" width="1450" height="775" alt="DAI SMP — economic impact measurement with total output, value added, and jobs created" loading="lazy">
+            <figcaption>SMP's economic-impact model — the only platform measuring direct, indirect, and induced output of local procurement, built with DAI economists.</figcaption>
+          </figure>
+          <figure class="shot">
+            <img src="assets/dai/smp-home.png" width="1450" height="820" alt="DAI SMP — supply chain platform with reporting analysis and local content targets" loading="lazy">
+            <figcaption>The SMP platform — supplier discovery, local-content targets, and quarterly reporting for procurements across 9 countries.</figcaption>
+          </figure>
+        </div>
+      </article>
+
+      <article class="case">
+        <div class="case-org">learnSignal · Founder, building in public · <a href="https://learnsignal.ai" style="color: var(--accent-deep);">learnsignal.ai</a></div>
+        <h3>Training AI product judgment the way it's actually used — under pressure</h3>
+        <p>
+          A scenario-based judgment-training platform for AI product managers,
+          built and shipped solo. Learners work through graded missions in a RAG
+          Lab, a Prompt &amp; Context Lab, and an Eval Lab — hardening real
+          systems against real failure modes instead of watching lectures. Built
+          on the conviction that capability comes from making hard calls under
+          real conditions.
+        </p>
+        <div class="case-facts">
+          <span>0 → 1 build</span><span>Prompt engineering</span><span>Evals</span><span>RAG</span><span>Building in public</span>
+        </div>
+        <div class="shot-grid">
+          <figure class="shot">
+            <img src="assets/learnsignal/mission-workspace.jpg" width="1437" height="949" alt="learnSignal mission workspace — system prompt editor scored against a live test suite of support tickets" loading="lazy">
+            <figcaption>A live mission — learners harden a system prompt against a suite of real support tickets, scored on prompt quality, context efficiency, and production safety.</figcaption>
+          </figure>
+          <figure class="shot">
+            <img src="assets/learnsignal/playground.jpg" width="1366" height="1028" alt="learnSignal playground — RAG Lab, Prompt & Context Lab, Eval Lab, and course library" loading="lazy">
+            <figcaption>Each play area builds one real AI-PM muscle — retrieval, prompt &amp; context engineering, and evaluation — mapped to where it shows up on the job.</figcaption>
+          </figure>
+        </div>
+      </article>
+    </section>
+
+    <section id="pov">
+      <h2>A Grounded Point of View</h2>
+      <blockquote class="quote-block">
+        The hardest part of AI isn't the model — it's people, process, and trust.
+        The organizations that get this right treat judgment as the scarce
+        resource, not technology.
+        <footer>— Essays on responsible AI in mission-driven settings, coming soon</footer>
+      </blockquote>
+    </section>
+
+    <section id="about">
+      <h2>About</h2>
+      <div class="about-grid">
+        <p>
+          I'm a product and AI transformation leader based in Washington, D.C.
+          For the past decade I've built technology for organizations working on
+          economic mobility, racial wealth equity, and global development — at
+          the Black Wealth Data Center, DAI, Catchafire, GlobalGiving, and the
+          World Bank's IFC.
+        </p>
+        <p>
+          My work pairs hands-on generative-AI delivery — RAG, LLM evaluation,
+          agentic systems, responsible-AI guardrails — with the change
+          management that makes new systems actually stick. I'm also building
+          <a href="https://learnsignal.ai" style="color: var(--accent-deep);">learnSignal</a> in public: a scenario-based judgment-training platform for
+          AI product managers.
+        </p>
+        <p>Fluent in English and French.</p>
+      </div>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p style="max-width: 56ch; color: var(--ink-soft);">
+        If you're hiring senior AI leadership for an organization where trust is
+        the product, I'd love to talk.
+      </p>
+      <div class="cta-row" style="margin-top: 24px;">
+        <a class="btn btn-primary" href="mailto:umonthe1@gmail.com?subject=Reaching%20out%20from%20your%20portfolio">umonthe1@gmail.com</a>
+        <button type="button" class="btn btn-copy" id="copy-email" data-email="umonthe1@gmail.com" aria-label="Copy email address to clipboard">Copy address</button>
+        <a class="btn btn-quiet" href="https://linkedin.com/in/ulrich-monthe">LinkedIn →</a>
+      </div>
+    </section>
+
+    <footer class="site">
+      <div>© 2026 Ulrich Monthe · Washington, D.C.</div>
+      <div><a href="mailto:umonthe1@gmail.com">Email</a> · <a href="https://linkedin.com/in/ulrich-monthe">LinkedIn</a></div>
+    </footer>
+  </div>
+
+  <script>
+    (function () {
+      var deck = document.getElementById('notion-deck');
+      if (!deck) return;
+      var track = deck.querySelector('.deck-track');
+      var slides = deck.querySelectorAll('.slide');
+      var prev = deck.querySelector('.deck-prev');
+      var next = deck.querySelector('.deck-next');
+      var dotsWrap = deck.querySelector('.deck-dots');
+      var i = 0, n = slides.length;
+
+      for (var d = 0; d < n; d++) {
+        var b = document.createElement('button');
+        b.setAttribute('role', 'tab');
+        b.setAttribute('aria-label', 'Go to slide ' + (d + 1));
+        (function (idx) { b.addEventListener('click', function () { go(idx); }); })(d);
+        dotsWrap.appendChild(b);
+      }
+      var dots = dotsWrap.querySelectorAll('button');
+
+      function go(k) {
+        i = Math.max(0, Math.min(n - 1, k));
+        track.style.transform = 'translateX(' + (-i * 100) + '%)';
+        for (var j = 0; j < n; j++) {
+          dots[j].classList.toggle('on', j === i);
+          slides[j].setAttribute('aria-hidden', j === i ? 'false' : 'true');
+        }
+        prev.disabled = i === 0;
+        next.disabled = i === n - 1;
+      }
+
+      prev.addEventListener('click', function () { go(i - 1); });
+      next.addEventListener('click', function () { go(i + 1); });
+      deck.addEventListener('keydown', function (e) {
+        if (e.key === 'ArrowLeft') { go(i - 1); }
+        else if (e.key === 'ArrowRight') { go(i + 1); }
+      });
+      deck.setAttribute('tabindex', '0');
+      go(0);
+    })();
+
+    (function () {
+      var btn = document.getElementById('copy-email');
+      if (!btn) return;
+      var label = btn.textContent;
+      btn.addEventListener('click', function () {
+        var email = btn.getAttribute('data-email');
+        function done() {
+          btn.textContent = 'Copied ✓';
+          btn.classList.add('copied');
+          setTimeout(function () { btn.textContent = label; btn.classList.remove('copied'); }, 2000);
+        }
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(email).then(done).catch(fallback);
+        } else { fallback(); }
+        function fallback() {
+          var t = document.createElement('textarea');
+          t.value = email; t.setAttribute('readonly', '');
+          t.style.position = 'absolute'; t.style.left = '-9999px';
+          document.body.appendChild(t); t.select();
+          try { document.execCommand('copy'); done(); } catch (e) {}
+          document.body.removeChild(t);
+        }
+      });
+    })();
+  </script>
+</body>
+</html>
