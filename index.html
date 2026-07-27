@@ -159,6 +159,27 @@
     .proof strong { display: block; font-size: 22px; letter-spacing: -0.01em; }
     .proof span { font-size: 13.5px; color: var(--ink-soft); }
 
+    .live-strip {
+      margin-top: 18px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+      font-family: var(--sans);
+      font-size: 14px;
+      color: var(--ink-soft);
+      background: var(--paper-raised);
+      border: 1px solid var(--rule);
+      border-radius: 100px;
+      padding: 10px 18px;
+      width: fit-content;
+    }
+    .live-dot { width: 8px; height: 8px; border-radius: 50%; background: #3d6b48; flex: none; animation: livepulse 2.6s ease-in-out infinite; }
+    @keyframes livepulse { 0%,100% { opacity: 1; } 50% { opacity: 0.35; } }
+    .live-strip strong { color: var(--ink); font-weight: 600; }
+    .live-strip a { color: var(--accent-deep); font-weight: 600; text-decoration: none; }
+    @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+
     section { padding: 72px 0 8px; }
     h2 {
       font-size: 15px;
@@ -442,6 +463,11 @@
       <div><strong>5,000+ orgs</strong><span>trained across 9 countries</span></div>
       <div><strong>$2M budget</strong><span>21-person teams across 4 world regions</span></div>
       <div><strong>10+ years</strong><span>mission-driven product leadership</span></div>
+    </div>
+
+    <div class="live-strip">
+      <span class="live-dot" aria-hidden="true"></span>
+      <span><strong>Building in public:</strong> EIN Due-Diligence Checker · 1.98M orgs indexed from IRS source data · <a href="/live-projects/ein-checker/">follow the build →</a></span>
     </div>
 
     <section id="principles">
