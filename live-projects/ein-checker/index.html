@@ -4,14 +4,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>EIN Due-Diligence Checker — Ulrich Monthe</title>
-  <meta name="description" content="Check any US nonprofit's IRS standing in seconds: 501(c)(3) status, deductibility, revocation history, and filing recency — one plain-English trust card, built directly on IRS source data. In build, in public.">
+  <meta name="description" content="Check any US nonprofit's IRS standing in seconds: 501(c)(3) status, deductibility, revocation history, and filing recency — one plain-English trust card, built directly on IRS source data. Free, no login.">
   <link rel="canonical" href="https://ulrichmonthe.com/live-projects/ein-checker/">
   <link rel="icon" type="image/svg+xml" href="../../favicon.svg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
   <meta property="og:title" content="EIN Due-Diligence Checker — verdict in three seconds">
-  <meta property="og:description" content="501(c)(3) status, deductibility, revocation history, filing recency — one trust card, straight from IRS source data. Building in public.">
+  <meta property="og:description" content="501(c)(3) status, deductibility, revocation history, filing recency — one trust card, straight from IRS source data. Free, no login.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://ulrichmonthe.com/live-projects/ein-checker/">
   <meta property="og:image" content="https://ulrichmonthe.com/og-ein-checker.png">
@@ -46,6 +46,59 @@
     h1 { font-size: clamp(30px, 4.6vw, 42px); line-height: 1.15; font-weight: 600; letter-spacing: -0.015em; }
     .badge { font-family: var(--sans); font-size: 12px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; padding: 5px 12px; border-radius: 100px; background: var(--accent-soft); color: var(--accent-deep); white-space: nowrap; }
     .lede { margin-top: 16px; font-size: 20px; color: var(--ink-soft); max-width: 60ch; }
+
+    /* ---- Checker ---- */
+    .checker { margin-top: 30px; }
+    .search-row { display: flex; gap: 10px; }
+    .search-row input {
+      flex: 1; font-family: var(--sans); font-size: 17px; color: var(--ink);
+      background: var(--paper-raised); border: 1.5px solid var(--rule);
+      border-radius: 10px; padding: 15px 18px; outline: none; min-width: 0;
+    }
+    .search-row input:focus { border-color: var(--accent); }
+    .search-row button {
+      font-family: var(--sans); font-size: 15px; font-weight: 600; color: var(--paper);
+      background: var(--accent-deep); border: none; border-radius: 10px;
+      padding: 0 26px; cursor: pointer;
+    }
+    .search-row button:disabled { opacity: 0.5; cursor: default; }
+    .examples { margin-top: 12px; font-family: var(--sans); font-size: 13.5px; color: var(--ink-soft); }
+    .examples button { background: none; border: none; color: var(--accent-deep); font: inherit; font-weight: 600; cursor: pointer; padding: 0 2px; }
+    .aud-toggle { margin-top: 18px; display: inline-flex; border: 1px solid var(--rule); border-radius: 100px; overflow: hidden; font-family: var(--sans); font-size: 13px; }
+    .aud-toggle button { background: var(--paper-raised); border: none; padding: 8px 16px; cursor: pointer; color: var(--ink-soft); font: inherit; }
+    .aud-toggle button.on { background: var(--accent-deep); color: var(--paper); font-weight: 600; }
+
+    #result { margin-top: 26px; }
+    .skel { border: 1px solid var(--rule); border-radius: 12px; padding: 28px; }
+    .skel div { background: var(--accent-soft); border-radius: 6px; height: 16px; margin-bottom: 14px; animation: shimmer 1.2s ease-in-out infinite alternate; }
+    @keyframes shimmer { from { opacity: 0.5; } to { opacity: 1; } }
+
+    .tcard { border: 1px solid var(--rule); border-radius: 12px; overflow: hidden; background: var(--paper-raised); }
+    .verdict { padding: 24px 28px; color: #fff; font-family: var(--sans); }
+    .verdict.green { background: #3d6b48; } .verdict.amber { background: #8a5f30; } .verdict.red { background: #8c4634; }
+    .verdict .v-flag { font-size: 12px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; opacity: 0.85; }
+    .verdict .v-head { margin-top: 6px; font-family: var(--serif); font-size: 21px; line-height: 1.35; font-weight: 500; }
+    .v-orgline { padding: 16px 28px; border-bottom: 1px solid var(--rule); font-family: var(--sans); font-size: 14.5px; color: var(--ink-soft); }
+    .v-orgline strong { color: var(--ink); font-size: 16px; }
+    .sig { border-bottom: 1px solid var(--rule); }
+    .sig summary { list-style: none; display: flex; align-items: baseline; gap: 12px; padding: 14px 28px; cursor: pointer; font-family: var(--sans); font-size: 14.5px; color: var(--ink); }
+    .sig summary::-webkit-details-marker { display: none; }
+    .dot { flex: none; width: 10px; height: 10px; border-radius: 50%; position: relative; top: 0px; }
+    .dot.green { background: #3d6b48; } .dot.amber { background: #b07a35; } .dot.red { background: #8c4634; } .dot.neutral { background: #b3ac9e; }
+    .sig .src { padding: 0 28px 14px 50px; font-family: var(--sans); font-size: 13px; color: var(--ink-soft); }
+    .nc { padding: 16px 28px; background: var(--paper); font-family: var(--sans); font-size: 13.5px; color: var(--ink-soft); }
+    .nc b { font-weight: 700; font-size: 12px; letter-spacing: 0.1em; text-transform: uppercase; }
+    .provline { padding: 12px 28px 16px; font-family: var(--sans); font-size: 12.5px; color: #9a927f; }
+    .jsonline { padding: 0 28px 18px; font-family: var(--sans); font-size: 13px; }
+    .jsonline a, .jsonline button { color: var(--accent-deep); font-weight: 600; background: none; border: none; cursor: pointer; font: inherit; padding: 0; }
+    pre.rawjson { margin: 0 28px 20px; padding: 14px; background: #1c1a17; color: #e6ded0; border-radius: 8px; font-size: 11.5px; overflow-x: auto; max-height: 340px; }
+
+    .cands { border: 1px solid var(--rule); border-radius: 12px; background: var(--paper-raised); overflow: hidden; }
+    .cands header { padding: 16px 24px; font-family: var(--sans); font-size: 14px; color: var(--ink-soft); border-bottom: 1px solid var(--rule); }
+    .cands button.cand { display: flex; justify-content: space-between; gap: 12px; width: 100%; text-align: left; padding: 13px 24px; background: none; border: none; border-bottom: 1px solid var(--rule); cursor: pointer; font-family: var(--sans); font-size: 14.5px; color: var(--ink); }
+    .cands button.cand:hover { background: var(--accent-soft); }
+    .cands .meta { color: var(--ink-soft); font-size: 13px; white-space: nowrap; }
+    .msg { border: 1.5px dashed var(--rule); border-radius: 12px; padding: 24px 28px; font-family: var(--sans); font-size: 15px; color: var(--ink-soft); }
 
     .numbers { margin-top: 34px; border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); padding: 22px 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 20px; font-family: var(--sans); }
     .numbers strong { display: block; font-size: 21px; letter-spacing: -0.01em; }
@@ -107,7 +160,7 @@
     <header class="page">
       <div class="title-row">
         <h1>EIN Due-Diligence Checker</h1>
-        <span class="badge">In build · v1</span>
+        <span class="badge" style="background:#e3ecdd;color:#3d6b48;">Live · v1</span>
       </div>
       <p class="lede">
         Check any US nonprofit's IRS standing in seconds — one plain-English
@@ -116,6 +169,25 @@
         source and "as of" date.
       </p>
     </header>
+
+    <div class="checker" id="checker">
+      <form class="search-row" id="search-form">
+        <input id="q" type="search" autocomplete="off" spellcheck="false"
+               placeholder="Organization name or EIN — e.g. American Red Cross or 53-0196605"
+               aria-label="Search by organization name or EIN">
+        <button id="go" type="submit">Check</button>
+      </form>
+      <div class="examples">Try:
+        <button type="button" data-q="American Red Cross">American Red Cross</button> ·
+        <button type="button" data-q="Doctors Without Borders">Doctors Without Borders</button> ·
+        <button type="button" data-q="530196605">530196605</button>
+      </div>
+      <div class="aud-toggle" role="tablist" aria-label="Audience mode">
+        <button type="button" id="aud-grant" class="on">I'm vetting an org</button>
+        <button type="button" id="aud-self">This is my org</button>
+      </div>
+      <div id="result" aria-live="polite"></div>
+    </div>
 
     <div class="numbers" aria-label="Build statistics so far">
       <div><strong>1,983,563</strong><span>trust cards precomputed — every org in the IRS Business Master File</span></div>
@@ -157,7 +229,7 @@
         <li class="done">Filing recency — 4.73M filings from the 990 e-file index + 990-N e-Postcards<span class="date">Jul 2026</span></li>
         <li class="done">Name search with match confidence — with a containment gate so a near-miss never auto-resolves wrong<span class="date">Jul 2026</span></li>
         <li class="done">Trust-card assembly — 1,983,563 cards precomputed, deterministic rules, 5 card-level checks passing<span class="date">Jul 2026</span></li>
-        <li class="now">Public checker launches on this page</li>
+        <li class="done">Public checker launched on this page<span class="date">Jul 2026</span></li>
       </ol>
     </section>
 
@@ -188,11 +260,11 @@
 
     <section>
       <div class="cta">
-        <h3>Launching here.</h3>
+        <h3>It’s live — and free.</h3>
         <p>
-          The checker goes live on this page — free, no login, one search box.
-          Building a nonprofit-facing product and want to compare notes, or want
-          the verdict behind an org you fund?
+          No login, no tracking of who you are — just the search box above.
+          Building a nonprofit-facing product and want the API behind this, or
+          want to compare notes on responsible data tools?
           <a href="mailto:umonthe1@gmail.com?subject=EIN%20checker">Email me</a>.
         </p>
       </div>
@@ -203,5 +275,128 @@
       <div><a href="mailto:umonthe1@gmail.com">Email</a> · <a href="https://linkedin.com/in/ulrich-monthe">LinkedIn</a></div>
     </footer>
   </div>
+
+  <script>
+  (function () {
+    var API = new URLSearchParams(location.search).get('api') || 'https://ulrichmonthe-ein-api.fly.dev';
+    var $ = function (id) { return document.getElementById(id); };
+    var result = $('result'), input = $('q'), form = $('search-form'), go = $('go');
+    var audience = 'grantmaker';
+
+    function esc(s) {
+      return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
+        return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];
+      });
+    }
+
+    function skeleton() {
+      result.innerHTML = '<div class="skel"><div style="width:35%"></div><div style="width:85%"></div><div style="width:70%"></div><div style="width:60%"></div></div>';
+    }
+    function message(html) { result.innerHTML = '<div class="msg">' + html + '</div>'; }
+
+    function renderCard(card, conf) {
+      var tc = card.trust_card, org = card.organization;
+      var flag = tc.overall_flag;
+      var flagLabel = {green: 'Good standing', amber: 'Caveats found', red: 'Revoked'}[flag] || flag;
+      var h = '<div class="tcard">';
+      h += '<div class="verdict ' + esc(flag) + '"><div class="v-flag">' + esc(flagLabel) +
+           (audience === 'self_check' ? ' · what a funder sees' : '') + '</div>' +
+           '<div class="v-head">' + esc(tc.headline) + '</div></div>';
+      if (org) {
+        h += '<div class="v-orgline"><strong>' + esc(org.legal_name) + '</strong>' +
+             (org.city ? ' — ' + esc(org.city) + ', ' + esc(org.state) : '') +
+             ' · EIN ' + esc(card.ein.slice(0,2) + '-' + card.ein.slice(2)) +
+             (org.ntee_category ? ' · ' + esc(org.ntee_category) : '') +
+             (conf && conf < 1 ? ' · match confidence ' + Math.round(conf * 100) + '%' : '') + '</div>';
+      }
+      (tc.signals || []).forEach(function (s) {
+        h += '<details class="sig"><summary><span class="dot ' + esc(s.flag) + '"></span><span>' +
+             esc(s.text) + '</span></summary><div class="src">Source: ' + esc(s.source) +
+             (s.as_of ? ' · as of ' + esc(s.as_of) : '') + '</div></details>';
+      });
+      (tc.notes || []).forEach(function (n) {
+        h += '<details class="sig"><summary><span class="dot neutral"></span><span>' + esc(n) + '</span></summary></details>';
+      });
+      if (tc.not_checked && tc.not_checked.length) {
+        h += '<div class="nc"><b>Not evaluated</b><br>' + tc.not_checked.map(esc).join('<br>') + '</div>';
+      }
+      var p = card.provenance || {};
+      var provBits = Object.keys(p).filter(function (k) { return p[k]; })
+        .map(function (k) { return esc(k.replace(/_/g, ' ')) + ': ' + esc(p[k]); });
+      if (provBits.length) h += '<div class="provline">Data releases — ' + provBits.join(' · ') + '</div>';
+      h += '<div class="jsonline"><button type="button" id="show-json">View the data behind this result (JSON) →</button></div>';
+      h += '</div>';
+      result.innerHTML = h;
+      var pre = document.createElement('pre');
+      pre.className = 'rawjson'; pre.hidden = true;
+      pre.textContent = JSON.stringify(card, null, 2);
+      result.querySelector('.tcard').appendChild(pre);
+      $('show-json').addEventListener('click', function () { pre.hidden = !pre.hidden; });
+    }
+
+    function renderCandidates(data) {
+      var h = '<div class="cands"><header>' +
+        (data.candidates.length > 1 ? 'A few close matches — pick the right one:' : 'Closest match:') + '</header>';
+      data.candidates.forEach(function (c) {
+        h += '<button type="button" class="cand" data-ein="' + esc(c.ein) + '">' +
+             '<span>' + esc(c.legal_name) + '</span><span class="meta">' +
+             (c.city ? esc(c.city) + ', ' + esc(c.state) + ' · ' : '') +
+             Math.round(c.match_confidence * 100) + '%</span></button>';
+      });
+      h += '</div>';
+      result.innerHTML = h;
+      result.querySelectorAll('.cand').forEach(function (b) {
+        b.addEventListener('click', function () { lookupEin(b.getAttribute('data-ein')); });
+      });
+    }
+
+    function fail(err) {
+      message('Something went wrong reaching the checker (' + esc(err) + '). Try again in a moment.');
+    }
+
+    function lookupEin(ein) {
+      skeleton();
+      fetch(API + '/org/' + encodeURIComponent(ein))
+        .then(function (r) { return r.json().then(function (j) { return { ok: r.ok, j: j }; }); })
+        .then(function (res) {
+          if (!res.ok) return message(esc(res.j.error || 'Not found'));
+          renderCard(res.j, null);
+        })
+        .catch(function (e) { fail(e.message); });
+    }
+
+    function run(q) {
+      if (!q) return;
+      skeleton(); go.disabled = true;
+      fetch(API + '/search?q=' + encodeURIComponent(q) + '&audience=' + audience)
+        .then(function (r) { return r.json().then(function (j) { return { ok: r.ok, j: j }; }); })
+        .then(function (res) {
+          go.disabled = false;
+          var d = res.j;
+          if (!res.ok) return message(esc(d.error || 'Search failed'));
+          if (d.card) return renderCard(d.card, d.match_confidence);
+          if (d.candidates && d.candidates.length) return renderCandidates(d);
+          message('No organization found for "<strong>' + esc(q) + '</strong>". ' +
+                  'Check the spelling, or try the EIN if you have it — newest orgs can take a ' +
+                  'few weeks to appear in IRS files.');
+        })
+        .catch(function (e) { go.disabled = false; fail(e.message); });
+    }
+
+    form.addEventListener('submit', function (e) { e.preventDefault(); run(input.value.trim()); });
+    document.querySelectorAll('.examples button').forEach(function (b) {
+      b.addEventListener('click', function () { input.value = b.getAttribute('data-q'); run(input.value); });
+    });
+    function setAud(mode) {
+      audience = mode;
+      $('aud-grant').classList.toggle('on', mode === 'grantmaker');
+      $('aud-self').classList.toggle('on', mode === 'self_check');
+      var card = result.querySelector('.tcard');
+      if (card && input.value.trim()) run(input.value.trim());
+    }
+    $('aud-grant').addEventListener('click', function () { setAud('grantmaker'); });
+    $('aud-self').addEventListener('click', function () { setAud('self_check'); });
+  })();
+  </script>
 </body>
 </html>
