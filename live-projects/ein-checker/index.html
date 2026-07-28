@@ -100,6 +100,79 @@
     .cands .meta { color: var(--ink-soft); font-size: 13px; white-space: nowrap; }
     .msg { border: 1.5px dashed var(--rule); border-radius: 12px; padding: 24px 28px; font-family: var(--sans); font-size: 15px; color: var(--ink-soft); }
 
+    /* ---- Pro actions on a card ---- */
+    .pro-actions { display: flex; flex-wrap: wrap; gap: 10px; padding: 16px 28px 20px; border-top: 1px solid var(--rule); }
+    .pro-btn { font-family: var(--sans); font-size: 13.5px; font-weight: 600; color: var(--accent-deep);
+      background: var(--paper); border: 1px solid var(--rule); border-radius: 8px; padding: 9px 15px; cursor: pointer; }
+    .pro-btn:hover { border-color: var(--accent); }
+    .pro-btn.done { color: #3d6b48; border-color: #b9cdb9; background: #eef4ec; }
+    .pro-note { font-family: var(--sans); font-size: 12.5px; color: var(--ink-soft); padding: 0 28px 16px; }
+
+    /* ---- Gate modal ---- */
+    .gate-overlay { position: fixed; inset: 0; background: rgba(28,26,23,0.55); display: flex;
+      align-items: center; justify-content: center; padding: 20px; z-index: 50; }
+    .gate-card { background: var(--paper); border-radius: 14px; max-width: 460px; width: 100%; padding: 32px; }
+    .gate-card h3 { font-size: 23px; font-weight: 600; line-height: 1.25; margin-bottom: 10px; }
+    .gate-card p { font-family: var(--sans); font-size: 14.5px; color: var(--ink-soft); line-height: 1.55; }
+    .gate-card ul { list-style: none; margin: 14px 0 4px; display: grid; gap: 7px; font-family: var(--sans); font-size: 14px; color: var(--ink-soft); }
+    .gate-card li { padding-left: 20px; position: relative; }
+    .gate-card li::before { content: "✓"; position: absolute; left: 0; color: #3d6b48; font-weight: 700; }
+    .gate-form { margin-top: 18px; display: flex; gap: 8px; }
+    .gate-form input { flex: 1; font-family: var(--sans); font-size: 15px; padding: 12px 14px;
+      border: 1.5px solid var(--rule); border-radius: 9px; background: var(--paper-raised); color: var(--ink); outline: none; min-width: 0; }
+    .gate-form input:focus { border-color: var(--accent); }
+    .gate-form button { font-family: var(--sans); font-size: 14px; font-weight: 600; color: var(--paper);
+      background: var(--accent-deep); border: none; border-radius: 9px; padding: 0 20px; cursor: pointer; }
+    .gate-fine { margin-top: 14px; font-family: var(--sans); font-size: 12.5px; color: #8f8878; line-height: 1.5; }
+    .gate-close { margin-top: 10px; background: none; border: none; font-family: var(--sans); font-size: 13px; color: var(--ink-soft); cursor: pointer; padding: 0; }
+    .gate-err { margin-top: 10px; font-family: var(--sans); font-size: 13px; color: #8c4634; }
+
+    /* ---- Batch ---- */
+    .batch-box { background: var(--paper-raised); border: 1px solid var(--rule); border-radius: 12px; padding: 28px 30px; }
+    .batch-box textarea { width: 100%; min-height: 130px; font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      font-size: 13.5px; padding: 14px; border: 1.5px solid var(--rule); border-radius: 10px;
+      background: var(--paper); color: var(--ink); outline: none; resize: vertical; }
+    .batch-box textarea:focus { border-color: var(--accent); }
+    .batch-controls { margin-top: 14px; display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-family: var(--sans); font-size: 13.5px; color: var(--ink-soft); }
+    .batch-controls button { font-family: var(--sans); font-size: 14px; font-weight: 600; border-radius: 9px; padding: 11px 20px; cursor: pointer; border: none; }
+    #batch-run { background: var(--accent-deep); color: var(--paper); }
+    #batch-run:disabled { opacity: 0.5; cursor: default; }
+    .file-label { border: 1px solid var(--rule); border-radius: 9px; padding: 10px 16px; cursor: pointer; background: var(--paper); font-weight: 600; color: var(--accent-deep); }
+    .batch-summary { margin-top: 20px; display: flex; flex-wrap: wrap; gap: 10px; font-family: var(--sans); font-size: 13px; }
+    .chip { padding: 6px 13px; border-radius: 100px; font-weight: 600; }
+    .chip.green { background: #e3ecdd; color: #3d6b48; } .chip.amber { background: #f3e8d3; color: #8a5f30; }
+    .chip.red { background: #f0dcd7; color: #8c4634; } .chip.not_found { background: #eceae4; color: #6b6558; }
+    .btable { margin-top: 16px; width: 100%; border-collapse: collapse; font-family: var(--sans); font-size: 13.5px; }
+    .btable th { text-align: left; font-size: 11.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-soft); border-bottom: 1px solid var(--rule); padding: 8px 10px; }
+    .btable td { border-bottom: 1px solid var(--rule); padding: 10px; vertical-align: top; }
+    .btable tr td:first-child { white-space: nowrap; }
+    .flagpill { display: inline-block; padding: 3px 10px; border-radius: 100px; font-size: 11.5px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; }
+    .flagpill.green { background: #e3ecdd; color: #3d6b48; } .flagpill.amber { background: #f3e8d3; color: #8a5f30; }
+    .flagpill.red { background: #f0dcd7; color: #8c4634; } .flagpill.not_found { background: #eceae4; color: #6b6558; }
+    .tablewrap { overflow-x: auto; }
+
+    /* ---- Print report ---- */
+    #print-area { display: none; }
+    @media print {
+      body * { visibility: hidden !important; }
+      #print-area, #print-area * { visibility: visible !important; }
+      #print-area { display: block !important; position: absolute; left: 0; top: 0; width: 100%; padding: 0; }
+      @page { margin: 18mm; }
+      .pr-head { border-bottom: 2px solid #1c1a17; padding-bottom: 10px; margin-bottom: 18px; display: flex; justify-content: space-between; align-items: baseline; }
+      .pr-title { font-family: "Newsreader", Georgia, serif; font-size: 19px; font-weight: 600; }
+      .pr-meta { font-family: "Instrument Sans", Arial, sans-serif; font-size: 10px; color: #5b554c; }
+      .pr-verdict { border: 2px solid #1c1a17; border-radius: 6px; padding: 14px 16px; margin-bottom: 16px; }
+      .pr-flag { font-family: "Instrument Sans", Arial, sans-serif; font-size: 10px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; }
+      .pr-headline { font-family: "Newsreader", Georgia, serif; font-size: 16px; margin-top: 5px; }
+      .pr-org { font-family: "Instrument Sans", Arial, sans-serif; font-size: 12px; margin-bottom: 16px; line-height: 1.6; }
+      .pr-sig { border-top: 1px solid #ccc; padding: 9px 0; font-family: "Instrument Sans", Arial, sans-serif; font-size: 11px; line-height: 1.5; }
+      .pr-sig b { text-transform: uppercase; font-size: 9px; letter-spacing: 0.08em; }
+      .pr-sig .pr-src { color: #5b554c; font-size: 9.5px; }
+      .pr-block { margin-top: 16px; font-family: "Instrument Sans", Arial, sans-serif; font-size: 10.5px; color: #3a352d; line-height: 1.6; }
+      .pr-block b { display: block; font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 4px; }
+      .pr-foot { margin-top: 20px; border-top: 1px solid #ccc; padding-top: 10px; font-family: "Instrument Sans", Arial, sans-serif; font-size: 9px; color: #6b6558; line-height: 1.5; }
+    }
+
     .numbers { margin-top: 34px; border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); padding: 22px 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 20px; font-family: var(--sans); }
     .numbers strong { display: block; font-size: 21px; letter-spacing: -0.01em; }
     .numbers span { font-size: 13px; color: var(--ink-soft); }
@@ -189,6 +262,27 @@
       <div id="result" aria-live="polite"></div>
     </div>
 
+    <section id="batch">
+      <h2>Check a whole portfolio</h2>
+      <div class="batch-box">
+        <p style="font-family: var(--sans); font-size: 15px; color: var(--ink-soft); margin-bottom: 14px; max-width: 62ch;">
+          Vetting a grantee list? Paste up to 50 EINs — one per line, or a CSV
+          with EINs in the first column — and get every verdict at once, sorted
+          worst-first so problems surface immediately.
+        </p>
+        <textarea id="batch-input" spellcheck="false"
+          placeholder="53-0196605&#10;13-3433452&#10;04-2103594&#10;… one EIN per line, or paste a CSV"></textarea>
+        <div class="batch-controls">
+          <button id="batch-run" type="button">Check portfolio</button>
+          <label class="file-label">Upload CSV<input id="batch-file" type="file" accept=".csv,.txt" hidden></label>
+          <span id="batch-count"></span>
+        </div>
+        <div id="batch-result"></div>
+      </div>
+    </section>
+
+    <div id="print-area" aria-hidden="true"></div>
+
     <div class="numbers" aria-label="Build statistics so far">
       <div><strong>1,983,563</strong><span>trust cards precomputed — every org in the IRS Business Master File</span></div>
       <div><strong>4.73M</strong><span>filings indexed for recency — including 990-N e-Postcards</span></div>
@@ -200,7 +294,7 @@
       <h2>What it checks — and what it doesn't</h2>
       <div class="cols">
         <div class="panel checks">
-          <h3>Checked in v1</h3>
+          <h3>Checked on every org</h3>
           <ul>
             <li>501(c)(3) status in the IRS Business Master File</li>
             <li>Tax-deductibility per Publication 78 — including group-ruling subordinates</li>
@@ -230,6 +324,8 @@
         <li class="done">Name search with match confidence — with a containment gate so a near-miss never auto-resolves wrong<span class="date">Jul 2026</span></li>
         <li class="done">Trust-card assembly — 1,983,563 cards precomputed, deterministic rules, 5 card-level checks passing<span class="date">Jul 2026</span></li>
         <li class="done">Public checker launched on this page<span class="date">Jul 2026</span></li>
+        <li class="done">Workflow features — portfolio batch checking, PDF reports, and status monitoring<span class="date">Jul 2026</span></li>
+        <li class="now">Automating the monthly IRS data refresh</li>
       </ol>
     </section>
 
@@ -324,14 +420,44 @@
       var provBits = Object.keys(p).filter(function (k) { return p[k]; })
         .map(function (k) { return esc(k.replace(/_/g, ' ')) + ': ' + esc(p[k]); });
       if (provBits.length) h += '<div class="provline">Data releases — ' + provBits.join(' · ') + '</div>';
+      h += '<div class="pro-actions">' +
+           '<button type="button" class="pro-btn" id="act-report">Download PDF report</button>' +
+           '<button type="button" class="pro-btn" id="act-monitor">Monitor this org</button>' +
+           '</div>';
       h += '<div class="jsonline"><button type="button" id="show-json">View the data behind this result (JSON) →</button></div>';
       h += '</div>';
       result.innerHTML = h;
+      lastCard = card;
       var pre = document.createElement('pre');
       pre.className = 'rawjson'; pre.hidden = true;
       pre.textContent = JSON.stringify(card, null, 2);
       result.querySelector('.tcard').appendChild(pre);
       $('show-json').addEventListener('click', function () { pre.hidden = !pre.hidden; });
+      $('act-report').addEventListener('click', function () {
+        withToken('report', function () { printReport(card); });
+      });
+      $('act-monitor').addEventListener('click', function () {
+        var btn = $('act-monitor');
+        withToken('monitor', function (tok) {
+          btn.textContent = 'Saving…';
+          fetch(API + '/monitor', {
+            method: 'POST', headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({ token: tok, eins: [card.ein] })
+          }).then(function (r) { return r.json(); }).then(function (d) {
+            if (d.count) {
+              btn.textContent = '✓ Monitoring'; btn.classList.add('done'); btn.disabled = true;
+              var note = document.createElement('div');
+              note.className = 'pro-note';
+              note.textContent = alertsEnabled
+                ? 'You’ll get an email if this organization’s IRS status changes, checked after each monthly IRS data release.'
+                : 'You’re on the watch list for this organization. Email delivery isn’t switched on yet — status changes are recorded from today, and you’ll be notified once it is.';
+              btn.parentNode.parentNode.insertBefore(note, btn.parentNode.nextSibling);
+            } else {
+              btn.textContent = 'Could not save — retry';
+            }
+          }).catch(function () { btn.textContent = 'Could not save — retry'; });
+        });
+      });
     }
 
     function renderCandidates(data) {
@@ -396,6 +522,210 @@
     }
     $('aud-grant').addEventListener('click', function () { setAud('grantmaker'); });
     $('aud-self').addEventListener('click', function () { setAud('self_check'); });
+
+    /* ---------- gate ---------- */
+    var TOKEN_KEY = 'ein_checker_token';
+    var lastCard = null;
+    var alertsEnabled = false;
+    fetch(API + '/healthz').then(function (r) { return r.json(); })
+      .then(function (d) { alertsEnabled = !!d.alerts_enabled; }).catch(function () {});
+
+    function getToken() { try { return localStorage.getItem(TOKEN_KEY); } catch (e) { return null; } }
+    function setToken(t) { try { localStorage.setItem(TOKEN_KEY, t); } catch (e) {} }
+
+    var GATE_COPY = {
+      report: { h: 'Get the shareable PDF report', p: 'A clean one-page summary you can attach to a grant file or forward to your board — verdict, every signal with its IRS source and date, and what wasn’t checked.' },
+      monitor: { h: 'Watch this organization', p: 'IRS status can change between grant cycles. Add your email and we’ll track this organization’s standing after each monthly IRS data release.' },
+      batch: { h: 'Check your whole portfolio', p: 'Vet up to 50 grantees at once and export the results. Add your email to unlock it.' }
+    };
+
+    function withToken(reason, done) {
+      var t = getToken();
+      if (t) return done(t);
+      openGate(reason, done);
+    }
+
+    function openGate(reason, done) {
+      var copy = GATE_COPY[reason] || GATE_COPY.batch;
+      var wrap = document.createElement('div');
+      wrap.className = 'gate-overlay';
+      wrap.innerHTML =
+        '<div class="gate-card" role="dialog" aria-modal="true" aria-label="' + esc(copy.h) + '">' +
+        '<h3>' + esc(copy.h) + '</h3>' +
+        '<p>' + esc(copy.p) + '</p>' +
+        '<ul><li>Free — no account, no password</li>' +
+        '<li>Unlocks batch checking, PDF reports and monitoring</li>' +
+        '<li>The single-org lookup above stays free for everyone, always</li></ul>' +
+        '<form class="gate-form"><input type="email" required placeholder="you@organization.org" ' +
+        'aria-label="Your email address" autocomplete="email"><button type="submit">Unlock</button></form>' +
+        '<div class="gate-err" hidden></div>' +
+        '<div class="gate-fine">Your email is used to deliver what you asked for, and so Ulrich can tell you about ' +
+        'meaningful changes to this tool. It is never sold or shared. Searches are logged anonymously — ' +
+        'they are not linked to your email.</div>' +
+        '<button type="button" class="gate-close">Not now</button></div>';
+      document.body.appendChild(wrap);
+      var input = wrap.querySelector('input');
+      var err = wrap.querySelector('.gate-err');
+      input.focus();
+      function close() { wrap.remove(); }
+      wrap.querySelector('.gate-close').addEventListener('click', close);
+      wrap.addEventListener('click', function (e) { if (e.target === wrap) close(); });
+      wrap.querySelector('.gate-form').addEventListener('submit', function (e) {
+        e.preventDefault();
+        var btn = wrap.querySelector('button[type=submit]');
+        btn.textContent = '…'; err.hidden = true;
+        fetch(API + '/access', {
+          method: 'POST', headers: {'Content-Type': 'application/json'},
+          body: JSON.stringify({ email: input.value.trim(), reason: reason })
+        }).then(function (r) { return r.json().then(function (j) { return { ok: r.ok, j: j }; }); })
+          .then(function (res) {
+            btn.textContent = 'Unlock';
+            if (!res.ok) { err.textContent = res.j.error || 'Something went wrong.'; err.hidden = false; return; }
+            setToken(res.j.token); close(); done(res.j.token);
+          })
+          .catch(function () { btn.textContent = 'Unlock'; err.textContent = 'Network error — try again.'; err.hidden = false; });
+      });
+    }
+
+    /* ---------- PDF report (print-to-PDF, no server, no dependency) ---------- */
+    function printReport(card) {
+      var tc = card.trust_card, org = card.organization || {}, p = card.provenance || {};
+      var flagLabel = {green: 'Good standing', amber: 'Caveats found', red: 'Revoked'}[tc.overall_flag] || tc.overall_flag;
+      var today = new Date().toISOString().slice(0, 10);
+      var h = '<div class="pr-head"><div class="pr-title">Nonprofit Due-Diligence Report</div>' +
+              '<div class="pr-meta">Generated ' + today + ' · ulrichmonthe.com/live-projects/ein-checker</div></div>';
+      h += '<div class="pr-verdict"><div class="pr-flag">' + esc(flagLabel) + '</div>' +
+           '<div class="pr-headline">' + esc(tc.headline) + '</div></div>';
+      h += '<div class="pr-org"><b>' + esc(org.legal_name || ('EIN ' + card.ein)) + '</b><br>' +
+           'EIN ' + esc(card.ein.slice(0,2) + '-' + card.ein.slice(2)) +
+           (org.city ? ' · ' + esc(org.city) + ', ' + esc(org.state) : '') +
+           (org.ntee_category ? ' · ' + esc(org.ntee_category) : '') +
+           (org.ruling_date ? '<br>IRS recognition: ' + esc(org.ruling_date) : '') +
+           (org.foundation_status ? '<br>' + esc(org.foundation_status) : '') + '</div>';
+      (tc.signals || []).forEach(function (s) {
+        h += '<div class="pr-sig"><b>' + esc(s.flag) + '</b> — ' + esc(s.text) +
+             '<div class="pr-src">Source: ' + esc(s.source) + (s.as_of ? ' · as of ' + esc(s.as_of) : '') + '</div></div>';
+      });
+      if (tc.not_checked && tc.not_checked.length) {
+        h += '<div class="pr-block"><b>Not evaluated</b>' + tc.not_checked.map(esc).join('<br>') + '</div>';
+      }
+      var provBits = Object.keys(p).filter(function (k) { return p[k]; })
+        .map(function (k) { return esc(k.replace(/_/g, ' ')) + ': ' + esc(p[k]); });
+      if (provBits.length) h += '<div class="pr-block"><b>Data releases</b>' + provBits.join(' · ') + '</div>';
+      h += '<div class="pr-foot">Compiled from public IRS data (Business Master File, Publication 78, ' +
+           'the Automatic Revocation list, and the Form 990 e-file index). IRS 990 data typically lags ' +
+           '12–18 months, so recent filings may not yet appear. This report summarises federal tax-exempt ' +
+           'status only; it is not legal, tax, or financial advice, and it does not evaluate state ' +
+           'charitable registration or an organization’s finances, governance, or programs.</div>';
+      $('print-area').innerHTML = h;
+      window.print();
+    }
+
+    /* ---------- batch ---------- */
+    function parseEins(text) {
+      var out = [];
+      text.split(/[\r\n]+/).forEach(function (line) {
+        var first = line.split(',')[0].replace(/["']/g, '').trim();
+        if (first) out.push(first);
+      });
+      return out;
+    }
+
+    function renderBatch(d) {
+      var box = $('batch-result');
+      var order = ['red', 'amber', 'not_found', 'green'];
+      var label = {green: 'good standing', amber: 'caveats', red: 'revoked', not_found: 'not found'};
+      var h = '<div class="batch-summary">';
+      order.forEach(function (f) {
+        if (d.counts[f]) h += '<span class="chip ' + f + '">' + d.counts[f] + ' ' + label[f] + '</span>';
+      });
+      h += '</div>';
+      if (d.truncated) h += '<div class="pro-note" style="padding:12px 0 0">Only the first ' + d.max_batch + ' EINs were checked.</div>';
+      if (d.invalid && d.invalid.length) h += '<div class="pro-note" style="padding:8px 0 0">Skipped (not a valid EIN): ' + d.invalid.map(esc).join(', ') + '</div>';
+      h += '<div class="tablewrap"><table class="btable"><thead><tr><th>Status</th><th>Organization</th><th>EIN</th><th>Deductible</th><th>Last filing</th></tr></thead><tbody>';
+      d.results.forEach(function (r) {
+        h += '<tr><td><span class="flagpill ' + r.flag + '">' + (label[r.flag] || r.flag) + '</span></td>' +
+             '<td>' + esc(r.legal_name || '—') + (r.city ? '<br><span style="color:var(--ink-soft);font-size:12.5px">' + esc(r.city) + ', ' + esc(r.state) + '</span>' : '') + '</td>' +
+             '<td>' + esc(r.ein) + '</td>' +
+             '<td>' + (r.deductible === null ? '—' : (r.deductible ? 'Yes' : 'No')) + '</td>' +
+             '<td>' + esc(r.last_filing || '—') + '</td></tr>';
+      });
+      h += '</tbody></table></div>';
+      h += '<div class="batch-controls"><button type="button" id="batch-csv" style="background:var(--paper);border:1px solid var(--rule);color:var(--accent-deep)">Download results (CSV)</button>' +
+           '<button type="button" id="batch-watch" style="background:var(--paper);border:1px solid var(--rule);color:var(--accent-deep)">Monitor all ' + d.checked + '</button></div>';
+      box.innerHTML = h;
+
+      $('batch-csv').addEventListener('click', function () {
+        var rows = [['ein','status','organization','city','state','deductible','last_filing','headline']];
+        d.results.forEach(function (r) {
+          rows.push([r.ein, r.flag, r.legal_name || '', r.city || '', r.state || '',
+                     r.deductible === null ? '' : (r.deductible ? 'yes' : 'no'),
+                     r.last_filing || '', r.headline || '']);
+        });
+        var csv = rows.map(function (row) {
+          return row.map(function (c) { return '"' + String(c).replace(/"/g, '""') + '"'; }).join(',');
+        }).join('\n');
+        var a = document.createElement('a');
+        a.href = URL.createObjectURL(new Blob([csv], {type: 'text/csv'}));
+        a.download = 'ein-portfolio-check-' + new Date().toISOString().slice(0,10) + '.csv';
+        a.click();
+      });
+
+      $('batch-watch').addEventListener('click', function () {
+        var b = $('batch-watch');
+        withToken('monitor', function (tok) {
+          b.textContent = 'Saving…';
+          fetch(API + '/monitor', {
+            method: 'POST', headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({ token: tok, eins: d.results.map(function (r) { return r.ein; }) })
+          }).then(function (r) { return r.json(); }).then(function (res) {
+            b.textContent = '✓ Monitoring ' + res.count; b.disabled = true;
+          }).catch(function () { b.textContent = 'Could not save — retry'; });
+        });
+      });
+    }
+
+    function runBatch() {
+      var eins = parseEins($('batch-input').value);
+      if (!eins.length) { $('batch-result').innerHTML = '<div class="pro-note" style="padding:14px 0 0">Add at least one EIN above.</div>'; return; }
+      withToken('batch', function (tok) {
+        var btn = $('batch-run');
+        btn.disabled = true; btn.textContent = 'Checking ' + Math.min(eins.length, 50) + '…';
+        fetch(API + '/batch', {
+          method: 'POST', headers: {'Content-Type': 'application/json'},
+          body: JSON.stringify({ token: tok, eins: eins })
+        }).then(function (r) { return r.json().then(function (j) { return { ok: r.ok, j: j }; }); })
+          .then(function (res) {
+            btn.disabled = false; btn.textContent = 'Check portfolio';
+            if (!res.ok) { $('batch-result').innerHTML = '<div class="pro-note" style="padding:14px 0 0">' + esc(res.j.error || 'Batch failed.') + '</div>'; return; }
+            renderBatch(res.j);
+          })
+          .catch(function () {
+            btn.disabled = false; btn.textContent = 'Check portfolio';
+            $('batch-result').innerHTML = '<div class="pro-note" style="padding:14px 0 0">Network error — try again.</div>';
+          });
+      });
+    }
+
+    $('batch-run').addEventListener('click', runBatch);
+    $('batch-input').addEventListener('input', function () {
+      var n = parseEins(this.value).length;
+      $('batch-count').textContent = n ? n + (n === 1 ? ' line' : ' lines') + (n > 50 ? ' — first 50 will be checked' : '') : '';
+    });
+    $('batch-file').addEventListener('change', function () {
+      var f = this.files && this.files[0];
+      if (!f) return;
+      var reader = new FileReader();
+      reader.onload = function () {
+        $('batch-input').value = String(reader.result).slice(0, 20000);
+        $('batch-input').dispatchEvent(new Event('input'));
+      };
+      reader.readAsText(f);
+    });
+
+    // Deep link: ?ein=123456789 (used by alert emails)
+    var deepEin = new URLSearchParams(location.search).get('ein');
+    if (deepEin) { input.value = deepEin; run(deepEin); }
   })();
   </script>
 </body>
