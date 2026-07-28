@@ -142,6 +142,7 @@
     .chip { padding: 6px 13px; border-radius: 100px; font-weight: 600; }
     .chip.green { background: #e3ecdd; color: #3d6b48; } .chip.amber { background: #f3e8d3; color: #8a5f30; }
     .chip.red { background: #f0dcd7; color: #8c4634; } .chip.not_found { background: #eceae4; color: #6b6558; }
+    .chip.ambiguous, .flagpill.ambiguous { background: #e7e9ef; color: #45506b; }
     .btable { margin-top: 16px; width: 100%; border-collapse: collapse; font-family: var(--sans); font-size: 13.5px; }
     .btable th { text-align: left; font-size: 11.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-soft); border-bottom: 1px solid var(--rule); padding: 8px 10px; }
     .btable td { border-bottom: 1px solid var(--rule); padding: 10px; vertical-align: top; }
@@ -266,12 +267,13 @@
       <h2>Check a whole portfolio</h2>
       <div class="batch-box">
         <p style="font-family: var(--sans); font-size: 15px; color: var(--ink-soft); margin-bottom: 14px; max-width: 62ch;">
-          Vetting a grantee list? Paste up to 50 EINs — one per line, or a CSV
-          with EINs in the first column — and get every verdict at once, sorted
-          worst-first so problems surface immediately.
+          Vetting a grantee list? Paste up to 50 organization names or EINs —
+          one per line, or a CSV — and get every verdict at once, sorted
+          worst-first so problems surface immediately. Where a name matches
+          several organizations, you pick; it never guesses for you.
         </p>
         <textarea id="batch-input" spellcheck="false"
-          placeholder="53-0196605&#10;13-3433452&#10;04-2103594&#10;… one EIN per line, or paste a CSV"></textarea>
+          placeholder="American Red Cross&#10;Habitat for Humanity International&#10;53-0196605&#10;… one organization name or EIN per line, or paste a CSV"></textarea>
         <div class="batch-controls">
           <button id="batch-run" type="button">Check portfolio</button>
           <label class="file-label">Upload CSV<input id="batch-file" type="file" accept=".csv,.txt" hidden></label>
@@ -622,45 +624,83 @@
     }
 
     /* ---------- batch ---------- */
+    // A line may be an EIN, an organization name, or a CSV row containing both.
+    // Prefer an EIN-shaped field when one exists; otherwise keep the name intact
+    // (only surrounding quotes are stripped — apostrophes are part of the name).
     function parseEins(text) {
       var out = [];
       text.split(/[\r\n]+/).forEach(function (line) {
-        var first = line.split(',')[0].replace(/["']/g, '').trim();
-        if (first) out.push(first);
+        line = line.trim();
+        if (!line) return;
+        var fields = line.split(',').map(function (f) {
+          return f.trim().replace(/^["']+|["']+$/g, '').trim();
+        }).filter(Boolean);
+        if (!fields.length) return;
+        var ein = null;
+        fields.forEach(function (f) {
+          if (!ein && /^\d{2}-?\d{7}$|^\d{9}$/.test(f.replace(/\s/g, ''))) ein = f;
+        });
+        out.push(ein || fields[0]);
       });
       return out;
     }
 
     function renderBatch(d) {
       var box = $('batch-result');
-      var order = ['red', 'amber', 'not_found', 'green'];
-      var label = {green: 'good standing', amber: 'caveats', red: 'revoked', not_found: 'not found'};
+      var order = ['red', 'amber', 'ambiguous', 'not_found', 'green'];
+      var label = {green: 'good standing', amber: 'caveats', red: 'revoked',
+                   not_found: 'not found', ambiguous: 'needs a pick'};
       var h = '<div class="batch-summary">';
       order.forEach(function (f) {
         if (d.counts[f]) h += '<span class="chip ' + f + '">' + d.counts[f] + ' ' + label[f] + '</span>';
       });
       h += '</div>';
-      if (d.truncated) h += '<div class="pro-note" style="padding:12px 0 0">Only the first ' + d.max_batch + ' EINs were checked.</div>';
-      if (d.invalid && d.invalid.length) h += '<div class="pro-note" style="padding:8px 0 0">Skipped (not a valid EIN): ' + d.invalid.map(esc).join(', ') + '</div>';
+      if (d.truncated) h += '<div class="pro-note" style="padding:12px 0 0">Only the first ' + d.max_batch + ' rows were checked.</div>';
       h += '<div class="tablewrap"><table class="btable"><thead><tr><th>Status</th><th>Organization</th><th>EIN</th><th>Deductible</th><th>Last filing</th></tr></thead><tbody>';
       d.results.forEach(function (r) {
+        var orgCell;
+        if (r.flag === 'ambiguous') {
+          orgCell = '<div style="color:var(--ink-soft)">You searched “' + esc(r.query) + '”</div>' +
+            '<div style="margin-top:6px">' + r.candidates.map(function (c) {
+              return '<button type="button" class="pick" data-ein="' + esc(c.ein) + '" ' +
+                'style="display:block;background:none;border:none;padding:3px 0;text-align:left;color:var(--accent-deep);font:inherit;font-weight:600;cursor:pointer">' +
+                esc(c.legal_name) + (c.city ? ' — ' + esc(c.city) + ', ' + esc(c.state) : '') + '</button>';
+            }).join('') + '</div>';
+        } else if (r.legal_name) {
+          orgCell = esc(r.legal_name) +
+            (r.city ? '<br><span style="color:var(--ink-soft);font-size:12.5px">' + esc(r.city) + ', ' + esc(r.state) + '</span>' : '') +
+            (r.matched_via === 'name' && r.match_confidence ?
+              '<br><span style="color:var(--ink-soft);font-size:12px">matched “' + esc(r.query) + '” · ' + Math.round(r.match_confidence * 100) + '%</span>' : '');
+        } else {
+          orgCell = '<span style="color:var(--ink-soft)">' + esc(r.query || '—') + '</span>';
+        }
         h += '<tr><td><span class="flagpill ' + r.flag + '">' + (label[r.flag] || r.flag) + '</span></td>' +
-             '<td>' + esc(r.legal_name || '—') + (r.city ? '<br><span style="color:var(--ink-soft);font-size:12.5px">' + esc(r.city) + ', ' + esc(r.state) + '</span>' : '') + '</td>' +
-             '<td>' + esc(r.ein) + '</td>' +
-             '<td>' + (r.deductible === null ? '—' : (r.deductible ? 'Yes' : 'No')) + '</td>' +
+             '<td>' + orgCell + '</td>' +
+             '<td>' + esc(r.ein || '—') + '</td>' +
+             '<td>' + (r.deductible === null || r.deductible === undefined ? '—' : (r.deductible ? 'Yes' : 'No')) + '</td>' +
              '<td>' + esc(r.last_filing || '—') + '</td></tr>';
       });
       h += '</tbody></table></div>';
       h += '<div class="batch-controls"><button type="button" id="batch-csv" style="background:var(--paper);border:1px solid var(--rule);color:var(--accent-deep)">Download results (CSV)</button>' +
-           '<button type="button" id="batch-watch" style="background:var(--paper);border:1px solid var(--rule);color:var(--accent-deep)">Monitor all ' + d.checked + '</button></div>';
+           '<button type="button" id="batch-watch" style="background:var(--paper);border:1px solid var(--rule);color:var(--accent-deep)">Monitor the ' +
+           d.results.filter(function (r) { return r.ein; }).length + ' matched</button></div>';
       box.innerHTML = h;
 
+      // Ambiguous rows: picking a candidate opens that org's full card above.
+      box.querySelectorAll('.pick').forEach(function (b) {
+        b.addEventListener('click', function () {
+          lookupEin(b.getAttribute('data-ein'));
+          document.getElementById('checker').scrollIntoView({ behavior: 'smooth' });
+        });
+      });
+
       $('batch-csv').addEventListener('click', function () {
-        var rows = [['ein','status','organization','city','state','deductible','last_filing','headline']];
+        var rows = [['input','ein','status','organization','city','state','deductible','last_filing','matched_via','match_confidence','headline']];
         d.results.forEach(function (r) {
-          rows.push([r.ein, r.flag, r.legal_name || '', r.city || '', r.state || '',
-                     r.deductible === null ? '' : (r.deductible ? 'yes' : 'no'),
-                     r.last_filing || '', r.headline || '']);
+          rows.push([r.query || '', r.ein || '', r.flag, r.legal_name || '', r.city || '', r.state || '',
+                     (r.deductible === null || r.deductible === undefined) ? '' : (r.deductible ? 'yes' : 'no'),
+                     r.last_filing || '', r.matched_via || '',
+                     r.match_confidence == null ? '' : r.match_confidence, r.headline || '']);
         });
         var csv = rows.map(function (row) {
           return row.map(function (c) { return '"' + String(c).replace(/"/g, '""') + '"'; }).join(',');
@@ -673,11 +713,14 @@
 
       $('batch-watch').addEventListener('click', function () {
         var b = $('batch-watch');
+        var resolvedEins = d.results.filter(function (r) { return r.ein; })
+                                    .map(function (r) { return r.ein; });
+        if (!resolvedEins.length) { b.textContent = 'Nothing resolved to monitor'; return; }
         withToken('monitor', function (tok) {
           b.textContent = 'Saving…';
           fetch(API + '/monitor', {
             method: 'POST', headers: {'Content-Type': 'application/json'},
-            body: JSON.stringify({ token: tok, eins: d.results.map(function (r) { return r.ein; }) })
+            body: JSON.stringify({ token: tok, eins: resolvedEins })
           }).then(function (r) { return r.json(); }).then(function (res) {
             b.textContent = '✓ Monitoring ' + res.count; b.disabled = true;
           }).catch(function () { b.textContent = 'Could not save — retry'; });
@@ -693,7 +736,7 @@
         btn.disabled = true; btn.textContent = 'Checking ' + Math.min(eins.length, 50) + '…';
         fetch(API + '/batch', {
           method: 'POST', headers: {'Content-Type': 'application/json'},
-          body: JSON.stringify({ token: tok, eins: eins })
+          body: JSON.stringify({ token: tok, items: eins })
         }).then(function (r) { return r.json().then(function (j) { return { ok: r.ok, j: j }; }); })
           .then(function (res) {
             btn.disabled = false; btn.textContent = 'Check portfolio';
