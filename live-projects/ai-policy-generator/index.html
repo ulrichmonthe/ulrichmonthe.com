@@ -1,0 +1,591 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nonprofit AI Policy Generator — Free, No Login — Ulrich Monthe</title>
+  <meta name="description" content="Generate a board-ready AI policy for your nonprofit in about three minutes. Free, no email required. Tailored to your subsector, data, and applicable rules — with a board memo and staff one-pager.">
+  <link rel="canonical" href="https://ulrichmonthe.com/live-projects/ai-policy-generator/">
+  <link rel="icon" type="image/svg+xml" href="../../favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <meta property="og:title" content="Nonprofit AI Policy Generator — free, board-ready, 3 minutes">
+  <meta property="og:description" content="Answer a short form, get a tailored AI policy plus a board memo, adoption resolution, and staff one-pager. Free, no email gate on the policy.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://ulrichmonthe.com/live-projects/ai-policy-generator/">
+  <meta property="og:image" content="https://ulrichmonthe.com/og-policy.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"WebApplication",
+   "name":"Nonprofit AI Policy Generator",
+   "url":"https://ulrichmonthe.com/live-projects/ai-policy-generator/",
+   "applicationCategory":"BusinessApplication","operatingSystem":"Web",
+   "offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},
+   "creator":{"@type":"Person","name":"Ulrich Monthe","url":"https://ulrichmonthe.com/"},
+   "description":"Generates a customized AI acceptable-use and governance policy for nonprofit organizations from a three-minute structured form, with a board memo, adoption resolution, and staff one-pager."}
+  </script>
+  <style>
+    :root {
+      --ink: #1c1a17; --ink-soft: #5b554c; --paper: #f5f1e8; --paper-raised: #fbf9f3;
+      --accent: #a8763e; --accent-deep: #8a5f30; --accent-soft: #efe6d6; --rule: #e2dbcb;
+      --green: #3d6b48; --amber: #8a5f30; --red: #8c4634;
+      --serif: "Newsreader", "Iowan Old Style", Georgia, serif;
+      --sans: "Instrument Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: var(--serif); background: var(--paper); color: var(--ink); line-height: 1.6; font-size: 18px; -webkit-font-smoothing: antialiased; }
+    .wrap { max-width: 880px; margin: 0 auto; padding: 0 24px; }
+    nav.site { font-family: var(--sans); font-size: 14px; display: flex; justify-content: space-between; align-items: center; padding: 28px 0; }
+    nav.site .mark { display: inline-flex; align-items: center; gap: 11px; text-decoration: none; color: var(--ink); }
+    .mark-mono { font-family: var(--serif); font-size: 17px; font-weight: 600; color: var(--paper); background: var(--accent); width: 31px; height: 31px; border-radius: 7px; display: inline-flex; align-items: center; justify-content: center; letter-spacing: -0.03em; }
+    .mark-name { font-family: var(--serif); font-size: 20px; font-weight: 500; }
+    nav.site ul { display: flex; gap: 28px; list-style: none; }
+    nav.site ul a { color: var(--ink-soft); text-decoration: none; }
+    nav.site ul a:hover { color: var(--accent-deep); }
+    .crumb { font-family: var(--sans); font-size: 13.5px; padding-top: 34px; }
+    .crumb a { color: var(--accent-deep); text-decoration: none; }
+    header.page { padding: 14px 0 8px; }
+    .title-row { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
+    h1 { font-size: clamp(30px, 4.6vw, 42px); line-height: 1.15; font-weight: 600; letter-spacing: -0.015em; }
+    .badge { font-family: var(--sans); font-size: 12px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; padding: 5px 12px; border-radius: 100px; background: #e3ecdd; color: var(--green); white-space: nowrap; }
+    .lede { margin-top: 16px; font-size: 20px; color: var(--ink-soft); max-width: 62ch; }
+    .privacy-note { margin-top: 14px; font-family: var(--sans); font-size: 13.5px; color: var(--ink-soft); background: var(--accent-soft); border-radius: 8px; padding: 12px 16px; max-width: 68ch; }
+
+    /* App shell */
+    #app { margin-top: 30px; }
+    .panel { background: var(--paper-raised); border: 1px solid var(--rule); border-radius: 12px; padding: 32px; }
+    .steps-bar { display: flex; align-items: center; gap: 10px; font-family: var(--sans); font-size: 13px; color: var(--ink-soft); margin-bottom: 22px; }
+    .steps-bar .bar { flex: 1; height: 6px; background: var(--accent-soft); border-radius: 100px; overflow: hidden; }
+    .steps-bar .fill { height: 100%; background: var(--accent-deep); border-radius: 100px; transition: width .3s ease; }
+    .q-title { font-family: var(--serif); font-size: 24px; font-weight: 600; line-height: 1.3; margin-bottom: 6px; }
+    .q-help { font-family: var(--sans); font-size: 14px; color: var(--ink-soft); margin-bottom: 18px; }
+    .field input[type=text] { width: 100%; font-family: var(--sans); font-size: 16px; padding: 13px 15px; border: 1.5px solid var(--rule); border-radius: 10px; background: var(--paper); color: var(--ink); outline: none; }
+    .field input[type=text]:focus { border-color: var(--accent); }
+    .opts { display: grid; gap: 10px; }
+    .opts.cols { grid-template-columns: 1fr 1fr; } @media (max-width: 640px) { .opts.cols { grid-template-columns: 1fr; } }
+    .opt { display: flex; align-items: flex-start; gap: 12px; font-family: var(--sans); font-size: 15px; padding: 13px 15px; border: 1.5px solid var(--rule); border-radius: 10px; background: var(--paper); cursor: pointer; }
+    .opt:hover { border-color: var(--accent); }
+    .opt.on { border-color: var(--accent-deep); background: var(--accent-soft); }
+    .opt input { margin-top: 3px; accent-color: var(--accent-deep); }
+    .opt .sub { display: block; font-size: 12.5px; color: var(--ink-soft); margin-top: 2px; }
+    .nav-row { display: flex; justify-content: space-between; align-items: center; margin-top: 26px; }
+    .btn { font-family: var(--sans); font-size: 15px; font-weight: 600; border-radius: 9px; padding: 12px 24px; cursor: pointer; border: none; }
+    .btn.primary { background: var(--accent-deep); color: var(--paper); }
+    .btn.primary:disabled { opacity: .45; cursor: default; }
+    .btn.ghost { background: none; border: 1px solid var(--rule); color: var(--ink); }
+    .btn.link { background: none; color: var(--accent-deep); padding: 12px 4px; }
+
+    /* Analysis */
+    .tier-banner { border-radius: 10px; padding: 22px 26px; color: #fff; font-family: var(--sans); margin-bottom: 20px; }
+    .tier-banner.Low { background: var(--green); } .tier-banner.Moderate { background: var(--amber); } .tier-banner.High { background: var(--red); }
+    .tier-banner .t { font-size: 12px; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; opacity: .85; }
+    .tier-banner .v { font-family: var(--serif); font-size: 24px; font-weight: 500; margin-top: 4px; }
+    .an-block { border: 1px solid var(--rule); border-radius: 10px; padding: 18px 22px; margin-bottom: 14px; background: var(--paper); }
+    .an-block h3 { font-family: var(--sans); font-size: 12.5px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--accent-deep); margin-bottom: 10px; }
+    .an-block ul { list-style: none; display: grid; gap: 8px; font-family: var(--sans); font-size: 14.5px; color: var(--ink-soft); }
+    .an-block li b { color: var(--ink); }
+    .an-block li { padding-left: 18px; position: relative; }
+    .an-block li::before { content: "•"; position: absolute; left: 2px; color: var(--accent); }
+
+    /* Document */
+    .doc-tabs { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 18px; font-family: var(--sans); }
+    .doc-tabs button { font-size: 13.5px; font-weight: 600; border: 1px solid var(--rule); background: var(--paper); color: var(--ink-soft); border-radius: 100px; padding: 8px 16px; cursor: pointer; }
+    .doc-tabs button.on { background: var(--accent-deep); border-color: var(--accent-deep); color: var(--paper); }
+    .doc { border: 1px solid var(--rule); border-radius: 12px; background: #fff; padding: 44px 48px; }
+    @media (max-width: 640px) { .doc { padding: 28px 22px; } }
+    .doc h2 { font-family: var(--serif); font-size: 26px; font-weight: 600; margin: 0 0 4px; }
+    .doc .meta { font-family: var(--sans); font-size: 12.5px; color: var(--ink-soft); margin-bottom: 22px; }
+    .doc h3 { font-family: var(--serif); font-size: 19px; font-weight: 600; margin: 24px 0 8px; }
+    .doc p { font-size: 15.5px; color: #2c2822; margin: 0 0 10px; }
+    .doc ul { margin: 0 0 10px 20px; font-size: 15.5px; color: #2c2822; }
+    .doc li { margin-bottom: 6px; }
+    .doc .disclaimer { margin-top: 26px; padding-top: 14px; border-top: 1px solid var(--rule); font-family: var(--sans); font-size: 12px; color: var(--ink-soft); }
+    .why { font-family: var(--sans); font-size: 11.5px; color: #9a927f; }
+    .dl-row { display: flex; gap: 10px; flex-wrap: wrap; margin: 18px 0 8px; }
+    .gatebox { border: 1.5px dashed var(--rule); border-radius: 10px; padding: 20px 24px; margin-top: 16px; font-family: var(--sans); }
+    .gatebox p { font-size: 14px; color: var(--ink-soft); margin-bottom: 12px; }
+    .gatebox .row { display: flex; gap: 8px; flex-wrap: wrap; }
+    .gatebox input[type=email] { flex: 1; min-width: 220px; font-family: var(--sans); font-size: 15px; padding: 11px 13px; border: 1.5px solid var(--rule); border-radius: 9px; background: var(--paper); outline: none; }
+    .gatebox label { display: flex; gap: 8px; align-items: flex-start; font-size: 13px; color: var(--ink-soft); margin-top: 10px; }
+    .err { font-family: var(--sans); font-size: 13.5px; color: var(--red); margin-top: 8px; }
+
+    footer.site { margin-top: 72px; border-top: 1px solid var(--rule); padding: 32px 0 52px; font-family: var(--sans); font-size: 14px; color: var(--ink-soft); display: flex; justify-content: space-between; flex-wrap: wrap; gap: 16px; }
+    footer.site a { color: var(--accent-deep); text-decoration: none; }
+
+    @media print {
+      body * { visibility: hidden !important; }
+      #print-doc, #print-doc * { visibility: visible !important; }
+      #print-doc { position: absolute; left: 0; top: 0; width: 100%; border: none; padding: 0; }
+      @page { margin: 18mm; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <nav class="site">
+      <a class="mark" href="/" aria-label="Ulrich Monthe — home">
+        <span class="mark-mono">UM</span><span class="mark-name">Ulrich Monthe</span>
+      </a>
+      <ul>
+        <li><a href="/#services">Services</a></li>
+        <li><a href="/live-projects/">Live Projects</a></li>
+        <li><a href="/#contact">Contact</a></li>
+      </ul>
+    </nav>
+
+    <div class="crumb"><a href="/live-projects/">Live Projects</a> / Tool 02</div>
+    <header class="page">
+      <div class="title-row">
+        <h1>Nonprofit AI Policy Generator</h1>
+        <span class="badge">Live · v1</span>
+      </div>
+      <p class="lede">
+        Answer a short form — about three minutes — and leave with a board-ready
+        AI policy tailored to your organization: your subsector, your data, the
+        rules that apply to you. Plus a board memo, an adoption resolution, and
+        a staff one-pager. Free. The policy itself never asks for your email.
+      </p>
+      <div class="privacy-note">
+        <strong>Your answers stay in your browser.</strong> The form, the analysis, and the
+        policy are generated entirely on this page — nothing you type is sent to a server
+        unless you optionally request the board packet by email. This tool provides general
+        information, not legal advice; have counsel review before adoption where possible.
+      </div>
+    </header>
+
+    <div id="app"><div class="panel" id="stage"></div></div>
+
+    <footer class="site">
+      <div>© 2026 Ulrich Monthe · Built in public · <a href="/live-projects/">More tools</a></div>
+      <div>Not legal advice · <a href="mailto:umonthe1@gmail.com">Email</a></div>
+    </footer>
+  </div>
+  <div id="print-doc" class="doc" style="display:none"></div>
+
+<script>
+(function () {
+  var API = new URLSearchParams(location.search).get('api') || 'https://api.ulrichmonthe.com';
+  var LIB = null;
+  var stage = document.getElementById('stage');
+  var A = {  // answers — client-side only
+    org: '', mission: '', subsector: '', staff: '', volunteers: '',
+    states: [], eu: false, data: [], uses: [], decisions: null,
+    approved_list: null, personal_accounts: null,
+    owner: null, data_policy: null, training: null,
+    covered_entity: null, posture: 'balanced', depth: 'standard'
+  };
+  var stepIndex = 0;
+
+  function esc(s) { return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]; }); }
+
+  var STATES = 'AL AK AZ AR CA CO CT DE DC FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY'.split(' ');
+  var SUBSECTORS = [
+    ['human_services','Human services'],['health','Health & clinics'],['education','Education & youth'],
+    ['faith','Faith-based'],['food','Food bank & basic needs'],['arts','Arts & culture'],
+    ['environment','Environment'],['grantmaker','Foundation / grantmaker'],
+    ['association','Membership association'],['advocacy','Advocacy'],['other','Other']
+  ];
+
+  /* ---------- intake steps (branching) ---------- */
+  function steps() {
+    var s = [
+      { id: 'org', title: 'What is your organization called?', render: textStep('org', 'Organization name', true) },
+      { id: 'mission', title: 'Your mission in one sentence (optional)', help: 'Used only to tailor wording — skip it freely.', render: textStep('mission', 'e.g. We help families in Dayton move from crisis to stable housing.', false) },
+      { id: 'subsector', title: 'Which best describes your work?', render: radioStep('subsector', SUBSECTORS) },
+      { id: 'size', title: 'How big is the team?', render: sizeStep },
+      { id: 'geo', title: 'Where do you operate?', help: 'Pick every state where you have staff, programs, or significant donors.', render: geoStep },
+      { id: 'data', title: 'What kinds of information do you handle?', help: 'Select all that apply.', render: checkStep('data', [
+        ['donor_pii','Donor names and contact details'],['client_records','Client or beneficiary records'],
+        ['health','Health information'],['minors','Student records or information about minors'],
+        ['financial','Financial data'],['none','None of these']]) },
+      { id: 'uses', title: 'How is AI being used today?', help: 'Select all that apply — including unofficial use.', render: checkStep('uses', [
+        ['writing','Writing & communications'],['fundraising','Fundraising & donor research'],
+        ['grants','Grant writing'],['data','Data analysis'],['hr','HR & hiring'],
+        ['programs','Program delivery decisions'],['none','Not yet']]) },
+      { id: 'decisions', title: 'Does AI ever influence decisions about individual people?', help: 'Clients, beneficiaries, applicants, or staff — even as a recommendation.', render: yesNoStep('decisions') }
+    ];
+    if (A.data.indexOf('health') >= 0) {
+      s.push({ id: 'hipaa', title: 'Is your organization a HIPAA covered entity or business associate?', help: 'If you bill health insurance or handle records for someone who does, likely yes.', render: radioStep('covered_entity', [['yes','Yes'],['no','No'],['unsure','Not sure']]) });
+    }
+    s.push(
+      { id: 'vendor', title: 'Two questions about tools', render: vendorStep },
+      { id: 'gov', title: 'Three questions about governance', render: govStep },
+      { id: 'posture', title: 'What stance should the policy take?', render: radioStep('posture', [
+        ['permissive','Permissive with guardrails','Encourage experimentation; clear limits on data and decisions.'],
+        ['balanced','Balanced','Practical middle ground. The most common choice.'],
+        ['restrictive','Restrictive','Approved tools and uses only; everything else needs sign-off.']]) },
+      { id: 'depth', title: 'How thorough should it be?', render: radioStep('depth', [
+        ['light','Light','2–3 pages. The essentials — right for small, all-volunteer teams.'],
+        ['standard','Standard','4–6 pages. Right for most organizations.'],
+        ['comprehensive','Comprehensive','7–10 pages. For higher-risk data or funder scrutiny.']]) }
+    );
+    return s;
+  }
+
+  function textStep(key, ph, required) { return function () {
+    return '<div class="field"><input type="text" id="ti" placeholder="' + esc(ph) + '" value="' + esc(A[key]) + '"></div>' +
+      navRow(!required || !!A[key].trim());
+  }; }
+  function radioStep(key, options) { return function () {
+    var h = '<div class="opts">';
+    options.forEach(function (o) {
+      var on = A[key] === o[0];
+      h += '<label class="opt' + (on ? ' on' : '') + '"><input type="radio" name="r" value="' + esc(o[0]) + '"' + (on ? ' checked' : '') + '><span>' + esc(o[1]) + (o[2] ? '<span class="sub">' + esc(o[2]) + '</span>' : '') + '</span></label>';
+    });
+    return h + '</div>' + navRow(!!A[key]);
+  }; }
+  function checkStep(key, options) { return function () {
+    var h = '<div class="opts cols">';
+    options.forEach(function (o) {
+      var on = A[key].indexOf(o[0]) >= 0;
+      h += '<label class="opt' + (on ? ' on' : '') + '"><input type="checkbox" value="' + esc(o[0]) + '"' + (on ? ' checked' : '') + '><span>' + esc(o[1]) + '</span></label>';
+    });
+    return h + '</div>' + navRow(A[key].length > 0);
+  }; }
+  function yesNoStep(key) { return radioStep(key, [['yes','Yes'],['no','No']]); }
+  function sizeStep() {
+    function grp(key, label, opts) {
+      var h = '<div class="q-help" style="margin:14px 0 8px"><b>' + label + '</b></div><div class="opts cols">';
+      opts.forEach(function (o) {
+        var on = A[key] === o;
+        h += '<label class="opt' + (on ? ' on' : '') + '"><input type="radio" name="' + key + '" value="' + esc(o) + '"' + (on ? ' checked' : '') + '><span>' + esc(o) + '</span></label>';
+      });
+      return h + '</div>';
+    }
+    return grp('staff', 'Paid staff', ['0 (all-volunteer)','1–10','11–25','26–100','100+']) +
+           grp('volunteers', 'Active volunteers', ['0–10','11–50','51–200','200+']) +
+           navRow(!!A.staff && !!A.volunteers);
+  }
+  function geoStep() {
+    var h = '<div class="opts cols" style="grid-template-columns:repeat(auto-fill,minmax(88px,1fr));max-height:300px;overflow-y:auto;padding:4px">';
+    STATES.forEach(function (st) {
+      var on = A.states.indexOf(st) >= 0;
+      h += '<label class="opt' + (on ? ' on' : '') + '" style="padding:9px 10px;justify-content:center"><input type="checkbox" value="' + st + '"' + (on ? ' checked' : '') + ' hidden><span>' + st + '</span></label>';
+    });
+    h += '</div><label class="opt' + (A.eu ? ' on' : '') + '" style="margin-top:12px"><input type="checkbox" id="eu"' + (A.eu ? ' checked' : '') + '><span>We operate in the EU or handle EU residents’ data</span></label>';
+    return h + navRow(A.states.length > 0 || A.eu);
+  }
+  function vendorStep() {
+    return '<div class="q-help"><b>Do you keep an approved-tools list?</b></div>' + inlineRadio('approved_list') +
+           '<div class="q-help" style="margin-top:16px"><b>Do staff use personal AI accounts for work?</b></div>' + inlineRadio('personal_accounts') +
+           navRow(A.approved_list !== null && A.personal_accounts !== null);
+  }
+  function govStep() {
+    return '<div class="q-help"><b>Is someone designated as the AI owner?</b></div>' + inlineRadio('owner') +
+           '<div class="q-help" style="margin-top:16px"><b>Do you have a data or privacy policy?</b></div>' + inlineRadio('data_policy') +
+           '<div class="q-help" style="margin-top:16px"><b>Has staff had any AI training?</b></div>' + inlineRadio('training') +
+           navRow(A.owner !== null && A.data_policy !== null && A.training !== null);
+  }
+  function inlineRadio(key) {
+    var h = '<div class="opts cols">';
+    [['yes','Yes'],['no','No'],['unsure','Don’t know']].forEach(function (o) {
+      var on = A[key] === o[0];
+      h += '<label class="opt' + (on ? ' on' : '') + '"><input type="radio" name="' + key + '" value="' + o[0] + '"' + (on ? ' checked' : '') + '><span>' + o[1] + '</span></label>';
+    });
+    return h + '</div>';
+  }
+  function navRow(canNext) {
+    return '<div class="nav-row">' +
+      (stepIndex > 0 ? '<button class="btn ghost" id="back">← Back</button>' : '<span></span>') +
+      '<button class="btn primary" id="next"' + (canNext ? '' : ' disabled') + '>' +
+      (stepIndex >= steps().length - 1 ? 'See my analysis →' : 'Continue →') + '</button></div>';
+  }
+
+  function renderStep() {
+    var list = steps();
+    if (stepIndex >= list.length) return renderAnalysis();
+    var st = list[stepIndex];
+    stage.innerHTML =
+      '<div class="steps-bar"><span>' + (stepIndex + 1) + ' / ' + list.length + '</span>' +
+      '<div class="bar"><div class="fill" style="width:' + Math.round(100 * stepIndex / list.length) + '%"></div></div>' +
+      '<span>≈ 3 min</span></div>' +
+      '<div class="q-title">' + esc(st.title) + '</div>' +
+      (st.help ? '<div class="q-help">' + esc(st.help) + '</div>' : '') +
+      st.render();
+    bindStep(st);
+  }
+
+  function bindStep(st) {
+    var next = document.getElementById('next');
+    var back = document.getElementById('back');
+    if (back) back.addEventListener('click', function () { stepIndex--; renderStep(); });
+    function refresh() { renderStep(); }
+    stage.querySelectorAll('input[type=radio]').forEach(function (r) {
+      r.addEventListener('change', function () {
+        A[r.name === 'r' ? st.id === 'subsector' ? 'subsector' : st.id === 'posture' ? 'posture' : st.id === 'depth' ? 'depth' : st.id === 'decisions' ? 'decisions' : st.id === 'hipaa' ? 'covered_entity' : 'subsector' : r.name] = r.value;
+        refresh();
+      });
+    });
+    stage.querySelectorAll('input[type=checkbox]').forEach(function (c) {
+      c.addEventListener('change', function () {
+        if (c.id === 'eu') { A.eu = c.checked; refresh(); return; }
+        var key = st.id === 'geo' ? 'states' : st.id;
+        var arr = A[key];
+        if (c.checked) { if (c.value === 'none') A[key] = ['none']; else { arr = arr.filter(function (x) { return x !== 'none'; }); arr.push(c.value); A[key] = arr; } }
+        else A[key] = arr.filter(function (x) { return x !== c.value; });
+        refresh();
+      });
+    });
+    var ti = document.getElementById('ti');
+    if (ti) {
+      ti.addEventListener('input', function () {
+        A[st.id] = ti.value;
+        next.disabled = st.id === 'org' && !ti.value.trim();
+      });
+      ti.focus();
+    }
+    if (next) next.addEventListener('click', function () {
+      if (ti) A[st.id] = ti.value;
+      stepIndex++; renderStep(); window.scrollTo(0, document.getElementById('app').offsetTop - 80);
+    });
+  }
+
+  /* ---------- deterministic analysis (AN-1..3) ---------- */
+  function analyze() {
+    var sc = LIB.scoring, score = 0;
+    A.data.forEach(function (d) { score += sc.data_weights[d] || 0; });
+    if (A.decisions === 'yes') score += sc.decision_involvement;
+    var gaps = [];
+    if (A.owner !== 'yes') { score += sc.gap_weights.no_owner; gaps.push(['no_owner', 'No designated AI owner', 'Name one person (role, not hero) to own the approved-tools list and this policy.']); }
+    if (A.data_policy !== 'yes') { score += sc.gap_weights.no_data_policy; gaps.push(['no_data_policy', 'No data/privacy policy', 'Adopt a basic data-handling policy; this AI policy leans on it.']); }
+    if (A.training !== 'yes') { score += sc.gap_weights.no_training; gaps.push(['no_training', 'No staff AI training', 'A one-hour orientation on this policy closes most everyday risk.']); }
+    if (A.personal_accounts === 'yes') { score += sc.gap_weights.personal_accounts; gaps.push(['personal_accounts', 'Staff use personal AI accounts', 'Move work use to organization-managed accounts with privacy settings applied.']); }
+    var tier = score <= sc.tiers.low_max ? 'Low' : score <= sc.tiers.moderate_max ? 'Moderate' : 'High';
+
+    var regimes = [];
+    if (A.data.indexOf('health') >= 0) {
+      regimes.push({ id: 'hipaa', name: 'HIPAA', status: A.covered_entity === 'yes' ? 'applies' : 'may apply',
+        why: A.covered_entity === 'yes' ? 'You handle health information as a covered entity or business associate.' : 'You handle health information; whether HIPAA formally applies depends on your covered-entity status — the addendum is included either way.' });
+    }
+    if (A.data.indexOf('minors') >= 0) {
+      regimes.push({ id: 'ferpa', name: 'FERPA / COPPA (minors)', status: 'likely applies',
+        why: 'You handle student records or information about minors; education-record and child-privacy rules shape what AI tools may touch.' });
+    }
+    if (A.eu) {
+      regimes.push({ id: 'eu_ai', name: 'EU AI Act (deployer duties) + GDPR', status: 'applies',
+        why: 'You operate in the EU or handle EU residents’ data.' });
+    }
+    if (A.states.indexOf('CO') >= 0) {
+      regimes.push({ id: 'co_ai', name: 'Colorado AI Act', status: A.decisions === 'yes' ? 'likely applies' : 'worth knowing',
+        why: A.decisions === 'yes' ? 'Colorado operations plus AI influence on decisions about people is exactly what this law covers.' : 'You operate in Colorado; duties attach if AI ever substantially shapes consequential decisions about people.' });
+    }
+    var privStates = A.states.filter(function (s) { return LIB.state_privacy_states.indexOf(s) >= 0; });
+    if (privStates.length && A.data.indexOf('none') < 0 && A.data.length) {
+      regimes.push({ id: 'state_privacy', name: 'State consumer-privacy law (' + privStates.join(', ') + ')', status: 'may apply',
+        why: 'These states have comprehensive privacy statutes; where they apply, individual rights extend to data used with AI tools.' });
+    }
+    return { score: score, tier: tier, gaps: gaps, regimes: regimes };
+  }
+
+  function renderAnalysis() {
+    var an = analyze();
+    var h = '<div class="tier-banner ' + an.tier + '"><div class="t">Your AI risk profile</div><div class="v">' +
+      an.tier + ' · ' + an.regimes.length + ' rule ' + (an.regimes.length === 1 ? 'set' : 'sets') + ' in play · ' +
+      an.gaps.length + ' gap' + (an.gaps.length === 1 ? '' : 's') + ' flagged</div></div>';
+    h += '<div class="an-block"><h3>Which rules shape your policy</h3><ul>';
+    if (!an.regimes.length) h += '<li>No sector-specific compliance regimes triggered by your answers — your policy focuses on good practice.</li>';
+    an.regimes.forEach(function (r) { h += '<li><b>' + esc(r.name) + '</b> — ' + esc(r.status) + '. ' + esc(r.why) + '</li>'; });
+    h += '</ul></div>';
+    h += '<div class="an-block"><h3>Readiness gaps — your next steps</h3><ul>';
+    if (!an.gaps.length) h += '<li>No structural gaps flagged — unusual, and good.</li>';
+    an.gaps.forEach(function (g) { h += '<li><b>' + esc(g[1]) + '.</b> ' + esc(g[2]) + '</li>'; });
+    h += '</ul></div>';
+    h += '<p class="q-help" style="margin-top:14px">This analysis is deterministic — same answers, same result, every time. It becomes page one of your board memo.</p>';
+    h += '<div class="nav-row"><button class="btn ghost" id="back">← Adjust answers</button><button class="btn primary" id="gen">Generate my policy →</button></div>';
+    stage.innerHTML = h;
+    document.getElementById('back').addEventListener('click', function () { stepIndex = steps().length - 1; renderStep(); });
+    document.getElementById('gen').addEventListener('click', function () { renderOutputs(an); logRun(an); });
+  }
+
+  /* ---------- rules engine (GE-1): deterministic clause selection ---------- */
+  function selectClauses(an) {
+    var depthRank = { light: 0, standard: 1, comprehensive: 2 };
+    var clauseDepth = { core: 0, standard: 1, comprehensive: 2 };
+    var want = depthRank[A.depth];
+    var regimeIds = an.regimes.map(function (r) { return r.id; });
+    var selected = [];
+    LIB.clauses.forEach(function (c) {
+      var why = [];
+      if (clauseDepth[c.depth] > want) return;
+      why.push('depth ≤ ' + A.depth);
+      if (c.posture) { if (c.posture !== A.posture) return; why.push('posture = ' + A.posture); }
+      var ok = true;
+      (c.tags || []).forEach(function (t) {
+        var kv = t.split(':'), kind = kv[0], val = kv[1];
+        if (kind === 'regime') { if (regimeIds.indexOf(val) < 0) ok = false; else why.push('regime ' + val + ' applies'); }
+        if (kind === 'use') { if (A.uses.indexOf(val) < 0) ok = false; else why.push('you use AI for ' + val); }
+        if (kind === 'data') { if (A.data.indexOf(val) < 0) ok = false; else why.push('you handle ' + val.replace('_', ' ')); }
+        if (kind === 'subsector') { if (A.subsector !== val) ok = false; else why.push('subsector: ' + val); }
+        if (kind === 'flag') {
+          if (val === 'decisions') { if (A.decisions !== 'yes' && A.depth === 'light') ok = false; else why.push(A.decisions === 'yes' ? 'AI influences decisions about people' : 'included preventively at this depth'); }
+          if (val === 'personal_accounts') { why.push(A.personal_accounts === 'yes' ? 'personal-account use reported' : 'standard safeguard'); }
+          if (val === 'no_training') { why.push('training commitment'); }
+        }
+      });
+      if (ok) selected.push({ c: c, why: why.join('; ') });
+    });
+    return selected;
+  }
+
+  function vars(text) {
+    var owner = A.owner === 'yes' ? 'the designated AI policy owner' : 'the Executive Director (acting as AI policy owner until one is designated)';
+    return text.split('{ORG}').join(A.org.trim() || 'the organization').split('{OWNER_ROLE}').join(owner);
+  }
+
+  /* ---------- outputs ---------- */
+  var currentTab = 'policy';
+  function renderOutputs(an) {
+    var sel = selectClauses(an);
+    var today = new Date().toISOString().slice(0, 10);
+    var stamp = 'Generated ' + today + ' · Library v' + LIB.library_version + ' · ' + sel.length + ' clauses · ' + esc(A.depth) + ' depth, ' + esc(A.posture) + ' stance';
+    var disclaimer = 'This document was generated from a structured form and a versioned clause library informed by published nonprofit-sector guidance. It is general information, not legal advice; review with counsel before adoption where possible. ' + stamp + '.';
+
+    function policyHtml(showWhy) {
+      var h = '<h2>' + esc(A.org || 'Organization') + ' — AI Use &amp; Governance Policy</h2><div class="meta">' + stamp + '</div>';
+      LIB.sections.forEach(function (s) {
+        var cs = sel.filter(function (x) { return x.c.section === s.id; });
+        if (!cs.length) return;
+        h += '<h3>' + esc(s.title) + '</h3>';
+        cs.forEach(function (x) {
+          h += '<p>' + esc(vars(x.c.text)) + (showWhy ? ' <span class="why">[' + esc(x.c.id) + ': ' + esc(x.why) + ']</span>' : '') + '</p>';
+        });
+      });
+      h += '<div class="disclaimer">' + esc(disclaimer) + '</div>';
+      return h;
+    }
+    function onePagerHtml() {
+      var dos = sel.filter(function (x) { return x.c.section === 'acceptable_use'; }).slice(0, 5);
+      var donts = sel.filter(function (x) { return x.c.section === 'prohibited_use'; }).slice(0, 5);
+      var h = '<h2>AI at ' + esc(A.org || 'our organization') + ' — the one-pager</h2><div class="meta">' + stamp + '</div>';
+      h += '<h3>Do</h3><ul>';
+      dos.forEach(function (x) { h += '<li>' + esc(vars(x.c.text)) + '</li>'; });
+      h += '</ul><h3>Don’t</h3><ul>';
+      donts.forEach(function (x) { h += '<li>' + esc(vars(x.c.text)) + '</li>'; });
+      h += '</ul><p>Unsure? Ask ' + esc(vars('{OWNER_ROLE}')) + ' — asking first is always the right call.</p>';
+      h += '<div class="disclaimer">' + esc(disclaimer) + '</div>';
+      return h;
+    }
+    function memoHtml() {
+      var h = '<h2>Board memo — adopting an AI policy</h2><div class="meta">' + esc(A.org || '') + ' · ' + stamp + '</div>';
+      h += '<h3>Why now</h3><p>Staff and volunteers are already using AI tools across the sector, usually without guidance. A short, clear policy protects the people we serve, our supporters, and the organization — and boards increasingly treat AI oversight as part of their duty of care.</p>';
+      h += '<h3>Our risk profile</h3><p>Based on a structured assessment: <b>' + an.tier + '</b> risk. ' +
+        (an.regimes.length ? 'Rules in play: ' + an.regimes.map(function (r) { return r.name + ' (' + r.status + ')'; }).join('; ') + '.' : 'No sector-specific compliance regimes were triggered.') + '</p>';
+      h += '<h3>Gaps to close</h3><ul>';
+      if (!an.gaps.length) h += '<li>None flagged.</li>';
+      an.gaps.forEach(function (g) { h += '<li>' + esc(g[1]) + ' — ' + esc(g[2]) + '</li>'; });
+      h += '</ul><h3>What the policy covers</h3><p>Purpose and scope; acceptable and prohibited uses; data handling; approved tools; human oversight; transparency; vendors; training; incident reporting; and review cadence' + (an.regimes.length ? ', with compliance addenda for the rules above' : '') + '. Depth: ' + esc(A.depth) + '; stance: ' + esc(A.posture) + '.</p>';
+      h += '<h3>Recommended motion</h3><p>Adopt the attached AI Use &amp; Governance Policy effective immediately, designate an AI policy owner, and direct management to report significant AI-related issues to the board.</p>';
+      h += '<div class="disclaimer">' + esc(disclaimer) + '</div>';
+      return h;
+    }
+    function resolutionHtml() {
+      var h = '<h2>Board resolution — adoption of AI policy</h2><div class="meta">' + esc(A.org || '') + '</div>';
+      h += '<p><b>WHEREAS</b>, artificial intelligence tools are in growing use across the nonprofit sector and within the organization’s work; and</p>';
+      h += '<p><b>WHEREAS</b>, the Board recognizes its oversight responsibility for the risks and opportunities these tools present to the organization, the people it serves, and its supporters;</p>';
+      h += '<p><b>NOW, THEREFORE, BE IT RESOLVED</b>, that the Board of Directors of ' + esc(A.org || '____________________') + ' hereby adopts the AI Use &amp; Governance Policy dated ' + today + ' (Library v' + LIB.library_version + ');</p>';
+      h += '<p><b>RESOLVED FURTHER</b>, that ____________________ is designated as AI policy owner, responsible for the approved-tools list, staff orientation, and an annual review of the policy;</p>';
+      h += '<p><b>RESOLVED FURTHER</b>, that management shall report significant AI-related incidents and material changes in AI use to the Board.</p>';
+      h += '<p style="margin-top:26px">Adopted: ____ / ____ / ______</p>';
+      h += '<p style="margin-top:18px">____________________________<br>Board Chair / Secretary</p>';
+      h += '<div class="disclaimer">' + esc(disclaimer) + '</div>';
+      return h;
+    }
+
+    var TABS = { policy: ['Policy', policyHtml], onepager: ['Staff one-pager', onePagerHtml], memo: ['Board memo', memoHtml], resolution: ['Adoption resolution', resolutionHtml] };
+    var gateOpen = false;
+    try { gateOpen = !!localStorage.getItem('policy_email'); } catch (e) {}
+
+    function draw() {
+      var gated = (currentTab === 'memo' || currentTab === 'resolution') && !gateOpen;
+      var h = '<div class="steps-bar"><span>Your documents</span><div class="bar"><div class="fill" style="width:100%"></div></div><button class="btn link" id="restart" style="padding:0">Start over</button></div>';
+      h += '<div class="doc-tabs">';
+      Object.keys(TABS).forEach(function (k) {
+        h += '<button data-t="' + k + '" class="' + (currentTab === k ? 'on' : '') + '">' + TABS[k][0] + ((k === 'memo' || k === 'resolution') && !gateOpen ? ' 🔒' : '') + '</button>';
+      });
+      h += '<button data-t="why" class="' + (currentTab === 'why' ? 'on' : '') + '">Why these clauses</button></div>';
+
+      if (currentTab === 'why') {
+        h += '<div class="doc">' + policyHtml(true) + '</div>';
+      } else if (gated) {
+        h += '<div class="gatebox"><p><b>The board packet is free too</b> — the memo and ready-to-vote resolution. We ask for an email here (and only here) so we can send the packet and, if you opt in, alert you when the rules your policy cites change.</p>' +
+          '<div class="row"><input type="email" id="gate-email" placeholder="you@yourorganization.org"><button class="btn primary" id="gate-go">Unlock packet</button></div>' +
+          '<label><input type="checkbox" id="gate-refresh" checked> Alert me when laws or the clause library change (stores your answers so you can regenerate in one click; nothing else is stored).</label>' +
+          '<div class="err" id="gate-err" hidden></div></div>';
+      } else {
+        h += '<div class="doc" id="doc-body">' + TABS[currentTab][1]() + '</div>';
+        h += '<div class="dl-row"><button class="btn primary" id="dl-doc">Download for Word (.doc)</button><button class="btn ghost" id="dl-pdf">Print / save as PDF</button></div>';
+        h += '<p class="q-help">The Word file opens in Word, Google Docs, and LibreOffice. Edit freely — it’s yours.</p>';
+      }
+      stage.innerHTML = h;
+
+      stage.querySelectorAll('.doc-tabs button').forEach(function (b) {
+        b.addEventListener('click', function () { currentTab = b.getAttribute('data-t'); draw(); });
+      });
+      document.getElementById('restart').addEventListener('click', function () { if (confirm('Start over? Your answers will be cleared.')) { location.href = location.pathname; } });
+      var dl = document.getElementById('dl-doc');
+      if (dl) dl.addEventListener('click', function () {
+        var name = (A.org || 'organization').replace(/[^A-Za-z0-9]+/g, '-').toLowerCase();
+        var html = '<html xmlns:w="urn:schemas-microsoft-com:office:word"><head><meta charset="utf-8"><style>body{font-family:Georgia,serif;font-size:12pt;line-height:1.5}h2{font-size:17pt}h3{font-size:13pt}</style></head><body>' + TABS[currentTab][1]() + '</body></html>';
+        var a = document.createElement('a');
+        a.href = URL.createObjectURL(new Blob(['﻿', html], { type: 'application/msword' }));
+        a.download = name + '-' + currentTab + '.doc';
+        a.click();
+      });
+      var pdf = document.getElementById('dl-pdf');
+      if (pdf) pdf.addEventListener('click', function () {
+        var pd = document.getElementById('print-doc');
+        pd.innerHTML = TABS[currentTab][1]();
+        pd.style.display = 'block';
+        window.print();
+        setTimeout(function () { pd.style.display = 'none'; }, 400);
+      });
+      var gg = document.getElementById('gate-go');
+      if (gg) gg.addEventListener('click', function () {
+        var em = document.getElementById('gate-email').value.trim();
+        var err = document.getElementById('gate-err');
+        if (!/^[^@\s]+@[^@\s.]+\.[^@\s]{2,}$/.test(em)) { err.textContent = 'Please add a valid email address.'; err.hidden = false; return; }
+        gg.disabled = true; gg.textContent = '…';
+        var refresh = document.getElementById('gate-refresh').checked;
+        fetch(API + '/policy/signup', {
+          method: 'POST', headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ email: em, subsector: A.subsector, risk_tier: an.tier,
+            library_version: LIB.library_version, refresh_opt_in: refresh,
+            regimes: an.regimes.map(function (r) { return r.id; }),
+            answers: refresh ? A : null })
+        }).then(function (r) { return r.json().then(function (j) { return { ok: r.ok, j: j }; }); })
+          .then(function (res) {
+            if (!res.ok) { err.textContent = res.j.error || 'Something went wrong — try again.'; err.hidden = false; gg.disabled = false; gg.textContent = 'Unlock packet'; return; }
+            try { localStorage.setItem('policy_email', em); } catch (e) {}
+            gateOpen = true; draw();
+          })
+          .catch(function () { err.textContent = 'Network error — try again.'; err.hidden = false; gg.disabled = false; gg.textContent = 'Unlock packet'; });
+      });
+    }
+    draw();
+  }
+
+  /* ---------- anonymized run log (AY-3): subsector + tier only, never answers ---------- */
+  function logRun(an) {
+    try {
+      fetch(API + '/policy/run', { method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ subsector: A.subsector, risk_tier: an.tier, gaps: an.gaps.length,
+          regimes: an.regimes.map(function (r) { return r.id; }), depth: A.depth,
+          library_version: LIB.library_version }) });
+    } catch (e) {}
+  }
+
+  /* ---------- boot ---------- */
+  fetch('library.json').then(function (r) { return r.json(); }).then(function (lib) {
+    LIB = lib;
+    var pre = new URLSearchParams(location.search).get('subsector');
+    if (pre && SUBSECTORS.some(function (s) { return s[0] === pre; })) A.subsector = pre;
+    renderStep();
+  }).catch(function () {
+    stage.innerHTML = '<p style="font-family:var(--sans)">Could not load the clause library. Refresh to try again.</p>';
+  });
+})();
+</script>
+</body>
+</html>
