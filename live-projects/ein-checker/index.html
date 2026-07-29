@@ -766,9 +766,12 @@
       reader.readAsText(f);
     });
 
-    // Deep link: ?ein=123456789 (used by alert emails)
-    var deepEin = new URLSearchParams(location.search).get('ein');
+    // Deep links: ?ein= from alert emails, ?q= from the state and guide pages.
+    var params = new URLSearchParams(location.search);
+    var deepEin = params.get('ein');
+    var deepQ = params.get('q');
     if (deepEin) { input.value = deepEin; run(deepEin); }
+    else if (deepQ) { input.value = deepQ; run(deepQ); }
   })();
   </script>
 </body>
