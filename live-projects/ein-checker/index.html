@@ -165,6 +165,23 @@
     .guide-line { margin-top: 20px; padding-top: 18px; border-top: 1px solid var(--rule); font-family: var(--sans); font-size: 14px; color: var(--ink-soft); }
     .guide-line a { color: var(--accent-deep); font-weight: 600; text-decoration: none; }
 
+    /* ---- 990 financial layer ---- */
+    .fin { border-top: 1px solid var(--rule); background: var(--paper); }
+    .fin-head { padding: 16px 28px 4px; font-family: var(--sans); }
+    .fin-head b { font-size: 12px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent-deep); }
+    .fin-head .per { font-size: 12.5px; color: var(--ink-soft); margin-top: 3px; }
+    .fin-figs { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 14px; padding: 12px 28px 4px; font-family: var(--sans); }
+    .fin-figs .n { font-family: var(--serif); font-size: 19px; font-weight: 600; }
+    .fin-figs .l { font-size: 12px; color: var(--ink-soft); }
+    .reading { padding: 14px 28px; border-top: 1px solid var(--rule); font-family: var(--sans); }
+    .reading .m { font-size: 12px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--ink-soft); }
+    .reading .v { font-size: 15.5px; color: var(--ink); margin-top: 3px; font-weight: 600; }
+    .reading .c { font-size: 13.5px; color: var(--ink-soft); margin-top: 4px; }
+    .reading .nv { font-size: 12.5px; color: #8f8878; margin-top: 4px; font-style: italic; }
+    .fin-note { margin: 4px 28px 18px; padding: 14px 16px; background: var(--accent-soft); border-radius: 8px; font-family: var(--sans); font-size: 12.5px; color: var(--ink-soft); line-height: 1.55; }
+    .fin-note b { color: var(--ink); }
+    .fin-none { padding: 14px 28px 18px; font-family: var(--sans); font-size: 13.5px; color: var(--ink-soft); }
+
     /* ---- Print report ---- */
     #print-area { display: none; }
     @media print {
@@ -525,6 +542,7 @@
       pre.textContent = JSON.stringify(card, null, 2);
       result.querySelector('.tcard').appendChild(pre);
       $('show-json').addEventListener('click', function () { pre.hidden = !pre.hidden; });
+      loadFinancials(card.ein);
       $('act-report').addEventListener('click', function () {
         withToken('report', function () { printReport(card); });
       });
@@ -614,6 +632,53 @@
     }
     $('aud-grant').addEventListener('click', function () { setAud('grantmaker'); });
     $('aud-self').addEventListener('click', function () { setAud('self_check'); });
+
+
+    function money(n) {
+      if (n === null || n === undefined) return '—';
+      var a = Math.abs(n);
+      if (a >= 1e9) return '$' + (n / 1e9).toFixed(1) + 'B';
+      if (a >= 1e6) return '$' + (n / 1e6).toFixed(1) + 'M';
+      if (a >= 1e3) return '$' + Math.round(n / 1e3) + 'K';
+      return '$' + n;
+    }
+
+    function loadFinancials(ein) {
+      var card = result.querySelector('.tcard');
+      if (!card) return;
+      fetch(API + '/financials/' + encodeURIComponent(ein))
+        .then(function (r) { return r.json(); })
+        .then(function (d) {
+          var box = document.createElement('div');
+          box.className = 'fin';
+          if (!d.available) {
+            box.innerHTML = '<div class="fin-head"><b>Financial detail</b></div>' +
+              '<div class="fin-none">' + esc(d.reason) + '</div>';
+          } else {
+            var f = d.figures;
+            var h = '<div class="fin-head"><b>Financial detail — Form 990</b>' +
+              '<div class="per">Tax period ending ' + esc(d.tax_period_end) +
+              (d.peer_benchmark ? ' · compared with ' + d.peer_benchmark.cohort_size + ' peers' : '') +
+              '</div></div>';
+            h += '<div class="fin-figs">' +
+              '<div><div class="n">' + money(f.total_revenue) + '</div><div class="l">total revenue</div></div>' +
+              '<div><div class="n">' + money(f.total_expenses) + '</div><div class="l">total expenses</div></div>' +
+              '<div><div class="n">' + money(f.net_assets) + '</div><div class="l">net assets</div></div>' +
+              '<div><div class="n">' + (f.employees === null ? '—' : f.employees) + '</div><div class="l">employees</div></div>' +
+              '</div>';
+            (d.readings || []).forEach(function (r) {
+              h += '<div class="reading"><div class="m">' + esc(r.metric) + '</div>' +
+                   '<div class="v">' + esc(r.value) + '</div>' +
+                   '<div class="c">' + esc(r.context) + '</div>' +
+                   '<div class="nv">' + esc(r.not_a_verdict) + '</div></div>';
+            });
+            h += '<div class="fin-note"><b>These are context, not a score.</b> ' + esc(d.overhead_note) + '</div>';
+            box.innerHTML = h;
+          }
+          card.appendChild(box);
+        })
+        .catch(function () {});
+    }
 
     /* ---------- gate ---------- */
     var TOKEN_KEY = 'ein_checker_token';
