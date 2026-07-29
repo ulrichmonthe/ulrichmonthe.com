@@ -152,6 +152,19 @@
     .flagpill.red { background: #f0dcd7; color: #8c4634; } .flagpill.not_found { background: #eceae4; color: #6b6558; }
     .tablewrap { overflow-x: auto; }
 
+    /* ---- Browse by state ---- */
+    .state-box { background: var(--paper-raised); border: 1px solid var(--rule); border-radius: 12px; padding: 28px 30px; }
+    .state-grid { columns: 4; column-gap: 22px; margin-top: 18px; }
+    @media (max-width: 900px) { .state-grid { columns: 3; } }
+    @media (max-width: 620px) { .state-grid { columns: 2; } }
+    .state-grid a {
+      display: block; padding: 4px 0; font-family: var(--sans); font-size: 14px;
+      color: var(--ink-soft); text-decoration: none; break-inside: avoid;
+    }
+    .state-grid a:hover { color: var(--accent-deep); }
+    .guide-line { margin-top: 20px; padding-top: 18px; border-top: 1px solid var(--rule); font-family: var(--sans); font-size: 14px; color: var(--ink-soft); }
+    .guide-line a { color: var(--accent-deep); font-weight: 600; text-decoration: none; }
+
     /* ---- Print report ---- */
     #print-area { display: none; }
     @media print {
@@ -284,6 +297,83 @@
     </section>
 
     <div id="print-area" aria-hidden="true"></div>
+
+    <section id="by-state">
+      <h2>Verify by state</h2>
+      <div class="state-box">
+        <p style="font-family: var(--sans); font-size: 15px; color: var(--ink-soft); max-width: 64ch;">
+          Every state has its own page with the same checker plus a live snapshot
+          of that state's nonprofit landscape from the current IRS release — how
+          many organizations are registered there, how many are recognised
+          501(c)(3)s, how many currently have their exemption revoked, and which
+          categories are largest.
+        </p>
+        <p style="font-family: var(--sans); font-size: 14px; color: var(--ink-soft); margin-top: 10px; max-width: 64ch;">
+          These pages cover <em>federal</em> IRS status. Registering with the IRS and
+          registering to solicit donations in a state are different requirements —
+          state charitable registration still isn't evaluated anywhere on this site.
+        </p>
+        <div class="state-grid">
+          <a href="/verify/alabama/">Alabama</a>
+          <a href="/verify/alaska/">Alaska</a>
+          <a href="/verify/arizona/">Arizona</a>
+          <a href="/verify/arkansas/">Arkansas</a>
+          <a href="/verify/california/">California</a>
+          <a href="/verify/colorado/">Colorado</a>
+          <a href="/verify/connecticut/">Connecticut</a>
+          <a href="/verify/delaware/">Delaware</a>
+          <a href="/verify/district-of-columbia/">District of Columbia</a>
+          <a href="/verify/florida/">Florida</a>
+          <a href="/verify/georgia/">Georgia</a>
+          <a href="/verify/hawaii/">Hawaii</a>
+          <a href="/verify/idaho/">Idaho</a>
+          <a href="/verify/illinois/">Illinois</a>
+          <a href="/verify/indiana/">Indiana</a>
+          <a href="/verify/iowa/">Iowa</a>
+          <a href="/verify/kansas/">Kansas</a>
+          <a href="/verify/kentucky/">Kentucky</a>
+          <a href="/verify/louisiana/">Louisiana</a>
+          <a href="/verify/maine/">Maine</a>
+          <a href="/verify/maryland/">Maryland</a>
+          <a href="/verify/massachusetts/">Massachusetts</a>
+          <a href="/verify/michigan/">Michigan</a>
+          <a href="/verify/minnesota/">Minnesota</a>
+          <a href="/verify/mississippi/">Mississippi</a>
+          <a href="/verify/missouri/">Missouri</a>
+          <a href="/verify/montana/">Montana</a>
+          <a href="/verify/nebraska/">Nebraska</a>
+          <a href="/verify/nevada/">Nevada</a>
+          <a href="/verify/new-hampshire/">New Hampshire</a>
+          <a href="/verify/new-jersey/">New Jersey</a>
+          <a href="/verify/new-mexico/">New Mexico</a>
+          <a href="/verify/new-york/">New York</a>
+          <a href="/verify/north-carolina/">North Carolina</a>
+          <a href="/verify/north-dakota/">North Dakota</a>
+          <a href="/verify/ohio/">Ohio</a>
+          <a href="/verify/oklahoma/">Oklahoma</a>
+          <a href="/verify/oregon/">Oregon</a>
+          <a href="/verify/pennsylvania/">Pennsylvania</a>
+          <a href="/verify/rhode-island/">Rhode Island</a>
+          <a href="/verify/south-carolina/">South Carolina</a>
+          <a href="/verify/south-dakota/">South Dakota</a>
+          <a href="/verify/tennessee/">Tennessee</a>
+          <a href="/verify/texas/">Texas</a>
+          <a href="/verify/utah/">Utah</a>
+          <a href="/verify/vermont/">Vermont</a>
+          <a href="/verify/virginia/">Virginia</a>
+          <a href="/verify/washington/">Washington</a>
+          <a href="/verify/west-virginia/">West Virginia</a>
+          <a href="/verify/wisconsin/">Wisconsin</a>
+          <a href="/verify/wyoming/">Wyoming</a>
+        </div>
+        <div class="guide-line">
+          Trying to interpret a result? <a href="/guides/how-to-verify-a-nonprofit/">How to verify a nonprofit</a> ·
+          <a href="/guides/revoked-tax-exempt-status/">Revoked status</a> ·
+          <a href="/guides/not-in-publication-78/">Not in Publication 78</a> ·
+          <a href="/guides/no-recent-990-filing/">No recent 990</a>
+        </div>
+      </div>
+    </section>
 
     <div class="numbers" aria-label="Build statistics so far">
       <div><strong>1,983,563</strong><span>trust cards precomputed — every org in the IRS Business Master File</span></div>
