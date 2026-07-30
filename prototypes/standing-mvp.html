@@ -1,0 +1,1009 @@
+<title>Standing — funder standing analysis</title>
+
+<style>
+  :root {
+    /* Neutrals carry a slate-green bias toward the petrol accent */
+    --ground:      #EDF1F0;
+    --surface:     #FFFFFF;
+    --surface-sub: #F5F8F7;
+    --ink:         #121A1C;
+    --ink-soft:    #566A6D;
+    --ink-faint:   #869899;
+    --rule:        #D2DAD8;
+    --rule-soft:   #E3E9E7;
+    --accent:      #0F6E6A;
+
+    --go:      #3D6A38;
+    --go-bg:   #E4EDE2;
+    --stop:    #94382E;
+    --stop-bg: #F3E3E0;
+    --route:   #8A6114;
+    --route-bg:#F4EBDA;
+    --none:    #5A6A6D;
+    --none-bg: #E7ECEB;
+
+    --serif: Charter, "Bitstream Charter", "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+    --sans:  system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    --mono:  ui-monospace, "SF Mono", SFMono-Regular, "Cascadia Mono", Menlo, Consolas, monospace;
+
+    --step--1: 0.78rem;
+    --step-0:  0.94rem;
+    --step-1:  1.13rem;
+    --step-2:  1.5rem;
+    --step-3:  2.1rem;
+
+    --wrap: 1060px;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --ground:      #0E1416;
+      --surface:     #161E20;
+      --surface-sub: #1B2426;
+      --ink:         #E7EDEC;
+      --ink-soft:    #93A5A7;
+      --ink-faint:   #6B7D7F;
+      --rule:        #263134;
+      --rule-soft:   #1F292B;
+      --accent:      #4FBDB4;
+
+      --go:      #8FC285;
+      --go-bg:   #1E2B1D;
+      --stop:    #E39084;
+      --stop-bg: #33201C;
+      --route:   #D9AC5B;
+      --route-bg:#302615;
+      --none:    #93A5A7;
+      --none-bg: #212B2D;
+    }
+  }
+
+  :root[data-theme="dark"] {
+    --ground: #0E1416; --surface: #161E20; --surface-sub: #1B2426;
+    --ink: #E7EDEC; --ink-soft: #93A5A7; --ink-faint: #6B7D7F;
+    --rule: #263134; --rule-soft: #1F292B; --accent: #4FBDB4;
+    --go: #8FC285; --go-bg: #1E2B1D;
+    --stop: #E39084; --stop-bg: #33201C;
+    --route: #D9AC5B; --route-bg: #302615;
+    --none: #93A5A7; --none-bg: #212B2D;
+  }
+
+  :root[data-theme="light"] {
+    --ground: #EDF1F0; --surface: #FFFFFF; --surface-sub: #F5F8F7;
+    --ink: #121A1C; --ink-soft: #566A6D; --ink-faint: #869899;
+    --rule: #D2DAD8; --rule-soft: #E3E9E7; --accent: #0F6E6A;
+    --go: #3D6A38; --go-bg: #E4EDE2;
+    --stop: #94382E; --stop-bg: #F3E3E0;
+    --route: #8A6114; --route-bg: #F4EBDA;
+    --none: #5A6A6D; --none-bg: #E7ECEB;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--ground);
+    color: var(--ink);
+    font-family: var(--sans);
+    font-size: var(--step-0);
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .wrap {
+    max-width: var(--wrap);
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+
+  /* ---------- masthead ---------- */
+
+  .masthead {
+    border-bottom: 1px solid var(--rule);
+    background: var(--surface);
+  }
+  .masthead-inner {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 8px 16px;
+    padding: 22px 0 18px;
+  }
+  .wordmark {
+    font-family: var(--serif);
+    font-size: var(--step-2);
+    letter-spacing: -0.015em;
+    margin: 0;
+    font-weight: 600;
+  }
+  .wordmark::after {
+    content: "";
+    display: inline-block;
+    width: 7px; height: 7px;
+    margin-left: 7px;
+    border-radius: 50%;
+    background: var(--accent);
+    vertical-align: 0.32em;
+  }
+  .tagline {
+    font-size: var(--step--1);
+    color: var(--ink-soft);
+    margin: 0;
+  }
+  .build-chip {
+    margin-left: auto;
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    border: 1px solid var(--rule);
+    border-radius: 2px;
+    padding: 3px 8px;
+  }
+
+  .notice {
+    background: var(--route-bg);
+    border-bottom: 1px solid var(--rule);
+    color: var(--route);
+    font-size: var(--step--1);
+  }
+  .notice .wrap { padding-top: 9px; padding-bottom: 9px; }
+  .notice strong { font-weight: 650; }
+
+  /* ---------- context strip ---------- */
+
+  .context {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px 34px;
+    padding: 20px 0 22px;
+    border-bottom: 1px solid var(--rule);
+  }
+  .field { display: flex; flex-direction: column; gap: 3px; }
+  .field-label {
+    font-size: 0.68rem;
+    text-transform: uppercase;
+    letter-spacing: 0.09em;
+    color: var(--ink-faint);
+    font-weight: 600;
+  }
+  .field-value { font-size: var(--step-0); }
+  .field-value.num { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+
+  /* ---------- summary ---------- */
+
+  .summary {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 1px;
+    background: var(--rule);
+    border: 1px solid var(--rule);
+    margin: 26px 0 8px;
+  }
+  .tile {
+    background: var(--surface);
+    padding: 15px 16px 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+  .tile-n {
+    font-family: var(--mono);
+    font-size: var(--step-3);
+    line-height: 1;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: -0.03em;
+  }
+  .tile-label { font-size: var(--step--1); color: var(--ink-soft); }
+  .tile.is-go    .tile-n { color: var(--go); }
+  .tile.is-stop  .tile-n { color: var(--stop); }
+  .tile.is-route .tile-n { color: var(--route); }
+
+  .headline-stat {
+    font-family: var(--serif);
+    font-size: var(--step-1);
+    line-height: 1.45;
+    margin: 18px 0 30px;
+    max-width: 62ch;
+  }
+  .headline-stat b {
+    font-weight: 600;
+    border-bottom: 2px solid var(--accent);
+    padding-bottom: 1px;
+  }
+
+  /* ---------- filters ---------- */
+
+  .toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+    padding-bottom: 12px;
+  }
+  .toolbar-label {
+    font-size: 0.68rem;
+    text-transform: uppercase;
+    letter-spacing: 0.09em;
+    color: var(--ink-faint);
+    font-weight: 600;
+    margin-right: 4px;
+  }
+  .chip {
+    font: inherit;
+    font-size: var(--step--1);
+    color: var(--ink-soft);
+    background: transparent;
+    border: 1px solid var(--rule);
+    border-radius: 2px;
+    padding: 4px 11px;
+    cursor: pointer;
+  }
+  .chip:hover { border-color: var(--ink-faint); color: var(--ink); }
+  .chip[aria-pressed="true"] {
+    background: var(--ink);
+    border-color: var(--ink);
+    color: var(--ground);
+  }
+  .chip:focus-visible,
+  .row-btn:focus-visible,
+  .theme-btn:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+
+  /* ---------- worklist ---------- */
+
+  .list {
+    border: 1px solid var(--rule);
+    background: var(--surface);
+  }
+  .entry { border-bottom: 1px solid var(--rule-soft); }
+  .entry:last-child { border-bottom: 0; }
+  .entry[hidden] { display: none; }
+
+  .row-btn {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 128px 1fr auto;
+    align-items: center;
+    gap: 16px;
+    padding: 14px 16px;
+    background: transparent;
+    border: 0;
+    border-left: 3px solid transparent;
+    text-align: left;
+    font: inherit;
+    color: inherit;
+    cursor: pointer;
+  }
+  .row-btn:hover { background: var(--surface-sub); }
+  .entry.go    .row-btn { border-left-color: var(--go); }
+  .entry.stop  .row-btn { border-left-color: var(--stop); }
+  .entry.route .row-btn { border-left-color: var(--route); }
+  .entry.none  .row-btn { border-left-color: var(--none); }
+
+  .stamp {
+    font-family: var(--mono);
+    font-size: 0.66rem;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 4px 7px;
+    border-radius: 2px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  .go    .stamp { color: var(--go);    background: var(--go-bg); }
+  .stop  .stamp { color: var(--stop);  background: var(--stop-bg); }
+  .route .stamp { color: var(--route); background: var(--route-bg); }
+  .none  .stamp { color: var(--none);  background: var(--none-bg); }
+
+  .row-main { min-width: 0; }
+  .row-name {
+    font-size: var(--step-0);
+    font-weight: 600;
+    letter-spacing: -0.005em;
+  }
+  .row-reason {
+    font-size: var(--step--1);
+    color: var(--ink-soft);
+    margin-top: 2px;
+  }
+  .row-meta {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    font-family: var(--mono);
+    font-size: var(--step--1);
+    font-variant-numeric: tabular-nums;
+    color: var(--ink-soft);
+  }
+  .row-meta .ngr { color: var(--ink); font-weight: 600; }
+  .caret {
+    width: 9px; height: 9px;
+    border-right: 1.5px solid var(--ink-faint);
+    border-bottom: 1.5px solid var(--ink-faint);
+    transform: rotate(45deg);
+    transition: transform 140ms ease;
+    flex: none;
+  }
+  .entry.open .caret { transform: rotate(-135deg); }
+
+  /* ---------- evidence ---------- */
+
+  .evidence {
+    padding: 4px 16px 22px 19px;
+    background: var(--surface-sub);
+    border-top: 1px solid var(--rule-soft);
+  }
+  .entry:not(.open) .evidence { display: none; }
+
+  .verdict-line {
+    font-family: var(--serif);
+    font-size: var(--step-1);
+    line-height: 1.5;
+    margin: 16px 0 18px;
+    max-width: 66ch;
+  }
+
+  .ev-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+    gap: 18px 26px;
+    margin-bottom: 20px;
+  }
+  .metric { display: flex; flex-direction: column; gap: 4px; }
+  .metric-label {
+    font-size: 0.68rem;
+    text-transform: uppercase;
+    letter-spacing: 0.09em;
+    color: var(--ink-faint);
+    font-weight: 600;
+  }
+  .metric-value {
+    font-family: var(--mono);
+    font-size: var(--step-1);
+    font-variant-numeric: tabular-nums;
+  }
+  .metric-note { font-size: var(--step--1); color: var(--ink-soft); }
+
+  .bar {
+    height: 5px;
+    background: var(--rule);
+    border-radius: 3px;
+    overflow: hidden;
+    margin-top: 3px;
+  }
+  .bar span { display: block; height: 100%; border-radius: 3px; }
+  .go    .bar span { background: var(--go); }
+  .stop  .bar span { background: var(--stop); }
+  .route .bar span { background: var(--route); }
+
+  .cite {
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    color: var(--ink-faint);
+    border-top: 1px solid var(--rule);
+    padding-top: 11px;
+    line-height: 1.65;
+  }
+  .cite b { color: var(--ink-soft); font-weight: 600; }
+
+  .path {
+    background: var(--surface);
+    border: 1px solid var(--rule);
+    border-radius: 2px;
+    padding: 13px 15px;
+    margin-bottom: 20px;
+  }
+  .path-title {
+    font-size: 0.68rem;
+    text-transform: uppercase;
+    letter-spacing: 0.09em;
+    color: var(--ink-faint);
+    font-weight: 600;
+    margin-bottom: 9px;
+  }
+  .hop {
+    display: flex;
+    align-items: baseline;
+    gap: 9px;
+    font-size: var(--step--1);
+    padding: 3px 0;
+  }
+  .hop-dot {
+    width: 5px; height: 5px;
+    border-radius: 50%;
+    background: var(--route);
+    flex: none;
+    transform: translateY(-2px);
+  }
+  .hop b { font-weight: 600; }
+
+  /* ---------- method ---------- */
+
+  .method {
+    margin: 34px 0 60px;
+    padding: 22px 0 0;
+    border-top: 1px solid var(--rule);
+  }
+  .method h2 {
+    font-family: var(--serif);
+    font-size: var(--step-1);
+    margin: 0 0 10px;
+    font-weight: 600;
+  }
+  .method p {
+    max-width: 68ch;
+    color: var(--ink-soft);
+    font-size: var(--step--1);
+    line-height: 1.65;
+    margin: 0 0 11px;
+  }
+  .method code {
+    font-family: var(--mono);
+    font-size: 0.78em;
+    background: var(--surface);
+    border: 1px solid var(--rule);
+    padding: 1px 4px;
+    border-radius: 2px;
+    color: var(--ink);
+  }
+  .open-q {
+    border-left: 3px solid var(--accent);
+    padding: 3px 0 3px 14px;
+    margin-top: 16px;
+  }
+  .open-q p { color: var(--ink); }
+
+  .theme-btn {
+    position: fixed;
+    right: 14px; bottom: 14px;
+    font: inherit;
+    font-size: var(--step--1);
+    background: var(--surface);
+    color: var(--ink-soft);
+    border: 1px solid var(--rule);
+    border-radius: 2px;
+    padding: 6px 11px;
+    cursor: pointer;
+  }
+  .theme-btn:hover { color: var(--ink); border-color: var(--ink-faint); }
+
+  @media (max-width: 680px) {
+    .row-btn { grid-template-columns: 1fr auto; gap: 10px 12px; }
+    .stamp { grid-column: 1 / -1; justify-self: start; }
+    .row-meta { display: none; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; animation: none !important; }
+  }
+</style>
+
+<header class="masthead">
+  <div class="wrap masthead-inner">
+    <h1 class="wordmark">Standing</h1>
+    <p class="tagline">Funder standing analysis from public filings</p>
+    <span class="build-chip">MVP concept</span>
+  </div>
+</header>
+
+<div class="notice">
+  <div class="wrap">
+    <strong>Illustrative prototype.</strong> Every foundation, figure, and trustee
+    connection below is synthetic, invented to demonstrate the interface. No real
+    organization is described here.
+  </div>
+</div>
+
+<main class="wrap">
+
+  <section class="context" aria-label="Screening context">
+    <div class="field">
+      <span class="field-label">Screening for</span>
+      <span class="field-value">Riverbend Youth Collective</span>
+    </div>
+    <div class="field">
+      <span class="field-label">Budget</span>
+      <span class="field-value num">$1.4M</span>
+    </div>
+    <div class="field">
+      <span class="field-label">Typical ask</span>
+      <span class="field-value num">$60,000</span>
+    </div>
+    <div class="field">
+      <span class="field-label">Region</span>
+      <span class="field-value">Great Lakes</span>
+    </div>
+    <div class="field">
+      <span class="field-label">Filing years</span>
+      <span class="field-value num">FY2022 – FY2025</span>
+    </div>
+  </section>
+
+  <section class="summary" aria-label="Screening summary">
+    <div class="tile">
+      <span class="tile-n">47</span>
+      <span class="tile-label">Foundations screened</span>
+    </div>
+    <div class="tile is-go">
+      <span class="tile-n">8</span>
+      <span class="tile-label">Worth an application</span>
+    </div>
+    <div class="tile is-stop">
+      <span class="tile-n">22</span>
+      <span class="tile-label">Do not apply</span>
+    </div>
+    <div class="tile is-route">
+      <span class="tile-n">13</span>
+      <span class="tile-label">Relationship path</span>
+    </div>
+    <div class="tile">
+      <span class="tile-n">4</span>
+      <span class="tile-label">No verdict</span>
+    </div>
+  </section>
+
+  <p class="headline-stat">
+    Twenty-two of these foundations would have cost you roughly
+    <b>374 hours</b> for near-certain rejection. Nine of them publish an open
+    application portal.
+  </p>
+
+  <div class="toolbar">
+    <span class="toolbar-label">Filter</span>
+    <button class="chip" data-filter="all" aria-pressed="true">All 47</button>
+    <button class="chip" data-filter="go" aria-pressed="false">Apply</button>
+    <button class="chip" data-filter="stop" aria-pressed="false">Do not apply</button>
+    <button class="chip" data-filter="route" aria-pressed="false">Relationship path</button>
+    <button class="chip" data-filter="none" aria-pressed="false">No verdict</button>
+  </div>
+
+  <div class="list" id="list">
+
+    <!-- ============ FEATURED: nominally open, functionally closed ============ -->
+    <article class="entry stop open" data-verdict="stop">
+      <button class="row-btn" aria-expanded="true">
+        <span class="stamp">Do not apply</span>
+        <span class="row-main">
+          <span class="row-name">The Lindmark Trust</span>
+          <span class="row-reason">Open portal, closed in practice — 2 new grantees in four years</span>
+        </span>
+        <span class="row-meta">
+          <span>new grantee <span class="ngr">1.8%</span></span>
+          <span class="caret" aria-hidden="true"></span>
+        </span>
+      </button>
+
+      <div class="evidence">
+        <p class="verdict-line">
+          Lindmark accepts unsolicited proposals and has for a decade. It has also
+          funded the same 34 organizations for four consecutive years. Of 112 grants
+          paid since FY2022, two went to organizations it had not funded before —
+          both above $200,000, both to national intermediaries. The portal is open.
+          The portfolio is not.
+        </p>
+
+        <div class="ev-grid">
+          <div class="metric">
+            <span class="metric-label">New-grantee rate, 4yr</span>
+            <span class="metric-value">1.8%</span>
+            <div class="bar"><span style="width:4%"></span></div>
+            <span class="metric-note">2 of 112 grants · peer median 19%</span>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Repeat-dollar concentration</span>
+            <span class="metric-value">97.4%</span>
+            <span class="metric-note">Share of dollars to prior-year grantees</span>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Median grant</span>
+            <span class="metric-value">$250,000</span>
+            <span class="metric-note">Your ask of $60,000 sits below their floor</span>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Payout rate</span>
+            <span class="metric-value">5.0%</span>
+            <span class="metric-note">At the statutory minimum, flat 4 years</span>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Accepts unsolicited</span>
+            <span class="metric-value">Yes</span>
+            <span class="metric-note">Part XV line 2 — self-reported</span>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Estimated cost to apply</span>
+            <span class="metric-value">17 hrs</span>
+            <span class="metric-note">Full proposal, two custom attachments</span>
+          </div>
+        </div>
+
+        <p class="cite">
+          <b>Evidence.</b> Form 990-PF, Part XV line 3a (grants paid), FY2022–FY2025 ·
+          e-filed, 4 of 4 years machine-readable · grantee names normalized against EIN
+          where disclosed, else by string match (94% matched)<br>
+          <b>Confidence.</b> High — complete filing series, large grant count<br>
+          <b>Recompute.</b> On FY2026 filing, expected Nov 2026
+        </p>
+      </div>
+    </article>
+
+    <!-- ============ APPLY ============ -->
+    <article class="entry go" data-verdict="go">
+      <button class="row-btn" aria-expanded="false">
+        <span class="stamp">Apply</span>
+        <span class="row-main">
+          <span class="row-name">Harrowgate Foundation</span>
+          <span class="row-reason">Adds new grantees steadily and your ask sits mid-band</span>
+        </span>
+        <span class="row-meta">
+          <span>new grantee <span class="ngr">31%</span></span>
+          <span class="caret" aria-hidden="true"></span>
+        </span>
+      </button>
+
+      <div class="evidence">
+        <p class="verdict-line">
+          Fourteen of Harrowgate's 45 grants since FY2022 went to first-time
+          recipients, and the median award is close to what you would ask for.
+          Payout has risen for three consecutive years. This is the strongest
+          open opportunity in your screened set.
+        </p>
+
+        <div class="ev-grid">
+          <div class="metric">
+            <span class="metric-label">New-grantee rate, 4yr</span>
+            <span class="metric-value">31.1%</span>
+            <div class="bar"><span style="width:64%"></span></div>
+            <span class="metric-note">14 of 45 grants · peer median 19%</span>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Median grant</span>
+            <span class="metric-value">$75,000</span>
+            <span class="metric-note">Your $60,000 ask is inside the band</span>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Payout rate</span>
+            <span class="metric-value">5.4%</span>
+            <span class="metric-note">Rising 3 years — 5.0 → 5.2 → 5.4</span>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Accepts unsolicited</span>
+            <span class="metric-value">Yes</span>
+            <span class="metric-note">Rolling deadline, LOI first</span>
+          </div>
+        </div>
+
+        <p class="cite">
+          <b>Evidence.</b> Form 990-PF, Part XV line 3a, FY2022–FY2025 · e-filed, 4 of 4 years<br>
+          <b>Confidence.</b> High
+        </p>
+      </div>
+    </article>
+
+    <!-- ============ RELATIONSHIP PATH ============ -->
+    <article class="entry route" data-verdict="route">
+      <button class="row-btn" aria-expanded="false">
+        <span class="stamp">Relationship</span>
+        <span class="row-main">
+          <span class="row-name">Pemberton Family Foundation</span>
+          <span class="row-reason">Closed to applications but actively adding grantees — one warm path</span>
+        </span>
+        <span class="row-meta">
+          <span>new grantee <span class="ngr">22%</span></span>
+          <span class="caret" aria-hidden="true"></span>
+        </span>
+      </button>
+
+      <div class="evidence">
+        <p class="verdict-line">
+          Pemberton declines unsolicited requests, so an application is wasted
+          effort. But it added nine new grantees in four years, which means the
+          portfolio is genuinely open — by invitation. Do not apply. Get introduced.
+        </p>
+
+        <div class="path">
+          <p class="path-title">Identified path</p>
+          <div class="hop"><span class="hop-dot"></span><span><b>Dana Whitfield</b> — your board chair</span></div>
+          <div class="hop"><span class="hop-dot"></span><span>served 2019–2023 on the board of <b>Great Lakes Literacy Alliance</b></span></div>
+          <div class="hop"><span class="hop-dot"></span><span>alongside <b>R. Pemberton</b>, listed as trustee on Pemberton's Part VIII</span></div>
+          <div class="hop"><span class="hop-dot"></span><span>Great Lakes Literacy Alliance received Pemberton grants in FY2023 and FY2025</span></div>
+        </div>
+
+        <div class="ev-grid">
+          <div class="metric">
+            <span class="metric-label">New-grantee rate, 4yr</span>
+            <span class="metric-value">22.0%</span>
+            <div class="bar"><span style="width:45%"></span></div>
+            <span class="metric-note">9 of 41 grants · peer median 19%</span>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Median grant</span>
+            <span class="metric-value">$50,000</span>
+            <span class="metric-note">Your ask is slightly above median</span>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Accepts unsolicited</span>
+            <span class="metric-value">No</span>
+            <span class="metric-note">Part XV line 2 — invitation only</span>
+          </div>
+        </div>
+
+        <p class="cite">
+          <b>Evidence.</b> Form 990-PF Part XV line 3a and Part VIII (officers, directors,
+          trustees), FY2022–FY2025 · board overlap derived from Form 990 Part VII of
+          Great Lakes Literacy Alliance, FY2019–FY2023<br>
+          <b>Confidence.</b> Medium — trustee match on name and city, not on a
+          unique identifier. <b>Verify before outreach.</b>
+        </p>
+      </div>
+    </article>
+
+    <!-- ============ NO VERDICT — the bounded refusal ============ -->
+    <article class="entry none" data-verdict="none">
+      <button class="row-btn" aria-expanded="false">
+        <span class="stamp">No verdict</span>
+        <span class="row-main">
+          <span class="row-name">The Bellhaven Fund</span>
+          <span class="row-reason">Insufficient filing data — cannot compute a new-grantee rate</span>
+        </span>
+        <span class="row-meta">
+          <span>new grantee <span class="ngr">—</span></span>
+          <span class="caret" aria-hidden="true"></span>
+        </span>
+      </button>
+
+      <div class="evidence">
+        <p class="verdict-line">
+          Bellhaven filed on paper for FY2023 and FY2024, so its grant schedule is
+          not machine-readable. Two years of an incomplete series cannot support a
+          verdict, and this tool will not manufacture one. Manual review, or wait
+          for the FY2026 e-filing.
+        </p>
+
+        <div class="ev-grid">
+          <div class="metric">
+            <span class="metric-label">Years machine-readable</span>
+            <span class="metric-value">2 of 4</span>
+            <span class="metric-note">FY2022 and FY2025 only</span>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Minimum for a verdict</span>
+            <span class="metric-value">3 consecutive</span>
+            <span class="metric-note">Threshold not met</span>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Accepts unsolicited</span>
+            <span class="metric-value">Yes</span>
+            <span class="metric-note">Part XV line 2 — the one fact we do have</span>
+          </div>
+        </div>
+
+        <p class="cite">
+          <b>Why no verdict.</b> A new-grantee rate computed across a broken series
+          would understate repeat funding and could read as open when it is not.
+          The failure mode of a wrong "apply" is 17 wasted hours; the failure mode
+          of a wrong "do not apply" is a missed grant. Neither is worth guessing.
+        </p>
+      </div>
+    </article>
+
+    <!-- ============ remaining rows, collapsed ============ -->
+    <article class="entry stop" data-verdict="stop">
+      <button class="row-btn" aria-expanded="false">
+        <span class="stamp">Do not apply</span>
+        <span class="row-main">
+          <span class="row-name">Ashby &amp; Vale Foundation</span>
+          <span class="row-reason">Grant ceiling sits far below your ask</span>
+        </span>
+        <span class="row-meta">
+          <span>new grantee <span class="ngr">8.4%</span></span>
+          <span class="caret" aria-hidden="true"></span>
+        </span>
+      </button>
+      <div class="evidence">
+        <p class="verdict-line">
+          Ashby &amp; Vale does fund new organizations, but its largest grant in four
+          years was $18,000 against your $60,000 ask. A successful application here
+          still leaves the gap unfilled.
+        </p>
+        <div class="ev-grid">
+          <div class="metric">
+            <span class="metric-label">Median grant</span>
+            <span class="metric-value">$12,000</span>
+            <span class="metric-note">Largest award FY2022–25: $18,000</span>
+          </div>
+          <div class="metric">
+            <span class="metric-label">New-grantee rate, 4yr</span>
+            <span class="metric-value">8.4%</span>
+            <div class="bar"><span style="width:17%"></span></div>
+            <span class="metric-note">7 of 83 grants</span>
+          </div>
+        </div>
+        <p class="cite"><b>Evidence.</b> Form 990-PF Part XV line 3a, FY2022–FY2025 · e-filed, 4 of 4 years</p>
+      </div>
+    </article>
+
+    <article class="entry go" data-verdict="go">
+      <button class="row-btn" aria-expanded="false">
+        <span class="stamp">Apply</span>
+        <span class="row-main">
+          <span class="row-name">The Quillon Fund</span>
+          <span class="row-reason">Young portfolio, funding new organizations at a high rate</span>
+        </span>
+        <span class="row-meta">
+          <span>new grantee <span class="ngr">44%</span></span>
+          <span class="caret" aria-hidden="true"></span>
+        </span>
+      </button>
+      <div class="evidence">
+        <p class="verdict-line">
+          Quillon began grantmaking in FY2022 and is still assembling a portfolio,
+          which is the most favorable moment to approach any foundation. Grant sizes
+          are rising year over year.
+        </p>
+        <div class="ev-grid">
+          <div class="metric">
+            <span class="metric-label">New-grantee rate, 3yr</span>
+            <span class="metric-value">44.0%</span>
+            <div class="bar"><span style="width:90%"></span></div>
+            <span class="metric-note">11 of 25 grants</span>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Median grant</span>
+            <span class="metric-value">$45,000</span>
+            <span class="metric-note">Trending up: $30K → $45K → $55K</span>
+          </div>
+        </div>
+        <p class="cite">
+          <b>Evidence.</b> Form 990-PF Part XV line 3a, FY2022–FY2025 · e-filed, 3 of 3 filed years<br>
+          <b>Confidence.</b> Medium — short series, rate may be inflated by portfolio startup
+        </p>
+      </div>
+    </article>
+
+    <article class="entry route" data-verdict="route">
+      <button class="row-btn" aria-expanded="false">
+        <span class="stamp">Relationship</span>
+        <span class="row-main">
+          <span class="row-name">Marchetti Family Trust</span>
+          <span class="row-reason">Invitation only — two candidate paths, both weak</span>
+        </span>
+        <span class="row-meta">
+          <span>new grantee <span class="ngr">19%</span></span>
+          <span class="caret" aria-hidden="true"></span>
+        </span>
+      </button>
+      <div class="evidence">
+        <p class="verdict-line">
+          Marchetti adds grantees at the peer median but takes no applications. Two
+          possible introductions surfaced, neither strong enough to lead with —
+          treat this as a twelve-month relationship, not a this-cycle opportunity.
+        </p>
+        <div class="path">
+          <p class="path-title">Candidate paths</p>
+          <div class="hop"><span class="hop-dot"></span><span>Shared vendor auditor with <b>two</b> current grantees — weak signal</span></div>
+          <div class="hop"><span class="hop-dot"></span><span>Your program director and a Marchetti trustee both listed on a 2024 state task force roster</span></div>
+        </div>
+        <p class="cite">
+          <b>Confidence.</b> Low — no board-level overlap found. Paths are inferred
+          from public rosters, not verified relationships.
+        </p>
+      </div>
+    </article>
+
+    <article class="entry stop" data-verdict="stop">
+      <button class="row-btn" aria-expanded="false">
+        <span class="stamp">Do not apply</span>
+        <span class="row-main">
+          <span class="row-name">Westover Foundation</span>
+          <span class="row-reason">Giving declined three straight years while assets grew</span>
+        </span>
+        <span class="row-meta">
+          <span>new grantee <span class="ngr">3.1%</span></span>
+          <span class="caret" aria-hidden="true"></span>
+        </span>
+      </button>
+      <div class="evidence">
+        <p class="verdict-line">
+          Westover's grant budget has fallen every year since FY2022 while its
+          assets rose, and it is paying out at the statutory floor. The portfolio
+          is contracting around existing commitments.
+        </p>
+        <div class="ev-grid">
+          <div class="metric">
+            <span class="metric-label">New-grantee rate, 4yr</span>
+            <span class="metric-value">3.1%</span>
+            <div class="bar"><span style="width:7%"></span></div>
+            <span class="metric-note">2 of 64 grants</span>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Grant budget trend</span>
+            <span class="metric-value">−18%</span>
+            <span class="metric-note">FY2022 → FY2025, while assets rose 11%</span>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Payout rate</span>
+            <span class="metric-value">5.0%</span>
+            <span class="metric-note">Statutory minimum</span>
+          </div>
+        </div>
+        <p class="cite"><b>Evidence.</b> Form 990-PF Parts I, XV, FY2022–FY2025 · e-filed, 4 of 4 years</p>
+      </div>
+    </article>
+
+  </div>
+
+  <section class="method">
+    <h2>How the verdict is computed</h2>
+    <p>
+      Every figure above is derived from Form 990-PF, the annual return every US
+      private foundation files. Part XV line 3a lists grants paid with recipient
+      names; Part VIII lists officers and trustees. Comparing grantee lists across
+      consecutive filing years yields the <code>new-grantee rate</code> — the share
+      of a year's grants going to organizations the foundation had not funded in
+      the prior three years.
+    </p>
+    <p>
+      That single number does work the "accepts unsolicited proposals" checkbox
+      cannot. The checkbox is self-reported and never audited. The grant ledger is
+      behavior. A foundation reporting an open door with a 1.8% new-grantee rate is
+      telling you two different things, and only one of them is evidence.
+    </p>
+    <p>
+      Where the filing series is broken or a name match is uncertain, the tool
+      returns no verdict and says why. Refusal is a supported output, not a failure
+      state.
+    </p>
+    <div class="open-q">
+      <p>
+        <b>Open question this prototype does not answer.</b> Whether Part XV grant
+        detail is available as structured data for enough filers to compute these
+        rates at scale, or whether too much of it sits in scanned PDFs. That is a
+        half-day check against the IRS bulk e-file data, and it gates everything
+        else here.
+      </p>
+    </div>
+  </section>
+
+</main>
+
+<button class="theme-btn" id="themeBtn" type="button">Toggle theme</button>
+
+<script>
+  (function () {
+    var list = document.getElementById('list');
+
+    list.addEventListener('click', function (e) {
+      var btn = e.target.closest('.row-btn');
+      if (!btn) return;
+      var entry = btn.closest('.entry');
+      var open = entry.classList.toggle('open');
+      btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    });
+
+    var chips = Array.prototype.slice.call(document.querySelectorAll('.chip'));
+    chips.forEach(function (chip) {
+      chip.addEventListener('click', function () {
+        var f = chip.dataset.filter;
+        chips.forEach(function (c) {
+          c.setAttribute('aria-pressed', c === chip ? 'true' : 'false');
+        });
+        Array.prototype.forEach.call(list.querySelectorAll('.entry'), function (entry) {
+          entry.hidden = !(f === 'all' || entry.dataset.verdict === f);
+        });
+      });
+    });
+
+    var root = document.documentElement;
+    document.getElementById('themeBtn').addEventListener('click', function () {
+      var dark = root.getAttribute('data-theme') === 'dark'
+        || (!root.hasAttribute('data-theme')
+            && window.matchMedia('(prefers-color-scheme: dark)').matches);
+      root.setAttribute('data-theme', dark ? 'light' : 'dark');
+    });
+  })();
+</script>
