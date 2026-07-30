@@ -748,7 +748,7 @@
         <span class="stamp">No verdict</span>
         <span class="row-main">
           <span class="row-name">The Bellhaven Fund</span>
-          <span class="row-reason">Insufficient filing data — cannot compute a new-grantee rate</span>
+          <span class="row-reason">Grantee names will not resolve — match rate below threshold</span>
         </span>
         <span class="row-meta">
           <span>new grantee <span class="ngr">—</span></span>
@@ -758,22 +758,24 @@
 
       <div class="evidence">
         <p class="verdict-line">
-          Bellhaven filed on paper for FY2023 and FY2024, so its grant schedule is
-          not machine-readable. Two years of an incomplete series cannot support a
-          verdict, and this tool will not manufacture one. Manual review, or wait
-          for the FY2026 e-filing.
+          Form 990-PF reports each grantee by name and address but carries no EIN,
+          so matching this year's grantees against prior years is a name-matching
+          problem. Bellhaven's preparer changed in FY2024 and the naming convention
+          changed with it. Only 69% of its grant lines resolve to a stable
+          organization — below the 85% this tool requires before it will speak.
         </p>
 
         <div class="ev-grid">
           <div class="metric">
-            <span class="metric-label">Years machine-readable</span>
-            <span class="metric-value">2 of 4</span>
-            <span class="metric-note">FY2022 and FY2025 only</span>
+            <span class="metric-label">Grantee names resolved</span>
+            <span class="metric-value">69%</span>
+            <div class="bar"><span style="width:69%"></span></div>
+            <span class="metric-note">128 of 186 grant lines, FY2022–FY2025</span>
           </div>
           <div class="metric">
-            <span class="metric-label">Minimum for a verdict</span>
-            <span class="metric-value">3 consecutive</span>
-            <span class="metric-note">Threshold not met</span>
+            <span class="metric-label">Threshold for a verdict</span>
+            <span class="metric-value">85%</span>
+            <span class="metric-note">Not met — 16 points short</span>
           </div>
           <div class="metric">
             <span class="metric-label">Accepts unsolicited</span>
@@ -783,10 +785,13 @@
         </div>
 
         <p class="cite">
-          <b>Why no verdict.</b> A new-grantee rate computed across a broken series
-          would understate repeat funding and could read as open when it is not.
-          The failure mode of a wrong "apply" is 17 wasted hours; the failure mode
-          of a wrong "do not apply" is a missed grant. Neither is worth guessing.
+          <b>Why no verdict.</b> An unresolved name is indistinguishable from a
+          first-time grantee, so a low match rate inflates the new-grantee rate and
+          makes a closed foundation look open. The error runs in exactly the
+          direction this tool exists to prevent. A wrong "apply" costs 17 hours; a
+          wrong "do not apply" costs a grant. Neither is worth guessing at 69%.<br>
+          <b>Resolvable.</b> Manual reconciliation of 58 grant lines would clear
+          the threshold.
         </p>
       </div>
     </article>
@@ -954,17 +959,25 @@
       telling you two different things, and only one of them is evidence.
     </p>
     <p>
-      Where the filing series is broken or a name match is uncertain, the tool
-      returns no verdict and says why. Refusal is a supported output, not a failure
-      state.
+      Where grantee names will not resolve at a high enough rate, the tool returns
+      no verdict and says why. Refusal is a supported output, not a failure state —
+      an unresolved name looks exactly like a first-time grantee, which would make
+      a closed foundation read as open.
     </p>
     <div class="open-q">
       <p>
-        <b>Open question this prototype does not answer.</b> Whether Part XV grant
-        detail is available as structured data for enough filers to compute these
-        rates at scale, or whether too much of it sits in scanned PDFs. That is a
-        half-day check against the IRS bulk e-file data, and it gates everything
-        else here.
+        <b>Feasibility, checked.</b> The grant schedule is a mandatory repeating
+        element in the 990-PF e-file schema — recipient name, address, purpose and
+        amount — and the Taxpayer First Act eliminated paper filing for all private
+        foundations for tax years ending on or after 31 July 2020. Coverage for this
+        window is effectively complete.
+      </p>
+      <p>
+        <b>The live risk is different from the expected one.</b> Part XV carries no
+        recipient EIN, so every comparison is a name match. That is tractable within
+        one foundation's own filing series, but match quality varies by preparer —
+        and per-filer match rates on real data are the number that decides whether
+        this works. It cannot be known without running it.
       </p>
     </div>
   </section>
