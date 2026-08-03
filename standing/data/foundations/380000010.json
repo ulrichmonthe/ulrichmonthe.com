@@ -1,0 +1,78 @@
+{
+  "asset_band": "10-100M",
+  "ein": "380000010",
+  "metrics": {
+    "grant_sizes": {
+      "max": 137000.0,
+      "median": 78000.0,
+      "min": 26000.0,
+      "p25": 46000.0,
+      "p75": 120000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 1,
+    "new_grantee_count_pooled": 4,
+    "new_grantee_rate_pooled": 0.1481,
+    "peer_basis": "demo:assets",
+    "peer_cell_size": 4,
+    "peer_median_new_grantee_rate": 0.2064,
+    "repeat_dollar_concentration": 0.8345,
+    "total_grantee_count_latest": 9,
+    "total_grantee_count_pooled": 27
+  },
+  "name": "Kestrel Foundation",
+  "ntee_major": "S",
+  "provenance": {
+    "as_of_fiscal_year": 2024,
+    "computed_at": "2026-08-03",
+    "next_recompute_expected": "2026-11-01",
+    "source": "SYNTHETIC \u2014 demonstration data, not IRS filings"
+  },
+  "quality": {
+    "ambiguous_records": 3,
+    "clusters_formed": 15,
+    "drift_review_flag": false,
+    "duplicate_filings_dropped": 0,
+    "gate_failures": [],
+    "individual_grants_excluded": 0,
+    "match_rate": 0.94,
+    "publishable": true,
+    "singleton_cluster_share": 0.2667,
+    "total_grant_records": 50
+  },
+  "self_reported": {
+    "accepts_unsolicited": true,
+    "application_info_text": null
+  },
+  "slug": "kestrel-foundation",
+  "state": "MI",
+  "status_band": "Adds new grantees occasionally",
+  "window": {
+    "eligible_year_count": 3,
+    "eligible_years": [
+      2022,
+      2023,
+      2024
+    ],
+    "end_year": 2024,
+    "latest_eligible_year": 2024,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  }
+}

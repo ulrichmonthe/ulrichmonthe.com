@@ -1,0 +1,78 @@
+{
+  "asset_band": "1-10M",
+  "ein": "380000003",
+  "metrics": {
+    "grant_sizes": {
+      "max": 17000.0,
+      "median": 9000.0,
+      "min": 6000.0,
+      "p25": 7000.0,
+      "p75": 14000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 1,
+    "new_grantee_count_pooled": 3,
+    "new_grantee_rate_pooled": 0.1111,
+    "peer_basis": "demo:assets",
+    "peer_cell_size": 2,
+    "peer_median_new_grantee_rate": 0.1852,
+    "repeat_dollar_concentration": 0.8706,
+    "total_grantee_count_latest": 9,
+    "total_grantee_count_pooled": 27
+  },
+  "name": "Ashby and Vale Foundation",
+  "ntee_major": "P",
+  "provenance": {
+    "as_of_fiscal_year": 2024,
+    "computed_at": "2026-08-03",
+    "next_recompute_expected": "2026-11-01",
+    "source": "SYNTHETIC \u2014 demonstration data, not IRS filings"
+  },
+  "quality": {
+    "ambiguous_records": 0,
+    "clusters_formed": 13,
+    "drift_review_flag": false,
+    "duplicate_filings_dropped": 0,
+    "gate_failures": [],
+    "individual_grants_excluded": 0,
+    "match_rate": 1.0,
+    "publishable": true,
+    "singleton_cluster_share": 0.3846,
+    "total_grant_records": 45
+  },
+  "self_reported": {
+    "accepts_unsolicited": true,
+    "application_info_text": null
+  },
+  "slug": "ashby-and-vale-foundation",
+  "state": "OH",
+  "status_band": "Adds new grantees occasionally",
+  "window": {
+    "eligible_year_count": 3,
+    "eligible_years": [
+      2022,
+      2023,
+      2024
+    ],
+    "end_year": 2024,
+    "latest_eligible_year": 2024,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  }
+}

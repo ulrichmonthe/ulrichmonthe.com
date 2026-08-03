@@ -1,0 +1,479 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Funder Standing — Ulrich Monthe</title>
+  <meta name="description" content="How often does a foundation fund an organization it hasn't funded before? Computed from Form 990-PF grant schedules. Facts, not advice. Free, no login.">
+  <link rel="canonical" href="https://ulrichmonthe.com/live-projects/funder-standing/">
+  <link rel="icon" type="image/svg+xml" href="../../favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <meta property="og:title" content="Funder Standing — does this foundation fund anyone new?">
+  <meta property="og:description" content="New-grantee rates computed from Form 990-PF grant schedules. Facts with their error bars, not recommendations.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://ulrichmonthe.com/live-projects/funder-standing/">
+  <meta property="og:image" content="https://ulrichmonthe.com/og-image.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Funder Standing — does this foundation fund anyone new?">
+  <meta name="twitter:image" content="https://ulrichmonthe.com/og-image.png">
+  <style>
+    :root {
+      --ink: #1c1a17; --ink-soft: #5b554c; --paper: #f5f1e8; --paper-raised: #fbf9f3;
+      --paper-deep: #ede7d9;
+      --accent: #a8763e; --accent-deep: #8a5f30; --accent-soft: #efe6d6; --rule: #e2dbcb;
+      --green: #3d6b48; --amber: #8a5f30; --red: #9a4a32;
+      --serif: "Newsreader", "Iowan Old Style", Georgia, serif;
+      --sans: "Instrument Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      --mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: var(--sans); background: var(--paper); color: var(--ink); line-height: 1.65; font-size: 16px; -webkit-font-smoothing: antialiased; }
+    .wrap { max-width: 880px; margin: 0 auto; padding: 0 24px; }
+
+    nav { font-family: var(--sans); font-size: 14px; display: flex; justify-content: space-between; align-items: center; padding: 28px 0; }
+    nav .mark { display: inline-flex; align-items: center; gap: 11px; text-decoration: none; color: var(--ink); }
+    .mark-mono { font-family: var(--serif); font-size: 17px; font-weight: 600; color: var(--paper); background: var(--accent); width: 31px; height: 31px; border-radius: 7px; display: inline-flex; align-items: center; justify-content: center; letter-spacing: -0.03em; }
+    .mark-name { font-family: var(--serif); font-size: 20px; font-weight: 500; letter-spacing: -0.01em; }
+    nav ul { display: flex; gap: 28px; list-style: none; }
+    nav ul a { color: var(--ink-soft); text-decoration: none; }
+    nav ul a:hover { color: var(--accent-deep); }
+
+    .crumb { font-family: var(--mono); font-size: 12px; letter-spacing: .06em; text-transform: uppercase; color: var(--ink-soft); padding-top: 26px; }
+    .crumb a { color: var(--accent-deep); text-decoration: none; }
+
+    h1 { font-family: var(--serif); font-size: clamp(30px, 4.6vw, 44px); font-weight: 600; line-height: 1.15; letter-spacing: -0.015em; margin: 12px 0 18px; }
+    .lede { font-family: var(--serif); font-size: 19.5px; color: var(--ink-soft); max-width: 60ch; }
+
+    .answer { margin-top: 24px; background: var(--paper-raised); border: 1px solid var(--rule); border-left: 4px solid var(--accent); border-radius: 0 10px 10px 0; padding: 20px 24px; font-size: 16px; color: var(--ink-soft); max-width: 68ch; }
+    .answer strong { color: var(--ink); }
+
+    .synthetic { margin-top: 20px; background: var(--accent-soft); border-radius: 10px; padding: 16px 20px; font-size: 14.5px; color: var(--accent-deep); max-width: 68ch; }
+    .synthetic b { font-weight: 700; }
+
+    section { padding: 44px 0 0; }
+    h2 { font-family: var(--serif); font-size: 26px; font-weight: 600; line-height: 1.25; margin-bottom: 12px; }
+    h3 { font-family: var(--serif); font-size: 19px; font-weight: 600; margin: 22px 0 8px; }
+    p { color: var(--ink-soft); max-width: 66ch; }
+    p + p { margin-top: 12px; }
+
+    .toolbar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 16px; }
+    .toolbar input { flex: 1; min-width: 200px; font-family: var(--sans); font-size: 15px; padding: 12px 14px; border: 1.5px solid var(--rule); border-radius: 10px; background: var(--paper-raised); color: var(--ink); outline: none; }
+    .toolbar input:focus { border-color: var(--accent); }
+    .chip { font-family: var(--sans); font-size: 13.5px; color: var(--ink-soft); background: var(--paper-raised); border: 1px solid var(--rule); border-radius: 100px; padding: 7px 14px; cursor: pointer; }
+    .chip:hover { border-color: var(--accent); }
+    .chip[aria-pressed="true"] { background: var(--accent-deep); border-color: var(--accent-deep); color: var(--paper); font-weight: 600; }
+    .chip:focus-visible, .rowbtn:focus-visible, .act:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+    .list { border: 1px solid var(--rule); border-radius: 10px; background: var(--paper-raised); overflow: hidden; }
+    .entry { border-bottom: 1px solid var(--rule); }
+    .entry:last-child { border-bottom: 0; }
+    .entry[hidden] { display: none; }
+
+    .rowbtn { width: 100%; display: grid; grid-template-columns: 1fr auto; gap: 6px 16px; align-items: center; padding: 15px 18px; background: transparent; border: 0; text-align: left; font: inherit; color: inherit; cursor: pointer; }
+    .rowbtn:hover { background: var(--paper-deep); }
+    .rname { font-family: var(--serif); font-size: 18px; font-weight: 600; letter-spacing: -0.01em; }
+    .rfact { font-size: 14px; color: var(--ink-soft); margin-top: 2px; }
+    .rmeta { display: flex; align-items: center; gap: 12px; font-family: var(--mono); font-size: 13px; color: var(--ink-soft); font-variant-numeric: tabular-nums; }
+    .band { font-family: var(--sans); font-size: 11.5px; font-weight: 700; letter-spacing: 0.07em; text-transform: uppercase; padding: 5px 11px; border-radius: 100px; white-space: nowrap; }
+    .band.reg { background: #e3ecdd; color: var(--green); }
+    .band.occ { background: var(--accent-soft); color: var(--accent-deep); }
+    .band.rare { background: #f2e0da; color: var(--red); }
+    .band.none { background: var(--paper-deep); color: var(--ink-soft); }
+    .caret { width: 8px; height: 8px; border-right: 1.5px solid var(--ink-soft); border-bottom: 1.5px solid var(--ink-soft); transform: rotate(45deg); transition: transform .14s ease; }
+    .entry.open .caret { transform: rotate(-135deg); }
+
+    .ev { padding: 4px 18px 22px; background: var(--paper-deep); border-top: 1px solid var(--rule); }
+    .entry:not(.open) .ev { display: none; }
+    .headline { font-family: var(--serif); font-size: 18px; line-height: 1.5; color: var(--ink); margin: 16px 0 6px; max-width: 62ch; }
+    .peer { font-size: 14.5px; color: var(--ink-soft); margin-bottom: 18px; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(165px, 1fr)); gap: 16px 22px; margin-bottom: 18px; }
+    .m-l { font-family: var(--sans); font-size: 11.5px; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; color: var(--ink-soft); }
+    .m-v { font-family: var(--mono); font-size: 17px; font-variant-numeric: tabular-nums; margin-top: 3px; }
+    .m-n { font-size: 13px; color: var(--ink-soft); margin-top: 2px; }
+    .bar { height: 5px; background: var(--rule); border-radius: 3px; overflow: hidden; margin-top: 5px; }
+    .bar span { display: block; height: 100%; background: var(--accent); border-radius: 3px; }
+    .prov { font-family: var(--mono); font-size: 11.5px; color: #9a927f; border-top: 1px solid var(--rule); padding-top: 11px; line-height: 1.7; }
+    .prov b { color: var(--ink-soft); font-weight: 600; }
+    .flag { background: var(--paper-raised); border: 1px solid var(--rule); border-left: 3px solid var(--amber); border-radius: 0 8px 8px 0; padding: 12px 15px; font-size: 14px; color: var(--ink-soft); margin-bottom: 16px; }
+    .flag b { color: var(--ink); }
+    .act { font-family: var(--sans); font-size: 13.5px; font-weight: 600; color: var(--accent-deep); background: var(--paper-raised); border: 1px solid var(--rule); border-radius: 100px; padding: 7px 15px; cursor: pointer; }
+    .act:hover { border-color: var(--accent); }
+    .act[data-on="1"] { background: var(--accent-deep); border-color: var(--accent-deep); color: var(--paper); }
+
+    .screen { margin-top: 16px; border: 1px solid var(--rule); border-radius: 10px; background: var(--paper-raised); padding: 20px 22px; }
+    .screen h3 { margin-top: 0; }
+    .tablewrap { overflow-x: auto; }
+    table.scr { width: 100%; border-collapse: collapse; font-size: 14px; margin-top: 10px; }
+    table.scr th { text-align: left; font-family: var(--sans); font-size: 11.5px; font-weight: 700; letter-spacing: .07em; text-transform: uppercase; color: var(--ink-soft); border-bottom: 1px solid var(--rule); padding: 8px 10px 8px 0; }
+    table.scr td { border-bottom: 1px solid var(--rule); padding: 9px 10px 9px 0; color: var(--ink-soft); }
+    table.scr td.n { font-family: var(--mono); font-variant-numeric: tabular-nums; color: var(--ink); }
+    table.scr td.name { color: var(--ink); font-weight: 600; }
+    .empty { font-size: 14.5px; color: var(--ink-soft); }
+
+    .notice { background: var(--paper-deep); border-radius: 10px; padding: 20px 24px; margin-top: 18px; font-size: 15px; color: var(--ink-soft); max-width: 68ch; }
+    .notice b { color: var(--ink); }
+    ul.plain { list-style: none; margin-top: 10px; display: grid; gap: 8px; font-size: 15px; color: var(--ink-soft); }
+    ul.plain li { padding-left: 20px; position: relative; max-width: 66ch; }
+    ul.plain li::before { content: "—"; position: absolute; left: 0; color: var(--rule); }
+    .milestones { margin-top: 22px; border-top: 1px solid var(--rule); padding-top: 18px; }
+    .milestones h3 { font-family: var(--sans); font-size: 12.5px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--ink-soft); margin: 0 0 13px; }
+    .milestones ol { list-style: none; display: grid; gap: 9px; font-size: 14.5px; color: var(--ink-soft); }
+    .milestones li { padding-left: 26px; position: relative; }
+    .milestones li::before { content: "○"; position: absolute; left: 2px; color: var(--rule); }
+    .milestones li.done::before { content: "●"; color: var(--green); }
+    .milestones li.done { color: var(--ink); }
+    .milestones li.now::before { content: "◐"; color: var(--accent-deep); }
+    .milestones li.now { color: var(--ink); font-weight: 600; }
+    .asof { font-family: var(--mono); font-size: 12px; color: #9a927f; margin-top: 22px; }
+
+    footer.site { margin-top: 68px; border-top: 1px solid var(--rule); padding: 30px 0 52px; font-size: 14px; color: var(--ink-soft); display: flex; justify-content: space-between; flex-wrap: wrap; gap: 16px; }
+    footer.site a { color: var(--accent-deep); text-decoration: none; }
+
+    @media (max-width: 680px) {
+      nav ul { gap: 18px; }
+      .rmeta .num { display: none; }
+    }
+    @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <nav>
+      <a class="mark" href="/" aria-label="Ulrich Monthe — home">
+        <span class="mark-mono">UM</span>
+        <span class="mark-name">Ulrich Monthe</span>
+      </a>
+      <ul>
+        <li><a href="/live-projects/">Live Projects</a></li>
+        <li><a href="/#about">About</a></li>
+        <li><a href="/#contact">Contact</a></li>
+      </ul>
+    </nav>
+
+    <div class="crumb"><a href="/live-projects/">Live Projects</a> / Funder Standing</div>
+
+    <h1>Does this foundation fund anyone new?</h1>
+
+    <p class="lede">
+      A foundation can keep an open application portal for a decade and still
+      fund the same thirty organizations every year. That difference is visible
+      in its own tax filings, and almost nowhere else.
+    </p>
+
+    <div class="answer">
+      <strong>What this shows.</strong> For each foundation: how many of the
+      organizations it funded last year were ones it had not funded before,
+      how that compares to similar foundations, what it typically grants, and
+      how much confidence the underlying name-matching supports. It reports
+      what the filings say. It does not tell you where to apply — that
+      judgment depends on things no tax return contains.
+    </div>
+
+    <div class="synthetic">
+      <b>Demonstration data.</b> Every foundation below is invented. The figures
+      are real output from the production pipeline run over synthesised filings,
+      so the arithmetic and the quality gates are genuine — but no real
+      organization is described here. The IRS extraction that replaces this is
+      the next milestone.
+    </div>
+
+    <section>
+      <h2>Screen a set of funders</h2>
+      <p>
+        Filter the list, open any row for the evidence behind the figure, and
+        add rows to a screen you can export. Nothing is stored on a server and
+        there is no account.
+      </p>
+
+      <div class="toolbar" style="margin-top:18px">
+        <input id="q" type="search" placeholder="Search by name or state…" aria-label="Search foundations">
+        <button class="chip" data-f="all" aria-pressed="true">All</button>
+        <button class="chip" data-f="reg" aria-pressed="false">Regularly</button>
+        <button class="chip" data-f="occ" aria-pressed="false">Occasionally</button>
+        <button class="chip" data-f="rare" aria-pressed="false">Rarely</button>
+        <button class="chip" data-f="none" aria-pressed="false">No comparison</button>
+      </div>
+
+      <div class="list" id="list"><div style="padding:20px" class="empty">Loading…</div></div>
+
+      <div class="screen">
+        <h3>Your screen <span id="scount" style="font-family:var(--mono);font-size:13px;color:var(--ink-soft);font-weight:400"></span></h3>
+        <div id="screenBody"><p class="empty">Add foundations from the list above to build a comparable table you can export.</p></div>
+      </div>
+      <div class="asof" id="asof"></div>
+    </section>
+
+    <section>
+      <h2>How the figure is computed</h2>
+      <p>
+        Every US private foundation files Form 990-PF, and Part XV of that
+        return itemises every grant it paid, with the recipient's name. Line
+        those lists up across consecutive filing years and you can see which
+        organizations were funded for the first time.
+      </p>
+      <p>
+        That does work the application checkbox cannot. Whether a foundation
+        says it accepts unsolicited proposals is self-reported and never
+        audited. The grant ledger is behaviour.
+      </p>
+
+      <h3>Where it is uncertain, and why that is shown</h3>
+      <p>
+        Form 990-PF records a recipient's name and address but no EIN, so
+        deciding whether this year's grantee is last year's grantee is a
+        name-matching problem, not a lookup. Match rate is published on every
+        row for that reason. Below 85% no comparison is shown at all.
+      </p>
+      <div class="notice">
+        <b>One limitation worth stating plainly.</b> Match rate does not detect
+        a renamed grantee. When a preparer changes and the same organization is
+        written differently, the record does not become ambiguous — it becomes
+        a second entity, which reads as a new grantee and pushes the figure up.
+        A high share of one-year-only recipients is flagged on the row where it
+        appears, but distinguishing genuine turnover from a renaming still
+        requires reading the filings.
+      </div>
+
+      <h3>What it does not tell you</h3>
+      <ul class="plain">
+        <li>Whether your work fits what the foundation funds — no tax return contains that.</li>
+        <li>Whether someone on your board already knows a trustee, which is how a great deal of foundation money actually moves.</li>
+        <li>What has changed since the last filing. These returns run twelve to twenty-four months behind.</li>
+        <li>Anything about foundations that state they do not accept unsolicited requests, beyond that they say so.</li>
+      </ul>
+
+      <div class="milestones">
+        <h3>Status</h3>
+        <ol>
+          <li class="done">Pipeline built to spec — clustering, drift guards, publication gate, 36 correctness checks passing</li>
+          <li class="now">Now: IRS Form 990-PF extraction, replacing the demonstration dataset</li>
+          <li>Then: per-foundation pages, and an index of how often foundations fund anyone new</li>
+          <li>Then: opt-in board-history check, using only officer listings from public filings</li>
+        </ol>
+      </div>
+    </section>
+
+    <footer class="site">
+      <span>© 2026 Ulrich Monthe</span>
+      <span><a href="/live-projects/">Live Projects</a> · <a href="/#contact">Get in touch</a></span>
+    </footer>
+  </div>
+
+<script>
+(function () {
+  var DATA = null, SEL = [], FILTER = 'all', Q = '';
+  var list = document.getElementById('list');
+  var KEY = 'standing.screen.v1';
+
+  try { SEL = JSON.parse(localStorage.getItem(KEY)) || []; } catch (e) { SEL = []; }
+
+  function bandClass(b) {
+    if (!b) return 'none';
+    if (b.indexOf('regularly') > -1) return 'reg';
+    if (b.indexOf('occasionally') > -1) return 'occ';
+    if (b.indexOf('Rarely') > -1) return 'rare';
+    return 'none';
+  }
+  function money(n) {
+    if (n === null || n === undefined) return '—';
+    return '$' + Math.round(n).toLocaleString('en-US');
+  }
+  function pct(n) {
+    return (n === null || n === undefined) ? '—' : (n * 100).toFixed(1) + '%';
+  }
+  function esc(s) {
+    return String(s).replace(/[&<>"]/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c];
+    });
+  }
+
+  function evidence(f) {
+    if (!f.publishable) {
+      var why = (f.gate_failures || []).map(function (g) {
+        return {
+          match_rate: 'grantee names could not be matched reliably enough',
+          eligible_year_count: 'too few consecutive filing years to compare against',
+          total_grantee_count_pooled: 'too few grantees to compute a stable figure',
+          recency: 'the most recent usable filing is too old'
+        }[g] || g;
+      }).join('; ');
+      return '<div class="ev"><p class="headline">No comparison is shown for this foundation because ' +
+        esc(why) + '.</p><p class="peer">The application status below comes straight from the filing and is unaffected.</p>' +
+        '<div class="grid"><div><div class="m-l">Accepts unsolicited</div><div class="m-v">' +
+        (f.accepts_unsolicited ? 'Yes' : 'No') + '</div><div class="m-n">Self-reported on the return</div></div>' +
+        '<div><div class="m-l">Match rate</div><div class="m-v">' + pct(f.match_rate) + '</div>' +
+        '<div class="m-n">85% required before a figure is published</div></div></div>' +
+        '<p class="prov"><b>Source.</b> Form 990-PF Part XV, ' + esc(String(f.latest_year || 'n/a')) +
+        ' · <b>Note.</b> A figure computed on this basis could mislead, so none is given.</p></div>';
+    }
+
+    var bar = Math.max(2, Math.min(100, Math.round((f.rate_pooled || 0) * 260)));
+    var drift = f.drift_review_flag
+      ? '<div class="flag"><b>Flagged for review.</b> A high share of this funder\'s recipients appear in only one year. That is what genuine turnover looks like, and also what a renamed grantee looks like. The figure may be overstated.</div>'
+      : '';
+
+    return '<div class="ev">' + drift +
+      '<p class="headline">' + f.new_latest + ' of ' + f.total_latest +
+      ' organizations funded in FY' + f.latest_year + ' had not been funded in the prior ' +
+      (f.lookback || 3) + ' years.</p>' +
+      '<p class="peer">Across all compared years the rate is ' + pct(f.rate_pooled) +
+      (f.peer_median !== null && f.peer_median !== undefined
+        ? '. Similar foundations sit at ' + pct(f.peer_median) + ' (illustrative — the demonstration set is far below the sample size a published median would need).'
+        : '. No peer comparison available.') + '</p>' +
+      '<div class="grid">' +
+      '<div><div class="m-l">New-grantee rate</div><div class="m-v">' + pct(f.rate_pooled) +
+      '</div><div class="bar"><span style="width:' + bar + '%"></span></div>' +
+      '<div class="m-n">Pooled across compared years</div></div>' +
+      '<div><div class="m-l">Median grant</div><div class="m-v">' + money(f.median_grant) +
+      '</div><div class="m-n">Most recent compared year</div></div>' +
+      '<div><div class="m-l">Accepts unsolicited</div><div class="m-v">' +
+      (f.accepts_unsolicited ? 'Yes' : 'No') + '</div><div class="m-n">Self-reported on the return</div></div>' +
+      '<div><div class="m-l">Match rate</div><div class="m-v">' + pct(f.match_rate) +
+      '</div><div class="m-n">Share of grant lines resolved</div></div>' +
+      '</div>' +
+      '<p class="prov"><b>Source.</b> Form 990-PF Part XV line 3a, through FY' + f.latest_year +
+      ' · <b>Lookback.</b> ' + (f.lookback || 3) + ' preceding filing years' +
+      ' · <b>Recompute.</b> On the next filing<br><b>Data.</b> Demonstration dataset — synthetic, not a real foundation</p>' +
+      '<div style="margin-top:14px"><button class="act" data-add="' + esc(f.ein) + '"' +
+      (SEL.indexOf(f.ein) > -1 ? ' data-on="1"' : '') + '>' +
+      (SEL.indexOf(f.ein) > -1 ? 'On your screen' : 'Add to screen') + '</button></div></div>';
+  }
+
+  function render() {
+    var rows = DATA.foundations.filter(function (f) {
+      if (FILTER !== 'all' && bandClass(f.status_band) !== FILTER) return false;
+      if (Q && (f.name + ' ' + f.state).toLowerCase().indexOf(Q) < 0) return false;
+      return true;
+    });
+    if (!rows.length) {
+      list.innerHTML = '<div style="padding:22px" class="empty">No foundations match that.</div>';
+      return;
+    }
+    list.innerHTML = rows.map(function (f) {
+      var fact = f.publishable
+        ? f.new_latest + ' of ' + f.total_latest + ' funded in FY' + f.latest_year + ' were new'
+        : 'Not enough matched data to compare';
+      return '<article class="entry" data-ein="' + esc(f.ein) + '">' +
+        '<button class="rowbtn" aria-expanded="false">' +
+        '<span><span class="rname">' + esc(f.name) + '</span>' +
+        '<span class="rfact">' + fact + ' · ' + esc(f.state) + '</span></span>' +
+        '<span class="rmeta"><span class="num">' + pct(f.rate_pooled) + '</span>' +
+        '<span class="band ' + bandClass(f.status_band) + '">' + esc(f.status_band) + '</span>' +
+        '<span class="caret" aria-hidden="true"></span></span></button>' +
+        evidence(f) + '</article>';
+    }).join('');
+  }
+
+  function renderScreen() {
+    var body = document.getElementById('screenBody');
+    var cnt = document.getElementById('scount');
+    cnt.textContent = SEL.length ? '(' + SEL.length + ')' : '';
+    if (!SEL.length) {
+      body.innerHTML = '<p class="empty">Add foundations from the list above to build a comparable table you can export.</p>';
+      return;
+    }
+    var picked = SEL.map(function (e) {
+      return DATA.foundations.filter(function (f) { return f.ein === e; })[0];
+    }).filter(Boolean);
+
+    body.innerHTML = '<div class="tablewrap"><table class="scr"><thead><tr>' +
+      '<th>Foundation</th><th>New / total</th><th>Rate</th><th>Median grant</th>' +
+      '<th>Unsolicited</th><th>Match</th><th>As of</th></tr></thead><tbody>' +
+      picked.map(function (f) {
+        return '<tr><td class="name">' + esc(f.name) + '</td>' +
+          '<td class="n">' + (f.publishable ? f.new_latest + ' / ' + f.total_latest : '—') + '</td>' +
+          '<td class="n">' + (f.publishable ? pct(f.rate_pooled) : '—') + '</td>' +
+          '<td class="n">' + (f.publishable ? money(f.median_grant) : '—') + '</td>' +
+          '<td>' + (f.accepts_unsolicited ? 'Yes' : 'No') + '</td>' +
+          '<td class="n">' + pct(f.match_rate) + '</td>' +
+          '<td class="n">FY' + (f.latest_year || '—') + '</td></tr>';
+      }).join('') + '</tbody></table></div>' +
+      '<div style="margin-top:14px;display:flex;gap:10px;flex-wrap:wrap">' +
+      '<button class="act" id="csv">Export CSV</button>' +
+      '<button class="act" id="printit">Print / save PDF</button>' +
+      '<button class="act" id="clear">Clear</button></div>';
+
+    document.getElementById('csv').onclick = function () {
+      var head = ['Foundation', 'State', 'New grantees', 'Total grantees', 'New-grantee rate',
+                  'Median grant', 'Accepts unsolicited', 'Match rate', 'As of FY', 'Source'];
+      var lines = [head.join(',')].concat(picked.map(function (f) {
+        return [f.name, f.state,
+                f.publishable ? f.new_latest : '', f.publishable ? f.total_latest : '',
+                f.publishable ? (f.rate_pooled * 100).toFixed(1) + '%' : '',
+                f.publishable ? f.median_grant : '',
+                f.accepts_unsolicited ? 'Yes' : 'No',
+                (f.match_rate * 100).toFixed(1) + '%',
+                f.latest_year || '',
+                'Form 990-PF Part XV (DEMONSTRATION DATA - synthetic)'
+        ].map(function (v) { return '"' + String(v).replace(/"/g, '""') + '"'; }).join(',');
+      }));
+      var blob = new Blob([lines.join('\n')], { type: 'text/csv' });
+      var a = document.createElement('a');
+      a.href = URL.createObjectURL(blob);
+      a.download = 'funder-standing-screen.csv';
+      a.click();
+      URL.revokeObjectURL(a.href);
+    };
+    document.getElementById('printit').onclick = function () { window.print(); };
+    document.getElementById('clear').onclick = function () {
+      SEL = []; save(); render(); renderScreen();
+    };
+  }
+
+  function save() { try { localStorage.setItem(KEY, JSON.stringify(SEL)); } catch (e) {} }
+
+  list.addEventListener('click', function (e) {
+    var add = e.target.closest('[data-add]');
+    if (add) {
+      var ein = add.getAttribute('data-add');
+      var i = SEL.indexOf(ein);
+      if (i > -1) { SEL.splice(i, 1); add.removeAttribute('data-on'); add.textContent = 'Add to screen'; }
+      else { SEL.push(ein); add.setAttribute('data-on', '1'); add.textContent = 'On your screen'; }
+      save(); renderScreen();
+      return;
+    }
+    var btn = e.target.closest('.rowbtn');
+    if (!btn) return;
+    var entry = btn.closest('.entry');
+    var open = entry.classList.toggle('open');
+    btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+  });
+
+  Array.prototype.forEach.call(document.querySelectorAll('.chip'), function (c) {
+    c.addEventListener('click', function () {
+      FILTER = c.getAttribute('data-f');
+      Array.prototype.forEach.call(document.querySelectorAll('.chip'), function (o) {
+        o.setAttribute('aria-pressed', o === c ? 'true' : 'false');
+      });
+      render();
+    });
+  });
+
+  document.getElementById('q').addEventListener('input', function (e) {
+    Q = e.target.value.trim().toLowerCase();
+    render();
+  });
+
+  fetch('../../standing/data/index.json')
+    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(function (d) {
+      DATA = d;
+      SEL = SEL.filter(function (e) {
+        return d.foundations.some(function (f) { return f.ein === e; });
+      });
+      document.getElementById('asof').textContent =
+        'Demonstration dataset · ' + d.count + ' foundations · figures as of FY' +
+        d.as_of_fiscal_year + ' · generated ' + d.generated;
+      render();
+      renderScreen();
+    })
+    .catch(function () {
+      list.innerHTML = '<div style="padding:22px" class="empty">The dataset could not be loaded. ' +
+        'It lives at <code>/standing/data/index.json</code>.</div>';
+    });
+})();
+</script>
+</body>
+</html>
