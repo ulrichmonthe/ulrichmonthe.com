@@ -56,6 +56,16 @@
     .facts { margin-top: 18px; display: flex; flex-wrap: wrap; gap: 10px; font-family: var(--sans); font-size: 13px; }
     .facts span { background: var(--accent-soft); color: var(--accent-deep); font-weight: 600; padding: 5px 12px; border-radius: 100px; }
 
+    .brief { margin-top: 6px; display: grid; gap: 14px; }
+    .brief-row { display: grid; grid-template-columns: 84px 1fr; gap: 16px; align-items: baseline; }
+    .brief-k { font-family: var(--sans); font-size: 11.5px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent-deep); }
+    .brief-v { color: var(--ink-soft); max-width: 60ch; }
+    .brief-v b { color: var(--ink); font-weight: 600; }
+    .who { display: flex; flex-wrap: wrap; gap: 8px; }
+    .who span { font-family: var(--sans); font-size: 13.5px; background: var(--paper); border: 1px solid var(--rule); border-radius: 100px; padding: 4px 12px; color: var(--ink-soft); }
+    .who span b { color: var(--ink); font-weight: 600; }
+    @media (max-width: 620px) { .brief-row { grid-template-columns: 1fr; gap: 4px; } }
+
     .milestones { margin-top: 26px; border-top: 1px solid var(--rule); padding-top: 20px; }
     .milestones h3 { font-family: var(--sans); font-size: 12.5px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-soft); margin-bottom: 14px; }
     .milestones ol { list-style: none; display: grid; gap: 9px; font-family: var(--sans); font-size: 14.5px; color: var(--ink-soft); }
@@ -103,13 +113,27 @@
           <h2><a href="ein-checker/" style="color: inherit; text-decoration: none;">EIN Due-Diligence Checker</a></h2>
           <span class="badge build" style="background:#e3ecdd;color:#3d6b48;">Live · v1</span>
         </div>
-        <p>
-          Check any US nonprofit's IRS standing in seconds: 501(c)(3) status,
-          tax-deductibility, revocation history, and filing recency — one
-          plain-English trust card with a green / amber / red verdict, built
-          directly on IRS source data. An answer engine, not a database; what
-          it doesn't check, it says out loud.
-        </p>
+        <div class="brief">
+          <div class="brief-row"><span class="brief-k">What</span><span class="brief-v">
+            One plain-English trust card for any US nonprofit: 501(c)(3) status,
+            tax-deductibility, revocation history and filing recency, with a
+            green / amber / red verdict.
+          </span></div>
+          <div class="brief-row"><span class="brief-k">Why</span><span class="brief-v">
+            Verifying an organization means reconciling three separate IRS files
+            that routinely disagree. Most people skip it, or pay for a database
+            that hands back raw records and leaves the judgement to you.
+          </span></div>
+          <div class="brief-row"><span class="brief-k">How</span><span class="brief-v">
+            Search a name or EIN. Read the verdict, expand any field to see its
+            source and <b>as of</b> date. Free, no login.
+          </span></div>
+          <div class="brief-row"><span class="brief-k">Who</span><span class="brief-v who">
+            <span><b>Grantmakers</b> before releasing funds</span>
+            <span><b>Finance teams</b> clearing a donation</span>
+            <span><b>Fundraisers</b> checking their own record</span>
+          </span></div>
+        </div>
         <div class="facts">
           <span>1.98M orgs ingested</span><span>IRS source data</span><span>Deterministic rules</span><span>Provenance per field</span>
         </div>
@@ -130,13 +154,26 @@
           <h2><a href="ai-policy-generator/" style="color: inherit; text-decoration: none;">Nonprofit AI Policy Generator</a></h2>
           <span class="badge build" style="background:#e3ecdd;color:#3d6b48;">Live · v1</span>
         </div>
-        <p>
-          A board-ready AI policy from a three-minute form — tailored to your
-          subsector, your data, and the rules that apply to you, with a board
-          memo, adoption resolution, and staff one-pager. Deterministic clause
-          selection from a versioned library; your answers never leave your
-          browser. Free, and the policy itself never asks for an email.
-        </p>
+        <div class="brief">
+          <div class="brief-row"><span class="brief-k">What</span><span class="brief-v">
+            A board-ready AI policy tailored to your subsector and your data,
+            with a board memo, adoption resolution and staff one-pager.
+          </span></div>
+          <div class="brief-row"><span class="brief-k">Why</span><span class="brief-v">
+            Most nonprofits have staff using AI and nothing governing it.
+            Templates are too generic to adopt, counsel is expensive, and boards
+            want something that names the rules actually applying to you.
+          </span></div>
+          <div class="brief-row"><span class="brief-k">How</span><span class="brief-v">
+            Answer a three-minute form, download the packet. Your answers never
+            leave your browser, and the policy never asks for an email.
+          </span></div>
+          <div class="brief-row"><span class="brief-k">Who</span><span class="brief-v who">
+            <span><b>Executive directors</b> who need something to take to a board</span>
+            <span><b>Ops leads</b> writing staff guidance</span>
+            <span><b>Funders</b> asking grantees about AI use</span>
+          </span></div>
+        </div>
         <div class="facts">
           <span>89-clause library</span><span>Deterministic engine</span><span>Runs in your browser</span><span>Board packet included</span>
         </div>
@@ -157,27 +194,38 @@
           <h2><a href="funder-standing/" style="color: inherit; text-decoration: none;">Funder Standing</a></h2>
           <span class="badge build">In build · preview</span>
         </div>
-        <p>
-          A foundation can keep an open application portal for a decade and
-          still fund the same thirty organizations every year. Form 990-PF
-          itemises every grant paid, so lining those lists up across filing
-          years shows how often a funder backs someone it has not backed
-          before — a question the application checkbox cannot answer, because
-          that checkbox is self-reported and never audited.
-        </p>
-        <p>
-          It reports what the filings say and stops there. Where grantee names
-          cannot be matched reliably enough, it shows no figure and explains
-          which condition failed, rather than guessing.
-        </p>
+        <div class="brief">
+          <div class="brief-row"><span class="brief-k">What</span><span class="brief-v">
+            How often a private foundation funds an organization it has not
+            funded before, computed from its own Form 990-PF grant schedules.
+          </span></div>
+          <div class="brief-row"><span class="brief-k">Why</span><span class="brief-v">
+            A foundation can keep an open application portal for a decade and
+            still fund the same thirty organizations every year. The
+            application checkbox is self-reported and never audited. The grant
+            ledger is behaviour.
+          </span></div>
+          <div class="brief-row"><span class="brief-k">How</span><span class="brief-v">
+            Search or filter the list, open a row for the evidence behind the
+            figure, add rows to a screen and export it. Where names cannot be
+            matched reliably, it shows no figure and says which condition
+            failed rather than guessing.
+          </span></div>
+          <div class="brief-row"><span class="brief-k">Who</span><span class="brief-v who">
+            <span><b>Grant writers</b> deciding where the hours go</span>
+            <span><b>Development directors</b> defending a pipeline to a board</span>
+            <span><b>Consultants</b> qualifying prospects across clients</span>
+          </span></div>
+        </div>
         <div class="facts">
-          <span>Form 990-PF Part XV</span><span>Clustering, not lookup</span><span>Match rate on every row</span><span>36 correctness checks</span>
+          <span>Form 990-PF Part XV</span><span>Clustering, not lookup</span><span>Match rate on every row</span><span>39 correctness checks</span>
         </div>
         <div class="milestones">
           <h3>Status</h3>
           <ol>
-            <li class="done">Pipeline built to spec — entity clustering, drift guards, publication gate, 36 checks passing</li>
-            <li class="now">Now: IRS extraction, replacing the demonstration dataset on the preview</li>
+            <li class="done">Pipeline built to spec — entity clustering, drift guards, publication gate, 39 checks passing</li>
+            <li class="done">IRS extraction live — 594,053 Form 990-PF filings indexed, 118 foundations in the preview cohort</li>
+            <li class="now">Now: widening the cohort, and hand-checking a sample against the filings</li>
             <li>Then: per-foundation pages and an index of how often foundations fund anyone new</li>
           </ol>
           <p style="margin-top: 16px;">
