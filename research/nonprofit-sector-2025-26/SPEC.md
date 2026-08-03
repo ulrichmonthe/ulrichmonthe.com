@@ -71,7 +71,7 @@ Every page is a hand-written or generated `index.html` in a directory. There is 
 | S1 | Foundation profile | `/foundations/[slug]/` | 1 |
 | S2 | Screening worklist | `/screen/` | 2 |
 | S3 | Shared board history (opt-in, inside S2) | — | 2 |
-| S4 | Openness Index | `/index/openness-2026/` | 1 |
+| S4 | Openness Index | `/openness/2026/` | 1 |
 | S5 | Cut pages (state, subject, invitation-only) | `/foundations/[cut]/` | 1–2 |
 | S6 | Guides | `/guides/[slug]/` | 1–2 |
 | S7 | "How do we look to funders" | extends `/live-projects/ein-checker/` | 3 |
@@ -167,42 +167,103 @@ Matching is only ever performed **within a single filer's own series** — one f
 5. Collapse whitespace
 6. **Do not** strip `FOUNDATION`, `TRUST`, `FUND`, `SOCIETY`, `ASSOCIATION`, `CENTER`, `INSTITUTE` — these are distinguishing tokens, not noise
 
-**Blocking key:** `normalized_name` + `recipient_state`
+**This is a CLUSTERING problem, not a lookup.** Read this paragraph twice; getting it wrong is the single most likely way to build a product that is confidently wrong.
 
-**Resolution ladder** (within one filer)
-1. Exact normalized-name + state match → `resolved`, `method: exact`
-2. `rapidfuzz.token_set_ratio ≥ 92` **and** same state → `resolved`, `method: fuzzy`, score recorded
-3. Otherwise → `unresolved`
+The task is to partition one filer's grant records into **grantee identities**. A grantee appearing in exactly one year forms a valid singleton identity — a genuine first-time grantee. "Unresolved" does **not** mean "matched nothing." It means "cannot be assigned to an identity with confidence."
 
-**The critical rule.** An `unresolved` record is excluded from **both** the numerator and denominator of every rate. It is never counted as a new grantee.
+Conflating those two produces catastrophe: if a record matching no prior year is marked unresolved and then excluded, every true new grantee vanishes, every rate collapses toward zero, and every foundation reads as closed. **V4 would still pass.** Do not do this.
 
-An unresolved name is indistinguishable from a first-time grantee. Counting it as new inflates the new-grantee rate and makes a closed foundation read as open — the precise failure this product exists to prevent. §6/V4 asserts this with a unit test.
+**Clustering procedure** (deterministic, within one filer)
 
-**Match rate**, per foundation, over the window:
+Process records in ascending `(tax_year, recipient_name_raw)` order — never input order, which would break V9.
+
+For each record:
+1. Compute `normalized_name` and `recipient_state`.
+2. If the name is unusable → mark `ambiguous`, do not cluster. Unusable means: empty; or matching a generic placeholder list (`VARIOUS`, `VARIOUS ORGANIZATIONS`, `SEE ATTACHED`, `MULTIPLE RECIPIENTS`, `ANONYMOUS`, `CONFIDENTIAL`); or an individual grant per §2.3.
+3. Compare against the **canonical name of each existing cluster only** — never against every member. Canonical = the normalized name of the cluster's earliest record. This makes assignment order-independent within a year and avoids transitive drift.
+4. Candidate clusters are those where `same_state` **and** `similarity ≥ 92` (see below).
+   - Exactly one candidate → assign, `method: exact` or `fuzzy`, score recorded
+   - Zero candidates → **create a new cluster** (this is the normal path for a first-time grantee; it is not an error)
+   - Two or more candidates → mark `ambiguous`, do not cluster
+
+**Similarity function — do NOT use bare `token_set_ratio`.**
+
+`token_set_ratio` returns **100** whenever one name's token set is a subset of the other's. `UNIVERSITY OF MICHIGAN` and `UNIVERSITY OF MICHIGAN SCHOOL OF NURSING` score 100. So do `BOYS & GIRLS CLUB` and `BOYS & GIRLS CLUB OF DETROIT`. Both are same-state, both clear 92, and distinct affiliates collapse into one identity — suppressing new-grantee counts and making an open foundation read as closed. That is the mirror image of the bias in §2.4's opening, and V3 and V4 both miss it because over-merging *raises* match rate.
+
+Use instead:
+
+```python
+def similarity(a: str, b: str) -> float:
+    ta, tb = set(a.split()), set(b.split())
+    # Strict-subset guard: extra distinguishing tokens mean different entities
+    if ta < tb or tb < ta:
+        extra = ta ^ tb
+        if len(extra) >= 2 or (extra - STOPWORDS):
+            return 0.0
+    if min(len(a), len(b)) / max(len(a), len(b)) < 0.6:
+        return 0.0
+    return rapidfuzz.fuzz.token_sort_ratio(a, b)
+```
+
+`STOPWORDS = {OF, THE, AND, FOR, IN, AT, A}`. The guard is the load-bearing part: any distinguishing token beyond a stopword blocks the merge. Prefer a false split (two identities for one org — inflates new-grantee count slightly, visible in V12 sampling) over a false merge (invisible, and biases toward "closed").
+
+**Ambiguity rate**, per foundation, over the window:
 
 ```
-match_rate = resolved_grant_records / total_grant_records
+ambiguous_records = records marked ambiguous in steps 2 or 4
+match_rate = 1 − (ambiguous_records / total_grant_records)
 ```
+
+**The critical rule.** An `ambiguous` record is excluded from **both** the numerator and denominator of every rate, and never counted as a new grantee. A record that legitimately forms a new cluster is **not** ambiguous and **is** counted.
+
+§6/V4 asserts the exclusion; §6/V12 samples clusters by hand to catch over-merging.
 
 ### 2.5 T4 — Derived metrics
 
-Window: the most recent **4** tax years available for that filer. Minimum **3** consecutive years, or no metrics are computed.
+**Year basis:** use `TaxYr` throughout, never `TaxPeriodEndDt`. A June-FY filer's `TaxYr` is the prior calendar year; mixing the two shifts every window by one. The as-of stamp displays `TaxYr`.
 
-Unit of analysis is the **distinct grantee-year**, not the grant record. A foundation making three grants to one organization in one year has one grantee relationship, not three.
+**Deduplication (do before anything else):** if two filings share `(ein, tax_year)`, keep the one with the later `period_end`; on a tie keep the later-received file and log it. Amended returns otherwise double every count *and raise* match rate, so V3 looks healthier while output is wrong.
+
+Window: the most recent **5** tax years present for that filer.
+
+Unit of analysis is the **distinct grantee-year**, not the grant record. Three grants to one organization in one year is one relationship.
 
 ```
-grantees(y)      = distinct resolved recipient identities in year y
-prior(y)         = union of grantees(y-1), grantees(y-2), grantees(y-3), limited to years present
-new(y)           = grantees(y) − prior(y)
+present(F)   = tax years with a filing, ascending
+grantees(y)  = distinct clustered identities in year y (ambiguous excluded)
+prior(y)     = grantees of the up-to-3 immediately preceding PRESENT years
+new(y)       = grantees(y) − prior(y)
 ```
 
-Only years having ≥2 prior years in the window are *eligible*.
+**`prior(y)` walks present years, not calendar arithmetic.** For years `[2018, 2022, 2023, 2024]`, `prior(2023) = grantees(2022) ∪ grantees(2018)` — not `{2022}` alone. Calendar arithmetic on a gappy series yields a one-year baseline, counting long-standing grantees as new, which biases open. That is the exact failure this section exists to prevent.
 
-**New-grantee rate**
+**Eligibility.** Year `y` is eligible when:
+- ≥2 present years precede it in the window, **and**
+- the gap between `y` and its immediately preceding present year is ≤2 years, **and**
+- `|grantees(y)| > 0`
+
+A year failing the gap test is skipped with reason `stale_baseline`. Zero-grant years are skipped but still occupy a window slot and still count as "present" for baselines.
+
+**Two rates, both persisted — they are different quantities and must not be swapped.**
+
 ```
-new_grantee_rate = Σ|new(y)| / Σ|grantees(y)|   over eligible y
+# Pooled across eligible years. Grantee-YEARS, so a grantee present in two
+# eligible years is counted twice. Used ONLY for the status band.
+new_grantee_rate_pooled = Σ|new(y)| / Σ|grantees(y)|
+
+# Most recent eligible year only. Used for the headline sentence.
+latest_eligible_year   = max(eligible years)
+new_grantee_count_latest = |new(latest_eligible_year)|
+total_grantee_count_latest = |grantees(latest_eligible_year)|
 ```
-Display as raw counts first: `2 of 98 grantees`. Percentage secondary.
+
+§4.1's headline renders the **latest-year** pair (`2 of 34 grantees in FY2024`). The status band uses the **pooled** rate. Rendering the pooled numerator against a single-year label would reintroduce, one layer up, exactly the unit error the prototype made.
+
+If `Σ|grantees(y)| = 0` across all eligible years, emit no metrics and set `publishable: false`. Never divide.
+
+Display raw counts first: `2 of 34 grantees`. Percentage secondary.
+
+**Lookback copy must match actual depth.** Never write "prior three years" when `prior(y)` drew on fewer. Persist `lookback_years_used` and render it: "had not funded in the prior [n] years."
 
 > **Correction to the existing prototype.** `standing-mvp.html` says "2 of 112 grants." The unit is grantees, not grants. Update prototype copy when implementing.
 
@@ -231,20 +292,32 @@ One file per foundation: `data/foundations/[ein].json`
   "state": "MI",
   "ntee_major": "P",
   "asset_band": "10-100M",
-  "window": { "start_year": 2021, "end_year": 2024, "years_present": [2021,2022,2023,2024] },
+  "window": {
+    "start_year": 2020, "end_year": 2024,
+    "years_present": [2020,2021,2022,2023,2024],
+    "eligible_years": [2022,2023,2024],
+    "eligible_year_count": 3,
+    "latest_eligible_year": 2024,
+    "skipped_years": [{ "year": 2021, "reason": "stale_baseline" }]
+  },
   "quality": {
     "match_rate": 0.94,
     "total_grant_records": 187,
-    "resolved_grant_records": 176,
+    "ambiguous_records": 11,
+    "clusters_formed": 62,
     "publishable": true,
-    "individual_grants_excluded": 3
+    "individual_grants_excluded": 3,
+    "duplicate_filings_dropped": 0
   },
   "metrics": {
-    "new_grantee_count": 14,
-    "total_grantee_count": 45,
-    "new_grantee_rate": 0.311,
+    "new_grantee_count_latest": 14,
+    "total_grantee_count_latest": 45,
+    "lookback_years_used": 3,
+    "new_grantee_rate_pooled": 0.311,
+    "total_grantee_count_pooled": 128,
     "peer_median_new_grantee_rate": 0.19,
     "peer_basis": "assets+ntee",
+    "peer_cell_size": 87,
     "repeat_dollar_concentration": 0.62,
     "grant_sizes": { "min": 5000, "p25": 25000, "median": 75000, "p75": 150000, "max": 400000 }
   },
@@ -283,10 +356,19 @@ On rebuild, an EIN already in the registry keeps its slug even if the filer name
 ### 2.7 Publication gate
 
 ```
-publishable = (match_rate >= 0.85) AND (eligible_years >= 2) AND (total_grantee_count >= 10)
+publishable = (match_rate >= 0.85)
+          AND (eligible_year_count >= 2)
+          AND (total_grantee_count_pooled >= 10)
+          AND (latest_eligible_year >= current_year - 3)
 ```
 
-Foundations failing the gate get a page **only** if they have search demand, and that page states what is missing and why no comparison is shown. It never guesses.
+With a 5-year window and eligibility requiring 2 preceding present years, a filer needs **4 present years** to reach 2 eligible years. Filers with 3 present years produce exactly 1 eligible year and are **not publishable** — this is intentional, and it is why §2.5 uses a 5-year window rather than 4.
+
+Foundations failing the gate render the **insufficient-data template**, which states which condition failed and shows no comparison. Build it for every failing foundation — "only if they have search demand" was unimplementable, since no search-volume source exists in §2.1. Cost is a static page.
+
+**Peer cells.** Band on BMF assets (`<$1M`, `$1–10M`, `$10–100M`, `$100M+`; boundaries inclusive at the lower bound, so exactly $10M lands in `$10–100M`). Serialize as `"<1M"`, `"1-10M"`, `"10-100M"`, `"100M+"`. Peer median is computed over **publishable foundations only, excluding the subject foundation**. Minimum cell size 30; below that, fall back to assets-only and record `peer_basis: "assets"`; below 30 again, emit `null` and render no comparison.
+
+**Peer medians are computed over a gate-selected sample.** Stable naming clears the gate more often, and stable naming correlates with repeat-heavy rosters — so the published corpus skews toward closed foundations and the peer median is biased low. Quantify it (V13) and disclose it on the methodology page. Do not present the median as a population parameter.
 
 This gate is simultaneously the engineering correctness gate and the content-quality gate that keeps a large page count out of scaled-content territory.
 
@@ -296,15 +378,22 @@ This gate is simultaneously the engineering correctness gate and the content-qua
 
 ```
 /foundations/[slug]/                    S1  entity page
-/foundations/[state]/                   S5  state cut
-/foundations/[state]/small-grants/      S5  Persona A
-/foundations/[state]/[subject]/         S5  Persona B
+/foundations/state/[state]/             S5  state cut
+/foundations/state/[state]/small-grants/    S5  Persona A
+/foundations/subject/[ntee-slug]/       S5  Persona B
 /foundations/invitation-only/           S5  Persona C  (link magnet)
 /screen/                                S2  worklist
-/index/openness-2026/                   S4  the study
-/index/openness-2026/methodology/       S4
+/openness/2026/                         S4  the study
+/openness/2026/methodology/             S4
+/openness/new-grantee-rates/            S4  practitioner benchmark cut
 /guides/[slug]/                         S6
 ```
+
+Three route corrections from earlier drafts: `/foundations/[state]/` and `/foundations/[slug]/` were mutually ambiguous, so cuts are namespaced under `state/` and `subject/`; `/index/…` collided with the root `index.html` on GitHub Pages; and the benchmark page moved off `/benchmarks/`, which already exists on the site.
+
+**Subject taxonomy.** `subject` is the **NTEE major group letter** from the BMF, rendered via a fixed 26-entry `ntee_major → {slug, label}` map committed at `standing/data/ntee_map.json` (e.g. `P → {"slug": "human-services", "label": "Human Services"}`). A foundation with no BMF NTEE gets **no subject-cut link**, and V7 must not require one. Do not invent a taxonomy.
+
+**Base URL** is declared once in `standing/config.json` and used for every canonical and sitemap entry.
 
 **Internal link graph** — every entity page links to its state cut and subject cut; every cut links to the Index; the Index links to methodology; the methodology links back to a sample of entity pages. This is what distributes the authority the Index earns. Orphans are a build failure (V7).
 
@@ -351,8 +440,13 @@ standing/
 
 **Route:** `/foundations/[slug]/`
 
-**Title:** `[Name] — Grant History and Application Status`
-**Meta:** `[Name] made [N] grants to [G] organizations in FY[YYYY]. [M] were organizations it had not funded in the prior three years. Grant sizes, recipients, and application status from public filings.`
+**Title:** `[Name] — Grant History` · fallback when that exceeds 60 chars: `[Name]` truncated to 57 + `…`
+The previous suffix (`— Grant History and Application Status`, 38 chars) left 22 characters for the name against a 60-char cap. Most real foundation names do not fit.
+
+**Meta** (target 120–160 chars; the builder must assemble and measure, not concatenate blindly):
+`[Name] funded [G] organizations in FY[YYYY]; [M] were new. Grant sizes, recipients and application status from IRS filings.`
+
+With a 21-char name this is ~124. **Truncation ladder** when it exceeds 160: drop `and application status` → drop `Grant sizes, recipients` → truncate the name to fit. Assemble programmatically and assert length; V5 fails the build otherwise.
 
 **Sections in order**
 1. **H1** — foundation name. Directly beneath: state, asset band, EIN, `Data as of FY[YYYY]`
@@ -425,26 +519,53 @@ Each check is automated unless marked manual. **The build fails if any check fai
 - Per-year path differences recorded if any
 
 ### V2 — Hand verification (manual, gates publication)
-Select 10 foundations spanning asset bands and match rates. For each, a human opens the actual filings and computes grantee counts by hand.
+Select 10 foundations spanning asset bands and match rates, **including at least one with a gap year and one with a zero-grant year**. Record the EINs in `checks/v2_sample.json` before running. For each, a human opens the actual filings and computes counts by hand.
 - **Grant record count must match exactly**
-- **Distinct grantee count must match exactly**
-- **New-grantee rate within 1 percentage point**
-- Any mismatch: fix and re-run all 10
+- **Distinct grantee count per year must match exactly**
+- **`new_grantee_count_latest` must match exactly**
+- **Pooled rate within 1 percentage point**
 
-This is the only check that can catch a systematically wrong parser. Do not skip it.
+Any mismatch: fix, then re-run **the same 10 EINs** — never a fresh sample. Re-drawing after a failure is how a systematic bug survives verification.
+
+This is the only check that can catch a wrong parser. Do not skip it.
 
 ### V3 — Match-rate distribution (automated)
 Report median, p10, p90 across all foundations.
 - Median <0.70 → **fail**, indicates a normalization bug, not bad data
 - >30% of foundations below the 0.85 gate → **warn**, review normalization before publishing
 
-### V4 — Unresolved-bias assertion (unit test, mandatory)
-Construct a fixture where a known repeat grantee's name is corrupted so it fails to resolve.
-- **Assert the new-grantee rate does not increase.**
-- Assert the record is excluded from numerator and denominator.
-- Assert match rate drops.
+**V3 only detects under-matching.** Over-merging *raises* match rate and makes this check look healthier while the output is wrong. V12 covers that direction. Never treat a high match rate as evidence of correctness.
 
-This test protects the product's core claim. If it is deleted, the product is unsound.
+### V4 — Ambiguity-bias assertion (unit test, mandatory)
+Fixture: a known repeat grantee's name corrupted so it becomes ambiguous.
+- **Assert the new-grantee rate does not increase**
+- Assert the record is excluded from numerator and denominator
+- Assert match rate drops
+
+**Companion assertion, equally mandatory** — this is what makes V4 meaningful rather than vacuous:
+- Fixture with a genuine first-time grantee in the latest eligible year
+- **Assert it forms a new cluster, is NOT ambiguous, and IS counted as new**
+- Assert `new_grantee_count_latest` increases by exactly 1
+
+Without the second half, an implementation that marks every unmatched record ambiguous — collapsing all rates to zero and making every foundation read closed — passes V4 cleanly. That was a real defect in v1.0 of this spec.
+
+### V12 — Over-merge sampling (manual, mandatory before publication)
+Automated checks cannot detect a false merge; it is invisible in every aggregate.
+
+Sample 30 clusters containing ≥2 distinct `recipient_name_raw` values, weighted toward the longest names. A human confirms each cluster is one organization.
+- **Any confirmed false merge → fail.** Tighten the §2.4 guard and re-sample.
+- Log the sample and outcomes; re-run whenever the similarity function changes.
+
+Priority targets: university systems, hospital networks, `BOYS & GIRLS CLUB OF …`, `UNITED WAY OF …`, `YMCA OF …` — parent/affiliate names are where subset matching does its damage.
+
+### V13 — Selection-bias quantification (automated, gates the Index)
+The 0.85 gate selects for stable naming, which correlates with repeat-heavy rosters, so the published corpus skews closed.
+
+- Compute the new-grantee rate for gate-failing foundations using their resolved subset only
+- Report both distributions side by side and the delta
+- **The Index and methodology pages must publish this delta.** Failing to render it fails the build.
+
+Disclosing the match-rate distribution does **not** disclose this. They are different limitations.
 
 ### V5 — Page integrity (automated, every page)
 - Exactly one `<h1>`
@@ -455,25 +576,32 @@ This test protects the product's core claim. If it is deleted, the product is un
 - Valid JSON-LD, correct `@type`
 - No page rendered for a foundation with `publishable: false` unless using the explicit insufficient-data template
 
-### V6 — Neutrality lint (automated, mandatory)
-Scan all rendered HTML within any foundation-context block for banned patterns, case-insensitive:
+### V6 — Neutrality lint (automated backstop, NOT a proof)
+Templates wrap every block naming a specific foundation in `<div data-foundation-context>`. The lint scans only inside those elements, case-insensitive:
 
 ```
 do not apply, don't apply, avoid, skip this, not worth,
 waste of time, bad funder, won't fund you, no chance,
-you should, we recommend, best funders, worst
+you should, we recommend, futile, pointless, don't bother,
+best funders, worst funders
 ```
 
-Any hit is a **build failure**. This mechanically enforces §0.2. Add to the list as new phrasings appear in review.
+Any hit is a **build failure**. Scoping to the marked elements prevents false positives on methodology copy that legitimately discusses avoidance.
+
+**This is a substring blocklist and it is defeatable** — "applying here is likely futile" would pass a naive list, which is why `futile` is on it. It catches careless phrasing, not intent. §0.2 is enforced by human review of every template string; the lint is a net beneath that, and §6's earlier claim that it "mechanically enforces §0.2" was overstated. Extend the list whenever review catches a new phrasing.
 
 ### V7 — Link graph (automated)
-- Every entity page links to its state cut and subject cut
+- Every entity page links to its state cut, and to its subject cut **when `ntee_major` is present**
 - Every cut links to the Index
 - Zero orphans; zero internal 404s
-- `sitemap.xml` count equals rendered page count
+- **Sitemap completeness:** every rendered route appears in `sitemap.xml`, and every pre-existing site URL enumerated from the tree is preserved. Assert `sitemap_count == rendered_routes + preexisting_routes − redirect_stubs`. Redirect stubs are excluded from the sitemap and carry `noindex`.
+
+The earlier form (`sitemap count == rendered page count`) failed unconditionally, since the sitemap must also carry the 65 pre-existing URLs.
 
 ### V8 — Gate enforcement (automated)
-Assert no page rendered with the standard template has `match_rate < 0.85` or `eligible_years < 2`.
+`build.py` emits `data/render_manifest.json` mapping `route → {ein, template}`. V8 reads it and asserts that for every route using `foundation.jinja`, the source record satisfies **all four** conditions of §2.7 — `match_rate`, `eligible_year_count`, `total_grantee_count_pooled`, and recency.
+
+v1.0 of this check omitted the grantee-count condition, so a 9-grantee foundation would have rendered on the standard template and passed.
 
 ### V9 — Idempotency (automated)
 Run `build.py` twice from clean. Output must be byte-identical apart from the build timestamp.
@@ -501,7 +629,8 @@ Fail the scheduled job if any published page's `next_recompute_expected` is in t
 
 **Phase 1 — prove the atom**
 - [ ] V2 passes on 10 hand-checked foundations
-- [ ] 300–500 entity pages, all of V5–V9 passing
+- [ ] V12 passes (over-merge sampling) and V13 delta computed
+- [ ] 300–500 entity pages, with V5, V6, V7, V8, V9 and V11 all passing
 - [ ] Openness Index + methodology published
 - [ ] 4 guides live
 - [ ] Corrections process live on every entity page
@@ -519,11 +648,41 @@ Fail the scheduled job if any published page's `next_recompute_expected` is in t
 
 ---
 
+## 7.1 Audit trail and remaining known issues
+
+v1.0 of this spec was audited by an engineer reading it cold. It found one defect that would have produced a confidently wrong product, and several that would have blocked or silently diverged. Fixed above:
+
+| Was | Now |
+|---|---|
+| §2.4 never said what a record was matched *against*. Under the natural reading, every true new grantee became "unresolved" and was excluded — collapsing all rates toward zero, making every foundation read closed, **with V4 still passing** | §2.4 rewritten as explicit clustering; singletons are valid; V4 gains a mandatory companion assertion |
+| Bare `token_set_ratio ≥ 92` merges parent and affiliate (`UNIVERSITY OF MICHIGAN` / `… SCHOOL OF NURSING` score 100) | Subset guard + length-ratio floor + `token_sort_ratio`; new manual check V12 |
+| `prior(y)` used calendar arithmetic, so a gappy series got a one-year baseline and read open | `prior(y)` walks present years; gap and eligibility rules added |
+| Pooled rate computed, single-year figure rendered | Both persisted and separately assigned to band and headline |
+| Title and meta templates arithmetically exceeded their own V5 limits | Shortened, with a measured truncation ladder |
+| Subject cuts routed and required by V7 with no taxonomy in the data | NTEE major group + committed map; link conditional |
+| `eligible_years` used by the gate but absent from the schema | Added, with skip reasons |
+| V7 asserted a sitemap count that could never hold | Reformulated to include pre-existing URLs |
+| V8 omitted the grantee-count condition | Reads a render manifest, asserts all four |
+| Index selection bias undisclosed | V13 quantifies and must render it |
+| `/index/` and `/benchmarks/` collided with existing routes | Namespaced under `/openness/` and `/foundations/{state,subject}/` |
+
+**Known issues accepted for v1.0 — decide before Phase 1:**
+
+1. **Phase-0 vertical undecided.** Pick the state and record it here. Blocks nothing technically; blocks starting.
+2. **`recipient_state` missing or foreign.** Same-state is required for clustering, so records without a usable US state can never cluster. Interim rule: treat missing state as a wildcard that matches any single candidate but forces `ambiguous` on two or more. Measure how often this fires before trusting it.
+3. **Percentile method** for p25/p75 unspecified — use nearest-rank and state it on the methodology page.
+4. **Guide copy carries hardcoded statistics** (e.g. the 71% preselected-only figure) that the Index also computes. Nothing checks agreement. Either compute both from the pipeline or add a check before publishing guides.
+5. **Currency and negative amounts** — grant amounts are assumed USD and non-negative. Log and exclude negatives rather than summing them.
+6. **V9 determinism** needs a canonical form: pin `SOURCE_DATE_EPOCH`, sort all collections, and confine `computed_at` to a single field excluded from the diff.
+7. **V11 bootstrap** — "previously published" means the committed `slug_registry.json` at `HEAD`, not prior build output.
+
 ## 8. Known risks
 
 | Risk | Mitigation |
 |---|---|
-| Name matching wrong in the open-looking direction | V4 unit test; unresolved excluded from both sides; match rate always shown |
+| Name matching wrong in the open-looking direction | V4 unit test (both halves); ambiguous excluded from both sides; match rate always shown |
+| **Over-merging — wrong in the closed-looking direction, and invisible to every automated check** | §2.4 subset guard; V12 manual sampling. Prefer a false split to a false merge |
+| **Index selection bias from the publication gate** | V13 quantifies it; methodology must render the delta |
 | Data 12–24 months stale | As-of stamps everywhere; V10 fails the build on overdue recompute |
 | A foundation disputes its page | Corrections process live before launch; facts only, no verdicts, every figure traceable to a filing |
 | Scaled-content penalty | 0.85 gate limits count; every page carries unique computed data; Index earns the links |
