@@ -1,0 +1,87 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 738556885.0,
+  "ein": "208050779",
+  "metrics": {
+    "grant_sizes": {
+      "max": 11932315.0,
+      "median": 100000.0,
+      "min": 3000.0,
+      "p25": 50000.0,
+      "p75": 175000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 15,
+    "new_grantee_count_pooled": 71,
+    "new_grantee_rate_pooled": 0.2922,
+    "peer_basis": "assets",
+    "peer_cell_size": 44,
+    "peer_median_new_grantee_rate": 0.3032,
+    "repeat_dollar_concentration": 0.7281,
+    "total_grantee_count_latest": 71,
+    "total_grantee_count_pooled": 243
+  },
+  "name": "The Grace And Mercy Foundation Inc",
+  "provenance": {
+    "as_of_fiscal_year": 2024,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 0,
+    "clusters_formed": 149,
+    "drift_review_flag": false,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 0,
+    "gate_failures": [],
+    "match_rate": 1.0,
+    "publishable": true,
+    "singleton_cluster_share": 0.3893,
+    "total_grant_records": 372
+  },
+  "self_reported": {
+    "accepts_unsolicited": false,
+    "application_info_text": null,
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "grace-and-mercy-foundation-inc",
+  "state": "NY",
+  "status_band": "Adds new grantees regularly",
+  "window": {
+    "eligible_year_count": 3,
+    "eligible_years": [
+      2022,
+      2023,
+      2024
+    ],
+    "end_year": 2024,
+    "latest_eligible_year": 2024,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  }
+}

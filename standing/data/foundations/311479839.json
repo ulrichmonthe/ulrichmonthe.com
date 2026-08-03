@@ -1,0 +1,84 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 523265697.0,
+  "ein": "311479839",
+  "metrics": {
+    "grant_sizes": {
+      "max": 2870000.0,
+      "median": 66000.0,
+      "min": 9000.0,
+      "p25": 25000.0,
+      "p75": 130000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 18,
+    "new_grantee_count_pooled": 52,
+    "new_grantee_rate_pooled": 0.2385,
+    "peer_basis": "assets",
+    "peer_cell_size": 44,
+    "peer_median_new_grantee_rate": 0.3032,
+    "repeat_dollar_concentration": 0.8983,
+    "total_grantee_count_latest": 104,
+    "total_grantee_count_pooled": 218
+  },
+  "name": "Colcom Foundation",
+  "provenance": {
+    "as_of_fiscal_year": 2023,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 0,
+    "clusters_formed": 237,
+    "drift_review_flag": false,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 15,
+    "gate_failures": [],
+    "match_rate": 1.0,
+    "publishable": true,
+    "singleton_cluster_share": 0.4599,
+    "total_grant_records": 538
+  },
+  "self_reported": {
+    "accepts_unsolicited": true,
+    "application_info_text": "A LETTER OF INQUIRY (I.E., A REQUEST FOR AN INVITATION TO SUBMIT A FULL GRANT APPLICATION) SHOULD NOT EXCEED TWO PAGES AND MUST DESCRIBE THE ORGANIZATION, THE PROPOSED PROGRAM DESCRIPTION AND OBJECTIVE(S), AMOUNT REQUESTED, PROJECTED BUDGET, AND TIMELINE. THE FOUNDATION DISCOURAGES THE INCLUSION OF LENGTHY MATERIAL (NEWSLETTERS, VIDEO, ETC.) WITH A LETTER OF INQUIRY. A SEPARATE LETTER OF INQUIRY MUST BE SUBMITTED FOR EACH PROGRAM.",
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "colcom-foundation",
+  "state": "PA",
+  "status_band": "Adds new grantees occasionally",
+  "window": {
+    "eligible_year_count": 2,
+    "eligible_years": [
+      2022,
+      2023
+    ],
+    "end_year": 2023,
+    "latest_eligible_year": 2023,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023
+    ]
+  }
+}

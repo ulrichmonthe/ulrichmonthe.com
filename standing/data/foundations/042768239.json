@@ -1,0 +1,87 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 467408406.0,
+  "ein": "042768239",
+  "metrics": {
+    "grant_sizes": {
+      "max": 2500000.0,
+      "median": 35000.0,
+      "min": 2250.0,
+      "p25": 25000.0,
+      "p75": 75000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 32,
+    "new_grantee_count_pooled": 115,
+    "new_grantee_rate_pooled": 0.2421,
+    "peer_basis": "assets",
+    "peer_cell_size": 44,
+    "peer_median_new_grantee_rate": 0.3032,
+    "repeat_dollar_concentration": 0.8877,
+    "total_grantee_count_latest": 159,
+    "total_grantee_count_pooled": 475
+  },
+  "name": "Yawkey Foundation Ii",
+  "provenance": {
+    "as_of_fiscal_year": 2024,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 0,
+    "clusters_formed": 357,
+    "drift_review_flag": false,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 97,
+    "gate_failures": [],
+    "match_rate": 1.0,
+    "publishable": true,
+    "singleton_cluster_share": 0.4342,
+    "total_grant_records": 859
+  },
+  "self_reported": {
+    "accepts_unsolicited": true,
+    "application_info_text": "THE FOUNDATION ENCOURAGES APPLICANTS TO REVIEW THE FOUNDATION'S GRANT GUIDELINES ON OUR WEBSITE (WWW.YAWKEYFOUNDATION.ORG) PRIOR TO APPLYING FOR A FOUNDATION GRANT.",
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "yawkey-foundation-ii",
+  "state": "MA",
+  "status_band": "Adds new grantees occasionally",
+  "window": {
+    "eligible_year_count": 3,
+    "eligible_years": [
+      2022,
+      2023,
+      2024
+    ],
+    "end_year": 2024,
+    "latest_eligible_year": 2024,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 522486540.0,
+  "ein": "474259772",
+  "metrics": {
+    "grant_sizes": {
+      "max": 33863725.0,
+      "median": 50000.0,
+      "min": 5000.0,
+      "p25": 25000.0,
+      "p75": 500000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 7,
+    "new_grantee_count_pooled": 37,
+    "new_grantee_rate_pooled": 0.1888,
+    "peer_basis": "assets",
+    "peer_cell_size": 44,
+    "peer_median_new_grantee_rate": 0.3032,
+    "repeat_dollar_concentration": 0.865,
+    "total_grantee_count_latest": 52,
+    "total_grantee_count_pooled": 196
+  },
+  "name": "The Rob Walton Foundation",
+  "provenance": {
+    "as_of_fiscal_year": 2024,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 0,
+    "clusters_formed": 153,
+    "drift_review_flag": false,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 0,
+    "gate_failures": [],
+    "match_rate": 1.0,
+    "publishable": true,
+    "singleton_cluster_share": 0.4118,
+    "total_grant_records": 411
+  },
+  "self_reported": {
+    "accepts_unsolicited": false,
+    "application_info_text": null,
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "rob-walton-foundation",
+  "state": "AR",
+  "status_band": "Adds new grantees occasionally",
+  "window": {
+    "eligible_year_count": 3,
+    "eligible_years": [
+      2022,
+      2023,
+      2024
+    ],
+    "end_year": 2024,
+    "latest_eligible_year": 2024,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  }
+}

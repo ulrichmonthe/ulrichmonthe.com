@@ -150,12 +150,20 @@ def _unusable(normalized: str, rec: GrantRecord) -> str:
 def _state_compatible(a: str | None, b: str | None) -> bool:
     """Missing state acts as a wildcard (SPEC §7.1 known issue 2).
 
-    A wildcard match is permitted against a single candidate; two or more
-    candidates still force `ambiguous` via the normal count check.
+    State corroboration is applied only to FUZZY matches. Verified against real
+    filings: AFRICAN PARKS FOUNDATION OF AMERICA is recorded under DC in some
+    years and NY in others — an address change across a five-year grantee
+    relationship. Requiring same-state on every match split that repeat grantee
+    into two entities and counted it as new. False splits inflate the
+    new-grantee rate, which is the open-looking bias this module exists to
+    prevent. An exact name match is strong enough evidence on its own;
+    organizations relocate.
     """
     if a is None or b is None:
         return True
     return a == b
+
+
 
 
 def resolve_filer(records: list[GrantRecord]) -> tuple[list[Cluster], dict]:
@@ -183,11 +191,20 @@ def resolve_filer(records: list[GrantRecord]) -> tuple[list[Cluster], dict]:
         # every member. Prevents transitive drift through chained fuzzy links.
         candidates = []
         for cl in clusters:
-            if not _state_compatible(rec.recipient_state, cl.state):
-                continue
             score = similarity(norm, cl.canonical)
-            if score >= SIMILARITY_THRESHOLD:
-                candidates.append((score, cl))
+            if score < SIMILARITY_THRESHOLD:
+                continue
+            # Exact name matches survive a state change; fuzzy ones need the
+            # state to corroborate. See _state_compatible.
+            if norm != cl.canonical and not _state_compatible(rec.recipient_state, cl.state):
+                continue
+            candidates.append((score, cl))
+
+        # If an exact-name match exists, prefer it over any fuzzy ones rather
+        # than declaring ambiguity — identical names are the stronger signal.
+        exact = [c for c in candidates if c[0] >= 100.0]
+        if len(exact) == 1:
+            candidates = exact
 
         if len(candidates) == 1:
             score, cl = candidates[0]

@@ -131,6 +131,43 @@ for a, b in pairs:
           similarity(normalize(a), normalize(b)) < 92.0,
           f"score={similarity(normalize(a), normalize(b))}")
 
+# ------------------------------------------------- address change regression
+print("\nV4d — a grantee that MOVES must not read as new")
+
+# Found in real data: AFRICAN PARKS FOUNDATION OF AMERICA is recorded under DC
+# in some years and NY in others across a five-year grantee relationship.
+# Blocking every match on state split it in two and counted a long-standing
+# repeat grantee as new — a false split, which inflates the rate.
+moved = []
+for y, st in ((2021, "DC"), (2022, "DC"), (2023, "NY"), (2024, "NY")):
+    moved.append(rec(y, "African Parks Foundation of America", state=st))
+    for n in ("Alpha Center", "Bravo Trust", "Charlie Society",
+              "Delta Institute", "Echo Association"):
+        moved.append(rec(y, n))
+
+m5 = compute(moved, CURRENT_YEAR)
+check("relocated grantee is not counted as new",
+      m5.metrics["new_grantee_count_latest"] == 0,
+      f"new={m5.metrics['new_grantee_count_latest']}")
+check("rate stays at zero for an all-repeat funder",
+      m5.metrics["new_grantee_rate_pooled"] == 0.0,
+      f"rate={m5.metrics['new_grantee_rate_pooled']}")
+
+# But two genuinely different orgs sharing a fuzzy-similar name in different
+# states must still stay separate.
+distinct = []
+for y in (2021, 2022, 2023, 2024):
+    for n in ("Alpha Center", "Bravo Trust", "Charlie Society",
+              "Delta Institute", "Echo Association"):
+        distinct.append(rec(y, n))
+distinct.append(rec(2023, "Community Health Partners of Dayton", state="OH"))
+distinct.append(rec(2024, "Community Health Partners of Denver", state="CO"))
+m6 = compute(distinct, CURRENT_YEAR)
+check("similarly-named orgs in different states stay separate",
+      m6.metrics["new_grantee_count_latest"] == 1,
+      f"new={m6.metrics['new_grantee_count_latest']}")
+
+
 print("\nnormalization sanity")
 check("legal suffix stripped", normalize("Riverbend Youth Collective, Inc.") == "RIVERBEND YOUTH COLLECTIVE")
 check("leading THE stripped", normalize("The Lindmark Trust") == "LINDMARK TRUST")

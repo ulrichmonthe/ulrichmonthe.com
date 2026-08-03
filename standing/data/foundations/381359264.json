@@ -1,0 +1,84 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 454402214.0,
+  "ein": "381359264",
+  "metrics": {
+    "grant_sizes": {
+      "max": 4650000.0,
+      "median": 100000.0,
+      "min": 50.0,
+      "p25": 8150.0,
+      "p75": 200000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 353,
+    "new_grantee_count_pooled": 744,
+    "new_grantee_rate_pooled": 0.2504,
+    "peer_basis": "assets",
+    "peer_cell_size": 44,
+    "peer_median_new_grantee_rate": 0.3032,
+    "repeat_dollar_concentration": 0.8745,
+    "total_grantee_count_latest": 1512,
+    "total_grantee_count_pooled": 2971
+  },
+  "name": "WK Kellogg Foundation",
+  "provenance": {
+    "as_of_fiscal_year": 2023,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 0,
+    "clusters_formed": 2982,
+    "drift_review_flag": false,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 2199,
+    "gate_failures": [],
+    "match_rate": 1.0,
+    "publishable": true,
+    "singleton_cluster_share": 0.4215,
+    "total_grant_records": 7280
+  },
+  "self_reported": {
+    "accepts_unsolicited": true,
+    "application_info_text": "SEE \"HOW TO APPLY\" AT WWW.WKKF.ORG/GRANTSEEKERS/#HOW-TO-APPLY",
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "wk-kellogg-foundation",
+  "state": "MI",
+  "status_band": "Adds new grantees regularly",
+  "window": {
+    "eligible_year_count": 2,
+    "eligible_years": [
+      2022,
+      2023
+    ],
+    "end_year": 2023,
+    "latest_eligible_year": 2023,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023
+    ]
+  }
+}

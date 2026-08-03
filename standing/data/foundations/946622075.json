@@ -1,0 +1,90 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 456083110.0,
+  "ein": "946622075",
+  "metrics": {
+    "grant_sizes": {
+      "max": 8575000.0,
+      "median": 8575000.0,
+      "min": 8575000.0,
+      "p25": 8575000.0,
+      "p75": 8575000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 1,
+    "new_grantee_count_pooled": 3,
+    "new_grantee_rate_pooled": 0.5,
+    "peer_basis": null,
+    "peer_cell_size": null,
+    "peer_median_new_grantee_rate": null,
+    "repeat_dollar_concentration": 0.0,
+    "total_grantee_count_latest": 2,
+    "total_grantee_count_pooled": 6
+  },
+  "name": "May And Stanley Smith Charitable Trust",
+  "provenance": {
+    "as_of_fiscal_year": 2024,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 4,
+    "clusters_formed": 9,
+    "drift_review_flag": true,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 5,
+    "gate_failures": [
+      "match_rate",
+      "total_grantee_count_pooled"
+    ],
+    "match_rate": 0.75,
+    "publishable": false,
+    "singleton_cluster_share": 0.8889,
+    "total_grant_records": 16
+  },
+  "self_reported": {
+    "accepts_unsolicited": true,
+    "application_info_text": "SEE WEBSITE FOR APPLICATION GUIDELINES: WWW.SMITHCT.ORG",
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "may-and-stanley-smith-charitable-trust",
+  "state": "CA",
+  "status_band": "Not enough data to compare",
+  "window": {
+    "eligible_year_count": 3,
+    "eligible_years": [
+      2022,
+      2023,
+      2024
+    ],
+    "end_year": 2024,
+    "latest_eligible_year": 2024,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  }
+}

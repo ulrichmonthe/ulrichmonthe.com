@@ -1,0 +1,87 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 578396640.0,
+  "ein": "135616528",
+  "metrics": {
+    "grant_sizes": {
+      "max": 3759322.0,
+      "median": 175000.0,
+      "min": 10350.0,
+      "p25": 100000.0,
+      "p75": 250000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 8,
+    "new_grantee_count_pooled": 22,
+    "new_grantee_rate_pooled": 0.0884,
+    "peer_basis": "assets",
+    "peer_cell_size": 44,
+    "peer_median_new_grantee_rate": 0.3032,
+    "repeat_dollar_concentration": 0.9164,
+    "total_grantee_count_latest": 80,
+    "total_grantee_count_pooled": 249
+  },
+  "name": "The Clark Foundation",
+  "provenance": {
+    "as_of_fiscal_year": 2024,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 2,
+    "clusters_formed": 119,
+    "drift_review_flag": false,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 137,
+    "gate_failures": [],
+    "match_rate": 0.9954128440366973,
+    "publishable": true,
+    "singleton_cluster_share": 0.1849,
+    "total_grant_records": 436
+  },
+  "self_reported": {
+    "accepts_unsolicited": true,
+    "application_info_text": "LETTER REQUEST. GRANT REQUEST MUST INCLUDE AUDIT, BUDGET, AND PROOF OF EXEMPTION",
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "clark-foundation",
+  "state": "NY",
+  "status_band": "Rarely funds new grantees",
+  "window": {
+    "eligible_year_count": 3,
+    "eligible_years": [
+      2022,
+      2023,
+      2024
+    ],
+    "end_year": 2024,
+    "latest_eligible_year": 2024,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  }
+}

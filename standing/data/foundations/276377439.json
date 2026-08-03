@@ -1,51 +1,60 @@
 {
   "asset_band": "100M+",
-  "ein": "380000006",
+  "assets_fmv": 1171910959.0,
+  "ein": "276377439",
   "metrics": {
     "grant_sizes": {
-      "max": 183000.0,
-      "median": 86000.0,
-      "min": 74000.0,
-      "p25": 85000.0,
-      "p75": 144000.0
+      "max": 17000000.0,
+      "median": 7000000.0,
+      "min": 2500000.0,
+      "p25": 2500000.0,
+      "p75": 10000000.0
     },
     "lookback_years_used": 3,
     "new_grantee_count_latest": 0,
-    "new_grantee_count_pooled": 0,
-    "new_grantee_rate_pooled": 0.0,
-    "peer_basis": "demo:assets",
-    "peer_cell_size": 2,
-    "peer_median_new_grantee_rate": 0.027,
-    "repeat_dollar_concentration": 1.0,
-    "total_grantee_count_latest": 6,
-    "total_grantee_count_pooled": 21
+    "new_grantee_count_pooled": 1,
+    "new_grantee_rate_pooled": 0.0625,
+    "peer_basis": "assets",
+    "peer_cell_size": 44,
+    "peer_median_new_grantee_rate": 0.3032,
+    "repeat_dollar_concentration": 0.9995,
+    "total_grantee_count_latest": 5,
+    "total_grantee_count_pooled": 16
   },
-  "name": "Westover Foundation",
-  "ntee_major": "P",
+  "name": "Tansy Charitable Foundation",
   "provenance": {
     "as_of_fiscal_year": 2024,
     "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
     "next_recompute_expected": "2026-11-01",
-    "source": "SYNTHETIC \u2014 demonstration data, not IRS filings"
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
   },
   "quality": {
     "ambiguous_records": 0,
-    "clusters_formed": 10,
+    "clusters_formed": 11,
     "drift_review_flag": false,
     "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 0,
     "gate_failures": [],
-    "individual_grants_excluded": 0,
     "match_rate": 1.0,
     "publishable": true,
-    "singleton_cluster_share": 0.1,
-    "total_grant_records": 40
+    "singleton_cluster_share": 0.2727,
+    "total_grant_records": 33
   },
   "self_reported": {
     "accepts_unsolicited": false,
-    "application_info_text": null
+    "application_info_text": null,
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
   },
-  "slug": "westover-foundation",
-  "state": "OH",
+  "slug": "tansy-charitable-foundation",
+  "state": "NY",
   "status_band": "Rarely funds new grantees",
   "window": {
     "eligible_year_count": 3,
