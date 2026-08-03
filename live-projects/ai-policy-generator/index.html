@@ -119,6 +119,12 @@
       #print-doc { position: absolute; left: 0; top: 0; width: 100%; border: none; padding: 0; }
       @page { margin: 18mm; }
     }
+
+    .cta { margin: 46px 0 8px; background: linear-gradient(155deg, #2a2218 0%, #1c1a17 100%); border-radius: 12px; padding: 34px 38px; color: var(--paper); }
+    .cta h3 { font-family: var(--serif); font-size: 23px; font-weight: 600; line-height: 1.3; margin-bottom: 12px; color: var(--paper); }
+    .cta p { color: #d8d0c2; max-width: 60ch; font-size: 16px; line-height: 1.65; }
+    .cta a { color: var(--accent-soft); text-decoration: underline; text-underline-offset: 2px; }
+    @media (max-width: 620px) { .cta { padding: 26px 22px; } }
   </style>
 </head>
 <body>
@@ -156,7 +162,29 @@
 
     <div id="app"><div class="panel" id="stage"></div></div>
 
-    <footer class="site">
+    
+    <div class="cta">
+      <h3>The policy is the easy part.</h3>
+      <p>
+        Adoption is where these fail. Ninety days on there is still no
+        inventory of what staff actually use, no review cadence, and nobody
+        certain who approves a new tool. A policy that does not change what
+        happens on Monday is a document, not a control.
+      </p>
+      <p style="margin-top: 14px;">
+        Send me the policy you just generated and I will tell you which
+        clauses organizations most often fail to implement, and what it took
+        the ones that did — no charge, no pitch attached.
+        <a href="mailto:umonthe1@gmail.com?subject=AI%20policy%20—%20implementation">Email it over</a>.
+      </p>
+      <p style="margin-top: 14px;">
+        If you are a funder thinking about this for your grantees rather than
+        for one organization, say so — that is a different and more useful
+        conversation.
+      </p>
+    </div>
+
+<footer class="site">
       <div>© 2026 Ulrich Monthe · Built in public · <a href="/live-projects/">More tools</a></div>
       <div>Not legal advice · <a href="mailto:umonthe1@gmail.com">Email</a></div>
     </footer>
