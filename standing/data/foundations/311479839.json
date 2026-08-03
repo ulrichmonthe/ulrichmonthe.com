@@ -11,13 +11,13 @@
       "p75": 130000.0
     },
     "lookback_years_used": 3,
-    "new_grantee_count_latest": 18,
-    "new_grantee_count_pooled": 52,
-    "new_grantee_rate_pooled": 0.2385,
+    "new_grantee_count_latest": 16,
+    "new_grantee_count_pooled": 50,
+    "new_grantee_rate_pooled": 0.2294,
     "peer_basis": "assets",
-    "peer_cell_size": 44,
-    "peer_median_new_grantee_rate": 0.3032,
-    "repeat_dollar_concentration": 0.8983,
+    "peer_cell_size": 86,
+    "peer_median_new_grantee_rate": 0.3298,
+    "repeat_dollar_concentration": 0.9,
     "total_grantee_count_latest": 104,
     "total_grantee_count_pooled": 218
   },
@@ -37,14 +37,14 @@
   },
   "quality": {
     "ambiguous_records": 0,
-    "clusters_formed": 237,
+    "clusters_formed": 234,
     "drift_review_flag": false,
     "duplicate_filings_dropped": 0,
     "future_grants_excluded": 15,
     "gate_failures": [],
     "match_rate": 1.0,
     "publishable": true,
-    "singleton_cluster_share": 0.4599,
+    "singleton_cluster_share": 0.4444,
     "total_grant_records": 538
   },
   "self_reported": {

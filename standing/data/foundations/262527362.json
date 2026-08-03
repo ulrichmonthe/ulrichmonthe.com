@@ -15,8 +15,8 @@
     "new_grantee_count_pooled": 34,
     "new_grantee_rate_pooled": 0.3119,
     "peer_basis": "assets",
-    "peer_cell_size": 44,
-    "peer_median_new_grantee_rate": 0.3013,
+    "peer_cell_size": 86,
+    "peer_median_new_grantee_rate": 0.3298,
     "repeat_dollar_concentration": 0.8183,
     "total_grantee_count_latest": 56,
     "total_grantee_count_pooled": 109

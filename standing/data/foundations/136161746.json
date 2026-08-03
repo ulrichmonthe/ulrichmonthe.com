@@ -1,0 +1,87 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 430327798.0,
+  "ein": "136161746",
+  "metrics": {
+    "grant_sizes": {
+      "max": 500000.0,
+      "median": 150000.0,
+      "min": 75000.0,
+      "p25": 100000.0,
+      "p75": 150000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 101,
+    "new_grantee_count_pooled": 353,
+    "new_grantee_rate_pooled": 0.9217,
+    "peer_basis": "assets",
+    "peer_cell_size": 86,
+    "peer_median_new_grantee_rate": 0.3189,
+    "repeat_dollar_concentration": 0.1117,
+    "total_grantee_count_latest": 111,
+    "total_grantee_count_pooled": 383
+  },
+  "name": "The Hearst Foundation",
+  "provenance": {
+    "as_of_fiscal_year": 2024,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 0,
+    "clusters_formed": 655,
+    "drift_review_flag": true,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 10,
+    "gate_failures": [],
+    "match_rate": 1.0,
+    "publishable": true,
+    "singleton_cluster_share": 0.8977,
+    "total_grant_records": 730
+  },
+  "self_reported": {
+    "accepts_unsolicited": true,
+    "application_info_text": "Applications are available on the Fdns website Hearstfdn.org",
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "hearst-foundation",
+  "state": "NY",
+  "status_band": "Adds new grantees regularly",
+  "window": {
+    "eligible_year_count": 3,
+    "eligible_years": [
+      2022,
+      2023,
+      2024
+    ],
+    "end_year": 2024,
+    "latest_eligible_year": 2024,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  }
+}

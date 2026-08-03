@@ -1,0 +1,87 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 393340115.0,
+  "ein": "611004763",
+  "metrics": {
+    "grant_sizes": {
+      "max": 15914894.0,
+      "median": 15914894.0,
+      "min": 15914894.0,
+      "p25": 15914894.0,
+      "p75": 15914894.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 0,
+    "new_grantee_count_pooled": 33,
+    "new_grantee_rate_pooled": 0.8049,
+    "peer_basis": "assets",
+    "peer_cell_size": 86,
+    "peer_median_new_grantee_rate": 0.3189,
+    "repeat_dollar_concentration": 0.4981,
+    "total_grantee_count_latest": 1,
+    "total_grantee_count_pooled": 41
+  },
+  "name": "Humana Foundation Inc",
+  "provenance": {
+    "as_of_fiscal_year": 2024,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 0,
+    "clusters_formed": 165,
+    "drift_review_flag": true,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 53,
+    "gate_failures": [],
+    "match_rate": 1.0,
+    "publishable": true,
+    "singleton_cluster_share": 0.9152,
+    "total_grant_records": 196
+  },
+  "self_reported": {
+    "accepts_unsolicited": true,
+    "application_info_text": "Applications for contributions, other than scholarships, should be submitted by letter and accompanied by a copy of the organization's exemption letter under Code Sec. 501(c)(3). The application must request a specific dollar amount and include a brief explanation of the charitable activities of the organization. Applications for scholarship awards should be submitted directly to Scholarship America, St. Peter MN, on a pre-approved form. For details, see \"Grant Information\" at www.humanafoundation.org.",
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "humana-foundation-inc",
+  "state": "KY",
+  "status_band": "Adds new grantees regularly",
+  "window": {
+    "eligible_year_count": 3,
+    "eligible_years": [
+      2022,
+      2023,
+      2024
+    ],
+    "end_year": 2024,
+    "latest_eligible_year": 2024,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  }
+}

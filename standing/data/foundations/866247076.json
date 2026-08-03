@@ -1,0 +1,87 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 429931720.0,
+  "ein": "866247076",
+  "metrics": {
+    "grant_sizes": {
+      "max": 1000000.0,
+      "median": 7500.0,
+      "min": 25.0,
+      "p25": 5000.0,
+      "p75": 50000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 69,
+    "new_grantee_count_pooled": 198,
+    "new_grantee_rate_pooled": 0.198,
+    "peer_basis": "assets",
+    "peer_cell_size": 86,
+    "peer_median_new_grantee_rate": 0.3298,
+    "repeat_dollar_concentration": 0.9099,
+    "total_grantee_count_latest": 332,
+    "total_grantee_count_pooled": 1000
+  },
+  "name": "Virginia G Piper Charitable Trust",
+  "provenance": {
+    "as_of_fiscal_year": 2024,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 0,
+    "clusters_formed": 583,
+    "drift_review_flag": false,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 377,
+    "gate_failures": [],
+    "match_rate": 1.0,
+    "publishable": true,
+    "singleton_cluster_share": 0.3636,
+    "total_grant_records": 2666
+  },
+  "self_reported": {
+    "accepts_unsolicited": true,
+    "application_info_text": "Grantees are encouraged to talk to a program officer before submitting a Letter of Inquiry (LOI). The Letter of Inquiry (LOI) should describe the project - addressing its impact, effectiveness, feasibility, and sustainability. After review of the inquiry, organizations may be invited to submit a full proposal for consideration. Please refer to \"What Makes a Strong Proposal\" on the Trust's website (www.pipertrust.org). For assistance with the application process, email Angelica Gonzalez, Program Associate at agonzalez@pipertrust.org or call at 480-948-5853.",
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "virginia-g-piper-charitable-trust",
+  "state": "AZ",
+  "status_band": "Adds new grantees occasionally",
+  "window": {
+    "eligible_year_count": 3,
+    "eligible_years": [
+      2022,
+      2023,
+      2024
+    ],
+    "end_year": 2024,
+    "latest_eligible_year": 2024,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  }
+}

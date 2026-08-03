@@ -1,0 +1,84 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 513091736.0,
+  "ein": "821927087",
+  "metrics": {
+    "grant_sizes": {
+      "max": 20000000.0,
+      "median": 5000.0,
+      "min": 1000.0,
+      "p25": 2000.0,
+      "p75": 50000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 30,
+    "new_grantee_count_pooled": 53,
+    "new_grantee_rate_pooled": 0.3046,
+    "peer_basis": "assets",
+    "peer_cell_size": 86,
+    "peer_median_new_grantee_rate": 0.3298,
+    "repeat_dollar_concentration": 0.5493,
+    "total_grantee_count_latest": 86,
+    "total_grantee_count_pooled": 174
+  },
+  "name": "The Michael And Lori Milken Family",
+  "provenance": {
+    "as_of_fiscal_year": 2023,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 0,
+    "clusters_formed": 185,
+    "drift_review_flag": false,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 32,
+    "gate_failures": [],
+    "match_rate": 1.0,
+    "publishable": true,
+    "singleton_cluster_share": 0.5243,
+    "total_grant_records": 356
+  },
+  "self_reported": {
+    "accepts_unsolicited": true,
+    "application_info_text": "A BRIEF WRITTEN STATEMENT, NOT EXCEEDING THREE PAGES, INCLUDING A DESCRIPTION OF PROJECT GOALS, PROCEDURES AND PERSONNEL; QUALIFICATIONS FOR SUPPORT AND A BRIEF BACKGROUND OF THE ORGANIZATION, INCLUDING THE NUMBER OF YEARS IN OPERATION, OTHER AREAS OF ACTIVITY, THE APPLICANT'S PREVIOUS AND CURRENT SOURCES OF FUNDING; THE AMOUNT OF THE REQUEST, TOTAL AMOUNT OF THE PROJECT, DETAILS OF THE BUDGET AND PLANS FOR OBTAINING TOTAL FUNDING; A LETTER OF EXEMPTION FROM THE INTERNAL REVENUE SERVICE. APPLICANTS MAY SUPPLEMENT THEIR PROPOSALS WITH SUPPORTING PRINTED MATERIALS.",
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "michael-and-lori-milken-family",
+  "state": "CA",
+  "status_band": "Adds new grantees regularly",
+  "window": {
+    "eligible_year_count": 2,
+    "eligible_years": [
+      2022,
+      2023
+    ],
+    "end_year": 2023,
+    "latest_eligible_year": 2023,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 601615731.0,
+  "ein": "381675780",
+  "metrics": {
+    "grant_sizes": {
+      "max": 500000.0,
+      "median": 10000.0,
+      "min": 50.0,
+      "p25": 5000.0,
+      "p75": 40000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 131,
+    "new_grantee_count_pooled": 347,
+    "new_grantee_rate_pooled": 0.4348,
+    "peer_basis": "assets",
+    "peer_cell_size": 86,
+    "peer_median_new_grantee_rate": 0.3189,
+    "repeat_dollar_concentration": 0.8404,
+    "total_grantee_count_latest": 309,
+    "total_grantee_count_pooled": 798
+  },
+  "name": "The Skillman Foundation",
+  "provenance": {
+    "as_of_fiscal_year": 2024,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 10,
+    "clusters_formed": 566,
+    "drift_review_flag": false,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 0,
+    "gate_failures": [],
+    "match_rate": 0.9938461538461538,
+    "publishable": true,
+    "singleton_cluster_share": 0.5689,
+    "total_grant_records": 1625
+  },
+  "self_reported": {
+    "accepts_unsolicited": true,
+    "application_info_text": "ALL GRANT APPLICATIONS ARE SUBMITTED THROUGH THE FLUXX GRANTS MANAGEMENT SYSTEM. EACH APPLICATION INCLUDES ORGANIZATION NAME, RESPONSES TO THE ELIGIBILITY QUIZ, PRIMARY CONTACTS, AMOUNT REQUESTED, PROJECT TITLE AND SUMMARY, PROPOSED GRANT START AND END DATES, AND ALIGNED STRATEGIC IMPACT. FOR PRESIDENT DISCRETIONARY GRANTS, WE ALSO ASK FOR A DESCRIPTION OF THE EVENT, PROJECT, OR PROGRAM TO BE FUNDED. FOR PARTNERSHIP GRANTS, WE ASK HOW THE PROPOSED PROJECT ALIGNS TO OUR STRATEGY, DESCRIPTION OF PROJECT GOALS AND ACTIVITES, PLANS FOR MONITORING AND EVALUATION, COLLABORATIVE FUNDING, CHALLENGES AND RISKS, AND A BUDGET FOR HOW THE FUNDS WILL BE SPENT (IF PROJECT GRANT). WE ALSO ASK GRANT PARTNERS TO UPLOAD A BOARD LIST, INTERIM FINANCIALS, MOST RECENT AUDITED OR REVIEWED FINANCIALS, 990 FORM, AND ORGANIZATIONAL BUDGET. FOR ADDITIONAL INFORMATION PLEASE VISIT OUR WEBSITE AT HTTPS://WWW.SKILLMAN.ORG/GRANTS/.",
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "skillman-foundation",
+  "state": "MI",
+  "status_band": "Adds new grantees regularly",
+  "window": {
+    "eligible_year_count": 3,
+    "eligible_years": [
+      2022,
+      2023,
+      2024
+    ],
+    "end_year": 2024,
+    "latest_eligible_year": 2024,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  }
+}

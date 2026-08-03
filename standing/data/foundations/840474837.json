@@ -1,0 +1,87 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 597631174.0,
+  "ein": "840474837",
+  "metrics": {
+    "grant_sizes": {
+      "max": 20000000.0,
+      "median": 25000.0,
+      "min": 2000.0,
+      "p25": 14000.0,
+      "p75": 45000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 157,
+    "new_grantee_count_pooled": 446,
+    "new_grantee_rate_pooled": 0.4593,
+    "peer_basis": "assets",
+    "peer_cell_size": 86,
+    "peer_median_new_grantee_rate": 0.3189,
+    "repeat_dollar_concentration": 0.6709,
+    "total_grantee_count_latest": 325,
+    "total_grantee_count_pooled": 971
+  },
+  "name": "Gates Family Foundation",
+  "provenance": {
+    "as_of_fiscal_year": 2024,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 0,
+    "clusters_formed": 886,
+    "drift_review_flag": true,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 305,
+    "gate_failures": [],
+    "match_rate": 1.0,
+    "publishable": true,
+    "singleton_cluster_share": 0.6569,
+    "total_grant_records": 1714
+  },
+  "self_reported": {
+    "accepts_unsolicited": true,
+    "application_info_text": "CAPITAL GRANT APPLICANTS SHOULD USE THE COMMON GRANT APPLICATION AVAILABLE ON THE FOUNDATION'S WEBSITE: WWW.GATESFAMILYFOUNDATION.ORG. PLEASE REFERENCE OUR WEBSITE FOR MORE INFORMATION ABOUT OUR INITIATED GRANT MAKING.",
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "gates-family-foundation",
+  "state": "CO",
+  "status_band": "Adds new grantees regularly",
+  "window": {
+    "eligible_year_count": 3,
+    "eligible_years": [
+      2022,
+      2023,
+      2024
+    ],
+    "end_year": 2024,
+    "latest_eligible_year": 2024,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  }
+}
