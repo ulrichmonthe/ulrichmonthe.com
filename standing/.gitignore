@@ -1,0 +1,5 @@
+# Reproducible artifacts — rebuild with fetch_index.py / build_real.py
+.cache/
+data/pf_index.csv
+__pycache__/
+*.pyc
