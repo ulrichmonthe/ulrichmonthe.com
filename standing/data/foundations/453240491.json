@@ -1,0 +1,87 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 465505478.0,
+  "ein": "453240491",
+  "metrics": {
+    "grant_sizes": {
+      "max": 5675000.0,
+      "median": 20000.0,
+      "min": 700.0,
+      "p25": 10000.0,
+      "p75": 40000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 23,
+    "new_grantee_count_pooled": 159,
+    "new_grantee_rate_pooled": 0.1769,
+    "peer_basis": "assets",
+    "peer_cell_size": 86,
+    "peer_median_new_grantee_rate": 0.3298,
+    "repeat_dollar_concentration": 0.8413,
+    "total_grantee_count_latest": 266,
+    "total_grantee_count_pooled": 899
+  },
+  "name": "Sorenson Legacy Foundation",
+  "provenance": {
+    "as_of_fiscal_year": 2024,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 0,
+    "clusters_formed": 572,
+    "drift_review_flag": false,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 0,
+    "gate_failures": [],
+    "match_rate": 1.0,
+    "publishable": true,
+    "singleton_cluster_share": 0.3164,
+    "total_grant_records": 1510
+  },
+  "self_reported": {
+    "accepts_unsolicited": true,
+    "application_info_text": "APPLICANTS MAY APPLY ONLINE OR REQUEST A COPY OF THE GRANT APPLICATION IN PERSON. ALL APPLICATIONS ARE REVIEWED AND SCREENED BY THE FOUNDATION'S ADMINISTRATIVE MANAGER TO ENSURE THAT THE APPLICATION IS APPROPRIATE AND CONSISTENT WITH THE FOUNDATION'S CHARTER AND THAT THE APPLICANT IS APPROVED AND IN GOOD STANDING ACCORDING TO IRC 501(C)(3) REQUIREMENTS. AFTER THIS EVALUATION, CHARITABLE CONTRIBUTIONS AND GRANT APPLICATIONS MAY BE APPROVED BY A MAJORITY VOTE OF A QUORUM OF THE BOARD OF DIRECTORS. GRANT APPLICATIONS ARE REVIEWED BY THE BOARD OF DIRECTORS ON A QUARTERLY BASIS.",
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "sorenson-legacy-foundation",
+  "state": "UT",
+  "status_band": "Adds new grantees occasionally",
+  "window": {
+    "eligible_year_count": 3,
+    "eligible_years": [
+      2022,
+      2023,
+      2024
+    ],
+    "end_year": 2024,
+    "latest_eligible_year": 2024,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  }
+}

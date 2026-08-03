@@ -1,0 +1,87 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 546206283.0,
+  "ein": "050426623",
+  "metrics": {
+    "grant_sizes": {
+      "max": 6408253.0,
+      "median": 30000.0,
+      "min": 500.0,
+      "p25": 15000.0,
+      "p75": 125000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 39,
+    "new_grantee_count_pooled": 102,
+    "new_grantee_rate_pooled": 0.4032,
+    "peer_basis": "assets",
+    "peer_cell_size": 86,
+    "peer_median_new_grantee_rate": 0.3189,
+    "repeat_dollar_concentration": 0.8163,
+    "total_grantee_count_latest": 96,
+    "total_grantee_count_pooled": 253
+  },
+  "name": "Warren Alpert Foundation",
+  "provenance": {
+    "as_of_fiscal_year": 2024,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 7,
+    "clusters_formed": 197,
+    "drift_review_flag": false,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 0,
+    "gate_failures": [],
+    "match_rate": 0.9820051413881749,
+    "publishable": true,
+    "singleton_cluster_share": 0.5685,
+    "total_grant_records": 389
+  },
+  "self_reported": {
+    "accepts_unsolicited": true,
+    "application_info_text": "RESEARCH GRANT APPLICATION, GENERAL GRANT APPLICATION, DISTINGUISHED SCHOLARS APPLICATION. ALL SHOULD INCLUDE TITLE, SUMMARY, PRINCIPAL INVESTIGATOR OR NAME OF ORGANIZATION, AMOUNT REQUESTED, BUDGET AND BACKGROUND. APART FROM THE WARREN ALPERT DISTINGUISHED SCHOLARS FELLOWSHIP AND THE WARREN ALPERT FOUNDATION PRIZE, THERE ARE NO SUBMISSION DEADLINES FOR GRANT AWARDS.",
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "warren-alpert-foundation",
+  "state": "RI",
+  "status_band": "Adds new grantees regularly",
+  "window": {
+    "eligible_year_count": 3,
+    "eligible_years": [
+      2022,
+      2023,
+      2024
+    ],
+    "end_year": 2024,
+    "latest_eligible_year": 2024,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  }
+}

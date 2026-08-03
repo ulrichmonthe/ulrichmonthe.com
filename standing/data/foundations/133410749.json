@@ -1,0 +1,87 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 418315545.0,
+  "ein": "133410749",
+  "metrics": {
+    "grant_sizes": {
+      "max": 1775871.0,
+      "median": 50000.0,
+      "min": 7182.0,
+      "p25": 40000.0,
+      "p75": 100000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 69,
+    "new_grantee_count_pooled": 210,
+    "new_grantee_rate_pooled": 0.3889,
+    "peer_basis": "assets",
+    "peer_cell_size": 86,
+    "peer_median_new_grantee_rate": 0.3189,
+    "repeat_dollar_concentration": 0.713,
+    "total_grantee_count_latest": 183,
+    "total_grantee_count_pooled": 540
+  },
+  "name": "The Andy Warhol Foundation For The",
+  "provenance": {
+    "as_of_fiscal_year": 2024,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 0,
+    "clusters_formed": 474,
+    "drift_review_flag": false,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 272,
+    "gate_failures": [],
+    "match_rate": 1.0,
+    "publishable": true,
+    "singleton_cluster_share": 0.4662,
+    "total_grant_records": 960
+  },
+  "self_reported": {
+    "accepts_unsolicited": true,
+    "application_info_text": "THE FOUNDATION DOES NOT HAVE AN APPLICATION FORM. INSTEAD, A FULL PROPOSAL FOR FUNDING SHOULD BE SUBMITTED IN THE FORM OF A LETTER OF APPROXIMATELY 3 PAGES DESCRIBING THE ACTIVITY FOR WHICH FUNDS ARE BEING REQUESTED; IF APPLYING FOR THE FIRST TIME, GIVE A BRIEF DESCRIPTION OF THE ORGANIZATION'S MISSION, PURPOSE AND GOALS. IN ADDITION, INCLUDE A PROJECT BUDGET AND A COPY OF THE ORGANIZATION'S 501(C)(3) RULING FROM THE IRS. APPLICANTS FOR CURATORIAL RESEARCH FELLOWSHIPS MUST APPLY THROUGH THEIR INSTITUTIONS AND MUST INCLUDE A LETTER OF SUPPORT FROM THE INSTITUTION'S DIRECTOR. PROPOSALS MAY BE SUBMITTED BY MAIL OR EMAIL.",
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "andy-warhol-foundation-for-the",
+  "state": "NY",
+  "status_band": "Adds new grantees regularly",
+  "window": {
+    "eligible_year_count": 3,
+    "eligible_years": [
+      2022,
+      2023,
+      2024
+    ],
+    "end_year": 2024,
+    "latest_eligible_year": 2024,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  }
+}

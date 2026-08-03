@@ -1,0 +1,87 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 437931582.0,
+  "ein": "462345457",
+  "metrics": {
+    "grant_sizes": {
+      "max": 1000000.0,
+      "median": 25000.0,
+      "min": 2000.0,
+      "p25": 15000.0,
+      "p75": 63000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 44,
+    "new_grantee_count_pooled": 172,
+    "new_grantee_rate_pooled": 0.5443,
+    "peer_basis": "assets",
+    "peer_cell_size": 86,
+    "peer_median_new_grantee_rate": 0.3189,
+    "repeat_dollar_concentration": 0.6091,
+    "total_grantee_count_latest": 118,
+    "total_grantee_count_pooled": 316
+  },
+  "name": "JTMF Foundation",
+  "provenance": {
+    "as_of_fiscal_year": 2024,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 0,
+    "clusters_formed": 203,
+    "drift_review_flag": false,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 0,
+    "gate_failures": [],
+    "match_rate": 1.0,
+    "publishable": true,
+    "singleton_cluster_share": 0.5764,
+    "total_grant_records": 377
+  },
+  "self_reported": {
+    "accepts_unsolicited": false,
+    "application_info_text": null,
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "jtmf-foundation",
+  "state": "DE",
+  "status_band": "Adds new grantees regularly",
+  "window": {
+    "eligible_year_count": 3,
+    "eligible_years": [
+      2022,
+      2023,
+      2024
+    ],
+    "end_year": 2024,
+    "latest_eligible_year": 2024,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  }
+}

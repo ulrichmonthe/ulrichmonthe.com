@@ -1,0 +1,84 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 705377632.0,
+  "ein": "465129465",
+  "metrics": {
+    "grant_sizes": {
+      "max": 2646461.0,
+      "median": 20000.0,
+      "min": 1000.0,
+      "p25": 5000.0,
+      "p75": 50000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 60,
+    "new_grantee_count_pooled": 119,
+    "new_grantee_rate_pooled": 0.2196,
+    "peer_basis": "assets",
+    "peer_cell_size": 86,
+    "peer_median_new_grantee_rate": 0.3298,
+    "repeat_dollar_concentration": 0.8774,
+    "total_grantee_count_latest": 262,
+    "total_grantee_count_pooled": 542
+  },
+  "name": "Price Philanthropies Foundation",
+  "provenance": {
+    "as_of_fiscal_year": 2023,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 0,
+    "clusters_formed": 536,
+    "drift_review_flag": false,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 313,
+    "gate_failures": [],
+    "match_rate": 1.0,
+    "publishable": true,
+    "singleton_cluster_share": 0.3899,
+    "total_grant_records": 1224
+  },
+  "self_reported": {
+    "accepts_unsolicited": true,
+    "application_info_text": "WE ASK THAT ALL APPLICANTS SUBMIT AN INITIAL GRANT REQUEST. AFTER AN INTERNAL SCREENING PROCESS SOME APPLICANTS WILL BE ASKED TO SUBMIT A MORE COMPREHENSIVE GRANT REQUEST. THE INITIAL GRANT REQUEST MUST INCLUDE THE FOLLOWING INFORMATION: - THE ORGANIZATION'S BACKGROUND; AMOUNT REQUESTED; BRIEF DESCRIPTION OF SPECIFIC PROJECTS FOR WHICH FUNDING IS DESIRED; SPECIFIC DESCRIPTION OF HOW THIS GRANT SEEKS TO IMPROVE LIFE OPPORTUNITIES FOR YOUTH AND FAMILIES; ORGANIZATION ANNUAL BUDGET; PROGRAM OR PROJECT BUDGET; CONTACT INFORMATION FOR THE PERSON WHO SHOULD BE CONTACTED REGARDING THIS REQUEST; LIST OF THE BOARD OF DIRECTORS; AND THE 501(C)(3) DETERMINATION LETTER THE INITIAL GRANT REQUEST MUST BE SUBMITTED THROUGH OUR ONLINE SYSTEM.",
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "price-philanthropies-foundation",
+  "state": "CA",
+  "status_band": "Adds new grantees occasionally",
+  "window": {
+    "eligible_year_count": 2,
+    "eligible_years": [
+      2022,
+      2023
+    ],
+    "end_year": 2023,
+    "latest_eligible_year": 2023,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023
+    ]
+  }
+}

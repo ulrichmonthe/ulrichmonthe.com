@@ -1,0 +1,89 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 413670410.0,
+  "ein": "390810536",
+  "metrics": {
+    "grant_sizes": {
+      "max": 280968.0,
+      "median": 6000.0,
+      "min": 500.0,
+      "p25": 3938.0,
+      "p75": 28000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 52,
+    "new_grantee_count_pooled": 185,
+    "new_grantee_rate_pooled": 0.5968,
+    "peer_basis": null,
+    "peer_cell_size": null,
+    "peer_median_new_grantee_rate": null,
+    "repeat_dollar_concentration": 0.0747,
+    "total_grantee_count_latest": 91,
+    "total_grantee_count_pooled": 310
+  },
+  "name": "Kohler Foundation Inc",
+  "provenance": {
+    "as_of_fiscal_year": 2024,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 237,
+    "clusters_formed": 384,
+    "drift_review_flag": true,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 0,
+    "gate_failures": [
+      "match_rate"
+    ],
+    "match_rate": 0.7437837837837837,
+    "publishable": false,
+    "singleton_cluster_share": 0.7943,
+    "total_grant_records": 925
+  },
+  "self_reported": {
+    "accepts_unsolicited": true,
+    "application_info_text": "APPLICANTS ARE ASKED TO PROVIDE A WRITTEN REQUEST PER THE KOHLER FOUNDATION GRANT GUIDELINES, AVAILABLE ONLINE OR BY REQUEST (920-458-1972). APPLICANTS MUST DEFINE THE PROJECT, SPECIFY THE AMOUNT OF FUNDS NEEDED, HOW MANY PEOPLE WILL BE AFFECTED, TIMING, AND A BRIEF SUMMARY OF THE PROJECT. PROJECT MANAGER CREDENTIALS ARE REQUESTED. COMMON GRANT APPLICATION IS ACCEPTED.",
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "kohler-foundation-inc",
+  "state": "WI",
+  "status_band": "Not enough data to compare",
+  "window": {
+    "eligible_year_count": 3,
+    "eligible_years": [
+      2022,
+      2023,
+      2024
+    ],
+    "end_year": 2024,
+    "latest_eligible_year": 2024,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  }
+}

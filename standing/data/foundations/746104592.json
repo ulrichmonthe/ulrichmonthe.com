@@ -1,0 +1,87 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 451534153.0,
+  "ein": "746104592",
+  "metrics": {
+    "grant_sizes": {
+      "max": 1207779.0,
+      "median": 30000.0,
+      "min": 100.0,
+      "p25": 5000.0,
+      "p75": 100000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 59,
+    "new_grantee_count_pooled": 235,
+    "new_grantee_rate_pooled": 0.3539,
+    "peer_basis": "assets",
+    "peer_cell_size": 86,
+    "peer_median_new_grantee_rate": 0.3189,
+    "repeat_dollar_concentration": 0.6406,
+    "total_grantee_count_latest": 220,
+    "total_grantee_count_pooled": 664
+  },
+  "name": "The Powell Foundation",
+  "provenance": {
+    "as_of_fiscal_year": 2024,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 1,
+    "clusters_formed": 442,
+    "drift_review_flag": false,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 69,
+    "gate_failures": [],
+    "match_rate": 0.9990892531876139,
+    "publishable": true,
+    "singleton_cluster_share": 0.4774,
+    "total_grant_records": 1098
+  },
+  "self_reported": {
+    "accepts_unsolicited": true,
+    "application_info_text": "Organizations interested in applying for a Powell Foundation grant must submit an online pre-application form. If the pre-application is advanced, the organization will be invited to submit a full application via the Powell Foundation's online Grant Portal. The Powell Foundation Board of Directors makes all final decisions about grant requests during the Spring (May) and Fall (November) Board Meetings. Organizations approved for funding must sign and return a grant agreement for disbursement. Refer to the website for grant guidelines.",
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "powell-foundation",
+  "state": "TX",
+  "status_band": "Adds new grantees regularly",
+  "window": {
+    "eligible_year_count": 3,
+    "eligible_years": [
+      2022,
+      2023,
+      2024
+    ],
+    "end_year": 2024,
+    "latest_eligible_year": 2024,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  }
+}

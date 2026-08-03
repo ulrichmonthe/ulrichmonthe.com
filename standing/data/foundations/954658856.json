@@ -1,0 +1,91 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 453698423.0,
+  "ein": "954658856",
+  "metrics": {
+    "grant_sizes": {
+      "max": 25756751.0,
+      "median": 25756751.0,
+      "min": 25756751.0,
+      "p25": 25756751.0,
+      "p75": 25756751.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 1,
+    "new_grantee_count_pooled": 1,
+    "new_grantee_rate_pooled": 1.0,
+    "peer_basis": null,
+    "peer_cell_size": null,
+    "peer_median_new_grantee_rate": null,
+    "repeat_dollar_concentration": 0.0,
+    "total_grantee_count_latest": 1,
+    "total_grantee_count_pooled": 1
+  },
+  "name": "Capital Group Companies Charitable",
+  "provenance": {
+    "as_of_fiscal_year": 2023,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 1,
+    "clusters_formed": 2,
+    "drift_review_flag": false,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 0,
+    "gate_failures": [
+      "match_rate",
+      "eligible_year_count",
+      "total_grantee_count_pooled"
+    ],
+    "match_rate": 0.75,
+    "publishable": false,
+    "singleton_cluster_share": 0.5,
+    "total_grant_records": 4
+  },
+  "self_reported": {
+    "accepts_unsolicited": true,
+    "application_info_text": "N/A",
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "capital-group-companies-charitable",
+  "state": "CA",
+  "status_band": "Not enough data to compare",
+  "window": {
+    "eligible_year_count": 1,
+    "eligible_years": [
+      2023
+    ],
+    "end_year": 2023,
+    "latest_eligible_year": 2023,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      },
+      {
+        "reason": "no_grantees",
+        "year": 2022
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023
+    ]
+  }
+}

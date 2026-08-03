@@ -1,0 +1,87 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 452365338.0,
+  "ein": "956085895",
+  "metrics": {
+    "grant_sizes": {
+      "max": 500000.0,
+      "median": 30000.0,
+      "min": 100.0,
+      "p25": 10000.0,
+      "p75": 50000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 81,
+    "new_grantee_count_pooled": 306,
+    "new_grantee_rate_pooled": 0.3142,
+    "peer_basis": "assets",
+    "peer_cell_size": 86,
+    "peer_median_new_grantee_rate": 0.3298,
+    "repeat_dollar_concentration": 0.7636,
+    "total_grantee_count_latest": 327,
+    "total_grantee_count_pooled": 974
+  },
+  "name": "The Ralph M Parsons Foundation",
+  "provenance": {
+    "as_of_fiscal_year": 2024,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 0,
+    "clusters_formed": 809,
+    "drift_review_flag": false,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 178,
+    "gate_failures": [],
+    "match_rate": 1.0,
+    "publishable": true,
+    "singleton_cluster_share": 0.4141,
+    "total_grant_records": 1768
+  },
+  "self_reported": {
+    "accepts_unsolicited": true,
+    "application_info_text": "ONLINE APPLICATIONS AT RMPF.ORG/ ALL GRANT APPLICATIONS BEGIN WITH AN ONLINE LETTER OF INQUIRY (LOI) AS A REQUIRED FIRST STEP IN SEEKING FUNDING. WE HAVE A CONTINUOUS APPROVAL PROCESS AND LOIS MAY BE SUBMITTED AT ANY TIME THROUGHOUT THE YEAR.",
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "ralph-m-parsons-foundation",
+  "state": "CA",
+  "status_band": "Adds new grantees regularly",
+  "window": {
+    "eligible_year_count": 3,
+    "eligible_years": [
+      2022,
+      2023,
+      2024
+    ],
+    "end_year": 2024,
+    "latest_eligible_year": 2024,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "_note": "T1 output — SPEC.md §2.2. VERIFIED against real 990-PF filings from the GivingTuesday Data Lake, 2020-2024 tax years, return versions 2020v4.x through 2024v5.5. Element paths live here and nowhere else.",
+  "_verified_on": "2026-08-03",
+  "namespace": "{http://www.irs.gov/efile}",
+
+  "filer_ein": "ReturnHeader/Filer/EIN",
+  "filer_name": "ReturnHeader/Filer/BusinessName/BusinessNameLine1Txt",
+  "tax_year": "ReturnHeader/TaxYr",
+  "period_end": "ReturnHeader/TaxPeriodEndDt",
+  "filer_state": "ReturnHeader/Filer/USAddress/StateAbbreviationCd",
+
+  "pf_root": "ReturnData/IRS990PF",
+  "supplementary": "ReturnData/IRS990PF/SupplementaryInformationGrp",
+
+  "grants_paid": "ReturnData/IRS990PF/SupplementaryInformationGrp/GrantOrContributionPdDurYrGrp",
+  "grants_future": "ReturnData/IRS990PF/SupplementaryInformationGrp/GrantOrContriApprvForFutGrp",
+
+  "grant_recipient_org": "RecipientBusinessName/BusinessNameLine1Txt",
+  "grant_recipient_org_line2": "RecipientBusinessName/BusinessNameLine2Txt",
+  "grant_recipient_person": "RecipientPersonNm",
+  "grant_recipient_state": "RecipientUSAddress/StateAbbreviationCd",
+  "grant_recipient_city": "RecipientUSAddress/CityNm",
+  "grant_recipient_foreign_country": "RecipientForeignAddress/CountryCd",
+  "grant_status": "RecipientFoundationStatusTxt",
+  "grant_purpose": "GrantOrContributionPurposeTxt",
+  "grant_amount": "Amt",
+
+  "application_info": "ReturnData/IRS990PF/SupplementaryInformationGrp/ApplicationSubmissionInfoGrp",
+  "application_form_info": "FormAndInfoAndMaterialsTxt",
+  "application_deadlines": "SubmissionDeadlinesTxt",
+  "application_restrictions": "RestrictionsOnAwardsTxt",
+
+  "fmv_assets_eoy": "ReturnData/IRS990PF/FMVAssetsEOYAmt",
+
+  "_findings": {
+    "recipient_ein": "ABSENT — confirmed across all sampled filings. Grant records carry recipient name, address, foundation status, purpose and amount only. Entity resolution must therefore be name-based, which is why match rate is published and why the 0.85 gate exists.",
+    "namespace_required": "All elements are namespaced {http://www.irs.gov/efile}. Unnamespaced lookups silently return nothing — they do not error.",
+    "grants_nested_deeper_than_assumed": "SPEC v1.0 assumed IRS990PF/GrantOrContributionPdDurYrGrp. The real path nests under SupplementaryInformationGrp.",
+    "future_grants_are_a_trap": "GrantOrContriApprvForFutGrp sits as a SIBLING of the paid-grants element with an identical child structure. It lists grants APPROVED FOR FUTURE PAYMENT, not paid. Counting it inflates grantee counts and invents relationships that never received money. It must be excluded.",
+    "preselected_indicator": "No OnlyContriToPreselectedInd element was found in sampled filings. Part XV line 2 appears to be expressed structurally: a foundation that accepts applications populates ApplicationSubmissionInfoGrp with contact and process detail; one that does not omits the group entirely. Absence is therefore treated as 'does not accept unsolicited', and this inference is labelled as such wherever it is shown.",
+    "recipient_state_present": "RecipientUSAddress/StateAbbreviationCd is populated on grant records, so state blocking in resolve.py is viable. Foreign and missing addresses still occur and are handled as wildcards."
+  }
+}

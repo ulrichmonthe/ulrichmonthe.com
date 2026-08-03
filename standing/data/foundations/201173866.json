@@ -1,0 +1,87 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 382487320.0,
+  "ein": "201173866",
+  "metrics": {
+    "grant_sizes": {
+      "max": 1250000.0,
+      "median": 100000.0,
+      "min": 1000.0,
+      "p25": 40000.0,
+      "p75": 200000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 70,
+    "new_grantee_count_pooled": 215,
+    "new_grantee_rate_pooled": 0.4159,
+    "peer_basis": "assets",
+    "peer_cell_size": 86,
+    "peer_median_new_grantee_rate": 0.3189,
+    "repeat_dollar_concentration": 0.7084,
+    "total_grantee_count_latest": 182,
+    "total_grantee_count_pooled": 517
+  },
+  "name": "Omidyar Network Fund Inc",
+  "provenance": {
+    "as_of_fiscal_year": 2024,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 0,
+    "clusters_formed": 627,
+    "drift_review_flag": true,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 99,
+    "gate_failures": [],
+    "match_rate": 1.0,
+    "publishable": true,
+    "singleton_cluster_share": 0.6411,
+    "total_grant_records": 1198
+  },
+  "self_reported": {
+    "accepts_unsolicited": false,
+    "application_info_text": null,
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "omidyar-network-fund-inc",
+  "state": "CA",
+  "status_band": "Adds new grantees regularly",
+  "window": {
+    "eligible_year_count": 3,
+    "eligible_years": [
+      2022,
+      2023,
+      2024
+    ],
+    "end_year": 2024,
+    "latest_eligible_year": 2024,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  }
+}

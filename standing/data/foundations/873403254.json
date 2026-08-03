@@ -1,0 +1,84 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 411211092.0,
+  "ein": "873403254",
+  "metrics": {
+    "grant_sizes": {
+      "max": 3500000.0,
+      "median": 100000.0,
+      "min": 1000.0,
+      "p25": 25000.0,
+      "p75": 400000.0
+    },
+    "lookback_years_used": 2,
+    "new_grantee_count_latest": 23,
+    "new_grantee_count_pooled": 23,
+    "new_grantee_rate_pooled": 0.6216,
+    "peer_basis": null,
+    "peer_cell_size": null,
+    "peer_median_new_grantee_rate": null,
+    "repeat_dollar_concentration": 0.5416,
+    "total_grantee_count_latest": 37,
+    "total_grantee_count_pooled": 37
+  },
+  "name": "I Am Mercy Foundation",
+  "provenance": {
+    "as_of_fiscal_year": 2024,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 0,
+    "clusters_formed": 57,
+    "drift_review_flag": false,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 18,
+    "gate_failures": [
+      "eligible_year_count"
+    ],
+    "match_rate": 1.0,
+    "publishable": false,
+    "singleton_cluster_share": 0.6842,
+    "total_grant_records": 86
+  },
+  "self_reported": {
+    "accepts_unsolicited": false,
+    "application_info_text": null,
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "i-am-mercy-foundation",
+  "state": "PA",
+  "status_band": "Not enough data to compare",
+  "window": {
+    "eligible_year_count": 1,
+    "eligible_years": [
+      2024
+    ],
+    "end_year": 2024,
+    "latest_eligible_year": 2024,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2022
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2023
+      }
+    ],
+    "start_year": 2022,
+    "years_present": [
+      2022,
+      2023,
+      2024
+    ]
+  }
+}

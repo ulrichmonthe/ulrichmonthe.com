@@ -1,0 +1,87 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 1925518175.0,
+  "ein": "586001954",
+  "metrics": {
+    "grant_sizes": {
+      "max": 20000039.0,
+      "median": 500000.0,
+      "min": 100000.0,
+      "p25": 250000.0,
+      "p75": 2000000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 18,
+    "new_grantee_count_pooled": 57,
+    "new_grantee_rate_pooled": 0.4488,
+    "peer_basis": "assets",
+    "peer_cell_size": 86,
+    "peer_median_new_grantee_rate": 0.3189,
+    "repeat_dollar_concentration": 0.7835,
+    "total_grantee_count_latest": 40,
+    "total_grantee_count_pooled": 127
+  },
+  "name": "Joseph B Whitehead Foundation",
+  "provenance": {
+    "as_of_fiscal_year": 2024,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 0,
+    "clusters_formed": 120,
+    "drift_review_flag": true,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 50,
+    "gate_failures": [],
+    "match_rate": 1.0,
+    "publishable": true,
+    "singleton_cluster_share": 0.6417,
+    "total_grant_records": 225
+  },
+  "self_reported": {
+    "accepts_unsolicited": true,
+    "application_info_text": "Application form not required. Proposals should be submitted via the Foundation's online application portal on its website. Before submitting a formal grant request, prospective grantees are encouraged to submit an informal inquiry to fdns@woodruff.org. The grant request should be made in letter form and include the following information: - A description of the organization, its purposes, programs, staffing and governing board - The organization's latest financial statements including the most recent audit report - A description of the proposed project and full justification for its funding - An itemized project budget, including other sources of support in hand or anticipated - Evidence from the IRS of the organization's tax-exempt status and that the applying organization itself is not a private foundation.",
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "joseph-b-whitehead-foundation",
+  "state": "GA",
+  "status_band": "Adds new grantees regularly",
+  "window": {
+    "eligible_year_count": 3,
+    "eligible_years": [
+      2022,
+      2023,
+      2024
+    ],
+    "end_year": 2024,
+    "latest_eligible_year": 2024,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "042768239": {
+    "slug": "yawkey-foundation-ii",
+    "superseded": []
+  },
+  "046836735": {
+    "slug": "one8-foundation",
+    "superseded": []
+  },
+  "050426623": {
+    "slug": "warren-alpert-foundation",
+    "superseded": []
+  },
+  "061695275": {
+    "slug": "craig-h-neilsen-foundation",
+    "superseded": []
+  },
+  "131624021": {
+    "slug": "william-t-grant-foundation-inc",
+    "superseded": []
+  },
+  "131635303": {
+    "slug": "russell-sage-foundation",
+    "superseded": []
+  },
+  "133410749": {
+    "slug": "andy-warhol-foundation-for-the",
+    "superseded": []
+  },
+  "133456684": {
+    "slug": "arnhold-foundation-inc",
+    "superseded": []
+  },
+  "133741954": {
+    "slug": "moore-charitable-foundation-inc",
+    "superseded": []
+  },
+  "135616528": {
+    "slug": "clark-foundation",
+    "superseded": []
+  },
+  "135673173": {
+    "slug": "john-simon-guggenheim-memorial",
+    "superseded": []
+  },
+  "136147952": {
+    "slug": "endeavor-foundation-inc",
+    "superseded": []
+  },
+  "136161746": {
+    "slug": "hearst-foundation",
+    "superseded": []
+  },
+  "136223609": {
+    "slug": "weill-family-foundation",
+    "superseded": []
+  },
+  "136881103": {
+    "slug": "carmel-hill-fund",
+    "superseded": []
+  },
+  "136957038": {
+    "slug": "carson-family-charitable-trust",
+    "superseded": []
+  },
+  "137450689": {
+    "slug": "arison-arts-foundation",
+    "superseded": []
+  },
+  "166071043": {
+    "slug": "park-foundation-inc",
+    "superseded": []
+  },
+  "200235689": {
+    "slug": "willard-pat-walker-charitable-foundation-inc",
+    "superseded": []
+  },
+  "201173866": {
+    "slug": "omidyar-network-fund-inc",
+    "superseded": []
+  },
+  "207267377": {
+    "slug": "shanahan-family-charitable",
+    "superseded": []
+  },
+  "208050779": {
+    "slug": "grace-and-mercy-foundation-inc",
+    "superseded": []
+  },
+  "208068401": {
+    "slug": "pershing-square-foundation",
+    "superseded": []
+  },
+  "222773769": {
+    "slug": "van-beuren-charitable-foundation-inc",
+    "superseded": []
+  },
+  "222777449": {
+    "slug": "marty-and-dorothy-silverman-foundation",
+    "superseded": []
+  },
+  "237093201": {
+    "slug": "nathan-cummings-foundation-inc",
+    "superseded": []
+  },
+  "237336090": {
+    "slug": "kemper-and-leila-williams-foundation-in",
+    "superseded": []
+  },
+  "237411083": {
+    "slug": "beth-and-ravenel-curry-foundation",
+    "superseded": []
+  },
+  "251086799": {
+    "slug": "claude-worthington-benedum-foundation",
+    "superseded": []
+  },
+  "262502555": {
+    "slug": "novartis-patient-assistance",
+    "superseded": []
+  },
+  "262527362": {
+    "slug": "scharbauer-foundation-inc",
+    "superseded": []
+  },
+  "266574983": {
+    "slug": "offutt-family-foundation",
+    "superseded": []
+  },
+  "276377439": {
+    "slug": "tansy-charitable-foundation",
+    "superseded": []
+  },
+  "306085406": {
+    "slug": "leon-levy-foundation",
+    "superseded": []
+  },
+  "310549056": {
+    "slug": "charles-f-kettering-foundation",
+    "superseded": []
+  },
+  "311189885": {
+    "slug": "richard-m-fairbanks-foundation-inc",
+    "superseded": []
+  },
+  "311250075": {
+    "slug": "greenacres-foundation-inc",
+    "superseded": []
+  },
+  "311479839": {
+    "slug": "colcom-foundation",
+    "superseded": []
+  },
+  "311551093": {
+    "slug": "terry-foundation",
+    "superseded": []
+  },
+  "356644088": {
+    "slug": "nina-mason-pulliam-charitable-trust",
+    "superseded": []
+  },
+  "363261347": {
+    "slug": "richard-h-driehaus-foundation",
+    "superseded": []
+  },
+  "364812310": {
+    "slug": "libra-foundation",
+    "superseded": []
+  },
+  "366058062": {
+    "slug": "pritzker-foundation",
+    "superseded": []
+  },
+  "371887329": {
+    "slug": "hunter-family-foundation",
+    "superseded": []
+  },
+  "371904998": {
+    "slug": "william-n-pennington-foundation",
+    "superseded": []
+  },
+  "381359264": {
+    "slug": "wk-kellogg-foundation",
+    "superseded": []
+  },
+  "381675780": {
+    "slug": "skillman-foundation",
+    "superseded": []
+  },
+  "383983213": {
+    "slug": "arthur-m-blank-family-foundation",
+    "superseded": []
+  },
+  "390810536": {
+    "slug": "kohler-foundation-inc",
+    "superseded": []
+  },
+  "392076346": {
+    "slug": "joseph-and-vera-zilber-family",
+    "superseded": []
+  },
+  "396786592": {
+    "slug": "ray-kay-eckstein-charitable-trust",
+    "superseded": []
+  },
+  "416012374": {
+    "slug": "c-k-blandin-residuary-trust",
+    "superseded": []
+  },
+  "421391990": {
+    "slug": "iowa-west-foundation",
+    "superseded": []
+  },
+  "453240491": {
+    "slug": "sorenson-legacy-foundation",
+    "superseded": []
+  },
+  "460500266": {
+    "slug": "genentech-patient-foundation",
+    "superseded": []
+  },
+  "462345457": {
+    "slug": "jtmf-foundation",
+    "superseded": []
+  },
+  "463022974": {
+    "slug": "goizueta-foundation-inc",
+    "superseded": []
+  },
+  "465129465": {
+    "slug": "price-philanthropies-foundation",
+    "superseded": []
+  },
+  "470824756": {
+    "slug": "howard-g-buffett-foundation",
+    "superseded": []
+  },
+  "474259772": {
+    "slug": "rob-walton-foundation",
+    "superseded": []
+  },
+  "476098282": {
+    "slug": "peter-kiewit-foundation",
+    "superseded": []
+  },
+  "476194021": {
+    "slug": "hawks-foundation",
+    "superseded": []
+  },
+  "510165988": {
+    "slug": "champlin-foundation",
+    "superseded": []
+  },
+  "516001265": {
+    "slug": "mt-cuba-center-inc",
+    "superseded": []
+  },
+  "521512330": {
+    "slug": "clark-charitable-foundation-inc",
+    "superseded": []
+  },
+  "521757452": {
+    "slug": "hn-and-frances-c-berger-foundation",
+    "superseded": []
+  },
+  "522136842": {
+    "slug": "keith-campbell-foundation",
+    "superseded": []
+  },
+  "522352678": {
+    "slug": "stephen-renee-bisciotti-foundation",
+    "superseded": []
+  },
+  "526068678": {
+    "slug": "j-willard-and-alice-s-marriott-foundation",
+    "superseded": []
+  },
+  "526220316": {
+    "slug": "eugene-b-casey-foundation",
+    "superseded": []
+  },
+  "542074788": {
+    "slug": "james-s-mcdonnell-foundation",
+    "superseded": []
+  },
+  "561954114": {
+    "slug": "john-m-belk-endowment",
+    "superseded": []
+  },
+  "562461733": {
+    "slug": "windsong-trust",
+    "superseded": []
+  },
+  "586001954": {
+    "slug": "joseph-b-whitehead-foundation",
+    "superseded": []
+  },
+  "586066677": {
+    "slug": "o-wayne-rollins-foundation",
+    "superseded": []
+  },
+  "592128429": {
+    "slug": "ted-arison-family-foundation-usa-inc",
+    "superseded": []
+  },
+  "593707820": {
+    "slug": "blue-cross-blue-shield-of-florida-foundation",
+    "superseded": []
+  },
+  "610724060": {
+    "slug": "james-graham-brown-foundation-inc",
+    "superseded": []
+  },
+  "611004763": {
+    "slug": "humana-foundation-inc",
+    "superseded": []
+  },
+  "650188171": {
+    "slug": "batchelor-foundation-inc",
+    "superseded": []
+  },
+  "650379356": {
+    "slug": "schoen-foundation",
+    "superseded": []
+  },
+  "710723781": {
+    "slug": "windgate-charitable-foundation-inc",
+    "superseded": []
+  },
+  "731167188": {
+    "slug": "inasmuch-foundation",
+    "superseded": []
+  },
+  "741936869": {
+    "slug": "valley-baptist-legacy-foundation",
+    "superseded": []
+  },
+  "742170127": {
+    "slug": "cynthia-george-mitchell-foundation",
+    "superseded": []
+  },
+  "746047440": {
+    "slug": "nelda-c-and-h-j-lutcher-stark-foundation",
+    "superseded": []
+  },
+  "746104592": {
+    "slug": "powell-foundation",
+    "superseded": []
+  },
+  "756037406": {
+    "slug": "tll-temple-foundation",
+    "superseded": []
+  },
+  "812608588": {
+    "slug": "ezrah-charitable-trust",
+    "superseded": []
+  },
+  "814503596": {
+    "slug": "visa-foundation",
+    "superseded": []
+  },
+  "814732333": {
+    "slug": "ainslie-foundation",
+    "superseded": []
+  },
+  "821927087": {
+    "slug": "michael-and-lori-milken-family",
+    "superseded": []
+  },
+  "823575662": {
+    "slug": "town-branch-foundation",
+    "superseded": []
+  },
+  "826501838": {
+    "slug": "perelman-family-charitable-trust-i",
+    "superseded": []
+  },
+  "831665375": {
+    "slug": "mathworks-foundation-inc",
+    "superseded": []
+  },
+  "834574297": {
+    "slug": "jeff-and-marieke-rothschild-foundation",
+    "superseded": []
+  },
+  "840474837": {
+    "slug": "gates-family-foundation",
+    "superseded": []
+  },
+  "846002373": {
+    "slug": "el-pomar-foundation",
+    "superseded": []
+  },
+  "846037604": {
+    "slug": "temple-hoyne-buell-foundation",
+    "superseded": []
+  },
+  "852133087": {
+    "slug": "musk-foundation",
+    "superseded": []
+  },
+  "854381562": {
+    "slug": "carl-angus-desantis-foundation-inc",
+    "superseded": []
+  },
+  "866247076": {
+    "slug": "virginia-g-piper-charitable-trust",
+    "superseded": []
+  },
+  "866502564": {
+    "slug": "barbara-brunckhorst-foundation",
+    "superseded": []
+  },
+  "873374164": {
+    "slug": "gary-and-mary-west-charitable-trust",
+    "superseded": []
+  },
+  "873403254": {
+    "slug": "i-am-mercy-foundation",
+    "superseded": []
+  },
+  "880391959": {
+    "slug": "lemelson-foundation",
+    "superseded": []
+  },
+  "911501066": {
+    "slug": "satterberg-foundation-inc",
+    "superseded": []
+  },
+  "943027928": {
+    "slug": "lozier-foundation",
+    "superseded": []
+  },
+  "943165171": {
+    "slug": "tosa-foundation",
+    "superseded": []
+  },
+  "943347800": {
+    "slug": "salesforce-foundation",
+    "superseded": []
+  },
+  "946068932": {
+    "slug": "evelyn-and-walter-haas-jr-fund",
+    "superseded": []
+  },
+  "946102700": {
+    "slug": "mcconnell-foundation",
+    "superseded": []
+  },
+  "946622075": {
+    "slug": "may-and-stanley-smith-charitable-trust",
+    "superseded": []
+  },
+  "954094426": {
+    "slug": "donald-bren-foundation",
+    "superseded": []
+  },
+  "954658856": {
+    "slug": "capital-group-companies-charitable",
+    "superseded": []
+  },
+  "955004033": {
+    "slug": "unihealth-foundation",
+    "superseded": []
+  },
+  "956085895": {
+    "slug": "ralph-m-parsons-foundation",
+    "superseded": []
+  },
+  "981129085": {
+    "slug": "legal-education-foundation",
+    "superseded": []
+  }
+}

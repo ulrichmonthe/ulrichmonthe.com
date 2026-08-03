@@ -1,0 +1,87 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 507170812.0,
+  "ein": "731167188",
+  "metrics": {
+    "grant_sizes": {
+      "max": 2000000.0,
+      "median": 13000.0,
+      "min": 50.0,
+      "p25": 1800.0,
+      "p75": 75000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 31,
+    "new_grantee_count_pooled": 154,
+    "new_grantee_rate_pooled": 0.2529,
+    "peer_basis": "assets",
+    "peer_cell_size": 86,
+    "peer_median_new_grantee_rate": 0.3298,
+    "repeat_dollar_concentration": 0.763,
+    "total_grantee_count_latest": 139,
+    "total_grantee_count_pooled": 609
+  },
+  "name": "Inasmuch Foundation",
+  "provenance": {
+    "as_of_fiscal_year": 2024,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 0,
+    "clusters_formed": 504,
+    "drift_review_flag": false,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 155,
+    "gate_failures": [],
+    "match_rate": 1.0,
+    "publishable": true,
+    "singleton_cluster_share": 0.4464,
+    "total_grant_records": 1710
+  },
+  "self_reported": {
+    "accepts_unsolicited": true,
+    "application_info_text": "INASMUCH FOUNDATION, CREATED BY EDITH KINNEY GAYLORD IN 1982, INVESTS IN ORGANIZATIONS THAT EFFECT THE GREATEST POSITIVE OUTCOME FOR OKLAHOMANS. FUNDING PRIORITIES ARE EDUCATION, HEALTH AND HUMAN SERVICES AND COMMUNITY ENHANCEMENT. ETHICS AND EXCELLENCE IN JOURNALISM FOUNDATION, CREATED BY EDITH KINNEY GAYLORD IN 1982, INVESTS IN THE FUTURE OF JOURNALISM BY BUILDING THE ETHICS, SKILLS AND OPPORTUNITIES NEEDED TO ADVANCE PRINCIPLED, PROBING NEWS AND INFORMATION NOW AND FOR THE FUTURE. FUNDING PRIORITIES ARE INVESTIGATIVE REPORTING, PROFESSIONAL DEVELOPMENT AND YOUTH EDUCATION.",
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "inasmuch-foundation",
+  "state": "OK",
+  "status_band": "Adds new grantees regularly",
+  "window": {
+    "eligible_year_count": 3,
+    "eligible_years": [
+      2022,
+      2023,
+      2024
+    ],
+    "end_year": 2024,
+    "latest_eligible_year": 2024,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 477051325.0,
+  "ein": "846037604",
+  "metrics": {
+    "grant_sizes": {
+      "max": 1000000.0,
+      "median": 25000.0,
+      "min": 478.0,
+      "p25": 10000.0,
+      "p75": 50000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 97,
+    "new_grantee_count_pooled": 352,
+    "new_grantee_rate_pooled": 0.3009,
+    "peer_basis": "assets",
+    "peer_cell_size": 86,
+    "peer_median_new_grantee_rate": 0.3298,
+    "repeat_dollar_concentration": 0.7136,
+    "total_grantee_count_latest": 396,
+    "total_grantee_count_pooled": 1170
+  },
+  "name": "Temple Hoyne Buell Foundation",
+  "provenance": {
+    "as_of_fiscal_year": 2024,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 5,
+    "clusters_formed": 923,
+    "drift_review_flag": false,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 249,
+    "gate_failures": [],
+    "match_rate": 0.9979641693811075,
+    "publishable": true,
+    "singleton_cluster_share": 0.4355,
+    "total_grant_records": 2456
+  },
+  "self_reported": {
+    "accepts_unsolicited": true,
+    "application_info_text": "APPLICATIONS MUST BE SUBMITTED THROUGH OUR ONLINE GRANTEE PORTAL SUPPORTED BY GIVING DATA BY 5:00 PM ON THE DEADLINE DATE. GRANT SEEKERS ARE ENCOURAGED TO CALL ONE OF THE FOUNDATION'S PROGRAM OFFICERS PRIOR TO SUBMITTING AN APPLICATION.",
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "temple-hoyne-buell-foundation",
+  "state": "CO",
+  "status_band": "Adds new grantees regularly",
+  "window": {
+    "eligible_year_count": 3,
+    "eligible_years": [
+      2022,
+      2023,
+      2024
+    ],
+    "end_year": 2024,
+    "latest_eligible_year": 2024,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  }
+}

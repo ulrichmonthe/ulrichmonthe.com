@@ -1,0 +1,89 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 673221824.0,
+  "ein": "746047440",
+  "metrics": {
+    "grant_sizes": {
+      "max": 100000.0,
+      "median": 6000.0,
+      "min": 3000.0,
+      "p25": 5967.0,
+      "p75": 10000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 0,
+    "new_grantee_count_pooled": 4,
+    "new_grantee_rate_pooled": 0.1026,
+    "peer_basis": null,
+    "peer_cell_size": null,
+    "peer_median_new_grantee_rate": null,
+    "repeat_dollar_concentration": 0.8291,
+    "total_grantee_count_latest": 12,
+    "total_grantee_count_pooled": 39
+  },
+  "name": "Nelda C and H J Lutcher Stark Foundation",
+  "provenance": {
+    "as_of_fiscal_year": 2024,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 88,
+    "clusters_formed": 19,
+    "drift_review_flag": false,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 25,
+    "gate_failures": [
+      "match_rate"
+    ],
+    "match_rate": 0.3846153846153846,
+    "publishable": false,
+    "singleton_cluster_share": 0.3158,
+    "total_grant_records": 143
+  },
+  "self_reported": {
+    "accepts_unsolicited": false,
+    "application_info_text": null,
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "nelda-c-and-h-j-lutcher-stark-foundation",
+  "state": "TX",
+  "status_band": "Not enough data to compare",
+  "window": {
+    "eligible_year_count": 3,
+    "eligible_years": [
+      2022,
+      2023,
+      2024
+    ],
+    "end_year": 2024,
+    "latest_eligible_year": 2024,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 490716440.0,
+  "ein": "306085406",
+  "metrics": {
+    "grant_sizes": {
+      "max": 8726786.0,
+      "median": 25000.0,
+      "min": 40.0,
+      "p25": 5000.0,
+      "p75": 100000.0
+    },
+    "lookback_years_used": 3,
+    "new_grantee_count_latest": 53,
+    "new_grantee_count_pooled": 172,
+    "new_grantee_rate_pooled": 0.2871,
+    "peer_basis": "assets",
+    "peer_cell_size": 86,
+    "peer_median_new_grantee_rate": 0.3298,
+    "repeat_dollar_concentration": 0.7489,
+    "total_grantee_count_latest": 213,
+    "total_grantee_count_pooled": 599
+  },
+  "name": "Leon Levy Foundation",
+  "provenance": {
+    "as_of_fiscal_year": 2024,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 9,
+    "clusters_formed": 389,
+    "drift_review_flag": false,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 189,
+    "gate_failures": [],
+    "match_rate": 0.9905362776025236,
+    "publishable": true,
+    "singleton_cluster_share": 0.4087,
+    "total_grant_records": 951
+  },
+  "self_reported": {
+    "accepts_unsolicited": false,
+    "application_info_text": null,
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "leon-levy-foundation",
+  "state": "NY",
+  "status_band": "Adds new grantees regularly",
+  "window": {
+    "eligible_year_count": 3,
+    "eligible_years": [
+      2022,
+      2023,
+      2024
+    ],
+    "end_year": 2024,
+    "latest_eligible_year": 2024,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  }
+}

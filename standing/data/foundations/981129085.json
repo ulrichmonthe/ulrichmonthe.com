@@ -1,0 +1,66 @@
+{
+  "asset_band": "100M+",
+  "assets_fmv": 382552028.0,
+  "ein": "981129085",
+  "metrics": null,
+  "name": "The Legal Education Foundation",
+  "provenance": {
+    "as_of_fiscal_year": 2024,
+    "computed_at": "2026-08-03",
+    "distribution": "GivingTuesday Data Lake mirror of the IRS e-file corpus",
+    "next_recompute_expected": "2026-11-01",
+    "source": "IRS Form 990-PF, Part XV (grants paid during the year)",
+    "years_filed": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  "quality": {
+    "ambiguous_records": 0,
+    "clusters_formed": 1,
+    "drift_review_flag": false,
+    "duplicate_filings_dropped": 0,
+    "future_grants_excluded": 0,
+    "gate_failures": [
+      "eligible_year_count",
+      "total_grantee_count_pooled",
+      "recency"
+    ],
+    "match_rate": 1.0,
+    "publishable": false,
+    "singleton_cluster_share": 0.0,
+    "total_grant_records": 2
+  },
+  "self_reported": {
+    "accepts_unsolicited": false,
+    "application_info_text": null,
+    "basis": "ApplicationSubmissionInfoGrp present in latest filing"
+  },
+  "slug": "legal-education-foundation",
+  "state": null,
+  "status_band": "Not enough data to compare",
+  "window": {
+    "eligible_year_count": 0,
+    "eligible_years": [],
+    "end_year": 2021,
+    "latest_eligible_year": null,
+    "skipped_years": [
+      {
+        "reason": "insufficient_baseline",
+        "year": 2020
+      },
+      {
+        "reason": "insufficient_baseline",
+        "year": 2021
+      }
+    ],
+    "start_year": 2020,
+    "years_present": [
+      2020,
+      2021
+    ]
+  }
+}
