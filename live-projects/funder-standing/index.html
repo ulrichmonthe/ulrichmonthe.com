@@ -172,11 +172,13 @@
     </div>
 
     <div class="synthetic">
-      <b>Demonstration data.</b> Every foundation below is invented. The figures
-      are real output from the production pipeline run over synthesised filings,
-      so the arithmetic and the quality gates are genuine — but no real
-      organization is described here. The IRS extraction that replaces this is
-      the next milestone.
+      <b>Preview — a first cohort.</b> These are real foundations and real
+      figures, computed from their own Form 990-PF filings for tax years 2020
+      through 2024. The cohort is a slice, not the sector: the largest filers
+      holding $10M to $500M in assets with at least four consecutive years on
+      file. If you spot something wrong in your own organization's row, that is
+      exactly what this stage is for — <a href="/#contact" style="color:inherit;text-decoration:underline">tell me</a> and
+      I will show you the filings behind it.
     </div>
 
     <section>
@@ -247,8 +249,9 @@
       <div class="milestones">
         <h3>Status</h3>
         <ol>
-          <li class="done">Pipeline built to spec — clustering, drift guards, publication gate, 36 correctness checks passing</li>
-          <li class="now">Now: IRS Form 990-PF extraction, replacing the demonstration dataset</li>
+          <li class="done">Pipeline built to spec — clustering, drift guards, publication gate, 39 correctness checks passing</li>
+          <li class="done">IRS extraction live — 594,053 Form 990-PF filings indexed across 2020–2024, covering 143,131 foundations</li>
+          <li class="now">Now: widening the cohort beyond the first 59, and hand-checking a sample against the filings</li>
           <li>Then: per-foundation pages, and an index of how often foundations fund anyone new</li>
           <li>Then: opt-in board-history check, using only officer listings from public filings</li>
         </ol>
@@ -320,7 +323,7 @@
       (f.lookback || 3) + ' years.</p>' +
       '<p class="peer">Across all compared years the rate is ' + pct(f.rate_pooled) +
       (f.peer_median !== null && f.peer_median !== undefined
-        ? '. Similar foundations sit at ' + pct(f.peer_median) + ' (illustrative — the demonstration set is far below the sample size a published median would need).'
+        ? '. Similar foundations sit at ' + pct(f.peer_median) + ' — though this preview cohort is small, so treat the peer figure as indicative rather than a sector median.'
         : '. No peer comparison available.') + '</p>' +
       '<div class="grid">' +
       '<div><div class="m-l">New-grantee rate</div><div class="m-v">' + pct(f.rate_pooled) +
@@ -335,7 +338,7 @@
       '</div>' +
       '<p class="prov"><b>Source.</b> Form 990-PF Part XV line 3a, through FY' + f.latest_year +
       ' · <b>Lookback.</b> ' + (f.lookback || 3) + ' preceding filing years' +
-      ' · <b>Recompute.</b> On the next filing<br><b>Data.</b> Demonstration dataset — synthetic, not a real foundation</p>' +
+      ' · <b>Recompute.</b> On the next filing<br><b>Excludes.</b> Grants approved for future payment, which the return lists separately</p>' +
       '<div style="margin-top:14px"><button class="act" data-add="' + esc(f.ein) + '"' +
       (SEL.indexOf(f.ein) > -1 ? ' data-on="1"' : '') + '>' +
       (SEL.indexOf(f.ein) > -1 ? 'On your screen' : 'Add to screen') + '</button></div></div>';
@@ -406,7 +409,7 @@
                 f.accepts_unsolicited ? 'Yes' : 'No',
                 (f.match_rate * 100).toFixed(1) + '%',
                 f.latest_year || '',
-                'Form 990-PF Part XV (DEMONSTRATION DATA - synthetic)'
+                'IRS Form 990-PF Part XV, grants paid'
         ].map(function (v) { return '"' + String(v).replace(/"/g, '""') + '"'; }).join(',');
       }));
       var blob = new Blob([lines.join('\n')], { type: 'text/csv' });
@@ -464,8 +467,8 @@
         return d.foundations.some(function (f) { return f.ein === e; });
       });
       document.getElementById('asof').textContent =
-        'Demonstration dataset · ' + d.count + ' foundations · figures as of FY' +
-        d.as_of_fiscal_year + ' · generated ' + d.generated;
+        d.count + ' foundations · IRS Form 990-PF · figures as of FY' +
+        d.as_of_fiscal_year + ' · computed ' + d.generated;
       render();
       renderScreen();
     })
