@@ -48,6 +48,716 @@
     "singleton_cluster_share": 0.5764,
     "total_grant_records": 377
   },
+  "recipients_latest_year": [
+    {
+      "amount": 2000000.0,
+      "is_new": false,
+      "name": "PROVIDENCE PORTLAND MEDICAL FOUNDATION",
+      "purpose": "Tomorrow Starts Today -Emergency Care Campaign (Providence Portland Medical center)"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "AMERICAN NATIONAL RED CROSS",
+      "purpose": "National Blood Management System"
+    },
+    {
+      "amount": 750000.0,
+      "is_new": false,
+      "name": "ALZHEIMERS DISEASE AND RELATED DISORDERS ASSOCIATI",
+      "purpose": "ALZ CARES for Oregon fund"
+    },
+    {
+      "amount": 650000.0,
+      "is_new": false,
+      "name": "ALZHEIMERS DRUG DISCOVERY FOUNDATION",
+      "purpose": "MTI Biotech Study, Lipid Dicarbonyl Scavengers for the prevention of alzheimer's disease fund"
+    },
+    {
+      "amount": 512584.0,
+      "is_new": false,
+      "name": "HIRE HEROES USA",
+      "purpose": "Hire Heroes USA Pacific Northwest Field Team"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "THE DRAPER RICHARDS KAPLAN FOUNDATION",
+      "purpose": "General & Unrestricted"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "CENTRAL OREGON COMMUNITY COLLEGE FOUNDATION",
+      "purpose": "COCC Madras Campus - Childcare Expansion fund"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "ALZHEIMERS DISEASE DATA INITIATIVE INC",
+      "purpose": "Global Research and Imaging Platform (GRIP) fund"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "BANNER HEALTH FOUNDATION",
+      "purpose": "Alzheimer's Prevention Initiative: Paving the Path to the Primary Prevention of Alzheimer's disease"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "PROVIDENCE ST VINCENT MEDICAL FOUNDATION",
+      "purpose": "Tomorrow Starts Today Re-Imagining Emergency Care, Providence, St. Vincent"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": true,
+      "name": "THE IMMIGRANT AND REFUGEE COMMUNITY ORGANIZATION",
+      "purpose": "Glisan Early Learning Center"
+    },
+    {
+      "amount": 343000.0,
+      "is_new": false,
+      "name": "HEAD STRONG PROJECT INC",
+      "purpose": "Headstrong Project for Pacific Northwest with emphasis in Oregon"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "HAWAII CATHOLIC COMMUNITY FOUNDATION",
+      "purpose": "Sacred Hearts School Lahaina - Tuition Assistance program"
+    },
+    {
+      "amount": 265000.0,
+      "is_new": false,
+      "name": "HONOR FOUNDATION",
+      "purpose": "Transformational Military transition program for Joint base lewis-mcchord"
+    },
+    {
+      "amount": 179972.0,
+      "is_new": false,
+      "name": "ARIZONA STATE UNIVERSITY FOUNDATION FOR A NEW AMER",
+      "purpose": "Speech Biomarkers for Cognitive Decline reserach project"
+    },
+    {
+      "amount": 167813.0,
+      "is_new": false,
+      "name": "YOUNG LIFE",
+      "purpose": "Bellingham Young Life: High School Capernaum fund"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "HOLY FAMILY CHURCH",
+      "purpose": "HVAC Replacement Project at Holy Family Catholic School"
+    },
+    {
+      "amount": 135000.0,
+      "is_new": true,
+      "name": "SPECIAL OLYMPICS OREGON INC",
+      "purpose": "2024 Summer State Games Lodging and Transportation fund"
+    },
+    {
+      "amount": 130000.0,
+      "is_new": false,
+      "name": "OREGON HEALTH AND SCIENCE UNIVERSITY FOUNDATION",
+      "purpose": "Oregon Brain Bank fund"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "ST CLARE CHURCH & SCHOOL",
+      "purpose": "St. Clare School, Preschool & Parish HVAC Implementation - phase E"
+    },
+    {
+      "amount": 108000.0,
+      "is_new": false,
+      "name": "CATHOLIC YOUTH ORGANIZATION",
+      "purpose": "Camp Howard Catholic OutDoor Education (CODE) fund"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "COMMIT FOUNDATION",
+      "purpose": "Commit Foundation transition program"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "TRUST FOR PUBLIC LAND",
+      "purpose": "Madras Community Schoolyard fund"
+    },
+    {
+      "amount": 89856.0,
+      "is_new": false,
+      "name": "WARRIORS & QUIET WATERS FOUNDATION",
+      "purpose": "Underwriting Warriors and Quiet Waters Director of Program operations fund"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "BEST BUDDIES INTERNATIONAL INC",
+      "purpose": "Oregon School Friendship Expansion Program"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "COASTAL FAMILIES RELIEF NURSERY",
+      "purpose": "Transportation fund"
+    },
+    {
+      "amount": 73554.0,
+      "is_new": false,
+      "name": "THE COMFORT CREW FOR MILITARY KIDS",
+      "purpose": "Development Manager Position fund"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": true,
+      "name": "GIGI S PLAYHOUSE INC",
+      "purpose": "GiGi's Playhouse Portland Capital Buildout fund"
+    },
+    {
+      "amount": 63000.0,
+      "is_new": false,
+      "name": "SANDPOINT AREA SENIORS INC",
+      "purpose": "Three year support for position of Development Director, sandpoint area seniors"
+    },
+    {
+      "amount": 58500.0,
+      "is_new": false,
+      "name": "MOUNTAINSTAR FAMILY RELIEF NURSERY",
+      "purpose": "Outreach Program -LaPine and Redmond"
+    },
+    {
+      "amount": 52800.0,
+      "is_new": true,
+      "name": "SHADOW PROJECT",
+      "purpose": "SuperSensory Spaces at Alder, Fairview, and Salish ponds elementary schools in Reynolds school district"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "UNITED THROUGH READING",
+      "purpose": "Pacific Northwest United Through Reading Program"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "AMERICAN CORPORATE PARTNERS",
+      "purpose": "Employment Pathways for Veterans in Pacific Northwest with emphasis in Oregon and Washington state"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "HEARTS WITH A MISSION",
+      "purpose": "Hearts for Seniors Program"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "REACH INC",
+      "purpose": "Landscaping Program - for Van Purchase"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "SOUND GENERATIONS",
+      "purpose": "Digital Equity Program"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "SOUTH COAST BUSINESS EMPLOYMENT CORPORATION",
+      "purpose": "South Coast Business Area; Agency on Aging, Senior nutrition program"
+    },
+    {
+      "amount": 48850.0,
+      "is_new": false,
+      "name": "EVERY BODY ATHLETICS",
+      "purpose": "Volunteer Program Lead Position fund"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": true,
+      "name": "COLUMBIA GORGE HEALTH COUNCIL",
+      "purpose": "Connected Care for Older Adults Program"
+    },
+    {
+      "amount": 41400.0,
+      "is_new": true,
+      "name": "OUR MILITARY KIDS INC",
+      "purpose": "Activity Scholarship funds for Oregon and Washington state"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "ST FRANCIS OF ASSISI CATHOLIC SCHOOL",
+      "purpose": "Reading Curriculum Grades K-6 fund"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "TREEHOUSE THERAPIES ASSOCIATES",
+      "purpose": "Redmond Farm Clinic Garage Conversion Project"
+    },
+    {
+      "amount": 38715.0,
+      "is_new": false,
+      "name": "SOUTH LANE FAMILY NURSERY",
+      "purpose": "Development/Administrative Assistant Position fund"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "FAMILY DEVELOPMENT CENTER",
+      "purpose": "Part Time Volunteer Coordinator fund"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "PORTLAND TENNIS AND EDUCATION",
+      "purpose": "General Operating for Kindergarten - 5th Grade Program"
+    },
+    {
+      "amount": 34290.0,
+      "is_new": true,
+      "name": "ONTARIO SENIOR CITIZENS CENTER INC",
+      "purpose": "for capital Improvements: Ceiling replacement, LED lighting upgrade and interior painting"
+    },
+    {
+      "amount": 33000.0,
+      "is_new": false,
+      "name": "ST THERESE OF THE CHILD JESUS SCHOOL",
+      "purpose": "Part Time Development Director fund"
+    },
+    {
+      "amount": 32000.0,
+      "is_new": true,
+      "name": "O HARA AREA ELEMENTARY CATHOLIC SCHOOL",
+      "purpose": "for exterior Door Security Upgrades"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "ST PAUL SCHOOL",
+      "purpose": "for HVAC System Installation"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "COMMUNITY ACTION TEAM INCORPORATED",
+      "purpose": "Healthy Homes and Lend-a-Hand Programs"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "FAMILY AND COMMUNITY TOGETHER",
+      "purpose": "General & Unrestricted"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "MACDONALD CENTER",
+      "purpose": "for purchase of transport van/bus for use by residents"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "RELIEF NURSERY INC",
+      "purpose": "Eugene Expansion Project"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "STORE TO DOOR",
+      "purpose": "Resource Referral Program"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "WILLAMALANE PARK FOUNDATION",
+      "purpose": "for Preschool Playground"
+    },
+    {
+      "amount": 28000.0,
+      "is_new": true,
+      "name": "REGIS ST MARY CATHOLIC SCHOOL",
+      "purpose": "St Mary Campus-Natural Playground & Outdoor Classroom project"
+    },
+    {
+      "amount": 27900.0,
+      "is_new": true,
+      "name": "HIGH DESERT FOOD & FARM ALLIANCE",
+      "purpose": "Fresh Harvest Kit partnership with Council on Aging-central Oregon"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "HOLY CROSS CATHOLIC CHURCH",
+      "purpose": "Tuition Assistance fund"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "HOLY REDEEMER CATHOLIC SCHOOL",
+      "purpose": "Plumbing-Hot Water Project"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SACRED HEART CATHOLIC SCHOOL",
+      "purpose": "Tuition Assistance Program"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ST LUKE CATHOLIC CHURCH",
+      "purpose": "Tuition Assistance fund"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ST MARYS ACADEMY",
+      "purpose": "Tuition Assistance fund"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ST MATTHEW CATHOLIC CHURCH",
+      "purpose": "for library Upgrade"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "GILBERT HOUSE CHILDRENS MUSEUM INC",
+      "purpose": "A-Mazing Airways Exhibit"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "REACH OUT AND READ INC",
+      "purpose": "Reach Out & Read NW-Extending Impact Partners (Building Connections begins at birth)"
+    },
+    {
+      "amount": 22636.0,
+      "is_new": false,
+      "name": "LUTHERAN COMMUNITY SERVICES NORTHWEST",
+      "purpose": "Security and Playground fund"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "HOLY FAMILY ACADEMY",
+      "purpose": "Tuition Assistance Program"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "SAINT THOMAS CATHOLIC CHURCH",
+      "purpose": "St Thomas Academy Catholic School - Tuition Assistance program"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "ST IGNATIUS PARISH SCHOOL",
+      "purpose": "for One-to-One Chromebooks for Middle School Students and teachers"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "VISITATION BVM CATHOLIC CHURCH",
+      "purpose": "Visitation Catholic School - K-4th Grade Social Studies curriculum program"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "CAMPBELL INSTITUTE",
+      "purpose": "General & Unrestricted"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "ALBERTINA KERR CENTERS",
+      "purpose": "Employment Services Expansion fund"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "ADRIAN SCHOOL DISTRICT",
+      "purpose": "for Start-Up Equipment and Supplies for Little Lopes Preschool"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "OREGON LIONS SIGHT AND HEARING FOUNDATION INC",
+      "purpose": "School Vision Screening Program"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "Riley Creek Elementary School",
+      "purpose": "Preschool Project for 2024/2025 School Year"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "TODOS JUNTOS INC",
+      "purpose": "Molalla Community Center-Early Childhood Development program"
+    },
+    {
+      "amount": 17624.0,
+      "is_new": true,
+      "name": "ST JOHN THE APOSTLE CATHOLIC SCHOOL",
+      "purpose": "for Cafeteria Oven/Stove Purchase"
+    },
+    {
+      "amount": 17550.0,
+      "is_new": false,
+      "name": "TREASURE VALLEY CHILDRENS RELIEF NURSERY",
+      "purpose": "for security, Playground, Playground Fence, conference room"
+    },
+    {
+      "amount": 17000.0,
+      "is_new": false,
+      "name": "ST PETER CATHOLIC SCHOOL",
+      "purpose": "Summer Tutoring Program"
+    },
+    {
+      "amount": 17000.0,
+      "is_new": true,
+      "name": "ST JOHN THE BAPTIST SCHOOL",
+      "purpose": "Preschool Playground Project"
+    },
+    {
+      "amount": 16800.0,
+      "is_new": false,
+      "name": "ST FRANCIS OF ASSISI CATHOLIC SCHOOL OF BEND INC",
+      "purpose": "Technology Upgrade Project-8 Promethean Boards"
+    },
+    {
+      "amount": 16000.0,
+      "is_new": false,
+      "name": "OREGON ASSOCIATION OF RELIEF NURSERIES",
+      "purpose": "Relief Nursery Home Visiting Regional Training fund"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "ST FRANCIS CATHOLIC SCHOOL",
+      "purpose": "Tuition Assistance Program"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "PIONEER RELIEF NURSERY INC",
+      "purpose": "Inclusive Education Teacher fund"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "C D M SERVICES",
+      "purpose": "General & Unrestricted"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "FAMILY ACCESS NETWORK FOUNDATION",
+      "purpose": "General & Unrestricted"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "ON-THE-MOVE COMMUNITY INTEGRATION",
+      "purpose": "General & Unrestricted"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "QUEEN OF PEACE CATHOLIC SCHOOL",
+      "purpose": "Staff Tuition Scholarship Fund"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "ST JOSEPH'S CATHOLIC CHURCH",
+      "purpose": "St Joseph Catholic School - Tuition Assistance Program"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "FAMILY BUILDING BLOCKS INC",
+      "purpose": "Family Engagement Team Support"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "GIGGLES & GRACE EARLY LEARNING CENTER",
+      "purpose": "for new Preschool Classroom"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "A CARING CLOSET",
+      "purpose": "Electric Wheelchair Refurbish Program"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": true,
+      "name": "REBUILDING TOGETHER ROGUE VALLEY",
+      "purpose": "for Minor Home Repairs"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ST JAMES SCHOOL",
+      "purpose": "Tuition Assistance fund"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CHILDRENS CANCER ASSOCIATION",
+      "purpose": "General & Unrestricted"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CROOK COUNTY KIDS INC",
+      "purpose": "General & Unrestricted"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "HIKE IT BABY",
+      "purpose": "Bring It Outside - Coos County, OR fund"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "MALHEUR COUNCIL ON AGING AND COMMUNITY SERVICES",
+      "purpose": "Malheur County Veterans' Transportation Program"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ST ANDREW NATIVITY SCHOOL",
+      "purpose": "Extended Day Program"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "DESTINATION REHAB",
+      "purpose": "Support for Programs"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "OLD MILL CENTER FOR CHILDREN AND FAMILIES INC",
+      "purpose": "Outreach Staff Position fund"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "ST AGATHA SCHOOL",
+      "purpose": "K-5 Comprehensive Mathematics Curriculum fund"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "ST ANNE CATHOLIC SCHOOL",
+      "purpose": "General & Unrestricted"
+    },
+    {
+      "amount": 8500.0,
+      "is_new": false,
+      "name": "MID-COLUMBIA SENIOR CENTER INC",
+      "purpose": "for installation of black chain-link fence at loading dock"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": false,
+      "name": "BAKER RELIEF NURSERY INC",
+      "purpose": "Parent Leadership Council, Parent Education courses"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": false,
+      "name": "PANHANDLE HEALTH DISTRICT",
+      "purpose": "Northern Idaho Senior Companion Program"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "MT HOOD KIWANIS CAMP INC",
+      "purpose": "Charitable Event"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "CENTRAL OREGON DISABLILITY SUPPORT NETWORK INC",
+      "purpose": "Bike For Life fund"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "HOME LIFE INCORPORATED",
+      "purpose": "Home Life Cooks fund"
+    },
+    {
+      "amount": 5880.0,
+      "is_new": true,
+      "name": "ILLINOIS VALLEY WELLNESS RESOURCES",
+      "purpose": "Medical and Cancer Support Program"
+    },
+    {
+      "amount": 5600.0,
+      "is_new": true,
+      "name": "SEED TO TABLE OREGON",
+      "purpose": "Little Farmers Summer Program"
+    },
+    {
+      "amount": 5500.0,
+      "is_new": false,
+      "name": "FOUR RIVERS CULTURAL CENTER AND MUSEUM",
+      "purpose": "Kids Art Labs & Family Fun Nights fund"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "UNITED WAY OF SOUTHWESTERN OREGON INC",
+      "purpose": "VFW Post 966 fund"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "MICHELLES LOVE",
+      "purpose": "General & Unrestricted"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "JOHN DAY SCHOOL DISTRICT #3",
+      "purpose": "Prospector Early Learning Center Collaborative Team Site Visits"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "NORTHWEST DISABILITY SUPPORT",
+      "purpose": "Bike First! Social-Emotional and Assistive devices for people with disabilities, bicycles for children from low-income households"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "LAKE OSWEGO ROTARY FOUNDATION INC",
+      "purpose": "SASEE Project"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "BANDON ROTARY FOUNDATION",
+      "purpose": "for new flagpole at Ocean Crest School"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

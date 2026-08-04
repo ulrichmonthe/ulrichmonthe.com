@@ -48,6 +48,1862 @@
     "singleton_cluster_share": 0.5689,
     "total_grant_records": 1625
   },
+  "recipients_latest_year": [
+    {
+      "amount": 659500.0,
+      "is_new": false,
+      "name": "WARREN CONNER DEVELOPMENT COALITION INC DBA EASTSIDE COMMUNITY NETWORK",
+      "purpose": "EASTSIDE EDUCATION EQUITY INITIATIVE"
+    },
+    {
+      "amount": 585000.0,
+      "is_new": false,
+      "name": "MICHIGAN'S THANKSGIVING PARADE",
+      "purpose": "SKILLMAN FOUNDATION FLOAT DESIGN CONTEST"
+    },
+    {
+      "amount": 583500.0,
+      "is_new": false,
+      "name": "ALLIED MEDIA PROJECTS INC",
+      "purpose": "YOUTH ORGANIZING AND BASE BUILDING"
+    },
+    {
+      "amount": 553000.0,
+      "is_new": false,
+      "name": "METRO SOLUTIONS INC",
+      "purpose": "YOUTH POWER POOLED FUND"
+    },
+    {
+      "amount": 535000.0,
+      "is_new": false,
+      "name": "DETROIT CHILDREN'S FUND",
+      "purpose": "SPECIAL GRANT"
+    },
+    {
+      "amount": 422000.0,
+      "is_new": false,
+      "name": "482FORWARD",
+      "purpose": "BACK TO BASICS: BUILDING PEOPLE POWER TO TRANSFORM OUR SCHOOLS"
+    },
+    {
+      "amount": 410000.0,
+      "is_new": false,
+      "name": "BLACK MALE EDUCATORS ALLIANCE",
+      "purpose": "BMEA 2ND ANNUAL EDUCATORS GALA"
+    },
+    {
+      "amount": 405000.0,
+      "is_new": false,
+      "name": "COMMUNITY DEVELOPMENT ADVOCATES OF DETROIT",
+      "purpose": "BUILDING NEIGHBORHOOD POWER THROUGH YOUTH AND NEIGHBORHOOD VOICE"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "TEACH FOR AMERICA INC",
+      "purpose": "SUPPORT FOR THE TEACHMICHIGAN INITIATIVE"
+    },
+    {
+      "amount": 350100.0,
+      "is_new": false,
+      "name": "MICHIGAN STATE UNIVERSITY",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "DETROIT PARENT NETWORK",
+      "purpose": "SUPPORT 313READS"
+    },
+    {
+      "amount": 305000.0,
+      "is_new": false,
+      "name": "THE CHILDREN'S FOUNDATION",
+      "purpose": "MICHIGAN CENTRAL STATION CHILDRENS ENDOWMENT CAMPAIGN"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "MICHIGAN ASSOCIATION OF UNITED WAYS",
+      "purpose": "MICHIGAN AFTER SCHOOL PARTNERSHIP"
+    },
+    {
+      "amount": 275775.0,
+      "is_new": false,
+      "name": "UNITED WAY FOR SOUTHEASTERN MICHIGAN",
+      "purpose": "2024 WOMEN OF INFLUENCE SUMMIT"
+    },
+    {
+      "amount": 260000.0,
+      "is_new": false,
+      "name": "CENTRAL DETROIT CHRISTIAN COMMUNITY DEVELOPMENT CORPORATION",
+      "purpose": "FISCAL SPONSOR FOR ENGAGE DETROIT"
+    },
+    {
+      "amount": 251100.0,
+      "is_new": false,
+      "name": "MICHIGAN NONPROFIT ASSOCIATION",
+      "purpose": "MEMBERSHIP"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "NEW PARADIGM FOR EDUCATION",
+      "purpose": "NEW PARADIGM FOR EDUCATION VISIONARY LEADERSHIP"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "BFDI EDUCATIONAL SERVICES INC",
+      "purpose": "HOPE ACADEMY VISIONARY LEADERSHIP"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "DETROIT 9090",
+      "purpose": "UNIVERSITY PREP SCHOOLS VISIONARY LEADERSHIP"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "DETROIT ACADEMY OF ARTS AND SCIENCES",
+      "purpose": "DETROIT ACADEMY FOR ARTS AND SCIENCES VISIONARY LEADERSHIP"
+    },
+    {
+      "amount": 205000.0,
+      "is_new": false,
+      "name": "AUTISM ALLIANCE OF MICHIGAN",
+      "purpose": "2024 MICHIGAN SHINES FOR AUTISM GALA"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "LAUNCH MICHIGAN",
+      "purpose": "LAUNCH MICHIGAN GENERAL OPERATING SUPPORT GRANT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "TEACH PLUS INCORPORATED",
+      "purpose": "TEACH PLUS MICHIGANLEVERAGING CATALYTIC TEACHER LEADERSHIP"
+    },
+    {
+      "amount": 195984.0,
+      "is_new": false,
+      "name": "SER METRO DETROIT-JOBS FOR PROGRESS INC",
+      "purpose": "OST TRANSITION SUPPORT"
+    },
+    {
+      "amount": 190000.0,
+      "is_new": false,
+      "name": "DETROIT REGIONAL CHAMBER FOUNDATION INC",
+      "purpose": "2024 MACKINAC POLICY CONFERENCE"
+    },
+    {
+      "amount": 189575.0,
+      "is_new": false,
+      "name": "ATLANTIC IMPACT",
+      "purpose": "OST TRANSITION SUPPORT"
+    },
+    {
+      "amount": 187941.0,
+      "is_new": false,
+      "name": "BOYS & GIRLS CLUBS OF SOUTHEASTERN MICHIGAN",
+      "purpose": "OST TRANSITION SUPPORT"
+    },
+    {
+      "amount": 180000.0,
+      "is_new": false,
+      "name": "DATA DRIVEN DETROIT L3C",
+      "purpose": "COMMUNITY DATA ACTIVITIES - 2025 PROJECT SUPPORT"
+    },
+    {
+      "amount": 180000.0,
+      "is_new": false,
+      "name": "EDUCATION TRUST INC",
+      "purpose": "ADVANCING AN AGENDA FOR EDUCATIONAL EQUITY AND EXCELLENCE IN METROPOLITAN DETROIT AND THROUGHOUT MICHIGAN"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "FOUNDATION FOR DETROIT'S FUTURE",
+      "purpose": "THIS GRANT WILL PROVIDE SUPPORT TO THE FOUNDATION FOR DETROIT'S FUTURE TO BE USED TO MAKE GRANTS TO THE CITY OF DETROIT."
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "MICHIGAN FUTURE INC",
+      "purpose": "RISING INCOME FOR ALL AGENDA PROJECT"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "MICHIGAN LEAGUE FOR PUBLIC POLICY",
+      "purpose": "AN INITIATIVE TO ENSURE THAT ALL CHILDREN, YOUTH AND FAMILIES IN DETROIT AND MICHIGAN HAVE THEIR NEEDS MET AND ARE THRIVING, THROUGH POLICY CHANGE AND STATE BUDGET INVESTMENTS"
+    },
+    {
+      "amount": 162000.0,
+      "is_new": false,
+      "name": "DETROIT FUTURE CITY",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 152500.0,
+      "is_new": false,
+      "name": "DETROIT HISPANIC DEVELOPMENT CORPORATION",
+      "purpose": "PODER - NEIGHBORHOOD POWER BUILDING"
+    },
+    {
+      "amount": 152500.0,
+      "is_new": false,
+      "name": "URBAN NEIGHBORHOOD INITIATIVES INC",
+      "purpose": "BUILDING CAPACITY TO BUILD COLLECTIVE POWER"
+    },
+    {
+      "amount": 152500.0,
+      "is_new": false,
+      "name": "CONGRESS OF COMMUNITIES",
+      "purpose": "COC YOUTH PROGRAMMING"
+    },
+    {
+      "amount": 151000.0,
+      "is_new": true,
+      "name": "MICHIGAN ROUNDTABLE FOR JUST COMMUNITIES",
+      "purpose": "74TH ANNUAL TRIBUTE DINNER"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "CATCHAFIRE FOUNDATION",
+      "purpose": "BUILD CAPACITY OF SERVICE PROVIDERS AND CHANGE AGENTS"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "MICHIGAN'S CHILDREN",
+      "purpose": "INVESTMENT IN CHILDREN AND FAMILIES"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "NEW DETROIT INC",
+      "purpose": "SUPPORT FOR BLUEPRINT PROJECT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "OUTLIER MEDIA",
+      "purpose": "OUTLIER MEDIA & DETROIT DOCUMENTERS"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "AFTERSCHOOL ALLIANCE",
+      "purpose": "AMERICA AFTER 3PM - DETROIT, SOUTHEAST MICHIGAN, AND MICHIGAN DATA COLLECTION AND ANALYSIS"
+    },
+    {
+      "amount": 134075.0,
+      "is_new": false,
+      "name": "CODY ROUGE COMMUNITY ACTION ALLIANCE INC",
+      "purpose": "PEOPLE POWERED EDUCATION"
+    },
+    {
+      "amount": 120000.0,
+      "is_new": false,
+      "name": "STUDENT ADVOCACY CENTER OF MICHIGAN INC",
+      "purpose": "YOUTH ORGANIZING"
+    },
+    {
+      "amount": 115000.0,
+      "is_new": false,
+      "name": "DETROIT HORSE POWER",
+      "purpose": "OST TRANSITION SUPPORT"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "COLLEGE FOR CREATIVE STUDIES",
+      "purpose": "OST TRANSITION SUPPORT"
+    },
+    {
+      "amount": 105000.0,
+      "is_new": false,
+      "name": "NATIONAL PARENTS UNION INC",
+      "purpose": "NPU EVENT"
+    },
+    {
+      "amount": 103300.0,
+      "is_new": false,
+      "name": "WELLSPRING",
+      "purpose": "OST CAPACITY BUILDING SUPPORT"
+    },
+    {
+      "amount": 100400.0,
+      "is_new": false,
+      "name": "COUNCIL OF MICHIGAN FOUNDATIONS INC",
+      "purpose": "SUPPORT FOR THE OFFICE OF FOUNDATION LIAISON, THE OFFICE OF FOUNDATION LIAISON RESEARCH AND OPPORTUNITY FUND SUPPORTING THE OFL POPULATION STUDY, THE EARLY CHILDHOOD FUNDERS COLLABORATIVE AND THE LEADERSHIP FUND."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "DETROIT PHOENIX CENTER",
+      "purpose": "YOUTH ACTION BOARD"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "GREENLIGHT FUND INC",
+      "purpose": "GREENLIGHT FUND DETROIT - FUND II"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "MICHIGAN COLLEGE ACCESS NETWORK",
+      "purpose": "SUPPORT FOR DETROIT COLLEGE ACCESS NETWORK"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "PLAYWORKS EDUCATION ENERGIZED",
+      "purpose": "THE STATE OF PLAY IN DETROIT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "THE INSTITUTE FOR COLLEGE ACCESS AND SUCCESS INC",
+      "purpose": "COMMUNITY POWER BUILDING FOR IMPROVED DIVERSITY OF STATE POLICY DECISION MAKING"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CIVIC NEWS COMPANY",
+      "purpose": "CHALKBEAT DETROIT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "FORCE DETROIT",
+      "purpose": "CREATING A FREER, SAFER DETROIT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "TEEN HYPE",
+      "purpose": "PILOT PHASE OF THE DETROIT YOUTH ACTION PLAN (DYAP)"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "MICHIGAN AFTERSCHOOL PARTNERSHIP",
+      "purpose": "SUPPORT FOR BURNESS COMMUNICATIONS CAMPAIGN"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "MICHIGAN CENTER FOR YOUTH JUSTICE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": true,
+      "name": "JOE LOUIS GREENWAY PARTNERSHIP",
+      "purpose": "JLGP YOUTH LEADERSHIP ADVISORY"
+    },
+    {
+      "amount": 89000.0,
+      "is_new": false,
+      "name": "TIDES CENTER",
+      "purpose": "VOICES OF DETROIT YOUTH 2024"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": true,
+      "name": "CENTER FOR EVALUATION INNOVATION INC",
+      "purpose": "DREAMING FORWARD: INTERGENERATIONAL VISIONS FOR DETROIT BY FREEDOM DREAMS IN PHILANTHROPY"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "CITIZENS RESEARCH COUNCIL OF MICHIGAN INC",
+      "purpose": "2024 ANNUAL PUBLIC POLICY EVENT"
+    },
+    {
+      "amount": 75125.0,
+      "is_new": false,
+      "name": "SOUTHWEST ECONOMIC SOLUTIONS",
+      "purpose": "OST TRANSITION SUPPORT"
+    },
+    {
+      "amount": 75056.0,
+      "is_new": false,
+      "name": "THE CENTER FOR MICHIGAN INC",
+      "purpose": "GENERAL OPERATING SUPPORT FOR BRIDGEDETROIT AND BRIDGE MICHIGAN"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "THE MICHIGAN HISPANIC COLLABORATIVE",
+      "purpose": "LA PRXIMA GENERACIN"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "MICHIGAN CENTRAL CENTER FOR MOBILITY AND SOCIETY",
+      "purpose": "MICHIGAN CENTRAL YOUNG DISRUPTORS PROGRAM"
+    },
+    {
+      "amount": 73000.0,
+      "is_new": false,
+      "name": "HENRY FORD LEARNING INSTITUTE",
+      "purpose": "SUPPORT TO EXTEND PROGRAM TIME AND DEVELOP COMMUNITY OF PRACTICE EXPERIENCES"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "ALKEBU-LAN VILLAGE",
+      "purpose": "OST TRANSITION SUPPORT"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "GRACE IN ACTION COLLECTIVES",
+      "purpose": "OST TRANSITION SUPPORT"
+    },
+    {
+      "amount": 67500.0,
+      "is_new": false,
+      "name": "INSTITUTE FOR AFROURBANISM",
+      "purpose": "SPONSORSHIP: PMG BLACK EXCELLENCE IMPACT DINNER AND FILM PREMIERE"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "YMCA OF METROPOLITAN DETROIT",
+      "purpose": "OST CAPACITY BUILDING SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": true,
+      "name": "THE CENTER FOR EFFECTIVE PHILANTHROPY",
+      "purpose": "2025 GRANTEE PERCEPTION REPORT"
+    },
+    {
+      "amount": 59250.0,
+      "is_new": false,
+      "name": "POISE FOUNDATION",
+      "purpose": "THE YVAC FUND"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "BASBLUE INC",
+      "purpose": "2024 BASBLUE ANNUAL GALA: BLUE SKIES AHEAD"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": true,
+      "name": "DETROIT PUBLIC SCHOOLS COMMUNITY DISTRICT FOUNDATION",
+      "purpose": "ORIGIN MOVIE SCREENING AND DISCUSSION FOR DPSCD STUDENTS"
+    },
+    {
+      "amount": 52000.0,
+      "is_new": false,
+      "name": "ASSOCIATION OF BLACK FOUNDATION EXECUTIVES INC",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BLACK LEADERS DETROIT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "DETROIT HEALS DETROIT",
+      "purpose": "THE EDUCATION LIBERATION YOUTH ORGANIZING PROJECT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "HEAT AND WARMTH FUND",
+      "purpose": "SPECIAL GRANT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "INVEST DETROIT FOUNDATION",
+      "purpose": "GENERAL OPERATING TO SUPPORT THRIVING DETROIT NEIGHBORHOODS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "TIDES FOUNDATION",
+      "purpose": "ROCKET FUEL FOR YOUTH CIVIC ENGAGEMENT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SURGE INSTITUTE",
+      "purpose": "DETROIT SURGE ACADEMY LAUNCH AND PROGRAMMING"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CENTER FOR BLACK EDUCATOR DEVELOPMENT",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "GLOBAL PHILANTHROPY PARTNERSHIP",
+      "purpose": "LEARNING JUST IN TIME: SIMPLE PRINCIPLES AND PRACTICES TO SUPPORT LEARNING AND ADAPTATION IN PEOPLE POWERED EDUCATION IN DETROIT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "LAST MILE EDUCATION FUND",
+      "purpose": "DETROIT AREA TALENT FUND"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "ECONOMIC JUSTICE ALLIANCE OF MICHIGAN",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "METRO DETROIT BLACK CHAMBER OF COMMERCE FOUNDATION DBA MICHIGAN BLACK BUSIN",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "MOTOWN HISTORICAL MUSEUM INC",
+      "purpose": "MOTOWN MUSEUM MUSIC EDUCATION SUPPORT OF HITSVILLE NEXT PROGRAMS."
+    },
+    {
+      "amount": 48500.0,
+      "is_new": false,
+      "name": "GRANTMAKERS FOR EFFECTIVE ORGANIZATIONS",
+      "purpose": "MEMBERSHIP"
+    },
+    {
+      "amount": 42250.0,
+      "is_new": false,
+      "name": "PEAK GRANTMAKING INC",
+      "purpose": "MEMBERSHIP"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "DOWNTOWN DETROIT PARTNERSHIP INC",
+      "purpose": "DETROIT HOMECOMING"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "GIVE MERIT INC",
+      "purpose": "SPECIAL GRANT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "ROCKEFELLER PHILANTHROPY ADVISORS INC",
+      "purpose": "U.S. SUMMIT OF WOMEN LEADERS IN PHILANTHROPY"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "AMERICA'S PROMISE - THE ALLIANCE FOR YOUTH",
+      "purpose": "APA DETROIT LAUNCH"
+    },
+    {
+      "amount": 38750.0,
+      "is_new": true,
+      "name": "DR GARY BURNSTEIN COMMUNITY HEALTH CLINIC",
+      "purpose": "SPECIAL GRANT"
+    },
+    {
+      "amount": 38000.0,
+      "is_new": false,
+      "name": "LIFE CHURCH SOUTHFIELD",
+      "purpose": "SPECIAL GRANT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "SPECIAL OLYMPICS MICHIGAN INC",
+      "purpose": "OST TRANSITION SUPPORT"
+    },
+    {
+      "amount": 31575.0,
+      "is_new": false,
+      "name": "DETROIT FOOD & ENTREPRENEURSHIP ACADEMY",
+      "purpose": "OST CAPACITY BUILDING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "DETROIT PUBLIC SCHOOLS COMMUNITY DISTRICT",
+      "purpose": "GENERAL OPERATING SUPPORT: GIFTED AND TALENTED EDUCATION OFFICE - SUMMER ENRICHMENT PROGRAM"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "SPELMAN COLLEGE",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "UNIVERSITY MUSICAL SOCIETY",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "CAUGHT UP",
+      "purpose": "MIDNIGHT BASKETBALL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 29142.0,
+      "is_new": false,
+      "name": "DEVELOPING KINGDOMS IN DIFFERENT STAGES",
+      "purpose": "SPONSORSHIP OF DONOR RECOGNITION WALL"
+    },
+    {
+      "amount": 26575.0,
+      "is_new": false,
+      "name": "RACQUET UP DETROIT",
+      "purpose": "OST CAPACITY BUILDING SUPPORT"
+    },
+    {
+      "amount": 25900.0,
+      "is_new": false,
+      "name": "HARTFORD MEMORIAL BAPTIST CHURCH",
+      "purpose": "SPECIAL GRANT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ALUMNI ASSOCIATION OF THE UNIVERSITY OF MICHIGAN",
+      "purpose": "SPECIAL GRANT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "HERITAGE WORKS",
+      "purpose": "2024 YOUTH DAYS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "BALTIMORE MUSEUM OF ART INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "BRIGHTMOOR CONNECTION",
+      "purpose": "GENERAL OPERATING SUPPORT TO BRIGHTMOOR CONNECTION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "ELLE REVE NON PROFIT",
+      "purpose": "SUPPORT OF FILM INVITATIONAL, PRESENTED BY AUTUMN SUN (AUGUST 24, 2024)"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "NEW BETHEL BAPTIST CHURCH",
+      "purpose": "SPECIAL GRANT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "NORTH END WOODWARD COMMUNITY COALITION",
+      "purpose": "NEWCC ENVISIONING TOMORROW"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "THIRD SECTOR NEW ENGLAND INC",
+      "purpose": "SUPPORT DETROIT PEOPLE'S PLATFORM"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "WE THE PEOPLE OF DETROIT",
+      "purpose": "IT'S OUR WATER - GENERAL OPERATING SUPPORT FOR YOUTH PROGRAMMING"
+    },
+    {
+      "amount": 22500.0,
+      "is_new": false,
+      "name": "LFE LEADERS INC",
+      "purpose": "FISCAL SPONSOR FOR B.L.A.C.K TO SUPPORT TASTE OF TECH PROGRAMMING"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "DETROIT AREA PRE-COLLEGE ENGINEERING PROGRAM INC",
+      "purpose": "SPECIAL GRANT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "DETROIT POLICE ATHLETIC LEAGUE INC",
+      "purpose": "OST CAPACITY BUILDING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "MIDNIGHT GOLF PROGRAM",
+      "purpose": "OST CAPACITY BUILDING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "ATHLETE TRANSITION SERVICES CORP",
+      "purpose": "OST CAPACITY BUILDING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "CALEBS KIDS",
+      "purpose": "OST CAPACITY BUILDING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "JUNIOR ACHIEVEMENT OF SOUTHEASTERN MICHIGAN INC",
+      "purpose": "OST CAPACITY BUILDING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "CENTER FOR COMMUNITY BASED ENTERPRISE INC",
+      "purpose": "AFROFUTURES MUSIC DESIGN PROGRAM (FISCAL SPONSOR FOR DETROIT RECORDINGS COMPANY)"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "LIVE6 ALLIANCE",
+      "purpose": "OST CAPACITY SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "THE ARTS LEAGUE OF MICHIGAN INC",
+      "purpose": "GENERAL PROGRAM SUPPORT: 2024 SUMMER DANCE INTENSIVE PROGRAM"
+    },
+    {
+      "amount": 19000.0,
+      "is_new": false,
+      "name": "COUNCIL ON FOUNDATIONS INC",
+      "purpose": "MEMBERSHIP"
+    },
+    {
+      "amount": 17500.0,
+      "is_new": false,
+      "name": "WOMEN OF BANGLATOWN",
+      "purpose": "SUPPORT FOR INAUGURAL ART AND WELLNESS PROGRAMMING"
+    },
+    {
+      "amount": 16575.0,
+      "is_new": false,
+      "name": "CHAPEL VISION COMMUNITY DEVELOPMENT CORPORATION",
+      "purpose": "2024 PRESIDENT'S YOUTH COUNCIL GRANT"
+    },
+    {
+      "amount": 16575.0,
+      "is_new": false,
+      "name": "RTTM COMMUNITY CENTER",
+      "purpose": "SUPPORT FOR QUE BLACKOUT MEDIA ARTS YOUTH THEATER"
+    },
+    {
+      "amount": 15250.0,
+      "is_new": true,
+      "name": "THE BETTER MEN OUTREACH PROGRAM",
+      "purpose": "MENTAL HEALTH PROGRAM SUPPORTING DETROIT BOYS, TEENS AND MEN"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "CENTER FOR SUCCESS NETWORK",
+      "purpose": "OST CAPACITY BUILDING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "DOWNTOWN BOXING GYM YOUTH PROGRAM",
+      "purpose": "OST CAPACITY BUILDING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "INSIDEOUT LITERARY ARTS PROJECT",
+      "purpose": "OST CAPACITY BUILDING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "THE YUNION",
+      "purpose": "OST CAPACITY BUILDING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "DIVERSIFIED COMMUNITY SERVICES",
+      "purpose": "OST CAPACITY BUILDING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "SAY DETROIT",
+      "purpose": "OST CAPACITY BUILDING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "CHARITY FOR PEOPLE POWERED DEMOCRACY",
+      "purpose": "EDUCATION SERIES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "COMMUNITY PARTNERS",
+      "purpose": "FIELD SUPPORT FOR EVALUATION AND LEARNING"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "BFDI INTERNATIONAL TRAINING INSTITUTE",
+      "purpose": "YOUTH DEVELOPMENT AND RESTORATIVE JUSTICE INITIATIVES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "CODE313 INC",
+      "purpose": "OST CAPACITY BUILDING SUPPORT"
+    },
+    {
+      "amount": 14350.0,
+      "is_new": false,
+      "name": "826 MICHIGAN",
+      "purpose": "826 MICHIGAN SUMMER PROGRAMMING"
+    },
+    {
+      "amount": 14025.0,
+      "is_new": true,
+      "name": "DEVELOPING DESPITE DISTANCE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 13750.0,
+      "is_new": false,
+      "name": "TRIUMPH MISSIONARY BAPTIST CHURCH",
+      "purpose": "SPECIAL GRANT"
+    },
+    {
+      "amount": 13000.0,
+      "is_new": true,
+      "name": "URBAN PEERS LEARNING INTEGRITY FOR TOMORROW PROGRAM",
+      "purpose": "MENTAL HEALTH PROGRAMMING"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "INDEPENDENT SECTOR",
+      "purpose": "MEMBERSHIP"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "THE KONNECTION",
+      "purpose": "KONNECTION KLUB AFTER-SCHOOL PROGRAM AND ANNUAL BACK TO SCHOOL KLAP IN"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "DETROIT PUBLIC SAFETY FOUNDATION",
+      "purpose": "2024 PRESIDENT'S YOUTH COUNCIL GRANT"
+    },
+    {
+      "amount": 11600.0,
+      "is_new": false,
+      "name": "BOULE FOUNDATION",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 11575.0,
+      "is_new": false,
+      "name": "ONE LOVE GLOBAL INC",
+      "purpose": "2024 PRESIDENT'S YOUTH COUNCIL GRANT"
+    },
+    {
+      "amount": 11575.0,
+      "is_new": false,
+      "name": "SUGAR HONEY ICED TEA",
+      "purpose": "2024 PRESIDENT'S YOUTH COUNCIL"
+    },
+    {
+      "amount": 11575.0,
+      "is_new": true,
+      "name": "CAROL S HOUSE OF REFUGE",
+      "purpose": "2024 PRESIDENT'S YOUTH COUNCIL GRANTS"
+    },
+    {
+      "amount": 11575.0,
+      "is_new": true,
+      "name": "MIRRORED GLASS",
+      "purpose": "2024 PRESIDENT'S YOUTH COUNCIL GRANT"
+    },
+    {
+      "amount": 11575.0,
+      "is_new": true,
+      "name": "NO BARRIER 2 SUCCESS INC",
+      "purpose": "2024 PRESIDENT'S YOUTH COUNCIL GRANT"
+    },
+    {
+      "amount": 11350.0,
+      "is_new": false,
+      "name": "LWSC COMMUNITY CIRCLE",
+      "purpose": "SUPPORT FOR THE YOUNG VOICES ACTION COLLECTIVE: MENTAL HEALTH GALA AND VOICE OF DETROIT YOUTH RETREAT"
+    },
+    {
+      "amount": 10250.0,
+      "is_new": true,
+      "name": "THE LIVE OUTREACH",
+      "purpose": "BIKES, KITES & BURGERS COMMUNITY EVENT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "SOAR DETROIT",
+      "purpose": "SOAR HOME LITERACY KITS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "URBAN ALLIANCE FOUNDATION INC",
+      "purpose": "OST CAPACITY BUILDING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ASSOCIATION FOR THE ADVANCEMENT OF DEAF-HARD OF HEARING",
+      "purpose": "SUPPORT FOR GENERAL PROGRAMMING AND SERVICES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "MICHIGAN SCIENCE CENTER",
+      "purpose": "SPONSORS OF SCIENCE PROGRAM"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "MUSEUM OF CONTEMPORARY ART DETROIT",
+      "purpose": "SUPPORT FOR AN EDUCATIONAL DOCENT PROGRAM"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "COLOR OF AUTISM FOUNDATION INCORPORATED",
+      "purpose": "SUPPORT FOR THE COMMUNITY CRISIS INTERVENTION TRAINING PROGRAM"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "LIVING ARTS",
+      "purpose": "EMERGENCY FUNDING SUPPORT FOR OUT OF SCHOOL ARTS PROGRAM"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "NATIONAL CONSTITUTION CENTER",
+      "purpose": "SPECIAL GRANT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "360 DETROIT INC",
+      "purpose": "10TH ANNIVERSARY CHARITY FETE"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "ALL IN ONE TUTORING AND MENTORING DBA THE DETROIT BOYS MENTORING CLUB",
+      "purpose": "YOUTH ENTREPRENEURSHIP EVENT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "BE WELL BEAUTIFUL PEOPLE",
+      "purpose": "PILOT PROGRAM: INK YOUR TRUTH"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "BEAT THE STREETS DETROIT INC",
+      "purpose": "AFTER-SCHOOL PROGRAMMING"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "BUILDING SUCCESSFUL BRIDGES",
+      "purpose": "GENERAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "COACHING DETROIT FORWARD INC",
+      "purpose": "COLLEGE APPLICATION ESSAY WRITING WORKSHOP FOR DETROIT HIGH SCHOOL STUDENTS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "DETROIT ARTISTS MARKET",
+      "purpose": "SUPPORT FOR DAM 2024 PILOTING WORKSHOPS AND PROGRAMS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "DETROIT HISTORICAL SOCIETY",
+      "purpose": "SUPPORT FOR DETROIT CULTURAL CENTER'S EDUCATORS NIGHT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "DETROIT INSTITUTE FOR LAW AND ORGANIZING",
+      "purpose": "BOOKS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "DIGITAL DETROIT MEDIA CULTURE ACADEMY",
+      "purpose": "CULTURE ACADEMY'S 2ND ANNUAL DAY OF DREAMS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "FEDERATION OF AMERICAN SCIENTISTS",
+      "purpose": "SUPPORT FOR FLI SCI SCHOLARS PROGRAM (2024-2025)"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "FIGURE SKATING IN HARLEM INC",
+      "purpose": "SUPPORT FOR FSD ANNUAL SUMMER CAMP AND I CAN EXCEL PROGRAMS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "GRIOT INITIATIVE",
+      "purpose": "YOUNG GRIOTS MIND, BODY, SPIRIT WORKSHOP"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "JOURNI",
+      "purpose": "MORE THAN CODE PROGRAM"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "LA CASA GUADALUPANA CORP",
+      "purpose": "GENERAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "MICHIGAN VOICES",
+      "purpose": "PROGRAM SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "MIDWEST ACADEMY INC",
+      "purpose": "MIDWEST ACADEMY TO DEVELOP AN 18-MONTH COHORT PROGRAM CURRICULUM"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "NAF",
+      "purpose": "DETROIT FUTURE READY COMMUNITY IMPLEMENTATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "PEACEPLAYERS INTERNATIONAL",
+      "purpose": "YOUTH BOARD PROGRAM"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "TEACHERS SUPPORTING TEACHERS EVERYWHERE INC",
+      "purpose": "GOGA PILOT PROGRAM"
+    },
+    {
+      "amount": 8500.0,
+      "is_new": true,
+      "name": "NO BOUNDARIES COALITION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": true,
+      "name": "DIAMONDS INSPIRING VIRTUE AND SUCCESS",
+      "purpose": "PILOT PROGRAM: FUTURE FOUNDERS PROGRAM"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "BLACK UNITED FUND OF MICHIGAN INC",
+      "purpose": "BUF 54TH GALA CELEBRATION"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "ENCOURAGE ME IM YOUNG INC",
+      "purpose": "READING IS LIFE FAMILY INTERACTIVE LITERACY PILOT PROGRAM"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "LIFE REMODELED - A NONPROFIT CORPORATION",
+      "purpose": "2024 PRESIDENT'S YOUTH COUNCIL GRANT"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "DETROIT CREATIVITY PROJECT",
+      "purpose": "2024 PRESIDENT'S YOUTH COUNCIL GRANT"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "UMOJA DEBATE TEAM",
+      "purpose": "2024 PRESIDENT'S YOUTH COUNCIL GRANT FISCAL SPONSOR FOR THE GARY B INITIATIVE"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "AFFIRMATIONS COMMUNITY CENTER",
+      "purpose": "2024 PRESIDENT'S YOUTH COUNCIL GRANT"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "BEDS 4 KIDS",
+      "purpose": "BEDS 4 KIDS"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "DETROIT AFRICAN YOUTH DEVELOPMENT ORGANIZATION",
+      "purpose": "2024 PRESIDENT'S YOUTH COUNCIL GRANT"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "ECOWORKS",
+      "purpose": "EHRA AND ECOWORKS: ENVIRONMENTAL SUMMER ACADEMY FOR HIGH SCHOOL STUDENTS"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "FUND FOR EDUCATIONAL EXCELLENCE",
+      "purpose": "SUPPORT FOR STRONG SCHOOLS MARYLAND"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "NATIONAL COMMITTEE FOR RESPONSIVE PHILANTHROPY",
+      "purpose": "MEMBERSHIP"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "SHOOT CAMP BOOT CAMP",
+      "purpose": "MULTIMEDIA SUMMER YOUTH PROGRAM"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "TAPROOTS CAMP WALDEN",
+      "purpose": "TAPROOTS MINI-WEEK CAMP PROGRAM"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "YOUTHTANK DETROIT",
+      "purpose": "2024 PRESIDENT'S YOUTH COUNCIL GRANT"
+    },
+    {
+      "amount": 7000.0,
+      "is_new": false,
+      "name": "METROPOLITAN AFFAIRS COALITION",
+      "purpose": "TO SUPPORT THE METROPOLITAN AFFAIRS COALITION 2024 PROGRAM"
+    },
+    {
+      "amount": 7000.0,
+      "is_new": false,
+      "name": "MINT ARTISTS GUILD",
+      "purpose": "YOUTH INTERNSHIP"
+    },
+    {
+      "amount": 7000.0,
+      "is_new": false,
+      "name": "MAI FAMILY SERVICES",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "GRANTMAKERS FOR EDUCATION",
+      "purpose": "MEMBERSHIP"
+    },
+    {
+      "amount": 5250.0,
+      "is_new": false,
+      "name": "1 MICHIGAN FOR THE GLOBAL MAJORITY INC",
+      "purpose": "2024 PRESIDENT'S YOUTH COUNCIL GRANTS"
+    },
+    {
+      "amount": 5250.0,
+      "is_new": false,
+      "name": "WHOH COMMUNITY SPORTS COMPLEX INC",
+      "purpose": "2024 PRESIDENT'S YOUTH COUNCIL GRANT"
+    },
+    {
+      "amount": 5250.0,
+      "is_new": false,
+      "name": "MICHIGAN STUDENT POWER ALLIANCE",
+      "purpose": "2024 PRESIDENT'S YOUTH COUNCIL GRANT"
+    },
+    {
+      "amount": 5020.0,
+      "is_new": true,
+      "name": "GRACE CENTERS OF HOPE",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "AMERICAN INDIAN HEALTH AND FAMILY SERVICES OF SOUTHEASTERN MI INC",
+      "purpose": "2024 AIHFS 3RD ANNUAL CHARITY GALA"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "BLACK FAMILY DEVELOPMENT INC",
+      "purpose": "RENAISSANCE MASQUERADE BALL: HOPE AND HEALING CELEBRATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "BRILLIANT DETROIT",
+      "purpose": "8TH ANNUAL BENEFIT EVENT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "CITY YEAR INC",
+      "purpose": "25TH ANNIVERSARY RED JACKET GALA"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "COMMUNITIES IN SCHOOLS OF MICHIGAN INC",
+      "purpose": "GO ALL IN FOR KIDS 2024 LEADERSHIP IN EDUCATION DINNER"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "FRANKLIN-WRIGHT SETTLEMENTS INC",
+      "purpose": "2024 THE SPIRIT OF GIVING GALA: BENEFITING PATHWAYS TO HOPE"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "THE FUNDERS' NETWORK INC",
+      "purpose": "MEMBERSHIP"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "YESHIVATH BETH YEHUDAH",
+      "purpose": "SUPPORT FUNDRAISING EVENT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "GRAND VALLEY STATE UNIVERSITY",
+      "purpose": "GVSU TRIO UPWARD BOUND DETROIT PROGRAM"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "MICHIGAN COLLEGES ALLIANCE",
+      "purpose": "SPECIAL GRANT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "MUSEUM OF AFRICAN AMERICAN HISTORY",
+      "purpose": "THE WRIGHT GALA 2024"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "A GIRL LIKE ME",
+      "purpose": "HEALTH PROGRAM FOR DETROIT TEEN MOMS AND THEIR BABIES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "COALITION ON TEMPORARY SHELTER",
+      "purpose": "SOUP CITY 2024"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "DETROIT EQUITY REPORT INC",
+      "purpose": "GLOBAL BUSINESS SUMMIT: CREATING EQUITY FOR DETROITERS THROUGH INTERNATIONAL BUSINESS PARTNERSHIPS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "DETROIT URBAN LEAGUE INC",
+      "purpose": "59TH ANNUAL GUILD GALA"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "MICHIGAN DEPARTMENT OF CIVIL RIGHTS",
+      "purpose": "2024 CIVIL RIGHTS SUMMIT: FAIR HOUSING INITIATIVE"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "A HOST OF PEOPLE INC",
+      "purpose": "LA CARPA TEEN ENSEMBLE PROGRAM SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "METROPOLITAN ORGANIZING STRATEGY ENABLING STRENGTH",
+      "purpose": "IN SUPPORT OF 2024 DIGITAL EMPOWERMENT SUMMIT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "MI-RAMP",
+      "purpose": "DISTANCE LEARNING PROGRAM"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "ORGANIZATION OF EXONEREES",
+      "purpose": "SUPPORT FUNDRAISING EVENT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "SOUTHWEST SOLUTIONS INC DBA MISIDE",
+      "purpose": "ANNUAL CELEBRATION OF IMPACT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "ACADEMY OF THE SACRED HEART",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "AMERICAS BIG SISTERS FOUNDATION",
+      "purpose": "ALL GIRLS MATTER EMPOWERMENT CONFERENCE"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "AT BAT",
+      "purpose": "STAFFING SUPPORT FOR SUMMER PROGRAM"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "BALTIMORE COMMUNITY FOUNDATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "BALTIMORE UNITY HALL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "BIRTHING INNOVATIVE GENIUS BIG INSTITUTE INCORPORATED",
+      "purpose": "SURVIVING THE REAL WORLD FINANCIAL LITERACY PROGRAM"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "BOYS 2 MEN YOUTH MENTORING",
+      "purpose": "YOUTH MENTORING PROGRAM"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "BUILDING RELATIONSHIPS INC",
+      "purpose": "SPILL THE HONEY: A CELEBRATION OF UNITY AND LEGACY"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "CADILLAC URBAN GARDENS",
+      "purpose": "YOUTH STEAM BOOT CAMP"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "CREATIVE VISIONS FOUNDATION",
+      "purpose": "BREAKOUT 10TH ANNIVERSARY EVENT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "DAVENPORT UNIVERSITY",
+      "purpose": "BRIDGING BARRIERS: CASA LATINAS BILINGUAL EDUCATION INITIATIVE FOR LATINO/A/X SUCCESS IN DETROIT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "DIRECT HEIR FOUNDATION",
+      "purpose": "2025 COLLEGE TOUR TRIP"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "EMBASSY COMMUNITY DEVELOPMENT CORPORATION",
+      "purpose": "GENERAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "GLEAN FOR TEENS INC",
+      "purpose": "HOLIDAY GIFT PROGRAM FOR TEENS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "HENDRICKS FOUNDATION CORP",
+      "purpose": "E-WASTE COLLECTION, COMPUTER REFURBISHMENT, AND COMPUTER PROFICIENCY TRAINING PROGRAM FOR DETROIT YOUTH."
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "JIMIRI INC",
+      "purpose": "YOUTH LEADERSHIP PROGRAM"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "LEAD GUITAR",
+      "purpose": "MUSIC PROGRAM SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "LIFE AFTER CARE LAC",
+      "purpose": "MENTAL HEALTH, MENTAL MINDFULNESS PROGRAM"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "MAKING SPIRITS BRIGHT",
+      "purpose": "SUPPORT FOR COMMUNITY BOOK BINS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "MIDTOWN DETROIT INC",
+      "purpose": "NOEL NIGHT - 50TH ANNUAL CELEBRATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "MOTIVATING INNER NEW DREAMS",
+      "purpose": "GAME ON: BRIDGING THE DIGITAL DIVIDE"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "PROJECT STEP - SHOWING TEAMWORK EVOLVES PRIDE",
+      "purpose": "ANNUAL COMMUNITY COOKOUT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "PURE HEART FOUNDATION",
+      "purpose": "VISITATION PROJECT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "READ TO A CHILD INC",
+      "purpose": "READ ALOUD EVENT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "SANKOFA SCHOLARSHIP COLLECTIVE",
+      "purpose": "SUPPORT FUNDRAISING EVENT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "TAHA FOUNDATION",
+      "purpose": "PILOT PROGRAM: YOUTH EMPOWERMENT THROUGH COMMUNITY ENGAGEMENT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "TEMATE INSTITUTE FOR BLACK DANCE AND CULTURE LLC",
+      "purpose": "LITTLE EXPLORERS: JOURNEY INTO CULTURE AND CREATIVITY PROGRAM"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "TREASURE WITHIN",
+      "purpose": "THE TREASURE WITHIN SUMMER PROGRAM"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "UPSURGE BALTIMORE COMMUNITY",
+      "purpose": "TECH ECOSYSTEM EDUCATION SHARING"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "US COMMITTEE FOR REFUGEES AND IMMIGRANTS INC",
+      "purpose": "PREPPED FOR SCHOOL PROGRAM"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "WE 3 QUEENS COMMUNITY OUTREACH",
+      "purpose": "SUMMER YOUTH ORGANIC FARMING CLASSES"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": false,
+      "name": "ISAAC AGREE DOWNTOWN SYNAGOGUE",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "CHALFONTE FOUNDATION",
+      "purpose": "DETROIT YOUTH ART ED PROGRAM: \"PLAY IS PROCESS\""
+    },
+    {
+      "amount": 3500.0,
+      "is_new": true,
+      "name": "DETROIT SYMPHONY ORCHESTRA HALL INC",
+      "purpose": "46TH CLASSICAL ROOTS CELEBRATION"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": true,
+      "name": "WHEAT INC",
+      "purpose": "SUPPORT FOR TRAUMA-INFORMED SUPPORT SERVICES"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "ALTERNATIVES FOR GIRLS",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "PLOWSHARES THEATRE COMPANY",
+      "purpose": "EMPLOYEE VOLUNTEER PROGRAM"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "ACCESS",
+      "purpose": "52ND ANNUAL DINNER"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "VARIETY CLUB CHARITY FOR CHILDREN INC",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "PUERTO RICAN ARTS ALLIANCE",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "UNITED STATES ARTISTS INC",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "ARISE DETROIT",
+      "purpose": "18TH ANNUAL NEIGHBORHOODS DAY"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "BOYS HOPE GIRLS HOPE",
+      "purpose": "SCHOLAR SUPPORT PROGRAM"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
+      "purpose": "16TH ANNUAL MICHIGAN PRE-COLLEGE AND YOUTH OUTREACH CONFERENCE"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "BLACK LEGACY ADVANCEMENT COALITION",
+      "purpose": "HEALTH IS WEALTH DETROIT: A WELLNESS EXPO"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "MICHIGAN YOUTH APPRECIATION FOUNDATION",
+      "purpose": "40TH ANNUAL METRO DETROIT YOUTH DAY"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "SILENT CRY INC",
+      "purpose": "DAY OF EMPATHY 2024"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "A POSITIVE SEED CORPORATION",
+      "purpose": "BACK TO SCHOOL DRIVE"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "B U I L D INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "BIRTH DETROIT",
+      "purpose": "LAUNCH OF A COMMUNITY GARDEN"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "BLACK BOYS EMPOWERED",
+      "purpose": "COMMUNITY SERVICE AND MENTORSHIP PROGRAM"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "BLACK MARRIAGE MOVEMENT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "CHALLENGE THE WIND YOUTH SAILING PROGRAM DBA DETROIT COMMUNITY SAILING CENT",
+      "purpose": "SUPPORT TO PILOT A BOAT BUILDING WORKSHOP"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "DETROIT IS DIFFERENT COMMUNITY GROUP",
+      "purpose": "MY MOM'S MY FIRST FAN EVENT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "DETROIT-WINDSOR DANCE ACADEMY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "LIVE COAL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "STARFISH FAMILY SERVICES INC",
+      "purpose": "AGES & STAGES QUESTIONNAIRE KITS FOR EARLY CHILDHOOD EDUCATORS"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF MICHIGAN",
+      "purpose": "SPECIAL GRANT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "VISTA MARIA",
+      "purpose": "YOUTH AND FAMILY WRAPAROUND PROGRAM"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "WORKIN ROOTZ",
+      "purpose": "URBAN COMMUNITY FARM GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2202.0,
+      "is_new": false,
+      "name": "JAIN SOCIETY OF GREATER DETROIT INC",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "BOYS AND GIRLS CLUB OF GREATER FLINT",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": false,
+      "name": "NOVI EDUCATIONAL FOUNDATION",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "DETROIT PUBLIC THEATRE",
+      "purpose": "EMPLOYEE VOLUNTEER PROGRAM"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "SAVETHEM",
+      "purpose": "2024 STOMPING OUT: MENTAL HEALTH STIGMA AND RESOURCE FAIR"
+    },
+    {
+      "amount": 700.0,
+      "is_new": true,
+      "name": "AMERICAN SOCIETY FOR THE PREVENTION OF CRUELTY TO ANIMALS DBA ASPCA",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "GESU CATHOLIC SCHOOL",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "ASIAN INDIAN WOMENS ASSOCIATION",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 485.0,
+      "is_new": true,
+      "name": "BRIGHTMOOR CHRISTIAN CHURCH",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 300.0,
+      "is_new": true,
+      "name": "RUTH ELLIS CENTER INC",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 208.0,
+      "is_new": false,
+      "name": "COVENANT HOUSE MICHIGAN",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 200.0,
+      "is_new": false,
+      "name": "FOCUS HOPE",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 200.0,
+      "is_new": true,
+      "name": "CENTER FOR BABAYLAN STUDIES",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 200.0,
+      "is_new": true,
+      "name": "ELMWOOD BLESSING BOX",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 117.0,
+      "is_new": false,
+      "name": "ST VINCENT AND SARAH FISHER CENTER FOR CHILDREN",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 105.0,
+      "is_new": true,
+      "name": "AMERICAN BRAIN TUMOR ASSOCIATION",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 100.0,
+      "is_new": false,
+      "name": "COMMERCE ELEMENTARY PTA",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 100.0,
+      "is_new": true,
+      "name": "KEEP GROWING DETROIT",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 80.0,
+      "is_new": true,
+      "name": "AMERICAN HEART ASSOCIATION INC",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 70.0,
+      "is_new": true,
+      "name": "UA-PB ALUMNI SCHOLARSHIP ENDOWMENT FUND UNIVERSITY OF ARKANSAS",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 50.0,
+      "is_new": true,
+      "name": "ORANGE COUNTY CRUSHERS BASEBALL INC",
+      "purpose": "MATCHING GIFT"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "ALL GRANT APPLICATIONS ARE SUBMITTED THROUGH THE FLUXX GRANTS MANAGEMENT SYSTEM. EACH APPLICATION INCLUDES ORGANIZATION NAME, RESPONSES TO THE ELIGIBILITY QUIZ, PRIMARY CONTACTS, AMOUNT REQUESTED, PROJECT TITLE AND SUMMARY, PROPOSED GRANT START AND END DATES, AND ALIGNED STRATEGIC IMPACT. FOR PRESIDENT DISCRETIONARY GRANTS, WE ALSO ASK FOR A DESCRIPTION OF THE EVENT, PROJECT, OR PROGRAM TO BE FUNDED. FOR PARTNERSHIP GRANTS, WE ASK HOW THE PROPOSED PROJECT ALIGNS TO OUR STRATEGY, DESCRIPTION OF PROJECT GOALS AND ACTIVITES, PLANS FOR MONITORING AND EVALUATION, COLLABORATIVE FUNDING, CHALLENGES AND RISKS, AND A BUDGET FOR HOW THE FUNDS WILL BE SPENT (IF PROJECT GRANT). WE ALSO ASK GRANT PARTNERS TO UPLOAD A BOARD LIST, INTERIM FINANCIALS, MOST RECENT AUDITED OR REVIEWED FINANCIALS, 990 FORM, AND ORGANIZATIONAL BUDGET. FOR ADDITIONAL INFORMATION PLEASE VISIT OUR WEBSITE AT HTTPS://WWW.SKILLMAN.ORG/GRANTS/.",

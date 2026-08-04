@@ -48,6 +48,140 @@
     "singleton_cluster_share": 0.7805,
     "total_grant_records": 126
   },
+  "recipients_latest_year": [
+    {
+      "amount": 7338600.0,
+      "is_new": false,
+      "name": "TIDES FOUNDATION",
+      "purpose": "SUPPORT FOR EDUCATION AND CAREER OPPORTUNITIES FOR YOUNG PEOPLE"
+    },
+    {
+      "amount": 5000000.0,
+      "is_new": false,
+      "name": "OAKLAND UNIFIED SCHOOL DISTRICT",
+      "purpose": "SUPPORT PUBLIC EDUCATION"
+    },
+    {
+      "amount": 5000000.0,
+      "is_new": false,
+      "name": "SPARK SF PUBLIC SCHOOLS",
+      "purpose": "SUPPORT PUBLIC EDUCATION"
+    },
+    {
+      "amount": 2000000.0,
+      "is_new": true,
+      "name": "CODEORG",
+      "purpose": "SUPPORT FOR EDUCATION AND CAREER OPPORTUNITIES FOR YOUNG PEOPLE"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "BEYOND 12 EDUCATION INC",
+      "purpose": "SUPPORT FOR EDUCATION AND CAREER OPPORTUNITIES FOR YOUNG PEOPLE"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "CHILDREN FIRST FUND - THE CHICAGO PUBLIC SCHOOLS FOUNDATION",
+      "purpose": "SUPPORT PUBLIC EDUCATION"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "INDIANAPOLIS PUBLIC SCHOOLS EDUCATION FOUNDATION",
+      "purpose": "SUPPORT PUBLIC EDUCATION"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "FUND FOR PUBLIC SCHOOLS INC",
+      "purpose": "SUPPORT PUBLIC EDUCATION"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "ONEGOAL",
+      "purpose": "SUPPORT FOR EDUCATION AND CAREER OPPORTUNITIES FOR YOUNG PEOPLE"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "THE EDUCATION TRUST INC",
+      "purpose": "SUPPORT FOR EDUCATION AND CAREER OPPORTUNITIES FOR YOUNG PEOPLE"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "BURNING GLASS INSTITUTE",
+      "purpose": "SUPPORT FOR EDUCATION AND CAREER OPPORTUNITIES FOR YOUNG PEOPLE"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "CAREERVILLAGE INC",
+      "purpose": "SUPPORT FOR EDUCATION AND CAREER OPPORTUNITIES FOR YOUNG PEOPLE"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "COLLEGE POSSIBLE",
+      "purpose": "SUPPORT FOR EDUCATION AND CAREER OPPORTUNITIES FOR YOUNG PEOPLE"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "COMMON SENSE MEDIA",
+      "purpose": "SUPPORT FOR EDUCATION AND CAREER OPPORTUNITIES FOR YOUNG PEOPLE"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "DIGITAL PROMISE GLOBAL",
+      "purpose": "SUPPORT FOR EDUCATION AND CAREER OPPORTUNITIES FOR YOUNG PEOPLE"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "HIDDEN GENIUS PROJECT",
+      "purpose": "SUPPORT FOR EDUCATION AND CAREER OPPORTUNITIES FOR YOUNG PEOPLE"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "IMENTOR",
+      "purpose": "SUPPORT FOR EDUCATION AND CAREER OPPORTUNITIES FOR YOUNG PEOPLE"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "KHAN ACADEMY INC",
+      "purpose": "SUPPORT FOR EDUCATION AND CAREER OPPORTUNITIES FOR YOUNG PEOPLE"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "ROBIN HOOD FOUNDATION",
+      "purpose": "SUPPORT FOR EDUCATION AND CAREER OPPORTUNITIES FOR YOUNG PEOPLE"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "TNTP INC (THE NEW TEACHER PROJECT)",
+      "purpose": "SUPPORT FOR EDUCATION AND CAREER OPPORTUNITIES FOR YOUNG PEOPLE"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "COLLEGE TRACK",
+      "purpose": "SUPPORT FOR EDUCATION AND CAREER OPPORTUNITIES FOR YOUNG PEOPLE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "SAN FRANCISCO UNIFIED SCHOOL DISTRICT",
+      "purpose": "SUPPORT PUBLIC EDUCATION"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

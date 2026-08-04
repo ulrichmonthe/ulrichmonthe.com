@@ -48,6 +48,254 @@
     "singleton_cluster_share": 0.5679,
     "total_grant_records": 127
   },
+  "recipients_latest_year": [
+    {
+      "amount": 2191571.0,
+      "is_new": false,
+      "name": "VERMONT COMMUNITY FOUNDATION",
+      "purpose": "DONOR ADVISED FUND - PLANNED FOR GIFTS FOR DONEE'S EXEMPT PURPOSE AND CAUSE"
+    },
+    {
+      "amount": 2191571.0,
+      "is_new": false,
+      "name": "RSF SOCIAL FINANCE",
+      "purpose": "DONOR ADVISED FUND - PLANNED FOR GIFTS FOR DONEE'S EXEMPT PURPOSE AND CAUSE"
+    },
+    {
+      "amount": 860000.0,
+      "is_new": true,
+      "name": "FUND FOR PUBLIC SCHOOLS",
+      "purpose": "SUPPORT FOR STUDENT LITERACY & READING OUTCOMES; NYC READS EVALUATION & FAMILY ENGAGEMENT ACTIVITIES"
+    },
+    {
+      "amount": 550000.0,
+      "is_new": false,
+      "name": "BRAIN AND BEHAVIOR RESEARCH FOUNDATION",
+      "purpose": "YOUNG INVESTIGATORS PROGRAM AND RUANE PRIZE RESEARCH AWARDS"
+    },
+    {
+      "amount": 299500.0,
+      "is_new": true,
+      "name": "READ ALLIANCE",
+      "purpose": "NYC READS INITIATIVE LITERACY ACTIVITIES"
+    },
+    {
+      "amount": 291688.0,
+      "is_new": false,
+      "name": "CHILDREN'S AID SOCIETY",
+      "purpose": "SCHOLARSHIPS, YOUTH MENTAL HEALTHCARE, AND AFTER-SCHOOL PROGRAMMING"
+    },
+    {
+      "amount": 287750.0,
+      "is_new": true,
+      "name": "READING PARTNERS",
+      "purpose": "NYC READS INITIATIVE LITERACY ACTIVITIES"
+    },
+    {
+      "amount": 275000.0,
+      "is_new": false,
+      "name": "MADISON SQUARE BOYS AND GIRLS CLUB",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 271000.0,
+      "is_new": true,
+      "name": "PARENTCHILD",
+      "purpose": "NYC READS INITIATIVE LITERACY ACTIVITIES"
+    },
+    {
+      "amount": 257500.0,
+      "is_new": true,
+      "name": "LITERACY INC",
+      "purpose": "NYC READS INITIATIVE LITERACY ACTIVITIES"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "BOSTON MEDICAL CENTER",
+      "purpose": "TEAM UP"
+    },
+    {
+      "amount": 204750.0,
+      "is_new": true,
+      "name": "EXPANDED",
+      "purpose": "NYC READS INITIATIVE LITERACY ACTIVITIES"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "COLUMBIA UNIVERSITY",
+      "purpose": "DEPARTMENT OF PSYCHIATRY"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "NEW VISIONS FOR PUBLIC SCHOOLS",
+      "purpose": "LITERACY ACADEMY COLLECTIVE"
+    },
+    {
+      "amount": 155000.0,
+      "is_new": true,
+      "name": "CITY YEAR",
+      "purpose": "NYC READS INITIATIVE LITERACY ACTIVITIES"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "HENRY STREET SETTLEMENT",
+      "purpose": "YOUTH MENTAL HEALTH CLINICAL CARE STAFFING"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "UNIVERSITY SETTLEMENT",
+      "purpose": "MENTAL HEALTH SERVICES FOR YOUTH AGES 14-24"
+    },
+    {
+      "amount": 107500.0,
+      "is_new": true,
+      "name": "REACH OUT AND READ OF GREATER NEW YORK",
+      "purpose": "NYC READS INITIATIVE LITERACY ACTIVITIES"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "CITIZENS COMMITTEE FOR CHILDREN OF NEW YORK",
+      "purpose": "CAMPAIGN FOR HEALTHY MINDS, HEALTHY KIDS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "EDUCATORS FOR EXCELLENCE",
+      "purpose": "ELEVATE EDUCATOR VOICE AND SUPPORT FOR HIGH-QUALITY LITERACY INSTRUCTION THROUGHOUT NEW YORK CITY"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "HOPELAB FOUNDATION",
+      "purpose": "RESPONSIBLE TECHNOLOGY YOUTH POWER FUND"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "INSEPARABLE",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "URBAN ASSEMBLY",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 97500.0,
+      "is_new": true,
+      "name": "NEW YORK PUBLIC LIBRARY",
+      "purpose": "NYC READS INITIATIVE LITERACY ACTIVITIES"
+    },
+    {
+      "amount": 95000.0,
+      "is_new": true,
+      "name": "ROOTS FAMILY CENTER",
+      "purpose": "LITERACY THROUGH HOME VISITATION PROGRAMS FOR FAMILIES WITH CHILDREN 0-5 YEARS OLD IN SOUTHWEST DENVER"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": true,
+      "name": "TRANSCEND INC",
+      "purpose": "SEL PROGRAM LANDSCAPE SCAN"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": true,
+      "name": "DEMOCRACY PREP",
+      "purpose": "SUPPORT FOR STUDENT LITERACY & READING OUTCOMES"
+    },
+    {
+      "amount": 54500.0,
+      "is_new": true,
+      "name": "BROOKLYN PUBLIC LIBRARY",
+      "purpose": "NYC READS INITIATIVE LITERACY ACTIVITIES"
+    },
+    {
+      "amount": 54500.0,
+      "is_new": true,
+      "name": "QUEENS PUBLIC LIBRARY FOUNDATION",
+      "purpose": "NYC READS INITIATIVE LITERACY ACTIVITIES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "SOCIAL GOOD FUND",
+      "purpose": "NEXT GENERATION POLITICS/YVOTE AND THE NYC YOUTH AGENDA INITIATIVE"
+    },
+    {
+      "amount": 34385.0,
+      "is_new": true,
+      "name": "RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF NEW YORK",
+      "purpose": "NYC YOUTH AGENDA"
+    },
+    {
+      "amount": 33350.0,
+      "is_new": false,
+      "name": "MOUNT CARMEL - HOLY ROSARY SCHOOL",
+      "purpose": "SCHOLARSHIPS"
+    },
+    {
+      "amount": 21235.0,
+      "is_new": false,
+      "name": "ST MARK THE EVANGELIST SCHOOL",
+      "purpose": "SCHOLARSHIPS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "BEDFORD STUYVESANT NEW BEGINNINGS CHARTER SCHOOL",
+      "purpose": "SUPPORT FOR STUDENT LITERACY & READING OUTCOMES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "CHOICE CHARTER SCHOOL",
+      "purpose": "SUPPORT FOR STUDENT LITERACY & READING OUTCOMES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "CORNELIA CONNELLY CENTER",
+      "purpose": "SUPPORT FOR STUDENT LITERACY & READING OUTCOMES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "HARLEM ACADEMY",
+      "purpose": "SUPPORT FOR STUDENT LITERACY & READING OUTCOMES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "MOTT HAVEN ACADEMY",
+      "purpose": "SUPPORT FOR STUDENT LITERACY & READING OUTCOMES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "SOUTH BRONX COMMUNITY CHARTER",
+      "purpose": "SUPPORT FOR STUDENT LITERACY & READING OUTCOMES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "ST IGNATIUS SCHOOL",
+      "purpose": "SUPPORT FOR STUDENT LITERACY & READING OUTCOMES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "FIDELITY INVESTMENTS CHARITABLE GIFT FUND",
+      "purpose": "DONOR ADVISED FUND - PLANNED FOR GIFTS FOR DONEE'S EXEMPT PURPOSE AND CAUSE"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

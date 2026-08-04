@@ -48,6 +48,2174 @@
     "singleton_cluster_share": 0.512,
     "total_grant_records": 2075
   },
+  "recipients_latest_year": [
+    {
+      "amount": 6100000.0,
+      "is_new": false,
+      "name": "RESOURCES LEGACY FUND",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 3000000.0,
+      "is_new": false,
+      "name": "ENVIRONMENTAL DEFENSE FUND INCORPORATED",
+      "purpose": "CLIMATE SMART AGRICULTURE"
+    },
+    {
+      "amount": 1105000.0,
+      "is_new": false,
+      "name": "MULTIPLIER",
+      "purpose": "MAVEN'S NOTEBOOK"
+    },
+    {
+      "amount": 734518.0,
+      "is_new": false,
+      "name": "CHESAPEAKE CONSERVANCY INC",
+      "purpose": "ENDOWMENT"
+    },
+    {
+      "amount": 650000.0,
+      "is_new": true,
+      "name": "DONORSCHOOSE",
+      "purpose": "CA, PA, MD COUNTY FOCUSED FUNDING"
+    },
+    {
+      "amount": 600000.0,
+      "is_new": false,
+      "name": "CENTER FOR INDEPENDENT DOCUMENTARY INC",
+      "purpose": "MUSIC DEPARTMENT DOCUMENTARY"
+    },
+    {
+      "amount": 509400.0,
+      "is_new": false,
+      "name": "CHESAPEAKE BAY FOUNDATION INC",
+      "purpose": "BANDS IN THE SAND"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "NATIONAL GEOGRAPHIC SOCIETY",
+      "purpose": "PRISTINE SEAS"
+    },
+    {
+      "amount": 487500.0,
+      "is_new": false,
+      "name": "LANCASTER CLEAN WATER PARTNERS - SUB OF CFLC",
+      "purpose": "CWP BUSINESS AND EXECUTIVE OUTREACH"
+    },
+    {
+      "amount": 390000.0,
+      "is_new": false,
+      "name": "CHILDRENS DAY SCHOOL INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "WATER FOUNDATION",
+      "purpose": "LEVERAGING PUBLIC FUNDING"
+    },
+    {
+      "amount": 325000.0,
+      "is_new": false,
+      "name": "CANADIAN HUMANITARIAN ORGANIZATION FOR INTERNATIONAL RELIEF",
+      "purpose": "NUNYA ACADEMY"
+    },
+    {
+      "amount": 306900.0,
+      "is_new": false,
+      "name": "SHORERIVERS INC",
+      "purpose": "INNOVATIVE NITROGEN MANAGEMENT"
+    },
+    {
+      "amount": 290000.0,
+      "is_new": false,
+      "name": "NATIONAL WILDLIFE FEDERATION",
+      "purpose": "CHOOSE CLEAN WATER COALITION"
+    },
+    {
+      "amount": 270000.0,
+      "is_new": false,
+      "name": "LANCASTER FARMLAND TRUST",
+      "purpose": "BUILD CAPACITY TO POSITION FOR IMPLEMENTATION"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "NATIONAL AQUARIUM IN BALTIMORE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "NORTH OF MARKET TENDERLOIN COMMUNITY BENEFIT CORPORATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 234507.0,
+      "is_new": false,
+      "name": "ALLIANCE FOR THE CHESAPEAKE BAY",
+      "purpose": "PA STORMWATER WORK"
+    },
+    {
+      "amount": 230000.0,
+      "is_new": false,
+      "name": "COMMONS INC",
+      "purpose": "DOCUMENTING WATER QUALITY IMPROVEMENT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "COMMUNITY WATER CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 192908.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF MARYLAND EASTERN SHORE - SUB OF USMDF",
+      "purpose": "AMMONIA MONITORING LOWER EASTERN SHORE MD- 2"
+    },
+    {
+      "amount": 185000.0,
+      "is_new": false,
+      "name": "TIDES CENTER",
+      "purpose": "VOICES FOR PROGRESS EDUCATION FUND"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "FIRST FRUITS FARM INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "CALIFORNIA ENVIRONMENTAL VOTERS EDUCATION FUND",
+      "purpose": "DEIJ TRAINING"
+    },
+    {
+      "amount": 166560.0,
+      "is_new": false,
+      "name": "LANCASTER CONSERVANCY",
+      "purpose": "LANCASTER WATER WEEK"
+    },
+    {
+      "amount": 165000.0,
+      "is_new": false,
+      "name": "BLACK WELLNESS AND PROSPERITY CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 159171.0,
+      "is_new": false,
+      "name": "LOWER SUSQUEHANNA RIVERKEEPER ASSOCIATION",
+      "purpose": "EDUCATION PROGRAM AND MATERIALS"
+    },
+    {
+      "amount": 152500.0,
+      "is_new": false,
+      "name": "MARYLAND LEAGUE OF CONSERVATION VOTERS EDUCATION FUND",
+      "purpose": "DEIJ DEFINITIONS & DECISION MAKING TOOL"
+    },
+    {
+      "amount": 151121.0,
+      "is_new": false,
+      "name": "CONSERVATION FOUNDATION OF LANCASTER COUNTY",
+      "purpose": "NUTRIENT MANAGEMENT THROUGH MANURE INJECTION"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "BUNCOMBE COUNTY PARTNERSHIP FOR CHILDREN INC",
+      "purpose": "HURRICANE HELENE DISASTER RELIEF"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "NORTH CAROLINA COMMUNITY FOUNDATION",
+      "purpose": "HURRICANE HELENE DISASTER RELIEF"
+    },
+    {
+      "amount": 146630.0,
+      "is_new": false,
+      "name": "POTOMAC RIVERKEEPER INCORPORATED",
+      "purpose": "BUILDING CAPACITY THROUGH A DEIJ LENS"
+    },
+    {
+      "amount": 140000.0,
+      "is_new": false,
+      "name": "YES NATURE TO NEIGHBORHOODS",
+      "purpose": "YOUTH LEADERSHIP PATHWAY"
+    },
+    {
+      "amount": 132974.0,
+      "is_new": false,
+      "name": "MOONSHOT MISSIONS INC",
+      "purpose": "CHESAPEAKE WASTEWATER UTILITY TA"
+    },
+    {
+      "amount": 130000.0,
+      "is_new": false,
+      "name": "826 VALENCIA",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "REGENERATIVE AGRICULTURE FOUNDATION",
+      "purpose": "FUNDERS FOR REGENERATIVE AGRICULTURE"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "PENNFUTURE",
+      "purpose": "EFFECTIVE COMMUNICATIONS TRAINING"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "PUENTE DE LA COSTA SUR",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 121000.0,
+      "is_new": false,
+      "name": "MONTEREY BAY FISHERIES TRUST",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 118842.0,
+      "is_new": false,
+      "name": "CENTER FOR WATERSHED PROTECTION",
+      "purpose": "CHESAPEAKE BAY LANDSCAPE PROFESSIONAL"
+    },
+    {
+      "amount": 118766.0,
+      "is_new": false,
+      "name": "NATURE FORWARD",
+      "purpose": "DEIJ CAPACITY BUILDING"
+    },
+    {
+      "amount": 113507.0,
+      "is_new": false,
+      "name": "VIRGINIA CONSERVATION NETWORK",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "MIDDLE SUSQUEHANNA RIVERKEEPER ASSOCIATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 105000.0,
+      "is_new": false,
+      "name": "MID-ATLANTIC 4R NUTRIENT STEWARDSHIP ASSOCIATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100500.0,
+      "is_new": false,
+      "name": "LEADERSHIP COUNSEL FOR JUSTICE AND ACCOUNTABILITY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "SELF-HELP ENTERPRISES",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "SHORE LEGAL ACCESS INC",
+      "purpose": "EXPUNGEMENT AND WORKFORCE ACCESS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "REWILD",
+      "purpose": "DYNAMIC PLANET: REVIVE OUR OCEAN"
+    },
+    {
+      "amount": 99675.0,
+      "is_new": false,
+      "name": "VIRGINIA LEAGUE OF CONSERVATION VOTERS EDUCATION FUND",
+      "purpose": "DEIJ CAPACITY BUILDING"
+    },
+    {
+      "amount": 99500.0,
+      "is_new": false,
+      "name": "SUSTAINABLE CHESAPEAKE",
+      "purpose": "VIRGINIA NATURAL RESOURCES LEADERSHIP INSTITUTE"
+    },
+    {
+      "amount": 99000.0,
+      "is_new": false,
+      "name": "EASTERN SHORE LAND CONSERVANCY INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 97500.0,
+      "is_new": false,
+      "name": "BLUE WATER BALTIMORE INC",
+      "purpose": "STRATEGIC PLANNING WITH A DEIJ LENS"
+    },
+    {
+      "amount": 97122.0,
+      "is_new": false,
+      "name": "ARUNDEL RIVERS FEDERATION",
+      "purpose": "SOUTH, WEST & RHODE RIVERKEEPER"
+    },
+    {
+      "amount": 93321.0,
+      "is_new": false,
+      "name": "GUNPOWDER RIVERKEEPER INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 92901.0,
+      "is_new": false,
+      "name": "WETLANDS WATCH INC",
+      "purpose": "PROFESSIONAL DEVELOPMENT"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": false,
+      "name": "INTERFAITH PARTNERS FOR THE CHESAPEAKE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": false,
+      "name": "JAMES RIVER ASSOCIATION",
+      "purpose": "CERF BIENNIAL CONFERENCE"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": false,
+      "name": "PRESERVATION MARYLAND",
+      "purpose": "SMART GROWTH MARYLAND"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": false,
+      "name": "SOCIALGOOD FUND",
+      "purpose": "ABT FRAMEWORK"
+    },
+    {
+      "amount": 87378.0,
+      "is_new": false,
+      "name": "FRIENDS OF THE RAPPAHANNOCK INC",
+      "purpose": "CAPACITY BUILDING"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "CONESTOGA RIVER CLUB",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 83872.0,
+      "is_new": false,
+      "name": "LOWER SHORE LAND TRUST",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 82000.0,
+      "is_new": false,
+      "name": "TUOLUMNE RIVER PRESERVATION TRUST",
+      "purpose": "TECH CAPACITY BUILDING - EQUIPMENT"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "BAY JOURNAL MEDIA INC",
+      "purpose": "FELLOWSHIP PROGRAM"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "CLEAN WATER FUND",
+      "purpose": "SUPPORT FOR MD WATERS - SEPTICS & ZERO WASTE"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "ENVIRONMENTAL INTEGRITY PROJECT",
+      "purpose": "CHES. BAY URBAN & POINT SOURCE ACCOUNTABILITY"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "THE BETTER ANGELS SOCIETY",
+      "purpose": "HENRY DAVID THOREAU FILM"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "EL PAJARO COMMUNITY DEVELOPMENT CORPORATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "PARKS CALIFORNIA",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "COASTAL CONSERVATION ASSOCIATION - MD",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "MARYLAND ASSOCIATION OF SOIL CONSERVATION DISTRICTS",
+      "purpose": "CONSERVATION FARMER RECOGNITION PROGRAM"
+    },
+    {
+      "amount": 65785.0,
+      "is_new": false,
+      "name": "ASSETS LANCASTER",
+      "purpose": "COMMUNITY LENDING"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "RIVER NETWORK",
+      "purpose": "CHESAPEAKE OFFICE"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "THEODORE ROOSEVELT CONSERVATION PARTNERSHIP INC",
+      "purpose": "HUNTERS AND ANGLERS FOR CONSERVATION"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "CALIFORNIA RURAL LEGAL ASSISTANCE FOUNDATION",
+      "purpose": "SOMOS EL PODER DEVELOPMENT TRAININGS"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "GARDENS OF GOLDEN GATE PARK",
+      "purpose": "DEIJ CAPACITY BUILDING"
+    },
+    {
+      "amount": 61847.0,
+      "is_new": false,
+      "name": "CHESAPEAKE CONSERVATION LANDSCAPING COUNCIL",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "DONEGAL TROUT UNLIMITED",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 59900.0,
+      "is_new": false,
+      "name": "NORTH CAROLINA COASTAL FEDERATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 59500.0,
+      "is_new": false,
+      "name": "CHESAPEAKE LEGAL ALLIANCE INC",
+      "purpose": "COMMUNITY LEGAL EDUCATION CENTER"
+    },
+    {
+      "amount": 59230.0,
+      "is_new": false,
+      "name": "CHESAPEAKE BAY TRUST",
+      "purpose": "TREASURE THE CHESAPEAKE"
+    },
+    {
+      "amount": 58200.0,
+      "is_new": false,
+      "name": "SUSTAINABLE AGRICULTURE AND FOOD SYSTEMS FUNDERS",
+      "purpose": "CBFN SPEAKER STIPEND"
+    },
+    {
+      "amount": 57500.0,
+      "is_new": false,
+      "name": "POTOMAC CONSERVANCY INC",
+      "purpose": "POTOMAC RIVER ACTION NETWORK"
+    },
+    {
+      "amount": 56000.0,
+      "is_new": false,
+      "name": "UNITED WAY OF LANCASTER COUNTY",
+      "purpose": "PROJECT BLUEPRINT (DIVERSITY & INCLUSION)"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "ANACOSTIA WATERSHED SOCIETY INC",
+      "purpose": "GENDER EQUITY TRAINING"
+    },
+    {
+      "amount": 54500.0,
+      "is_new": false,
+      "name": "MAKE THE ROAD STATES INC",
+      "purpose": "MAKE THE ROAD PA"
+    },
+    {
+      "amount": 51700.0,
+      "is_new": false,
+      "name": "COMMERCIAL FISHERIES RESEARCH FOUNDATION INC",
+      "purpose": "COOPERATIVE MARINE RESEARCH PROJECTS"
+    },
+    {
+      "amount": 51000.0,
+      "is_new": false,
+      "name": "COASTSIDE STATE PARKS ASSOCIATION",
+      "purpose": "PIGEON POINT LIGHT STATION"
+    },
+    {
+      "amount": 51000.0,
+      "is_new": false,
+      "name": "COMMUNITY MUSIC CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50250.0,
+      "is_new": true,
+      "name": "SPANISH AMERICAN CIVIC ASSOCIATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50250.0,
+      "is_new": true,
+      "name": "THE HAITIAN DEVELOPMENT CENTER OF DELMARVA",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "AMERICAN RIVERS INC",
+      "purpose": "INFRASTRUCTURE FUNDING-GREENING & RESILIENCE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "DUCKS UNLIMITED INC",
+      "purpose": "BUFFERS ON DELMARVA"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "EARTH ECHO INTERNATIONAL INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "GLOBAL CONSERVATION",
+      "purpose": "M2 PARTNERS: MPA MONITORING TECH & COORDINATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "HIPPODROME FOUNDATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "LANCASTER COUNTY COMMUNITY FOUNDATION",
+      "purpose": "LANCASTER CLEAN WATER FUND"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "PENNSYLVANIA PARKS AND FORESTS FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "PENNSYLVANIA VOICE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "TROUT UNLIMITED",
+      "purpose": "COLDWATER AND STREAM DELISTING"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "WOMENS AUDIO MISSION",
+      "purpose": "LEVEL II SALESFORCE TRAINING FOR WAM STAFF"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SINAI HOSPITAL DBA LIFEBRIDGE HEALTH",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "BAYVIEW HUNTERS POINT COMMUNITY ADVOCATES INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "CENTRAL VALLEY LATINO LEADERSHIP ACADEMY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "OAKLAND BALLET COMPANY",
+      "purpose": "THE ANGEL ISLAND PROJECT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "WIND RIVER TRIBAL BUFFALO INITIATIVE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "YOUTH LEADERSHIP INSTITUTE",
+      "purpose": "FRESNO CHAPTER- REP 559"
+    },
+    {
+      "amount": 49100.0,
+      "is_new": false,
+      "name": "NANTICOKE WATERSHED ALLIANCE INC",
+      "purpose": "CAPACITY BUILDING SUPPORT"
+    },
+    {
+      "amount": 47620.0,
+      "is_new": false,
+      "name": "CINEQUEST INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "ANNE ARUNDEL COUNTY WATERSHED STEWARDS ACADEMY",
+      "purpose": "LEADERSHIP DEVELOPMENT AND CAPACITY COACHING"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "PIEDMONT ENVIRONMENTAL COUNCIL",
+      "purpose": "CAPACITY BUILDING"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "BAYKEEPER",
+      "purpose": "COMMUNICATIONS AND DEVELOPMENT"
+    },
+    {
+      "amount": 40250.0,
+      "is_new": false,
+      "name": "FRENCH AMERICAN INTERNATIONAL SCHOOL",
+      "purpose": "ANNUAL AUCTION"
+    },
+    {
+      "amount": 40250.0,
+      "is_new": true,
+      "name": "BENCH MARK PROGRAM",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 40250.0,
+      "is_new": true,
+      "name": "MIDSHORE MEALS TIL MONDAY INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 40160.0,
+      "is_new": false,
+      "name": "UNITED WAY OF LOWER EASTERN SHORE",
+      "purpose": "CAPACITY BUILDING MINI GRANTS PARTNERSHIP"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "FRIENDS OF THE SAN JUANS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 37500.0,
+      "is_new": false,
+      "name": "BRIGHT SIDE OPPORTUNITIES CORPORATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 36750.0,
+      "is_new": false,
+      "name": "LOS ANGELES WATERKEEPER",
+      "purpose": "JEDI TRAINING & COMMITTEE FACILITATION"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "ALLIANCE FOR THE SHENANDOAH VALLEY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "DICKINSON COLLEGE",
+      "purpose": "SUSQUEHANNA STREAM TEAM"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "NUESTRA CASA DE EAST PALO ALTO",
+      "purpose": "DEIJ CAPACITY BUILDING"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "WATERSHED ALLIANCE OF YORK",
+      "purpose": "WAY DIRECTOR"
+    },
+    {
+      "amount": 32000.0,
+      "is_new": false,
+      "name": "HUCKLEBERRY YOUTH PROGRAMS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 30200.0,
+      "is_new": false,
+      "name": "CENTER FOR LAND-BASED LEARNING",
+      "purpose": "FARMS LEADERSHIP PROGRAM"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "CHESAPEAKE STORMWATER NETWORK INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "PENNSYLVANIA ENVIRONMENTAL COUNCIL INC",
+      "purpose": "CIVIC ENGAGEMENT STRATEGIES FOR WATER RESOURCES"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "UC SANTA CRUZ FOUNDATION",
+      "purpose": "SEYMOUR MARINE DISCOVERY CENTER"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "WILDLIFE LEADERSHIP ACADEMY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "MINARY'S DREAM ALLIANCE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "SAN FRANCISCO VILLAGE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "FAMILY CONNECTIONS CENTERS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "NEW PERFORMANCE TRADITIONS",
+      "purpose": "SUNSET PIANO"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "PA ALLIANCE FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "HORIZONS DELMARVA INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "ROXIE THEATER",
+      "purpose": "CAPITAL CAMPAIGN"
+    },
+    {
+      "amount": 29915.0,
+      "is_new": false,
+      "name": "WICOMICO ENVIRONMENTAL TRUST LTD",
+      "purpose": "YOUTH ENVIRONMENTAL ACTION SUMMIT"
+    },
+    {
+      "amount": 29475.0,
+      "is_new": false,
+      "name": "ENVIRONMENTAL GRANTMAKERS ASSOCIATION",
+      "purpose": "BLUE SKY FUNDERS FORUM"
+    },
+    {
+      "amount": 29100.0,
+      "is_new": false,
+      "name": "RUSSIAN RIVERKEEPER",
+      "purpose": "STAFF PROFESSIONAL DEVELOPMENT"
+    },
+    {
+      "amount": 27500.0,
+      "is_new": true,
+      "name": "WEST FRESNO HEALTH CARE COALITION",
+      "purpose": "BLACK FARMER CONFERENCE"
+    },
+    {
+      "amount": 26450.0,
+      "is_new": false,
+      "name": "MINORITIES IN SHARK SCIENCES",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 26250.0,
+      "is_new": false,
+      "name": "ENVIRONMENTAL ACTION COMMITTEE OF WEST MARIN",
+      "purpose": "DEIJ CAPACITY BUILDING"
+    },
+    {
+      "amount": 26100.0,
+      "is_new": false,
+      "name": "CENTRAL VALLEY PARTNERSHIP",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25250.0,
+      "is_new": false,
+      "name": "THE CHILD & FAMILY FOUNDATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25250.0,
+      "is_new": true,
+      "name": "ALL4LOVE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25250.0,
+      "is_new": true,
+      "name": "SYMPHONY 21",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "COMMON CAUSE EDUCATION FUND",
+      "purpose": "OPENING ACCESS TO DATA IN MARYLAND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "EARTH FORCE INC",
+      "purpose": "DELMARVA STUDENT CIVIC ACTION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "FISH OF SANIBEL-CAPTIVA INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "OCEAN DISCOVERY INSTITUTE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "OYSTER RECOVERY PARTNERSHIP",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SANIBEL-CAPTIVA CONSERVATION FOUNDATION",
+      "purpose": "ENVIRONMENTAL POLICY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CIVIC INFLUENCERS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "FENIX YOUTH PROJECT INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CENTRAL VALLEY IMMIGRANT INTEGRATION COLLABORATIVE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "THE LINKS FOUNDATION INC",
+      "purpose": "GROWING GARDENS AND STEM AWARENESS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "ALIANZA NACIONAL DE CAMPESINAS",
+      "purpose": "CAMPESINAS CREATE A SAFE & HEALTHY MOTHER EARTH"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "CASEY TREES",
+      "purpose": "ANACOSTIA WATERSHED URBAN LAND CONSERVATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "CENTRO DE LOS DERECHOS DEL MIGRANTE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "CHINESE FOR AFFIRMATIVE ACTION",
+      "purpose": "HMONG INNOVATING POLITICS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "CITY SURF PROJECT",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "EASTERN SHOSHONE TRIBE",
+      "purpose": "EASTERN SHOSHONE CHILDRENS LODGE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "EASTERN SIERRA CONSERVATION CORPS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "ENVIRONMENTAL POLICY INNOVATION CENTER",
+      "purpose": "CHESAPEAKE PAY FOR SUCCESS EVALUATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "FAITH IN THE VALLEY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "FRESNO COMMUNITY DEVELOPMENT FINANCIAL INSTITUTION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "FRESNO INTERDENOMINATIONAL REFUGEE MINISTRIES",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "FRIENDS OF THE LOWER APPOMATTOX RIVER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "FUTURE HARVEST",
+      "purpose": "BEGINNER FARMER TRAINING PROGRAM"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "JAKARA MOVEMENT",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "MARYLAND CASA ASSOCIATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "NATIONAL CENTER FOR YOUTH LAW",
+      "purpose": "CHILDREN'S IMMIGRATION ADVOCACY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "POWER CALIFORNIA",
+      "purpose": "LEADERSHIP PATHWAYS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "RESOURCE CONSERVATION DISTRICT OF MONTEREY COUNTY",
+      "purpose": "IRRIGATION ASSISTANCE FOR LATINX FARMERS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "UNITED WAY FRESNO AND MADERA COUNTIES",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "UNITED WAY OF CENTRAL EASTERN CALIFORNIA",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "WIDE ANGLE YOUTH MEDIA",
+      "purpose": "WORKFORCE DEVELOPMENT PATHWAYS"
+    },
+    {
+      "amount": 23000.0,
+      "is_new": true,
+      "name": "MINORITIES IN AQUACULTURE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 22500.0,
+      "is_new": false,
+      "name": "ELEVEN 21 INC",
+      "purpose": "NONPROFIT STORYTELLING CONFERENCE"
+    },
+    {
+      "amount": 22500.0,
+      "is_new": false,
+      "name": "JUNIOR ACHIEVEMENT OF THE EASTERN SHORE",
+      "purpose": "SHORE LEADERSHIP"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "CITY KIDS TO WILDERNESS PROJECT INC",
+      "purpose": "BUILDING INTERNAL LEADERSHIP CAPACITY"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "SANTA BARBARA CHANNELKEEPER",
+      "purpose": "KEEPER SUMMIT AND NONPROFIT FINANCE COURSE"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "SOUTH YUBA RIVER CITIZENS LEAGUE",
+      "purpose": "WILD & SCENIC FILM FESTIVAL"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "WEST VIRGINIA RIVERS COALITION",
+      "purpose": "CAPACITY BUILDING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "COMMUNITY INITIATIVES",
+      "purpose": "LATINO OUTDOORS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "LET'S GO 1-2-3",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "KEIKO FUKUDA AND SHELLEY FERNANDEZ GIRLS AND WOMEN JUDO FOUNDATION",
+      "purpose": "JUDO FOR INDIGENOUS GIRLS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "NATIONAL YOUNG FARMERS COALITION",
+      "purpose": "SHARED UNDERSTANDING SERIES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "BLACK THISTLE STREET AID",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "CAMP ELSO INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "NORTHBAY EDUCATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "TELELE FOUNDATION",
+      "purpose": "LOCALIZING CA WATERS STUDENT SPONSORSHIPS"
+    },
+    {
+      "amount": 18800.0,
+      "is_new": false,
+      "name": "PHOENIX LEGAL ACTION NETWORK",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 18800.0,
+      "is_new": false,
+      "name": "REDBUD RESOURCE GROUP",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 18400.0,
+      "is_new": false,
+      "name": "ALPINE WATERSHED GROUP",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 17750.0,
+      "is_new": false,
+      "name": "MARYLAND REENTRY RESOURCE CENTER INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 16700.0,
+      "is_new": true,
+      "name": "CANNABIS FOR CONSERVATION",
+      "purpose": "ECOLOGICAL MONITORING - ACOUSTICS SOFTWARE"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "CALIFORNIA ASSOCIATION OF RESOURCE CONSERVATION DISTRICTS",
+      "purpose": "INCREASING BOARD PERFORMANCE AND EFFECTIVENESS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "CANAL ALLIANCE",
+      "purpose": "IMMIGRATION LEGAL SERVICES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "GLYNWOOD CENTER INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "SHELL MUSEUM AND EDUCATIONAL FOUNDATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "FEATHER RIVER LAND TRUST",
+      "purpose": "LAND TRUST ALLIANCE RALLY 2024"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "GOLD RIDGE RCD",
+      "purpose": "CLOUD, SERVER, AND WIRELESS NETWORK"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "HOPI SCHOOL INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "INTERMUSIC SF",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "JOURNALISM FUNDING PARTNERS",
+      "purpose": "THE TEN NEWS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "MARYLAND AGRICULTURAL EDUCATION",
+      "purpose": "MOBILE SHOWCASE"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "APPALACHIAN TRAIL CONSERVANCY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "GENDERCOOL PROJECT",
+      "purpose": "MEDIA EDUCATION PROGRAM"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "KENT CULTURAL ALLIANCE",
+      "purpose": "SHARED FIELD"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "SUSTAINABLE CONSERVATION",
+      "purpose": "DEI COMPENSATION STUDY"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "THE HORN FARM CENTER FOR AGRICULTURAL EDUCATION",
+      "purpose": "HORN FARM CENTER AGROFORESTRY PROGRAM"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "WORKINGFILMS INC",
+      "purpose": "RURAL CINEMA"
+    },
+    {
+      "amount": 14900.0,
+      "is_new": false,
+      "name": "LEAD MARYLAND FOUNDATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "WATERKEEPERS CHESAPEAKE",
+      "purpose": "FINANCIAL PROCEDURES MANUAL"
+    },
+    {
+      "amount": 11910.0,
+      "is_new": false,
+      "name": "MARYLAND PHILANTHROPY NETWORK",
+      "purpose": "MEMBERSHIP DUES"
+    },
+    {
+      "amount": 11450.0,
+      "is_new": true,
+      "name": "HOLA CULTURA",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 11000.0,
+      "is_new": true,
+      "name": "SOIL AND WATER CONSERVATION SOCIETY",
+      "purpose": "MAKING RETAIL CONSERVATION REAL"
+    },
+    {
+      "amount": 10250.0,
+      "is_new": true,
+      "name": "BUILDING AFRICAN AMERICAN MINDS",
+      "purpose": "SUMMER CAMP PROGRAM"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ALLIANCE FOR JUSTICE",
+      "purpose": "BOLDER ADVOCACY"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "COMMUNITY ALLIANCE WITH FAMILY FARMERS FOUNDATION",
+      "purpose": "SALESFORCE ENHANCEMENTS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "DING DARLING WILDLIFE SOCIETY INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "EARTH ISLAND INSTITUTE",
+      "purpose": "CALIFORNIA I CAN"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "FIRST NATIONS DEVELOPMENT INSTITUTE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "MPT FOUNDATION INC",
+      "purpose": "MARYLAND FARM & HARVEST"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "TECH IMPACT",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "THE SIERRA FUND",
+      "purpose": "STAFF CAPACITY BUILDING TRAININGS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "WATERFRONT PARTNERSHIP OF BALTIMORE INC",
+      "purpose": "HEALTHY HARBOR FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "STAR OF THE SEA FOUNDATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "THE FUNDERS NETWORK INC",
+      "purpose": "URBAN WATER FUNDERS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "YMCA OF THE CHESAPEAKE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "AMERICAN ORFF-SCHULWERK ASSOCIATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ART WITH A HEART",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ORGANIC FARMING RESEARCH FOUNDATION",
+      "purpose": "HIGH IMPACT FUNDING AND DATA MANAGEMENT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "PIE RANCH",
+      "purpose": "PRACTICING SOLIDARITY AND JUSTICE AT PIE RANCH"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "WATERSIDE WORKSHOPS",
+      "purpose": "INCREASING YOUTH ACCESS TO COASTAL EXPERIENCES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "SOURCE LGBT CENTER INC",
+      "purpose": "PRIDE VISALIA"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "ARCADIA FOOD INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "HEAL THE BAY",
+      "purpose": "DEIJ CAPACITY BUILDING GRANT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "NORTH CASCADES INSTITUTE",
+      "purpose": "YOUTH LEADERSHIP ADVENTURES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "PENUMBRA THEATRE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "POWER52 INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "SAN DIEGO COASTKEEPER",
+      "purpose": "LAW AND MPA CONFERENCE ATTENDANCE"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "THE CULTURAL CONSERVANCY",
+      "purpose": "DATA COLLECTION AND EVALUATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "THE SIXTH BRANCH INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "THE VENETOULIS INSTITUTE FOR LOCAL JOURNALISM",
+      "purpose": "ENVIRONMENTAL REPORTING"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "THRIVE ASHEVILLE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "TRANSITIONAL YOUTH MOBILIZING FOR CHANGE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "WILDLIFE CONSERVATION NETWORK INC",
+      "purpose": "MISOOL FOUNDATION"
+    },
+    {
+      "amount": 9400.0,
+      "is_new": true,
+      "name": "LEADERSHIP MARYLAND INC",
+      "purpose": "EASTERN SHORE SESSION"
+    },
+    {
+      "amount": 9100.0,
+      "is_new": false,
+      "name": "THREAD",
+      "purpose": "THREAD DEIJ TRAINING"
+    },
+    {
+      "amount": 8700.0,
+      "is_new": false,
+      "name": "THE CHALLENGE PROGRAM",
+      "purpose": "CHALLENGE PROGRAM STAFF TRAINING"
+    },
+    {
+      "amount": 8600.0,
+      "is_new": false,
+      "name": "ORANGE COUNTY COASTKEEPER",
+      "purpose": "ENVIRONMENTAL LAW CONFERENCE AT YOSEMITE 2024"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "CENTER FOR AQUATIC SCIENCES",
+      "purpose": "BEYOND SCHOOL HOURS CONFERENCE 2025"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "GRANTMAKERS CONCERNED WITH IMMIGRANTS AND REFUGEES",
+      "purpose": "MEMBERSHIP DUES"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "WESTERN FLYER FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 6750.0,
+      "is_new": true,
+      "name": "FRESNOLAND MEDIA",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 6700.0,
+      "is_new": true,
+      "name": "CAMPESINAS UNIDAS DEL VALLE DE SANJOAQUIN",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 6500.0,
+      "is_new": true,
+      "name": "MONTEREY COASTKEEPER",
+      "purpose": "WEBSITE CONVERSION"
+    },
+    {
+      "amount": 6250.0,
+      "is_new": false,
+      "name": "VIRGINIA ORGANIZING INC",
+      "purpose": "MEMBERSHIP DUES - HEFN"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "BALTIMORE COMMUNITY TOOLBANK",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "CALIFORNIA COASTKEEPER",
+      "purpose": "TAX AND AUDIT PREP"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "CONSERVATION LANDS FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "KLAMATH-SISKIYOU WILDLANDS CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "NON-PROFIT TECHNOLOGY ENTERPRISE NETWORK",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "YMCA OF CENTRAL MARYLAND INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "HEYDAY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "TANDEM PARTNERS IN EARLY LEARNING",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "BRAVE TRAILS",
+      "purpose": "STAFF PROFESSIONAL DEVELOPMENT TRAININGS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "KENT ATTAINABLE HOUSING INC",
+      "purpose": "FINANCIAL SKILLS DEVELOPMENT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "RURAL COMMUNITY ASSISTANCE CORPORATION",
+      "purpose": "SAFE DRINKING WATER FOR CA RURAL COMMUNITIES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "SIERRA HARVEST",
+      "purpose": "COOPERATIVE BOARD LEADERSHIP DEVELOPMENT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "SMITH RIVER ALLIANCE INC",
+      "purpose": "TAX AND AUDIT PREP"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "FAIRMEAD COMMUNITY & FRIENDS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "JUSTICE OUTSIDE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "KEY WEST FILM SOCIETY INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "KEY WEST LITERARY SEMINAR INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "MOVEMENT STRATEGY CENTER",
+      "purpose": "ALLIANCE FOR FELIX COVE"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "VINECORPS INC",
+      "purpose": "CELL PHONES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "CHESAPEAKE MULTICULTURAL RESOURCE CENTER",
+      "purpose": "AFTER SCHOOL PROGRAM"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "CLIMATE FIRST REPLACING OIL & GAS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "FREE MIGRATION PROJECT",
+      "purpose": "PA IMMIGRATION AND CITIZENSHIP COALITION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "GAMELAN SEKAR JAYA",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "OLIVEWOOD GARDENS & LEARNING CENTER INC",
+      "purpose": "OLIVEWOOD TEAM DEI & BELONGING TRAININGS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "PINELANDS PRESERVATION ALLIANCE INC",
+      "purpose": "IN MEMORIAM OF PAT STUNTZ"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "REDWOOD PARKS CONSERVANCY",
+      "purpose": "REDWOOD CORPS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "SAVE THE BAY",
+      "purpose": "STATE OF THE ESTUARY CONFERENCE"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "THE STUDIOS OF KEY WEST",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 4850.0,
+      "is_new": false,
+      "name": "FOREVER MARYLAND",
+      "purpose": "MD LAND CONSERVATION CONFERENCE"
+    },
+    {
+      "amount": 4400.0,
+      "is_new": true,
+      "name": "WISHTOYO FOUNDATION",
+      "purpose": "TAX AND AUDIT PREP"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": false,
+      "name": "MAX AND MARION CALDWELL FOUNDATION",
+      "purpose": "CAMPERSHIPS"
+    },
+    {
+      "amount": 3300.0,
+      "is_new": false,
+      "name": "HOWARD ECOWORKS INC",
+      "purpose": "ECOWORKS PROFESSIONAL DEVELOPMENT"
+    },
+    {
+      "amount": 3025.0,
+      "is_new": false,
+      "name": "MARYLAND ONSITE WASTEWATER PROFESSIONALS ASSN",
+      "purpose": "SEPTIC CURRICULUM - ENTRY LEVEL PROFESSIONAL"
+    },
+    {
+      "amount": 2600.0,
+      "is_new": true,
+      "name": "MARIN CONSERVATION LEAGUE",
+      "purpose": "TAX AND AUDIT PREP"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "TEN STRANDS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "REGENERATIVE ORGANIC ALLIANCE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "JESSE KLUMP MEMORIAL FUND INC",
+      "purpose": "ECO-THERAPY ADVENTURE CAMP 2024"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "MIDDLEBURY NEW FILMMAKERS FESTIVAL",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2100.0,
+      "is_new": true,
+      "name": "FARM FOUNDATION",
+      "purpose": "MEMBERSHIP DUES"
+    },
+    {
+      "amount": 1350.0,
+      "is_new": true,
+      "name": "AMERICAN SOCIETY OF AGRONOMY INC",
+      "purpose": "MACCA CROP SCHOOL RECEPTION"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "NATURAL RESOURCES ALL FAMILIES FOUNDATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "STEVENSON UNIVERSITY",
+      "purpose": "ENVIRONMENTAL SCIENCE EDUCATION"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "TECHNOLOGY ASSOCIATION OF GRANTMAKERS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "SJV WATER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "ODC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "SEDONA CHAMBER MUSIC SOCIETY INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF MARYLAND COLLEGE PARK FOUNDATION INC",
+      "purpose": "SALT CONFERENCE"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "UPSTREAM ALLIANCE",
+      "purpose": "PAT STUNTZ MEMORIAL"
+    },
+    {
+      "amount": 850.0,
+      "is_new": false,
+      "name": "HOURGLASS FOUNDATION",
+      "purpose": "MEMBERSHIP DUES"
+    },
+    {
+      "amount": 800.0,
+      "is_new": false,
+      "name": "GREATER RUXTON AREA FOUNDATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 600.0,
+      "is_new": false,
+      "name": "CNATURENET",
+      "purpose": "MEMBERSHIP DUES"
+    },
+    {
+      "amount": 575.0,
+      "is_new": false,
+      "name": "COMMUNITY FOUNDATION OF ANNE ARUNDEL COUNTY INC",
+      "purpose": "ANNE ARUNDEL WOMEN GIVING TOGETHER"
+    },
+    {
+      "amount": 515.0,
+      "is_new": true,
+      "name": "SHANDS TEACHING HOSPITAL AND CLINICS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "THE FILM COLLABORATIVE",
+      "purpose": "THE D-WORD"
+    },
+    {
+      "amount": 420.0,
+      "is_new": false,
+      "name": "PLAN INTERNATIONAL USA INC",
+      "purpose": "SUPPORT FOR CHILDREN"
+    },
+    {
+      "amount": 300.0,
+      "is_new": false,
+      "name": "MARYLAND FOOD BANK INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 300.0,
+      "is_new": false,
+      "name": "GRAND PERFORMANCES",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 255.0,
+      "is_new": true,
+      "name": "NATIONAL NETWORK OF ABORTION FUNDS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 250.0,
+      "is_new": true,
+      "name": "MARTHA'S TABLE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 250.0,
+      "is_new": false,
+      "name": "PLEIADES NETWORK INC",
+      "purpose": "MEMBERSHIP DUES"
+    },
+    {
+      "amount": 250.0,
+      "is_new": true,
+      "name": "BLACKS OF THE CHESAPEAKE FOUNDATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 250.0,
+      "is_new": true,
+      "name": "COMMUNITY ACTION PARTNERSHIP OF LANCASTER COUNTY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 250.0,
+      "is_new": true,
+      "name": "EASTERN SHORE AREA HEALTH EDUCATION CENTER INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 250.0,
+      "is_new": true,
+      "name": "FRIENDSHIP PLACE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 250.0,
+      "is_new": true,
+      "name": "HOMELESS CHILDREN'S PLAYTIME PROJECT",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 250.0,
+      "is_new": true,
+      "name": "IFNOTNOW EDUCATION FUND",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 250.0,
+      "is_new": true,
+      "name": "MEDICI ROAD",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 250.0,
+      "is_new": true,
+      "name": "MUSIC FOR EVERYONE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 250.0,
+      "is_new": true,
+      "name": "NEW ISRAEL FUND",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 250.0,
+      "is_new": true,
+      "name": "SALISBURY UNIVERSITY FOUNDATION INC",
+      "purpose": "FULTON SCHOOL OF LIBERAL ARTS"
+    },
+    {
+      "amount": 250.0,
+      "is_new": true,
+      "name": "SHORE UP INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 250.0,
+      "is_new": true,
+      "name": "THE GIVING SQUARE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 250.0,
+      "is_new": true,
+      "name": "THRIVE DC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 250.0,
+      "is_new": true,
+      "name": "VEHICLES FOR CHANGE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 250.0,
+      "is_new": true,
+      "name": "WANDA ALSTON FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 200.0,
+      "is_new": true,
+      "name": "FOLDS OF HONOR FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 200.0,
+      "is_new": true,
+      "name": "JAPANESE AMERICAN NATIONAL MUSEUM",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 175.0,
+      "is_new": false,
+      "name": "GIRLS ON THE RUN OF THE GREATER CHESAPEAKE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 175.0,
+      "is_new": true,
+      "name": "EVOLVE KIDSCARE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 160.0,
+      "is_new": true,
+      "name": "THE CRAYON INITIATIVE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 155.0,
+      "is_new": true,
+      "name": "DC ABORTION FUND",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 150.0,
+      "is_new": false,
+      "name": "NATIONAL MULTIPLE SCLEROSIS SOCIETY",
+      "purpose": "BIKE MS: CHESAPEAKE CHALLENGE 2024"
+    },
+    {
+      "amount": 150.0,
+      "is_new": true,
+      "name": "AYUDA",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 150.0,
+      "is_new": true,
+      "name": "COMMUNITY FOUNDATION OF GREATER JOHNSTOWN",
+      "purpose": "R. JOHN DAWES CLEAN WATER FUND"
+    },
+    {
+      "amount": 105.0,
+      "is_new": false,
+      "name": "ANNAPOLIS POLICE FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100.0,
+      "is_new": false,
+      "name": "GUIDING EYES FOR THE BLIND INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100.0,
+      "is_new": false,
+      "name": "LUTHERVILLE VOLUNTEER FIRE COMPANY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100.0,
+      "is_new": true,
+      "name": "COMPASS REGIONAL HOSPICE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100.0,
+      "is_new": true,
+      "name": "DC JUSTICE LAB",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100.0,
+      "is_new": true,
+      "name": "DC THEATER ARTS COLLABORATIVE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100.0,
+      "is_new": true,
+      "name": "HOMES NOT BORDERS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100.0,
+      "is_new": true,
+      "name": "WASHINGTON AREA BICYCLIST ASSOCIATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100.0,
+      "is_new": true,
+      "name": "WE ARE FAMILY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100.0,
+      "is_new": true,
+      "name": "WHITE ASH BROADCASTING INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 77.0,
+      "is_new": true,
+      "name": "PLAYANNAPOLIS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50.0,
+      "is_new": false,
+      "name": "OTSEGO-SCHOHARIE AND DELAWARE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50.0,
+      "is_new": false,
+      "name": "PTA CALIFORNIA CONGRESS OF PARENTS TEACHERS & STUDENTS INC",
+      "purpose": "HIKE-A-THON 2024"
+    },
+    {
+      "amount": 50.0,
+      "is_new": true,
+      "name": "ARLINGTON CENTER FOR THE ARTS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50.0,
+      "is_new": true,
+      "name": "HIAS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 42.0,
+      "is_new": true,
+      "name": "JOHNS HOPKINS UNIVERSITY",
+      "purpose": "ALUMNI ASSOCIATION FUND"
+    },
+    {
+      "amount": 40.0,
+      "is_new": true,
+      "name": "FEEDING AMERICA",
+      "purpose": "GENERAL SUPPORT"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "REFER TO THE FOUNDATION'S WEBSITE, WWW.CAMPBELLFOUNDATION.ORG, FOR GUIDANCE.",

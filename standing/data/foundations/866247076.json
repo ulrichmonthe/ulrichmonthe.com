@@ -48,6 +48,2000 @@
     "singleton_cluster_share": 0.3636,
     "total_grant_records": 2666
   },
+  "recipients_latest_year": [
+    {
+      "amount": 1070000.0,
+      "is_new": false,
+      "name": "The Roman Catholic Diocese of Phoenix",
+      "purpose": "A CEO Discretionary grant to support the Newman Center in Flagstaff, Arizona in honor of Fr Matt Lowry"
+    },
+    {
+      "amount": 1050000.0,
+      "is_new": false,
+      "name": "Boys & Girls Clubs of the Valley",
+      "purpose": "Support Strategic Growth Plan (Piper Fellows Organizational Enhancement Award)"
+    },
+    {
+      "amount": 885000.0,
+      "is_new": false,
+      "name": "A New Leaf",
+      "purpose": "A Trustee Advised grant to support general homelessness assistance services, given in recognition of Craig Tribken's legacy of community leadership"
+    },
+    {
+      "amount": 761000.0,
+      "is_new": false,
+      "name": "Maricopa County Community College District Foundation",
+      "purpose": "A Trustee Advised grant for the Darcy Renfro Memorial Scholarship for Workforce and Public Policy(ID4624-1)"
+    },
+    {
+      "amount": 755000.0,
+      "is_new": false,
+      "name": "Creighton University",
+      "purpose": "A Trustee Advised grant for general support in memory of Laura Grafman"
+    },
+    {
+      "amount": 700000.0,
+      "is_new": false,
+      "name": "Southwest Human Development",
+      "purpose": "Deliver Social-Emotional and Family Engagement Program to early educators"
+    },
+    {
+      "amount": 610000.0,
+      "is_new": false,
+      "name": "Valleywise Health Foundation",
+      "purpose": "A Trustee Advised grant to honor Lia Christiansen for her leadership in managing the development and opening of the new hospital"
+    },
+    {
+      "amount": 600000.0,
+      "is_new": false,
+      "name": "Child Crisis Arizona",
+      "purpose": "Support construction of new Center for Child & Family Wellness (Capital Campaign)"
+    },
+    {
+      "amount": 505000.0,
+      "is_new": false,
+      "name": "Tempe Community Action Agency Inc",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 503500.0,
+      "is_new": false,
+      "name": "Desert Botanical Garden",
+      "purpose": "An employee matching grant to provide general support"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "Arizona Autism United",
+      "purpose": "Expand programmatic access and services"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "The Translational Genomics Research Institute (TGen)",
+      "purpose": "Advance scientific evidence for early cancer detection models"
+    },
+    {
+      "amount": 494500.0,
+      "is_new": true,
+      "name": "AllThrive 365",
+      "purpose": "A Trustee Advised grant for the \"Hope in Motion\" breakfast, given in honor of Tami Bohannon"
+    },
+    {
+      "amount": 482120.0,
+      "is_new": false,
+      "name": "Arizona State University Foundation",
+      "purpose": "An employee matching grant to provide general support for Arizona PBS"
+    },
+    {
+      "amount": 430000.0,
+      "is_new": false,
+      "name": "Arizona Community Foundation",
+      "purpose": "To support the Arizona Climate Smart Economic Development Fund (76560)"
+    },
+    {
+      "amount": 425000.0,
+      "is_new": false,
+      "name": "Catholic Education Arizona",
+      "purpose": "Support new Changing Lives Division"
+    },
+    {
+      "amount": 420000.0,
+      "is_new": false,
+      "name": "Hospice of the Valley",
+      "purpose": "A Trustee Advised grant for general support"
+    },
+    {
+      "amount": 397500.0,
+      "is_new": false,
+      "name": "Western Spirit Scottsdale's Museum of the West",
+      "purpose": "A Trustee Advised grant to provide general support"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "Stardust Non-Profit Building Supplies Inc",
+      "purpose": "Build capacity to launch in-kind distribution services"
+    },
+    {
+      "amount": 336100.0,
+      "is_new": false,
+      "name": "Society of St Vincent de Paul",
+      "purpose": "A CEO Discretionary grant to fund the writing of a book about the Piper Pallotta project"
+    },
+    {
+      "amount": 330000.0,
+      "is_new": false,
+      "name": "Dignity Health Foundation East Valley",
+      "purpose": "Support construction of Women's and Children's Pavilion (Capital Campaign)"
+    },
+    {
+      "amount": 323500.0,
+      "is_new": false,
+      "name": "Tides Center",
+      "purpose": "Support Maricopa County nonprofits in Listen4Good"
+    },
+    {
+      "amount": 315000.0,
+      "is_new": false,
+      "name": "Arizona Jewish Historical Society",
+      "purpose": "Support creation of the Holocaust education center and gallery (Capital Campaign)"
+    },
+    {
+      "amount": 311000.0,
+      "is_new": false,
+      "name": "Catholic Charities Community Services",
+      "purpose": "A Trustee Advised grant to support general operating needs of the MANA House program in recognition of Ms Rachel Masch-Perez, Community Engagement Coordinator"
+    },
+    {
+      "amount": 292500.0,
+      "is_new": false,
+      "name": "Rosie's House A Music Academy for Children",
+      "purpose": "A Trustee Advised grant to provide general support"
+    },
+    {
+      "amount": 275173.0,
+      "is_new": false,
+      "name": "Southwest Autism Research & Resource Center",
+      "purpose": "A Trustee Advised grant to provide general support"
+    },
+    {
+      "amount": 275000.0,
+      "is_new": false,
+      "name": "United Food Bank",
+      "purpose": "Build Fundraising Capacity"
+    },
+    {
+      "amount": 260000.0,
+      "is_new": false,
+      "name": "Lutheran Social Services of the Southwest",
+      "purpose": "A Trustee Advised grant to provide general support"
+    },
+    {
+      "amount": 255000.0,
+      "is_new": false,
+      "name": "UMOM New Day Centers",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "New Life Center",
+      "purpose": "Renovate emergency shelter units (Capital Project)"
+    },
+    {
+      "amount": 246000.0,
+      "is_new": true,
+      "name": "Arizona Lions Vision and Hearing Foundation of Multiple District 21",
+      "purpose": "Expand children's vision treatment access"
+    },
+    {
+      "amount": 241608.0,
+      "is_new": false,
+      "name": "Childsplay Inc",
+      "purpose": "An employee matching grant to provide general support"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": false,
+      "name": "Arizona Theatre Company",
+      "purpose": "Build Fundraising and Marketing Capacity"
+    },
+    {
+      "amount": 215000.0,
+      "is_new": false,
+      "name": "Banner Health Foundation",
+      "purpose": "A Trustee Advised grant for the capital campaign and in honor of Peter Fine for his incredible leadership upon his retirement"
+    },
+    {
+      "amount": 215000.0,
+      "is_new": false,
+      "name": "Phoenix Art Museum",
+      "purpose": "Build Fundraising Capacity"
+    },
+    {
+      "amount": 200341.0,
+      "is_new": false,
+      "name": "SOUNDS Academy",
+      "purpose": "A staff giving grant to provide general support"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "Friends of the Children",
+      "purpose": "Establish Friends of the Children Youth Mentoring Program in Maricopa County"
+    },
+    {
+      "amount": 196500.0,
+      "is_new": false,
+      "name": "Xico Inc",
+      "purpose": "A CEO Discretionary grant to provide general support"
+    },
+    {
+      "amount": 185000.0,
+      "is_new": false,
+      "name": "Musical Instrument Museum",
+      "purpose": "Build Fundraising Capacity"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "Jazz in Arizona Inc",
+      "purpose": "Expand program capacity (Capital Project)"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "Valley of the Sun YMCA",
+      "purpose": "Expand healthy living program"
+    },
+    {
+      "amount": 162500.0,
+      "is_new": false,
+      "name": "Human Services Campus Inc",
+      "purpose": "Support increased financial capacity for homelessness prevention and homelessness services"
+    },
+    {
+      "amount": 161000.0,
+      "is_new": false,
+      "name": "Sonoran University of Health Sciences",
+      "purpose": "Support leadership development and educational programs for Tracy Lindbergh's Piper Fellowship"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "Open Hearts",
+      "purpose": "Build Fundraising Capacity"
+    },
+    {
+      "amount": 145000.0,
+      "is_new": false,
+      "name": "Camp Catanese Foundation",
+      "purpose": "Strengthen fundraising capacity"
+    },
+    {
+      "amount": 140000.0,
+      "is_new": false,
+      "name": "Maggie's Place",
+      "purpose": "Build Fundraising Capacity"
+    },
+    {
+      "amount": 140000.0,
+      "is_new": false,
+      "name": "Candelen",
+      "purpose": "Build Fundraising Capacity"
+    },
+    {
+      "amount": 130000.0,
+      "is_new": false,
+      "name": "The Salvation Army",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 127500.0,
+      "is_new": false,
+      "name": "Aster Aging Inc",
+      "purpose": "Expand outreach for older adult program offerings"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "Herberger Theater Center",
+      "purpose": "Build Fundraising Capacity"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "G Road",
+      "purpose": "Build Fundraising Capacity"
+    },
+    {
+      "amount": 107500.0,
+      "is_new": false,
+      "name": "one-n-ten",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 106000.0,
+      "is_new": true,
+      "name": "Grand Canyon Council BSA",
+      "purpose": "Build Fundraising Capacity"
+    },
+    {
+      "amount": 105000.0,
+      "is_new": false,
+      "name": "Jewish Family and Children's Service",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 105000.0,
+      "is_new": true,
+      "name": "Gompers",
+      "purpose": "Establish older adult community center"
+    },
+    {
+      "amount": 105000.0,
+      "is_new": true,
+      "name": "Justa Center Inc",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 104000.0,
+      "is_new": false,
+      "name": "Barrow Neurological Foundation",
+      "purpose": "A Trustee Advised grant to support Alzheimer's research"
+    },
+    {
+      "amount": 103500.0,
+      "is_new": false,
+      "name": "Rehoboth Community Development Corporation",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Hushabye Nursery",
+      "purpose": "Build Fundraising Capacity"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Make Way for Books",
+      "purpose": "Support strategic organizational enhancements (ATLAS Nonprofit Strength and Endurance)"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Zion Institute",
+      "purpose": "Build Fundraising Capacity"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Grace Sober Living",
+      "purpose": "Build Fundraising Capacity"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Mindfulness First",
+      "purpose": "Build Fundraising Capacity"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Arizona Community Action Association Inc",
+      "purpose": "Support emergency heat relief efforts"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Foothills Caring Corps Inc",
+      "purpose": "Enhance and expand volunteer program serving older adults"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Raza Development Fund Inc",
+      "purpose": "Support workforce housing impact fund"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Touchstone Health Services",
+      "purpose": "Provide preventative infant/early childhood behavioral health services"
+    },
+    {
+      "amount": 92500.0,
+      "is_new": false,
+      "name": "Central Arizona Shelter Services",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 88210.0,
+      "is_new": true,
+      "name": "Televerde Foundation",
+      "purpose": "Expand case management and training program"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "Act One",
+      "purpose": "Support Arts and Culture Forward Program"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "Phoenix Rescue Mission",
+      "purpose": "A Trustee advised grant to provide general support"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "idea Museum",
+      "purpose": "Support Arts and Culture Forward Program"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "Family Involvement Center",
+      "purpose": "Expand Parents for Parents peer support program"
+    },
+    {
+      "amount": 78500.0,
+      "is_new": true,
+      "name": "Arizona Kosher Food Pantry",
+      "purpose": "Support Arizona Kosher Food Pantry"
+    },
+    {
+      "amount": 76500.0,
+      "is_new": false,
+      "name": "Black Theatre Troupe Inc",
+      "purpose": "Honorarium: To provide general support, in honor of David J Hemphill, Piper Conversations panelist"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Phoenix Conservatory of Music",
+      "purpose": "Support Arts and Culture Forward Program"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Arizona Pet Project",
+      "purpose": "Expand services to homebound older adults"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "The Matthew 1914 Project",
+      "purpose": "Build Fundraising Capacity"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "Arizona Ecumenical Council",
+      "purpose": "Support emergency heat relief efforts"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "Independent Sector",
+      "purpose": "Design and pilot strategic engagement program for volunteers"
+    },
+    {
+      "amount": 72500.0,
+      "is_new": false,
+      "name": "Elaine",
+      "purpose": "Build Fundraising Capacity"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "Chicanos Por La Causa Inc",
+      "purpose": "Holiday Grant for vulnerable older adults & Florence Crittenton Services of Arizona"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "Fountain Hills Theater Inc",
+      "purpose": "Support Arts and Culture Forward Program"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "Mesa Arts Center Foundation",
+      "purpose": "Support Arts and Culture Forward Program"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "Southwest Shakespeare Company",
+      "purpose": "Support Arts and Culture Forward Program"
+    },
+    {
+      "amount": 64300.0,
+      "is_new": false,
+      "name": "Mesa Unified School District No 4",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "First Place AZ",
+      "purpose": "A Trustee Advised grant to provide general support"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "Homeless Youth Connection Inc",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "Neighbors Who Care Inc",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "Raising Special Kids",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 51500.0,
+      "is_new": false,
+      "name": "Foundation for Blind Children",
+      "purpose": "Honorarium: To provide general support, in honor of Marc D Ashton, Piper Conversations panelist"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Adelante Healthcare",
+      "purpose": "Implement organization professional development program (Piper Fellows Organizational Enhancement Award)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Greasepaint Youtheatre",
+      "purpose": "Support Arts and Culture Forward Program"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Musical Theatre of Anthem",
+      "purpose": "Support Arts and Culture Forward Program"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Valley Leadership",
+      "purpose": "Support Pivot Toward Impact programming extension"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "St John Paul II Catholic High School",
+      "purpose": "Implement communication/mission advancement program (Piper Fellows Organizational Enhancement Award)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Dsquared Homes for the Homeless",
+      "purpose": "Support efforts to prevent homelessness"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MentorKids USA",
+      "purpose": "Expand Promise Neighborhood mentoring program in Maryvale"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "Center for Civil Society",
+      "purpose": "A CEO Discretionary grant to fund the writing of a book about the Piper Pallotta project"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "World Central Kitchen Inc",
+      "purpose": "Support Hurricane Helene Relief ($25,000) and Hurricane Milton Relief ($25,000)"
+    },
+    {
+      "amount": 47000.0,
+      "is_new": false,
+      "name": "Spaces of Opportunity",
+      "purpose": "Launch nutrition pilot program for youth"
+    },
+    {
+      "amount": 46300.0,
+      "is_new": false,
+      "name": "Washington Elementary School District No 6",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "Artlink Inc",
+      "purpose": "Support Arts and Culture Forward Program"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "CALA Alliance",
+      "purpose": "Support Arts and Culture Forward Program"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "Phoenix Chamber Music Society",
+      "purpose": "Support Arts and Culture Forward Program"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "Phoenix Chorale",
+      "purpose": "Support Arts and Culture Forward Program"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "West Valley Arts Council",
+      "purpose": "Support Arts and Culture Forward Program"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "Down Syndrome Network Inc",
+      "purpose": "Support leadership development and educational programs for Jennifer O'Connell's Piper Fellowship"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "East Valley Children's Theatre",
+      "purpose": "Support Arts and Culture Forward Program"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "Theater Works",
+      "purpose": "Support leadership development and educational programs for Christopher Hamby's Piper Fellowship"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "Arizona Educational Foundation Inc",
+      "purpose": "Support leadership development and educational programs for Kim Graham's Piper Fellowship"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "House of Refuge Inc",
+      "purpose": "Support leadership development and educational programs for Kayla Kolar's Piper Fellowship"
+    },
+    {
+      "amount": 36800.0,
+      "is_new": false,
+      "name": "Cartwright Elementary School District No 83",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 31600.0,
+      "is_new": false,
+      "name": "Philanthropy Southwest",
+      "purpose": "Support for 2025 Membership Dues (January 1, 2024 - December 31, 2025)"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "Drake University",
+      "purpose": "A Trustee Advised grant designation as follows: $2,500 for the Annual Alumni Fund; $2,500 for the Law School Scholarship Fund; $25,000 for the Darling Institute Scholarship Fund"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "Arizona Citizens for the Arts",
+      "purpose": "Implement \"creative economy\" strategic plan"
+    },
+    {
+      "amount": 29900.0,
+      "is_new": false,
+      "name": "Glendale Elementary School District No 40",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 28500.0,
+      "is_new": false,
+      "name": "Diana Gregory Outreach Services",
+      "purpose": "Expand Gregory's Fresh Market services"
+    },
+    {
+      "amount": 27500.0,
+      "is_new": false,
+      "name": "Ville de Marie Academy",
+      "purpose": "A CEO Discretionary grant to provide general support"
+    },
+    {
+      "amount": 27000.0,
+      "is_new": false,
+      "name": "Catholic Community Foundation",
+      "purpose": "A Trustee Advised grant to support the John Paul II Resource Center"
+    },
+    {
+      "amount": 26000.0,
+      "is_new": false,
+      "name": "Society of St Vincent de Paul Council of the United States",
+      "purpose": "An employee matching grant for the R59 Leadership appeal"
+    },
+    {
+      "amount": 25900.0,
+      "is_new": false,
+      "name": "Peoria Unified School District No 11",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Arizona Women's Board",
+      "purpose": "Support annual Authors Luncheon"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "HonorHealth Foundation",
+      "purpose": "Underwriting for The HonorBall 2025"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "University of Illinois Foundation",
+      "purpose": "A Trustee Advised grant to support Urbana Champaign Department of Political Science restricted to the A Belden Fields Award for Excellence in Undergraduate Teaching"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Franciscan School of Theology",
+      "purpose": "A Trustee Advised grant for scholarships"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Arizona Diamondbacks Foundation Inc",
+      "purpose": "Honorarium: To provide general support in honor of Derrick Hall, Piper Conversations guest"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Million Dollar Teacher Project",
+      "purpose": "Support Community Impact"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "American Journalism Project Inc",
+      "purpose": "Support Arizona Journalism Assessment"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Arizona Trans Youth and Parent Organization",
+      "purpose": "A staff giving grant to provide general support"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Artists for Community Transformation Intl Inc",
+      "purpose": "Support Community Impact through Song Sight Music Mentoring Retreat"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Back-To-School Clothing Drive Association",
+      "purpose": "Support Community Impact"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Be Kind People Project Foundation",
+      "purpose": "Support Community Impact"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Cihuapactli Collective",
+      "purpose": "Support Community Impact"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "ElevateMeD",
+      "purpose": "Support Community Impact"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Tepeyac Leadership Initiative",
+      "purpose": "Support Community Impact"
+    },
+    {
+      "amount": 23700.0,
+      "is_new": false,
+      "name": "Alhambra Elementary School District No 68",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 23600.0,
+      "is_new": false,
+      "name": "Roosevelt School District No 66",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 21000.0,
+      "is_new": false,
+      "name": "Third Sector New England Inc",
+      "purpose": "Support for Early Childhood Funders Collaborative (January 1, 2025 - December 31, 2025)"
+    },
+    {
+      "amount": 21000.0,
+      "is_new": true,
+      "name": "SMU Data Arts",
+      "purpose": "Support DataArts collaborative tools and trainings"
+    },
+    {
+      "amount": 19900.0,
+      "is_new": false,
+      "name": "Phoenix Elementary School District No 1",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 19000.0,
+      "is_new": false,
+      "name": "Council on Foundations",
+      "purpose": "Support for 2025 Membership Dues (February 1, 2025 - January 31, 2026)"
+    },
+    {
+      "amount": 18600.0,
+      "is_new": false,
+      "name": "Pendergast Elementary School District No 92",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 17500.0,
+      "is_new": false,
+      "name": "Circle the City",
+      "purpose": "A Trustee Advised Grant to provide general support"
+    },
+    {
+      "amount": 17300.0,
+      "is_new": false,
+      "name": "Isaac School District No 5",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 16600.0,
+      "is_new": false,
+      "name": "Tempe Elementary School District No 3",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 16400.0,
+      "is_new": false,
+      "name": "Paradise Valley Unified School District No 69",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 16100.0,
+      "is_new": false,
+      "name": "Laveen Elementary School District No 59",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 16000.0,
+      "is_new": false,
+      "name": "Dysart Unified School District No 89",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 16000.0,
+      "is_new": true,
+      "name": "Our Lady of Perpetual Help Catholic Parish",
+      "purpose": "A Trustee Advised grant in honor of Fr Greg Schlarb for his upcoming sabbatical to Rome in 2025"
+    },
+    {
+      "amount": 15900.0,
+      "is_new": false,
+      "name": "Creighton School District No 14",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 15500.0,
+      "is_new": false,
+      "name": "The Phoenix Symphony",
+      "purpose": "A Trustee Advised grant to support school trips to the Symphony programs"
+    },
+    {
+      "amount": 15200.0,
+      "is_new": false,
+      "name": "Chandler Unified School District No 80",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Baylor University",
+      "purpose": "A Trustee Advised grant in memory of Linda Hunt Bunnell, for the Texas Collection"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Cultural Coalition Inc",
+      "purpose": "A staff giving grant to provide general support for the Mask Alive exhibit and workspace"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Lawrence University",
+      "purpose": "A Trustee Advised grant to support the Conservatory of Music, Dayton F Grafman Scholarship"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Littleton Elementary School District No 65",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "Young Nonprofit Professionals Network Phoenix",
+      "purpose": "Support Community Impact"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": false,
+      "name": "Sisters of Life",
+      "purpose": "An employee matching grant to provide general support"
+    },
+    {
+      "amount": 11700.0,
+      "is_new": false,
+      "name": "Buckeye Elementary School District No 33",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 11500.0,
+      "is_new": false,
+      "name": "Fowler Elementary School District No 45",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 11000.0,
+      "is_new": false,
+      "name": "Adirondack Foundation",
+      "purpose": "A CEO Discretionary grant in honor of Craig and Connie Weatherup"
+    },
+    {
+      "amount": 10600.0,
+      "is_new": false,
+      "name": "Deer Valley Unified School District No 97",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Arizona Health Care Foundation",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Center for the Future of Arizona",
+      "purpose": "A Trustee Advised grant to provide general support"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Duet Partners in Health & Aging",
+      "purpose": "A staff giving grant to provide general support"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Great Hearts Academies",
+      "purpose": "A CEO Discretionary grant in honor of Brandon Crowe"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Mission of Mercy-Arizona",
+      "purpose": "A Trustee Advised grant to provide general support"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "NourishPHX",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Phoenix Public Library Foundation",
+      "purpose": "A Trustee Advised grant to the College Depot, Burton Barr Library in recognition of the 15th Anniversary of College Depot"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "International Rescue Committee (Arizona Chapter)",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Goldensun Peace Ministries",
+      "purpose": "A Trustee Advised grant to support developmentally disabled adults in Glendale and west Phoenix"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "University of Chicago",
+      "purpose": "A Trustee Advised grant to provide general support for the University of Chicago Law School"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Life Perspectives",
+      "purpose": "A Trustee Advised grant in recognition of CEO Dr Michaelene Fredenburg's selection by San Diego Magazine as \"2024 Pioneer of the Year\" for her groundbreaking work to support those suffering from the very personal and far-too-often unacknowledged grief that follows reproductive loss"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "Coalition of Blacks Against Cancer",
+      "purpose": "Support Community Impact"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "National Church Residences",
+      "purpose": "Holiday Grant for Memorial Towers Senior Apartments (Phoenix, AZ)"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "Samaritan's Purse",
+      "purpose": "A Trustee Advised grant to support the disaster relief efforts in North Carolina and Florida"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "Sleep in Heavenly Peace Inc - Phoenix",
+      "purpose": "Support Community Impact"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "The Charro Foundation",
+      "purpose": "A Trustee Advised grant to support the educational scholarship program"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "Xavier College Preparatory Roman Catholic High School Phoenix",
+      "purpose": "A Trustee Advised grant to provide general support"
+    },
+    {
+      "amount": 9500.0,
+      "is_new": false,
+      "name": "Avondale Elementary School District No 44",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 9200.0,
+      "is_new": false,
+      "name": "Tolleson Elementary School District No 17",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 8500.0,
+      "is_new": true,
+      "name": "The Welcome to America Project",
+      "purpose": "A Trustee Advised grant to provide general support"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": false,
+      "name": "Neighborhood Ministries Inc",
+      "purpose": "A Trustee Advised grant to support the art project and other needs for Summer Kids Camp 2024"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "AZCEND",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "Ability360",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "Andre House of Arizona Inc",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "Area Agency on Aging Region One Incorporated",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "Mercy Housing Southwest",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "Native American Connections Inc",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "Paz de Cristo Community Center",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "Hesston College",
+      "purpose": "A Trustee Advised grant to the Department of Music in honor of the teaching career of Kenneth L Rodgers"
+    },
+    {
+      "amount": 7100.0,
+      "is_new": false,
+      "name": "Scottsdale Unified School District No 48",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 7000.0,
+      "is_new": false,
+      "name": "American Near East Refugee Aid Inc",
+      "purpose": "A trustee advised grant to be used for the partnership with ASU to provide education services and opportunities in underserved regions"
+    },
+    {
+      "amount": 6700.0,
+      "is_new": false,
+      "name": "Murphy Elementary School District No 21",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 6500.0,
+      "is_new": false,
+      "name": "University of Dallas",
+      "purpose": "A CEO Discretionary grant to provide general support"
+    },
+    {
+      "amount": 6500.0,
+      "is_new": true,
+      "name": "Southern Methodist University",
+      "purpose": "A Trustee Advised grant for the Department of Civil and Environmental Engineering Chair's Discretionary Fund"
+    },
+    {
+      "amount": 5800.0,
+      "is_new": false,
+      "name": "Union Elementary School District No 62",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 5500.0,
+      "is_new": false,
+      "name": "Grantmakers in Aging",
+      "purpose": "Support for 2025 Membership Dues (January 1, 2025 - December 31, 2025)"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "About Care Inc",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Arizona Department of Veterans' Services",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Arizona Housing Inc",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Arizona Recreation Center for the Handicapped",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Arizona School for the Arts",
+      "purpose": "A Trustee Advised grant to provide general support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Arizona Science Center",
+      "purpose": "A Trustee Advised grant to support the Focused Field Trip initiative serving Title I schools"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Chandler Gilbert Arc",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "City of Phoenix Human Services Department",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Civitan Foundation Inc",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Community Bridges Inc",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Free Arts for Abused Children of Arizona",
+      "purpose": "A staff giving grant to provide general support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Lifewell Behavioral Wellness",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Marc Community Resources Inc",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "New Pathways for Youth",
+      "purpose": "A Trustee Advised grant to provide general support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "One Step Beyond Inc",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Phoenix Zoo",
+      "purpose": "A Trustee Advised grant to support ZooReach scholarships"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Sandra Day O'Connor Institute",
+      "purpose": "A Trustee Advised grant for general support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Scottsdale Community Partners",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Scottsdale Training & Rehabilitation Services Inc",
+      "purpose": "Holiday Grant for the Osborn Campus"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Technical Assistance Partnership of Arizona",
+      "purpose": "Honorarium: To support the American Nonprofit Academy Foundation in honor of Julia Patrick, Piper Fellows 2024 Judge"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "The Centers for Habilitation",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "The Opportunity Tree",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "United States Veterans Initiative",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "VALLEYLIFE",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Wesley Community & Health Centers",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Equestrian Order of the Holy Sepulchre of Jerusalem",
+      "purpose": "A Trustee Advised grant to support the Hospitality Center at the 2024 Annual Meeting"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "American Cancer Society",
+      "purpose": "A Trustee Advised grant to support the 2025 West Valley Relay for Life and in honor of Janice Procter-Murphy's service to support the event"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "American Red Cross Arizona and New Mexico Region",
+      "purpose": "A staff giving grant for the Los Angeles Regional Office to support those impacted by the California wildfires"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Arizona Hispanic Chamber of Commerce Foundation Corporation",
+      "purpose": "A Trustee Advised grant for the Emerging Business Leaders Initiative Scholarship Fund"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Catholic Charities USA",
+      "purpose": "A Trustee Advised grant for Hurricane Helene Disaster Relief efforts"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Crohn's & Colitis Foundation Inc",
+      "purpose": "A Trustee Advised grant to support the Arizona Chapter in honor of Board Member Wendy Johnson for her dedication to improving the quality of life of children and adults affected by Crohn's disease and ulcerative colitis"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Oral Educational Opportunities for the Hearing Impaired",
+      "purpose": "A staff giving grant to provide general support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "United States Naval Academy Foundation Inc",
+      "purpose": "A Trustee Advised grant to support the \"Experiential Leadership Development\" program"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Benchmark School Inc",
+      "purpose": "A staff giving grant to support physical security system installation and enhancement for school entry points"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Boys & Girls Clubs of Scottsdale",
+      "purpose": "A Trustee Advised grant to provide general support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Care 4 the Caregivers",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "East Valley Hispanic Chamber of Commerce Foundation LLC",
+      "purpose": "A Trustee Advised grant to provide general support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Education Forward Arizona",
+      "purpose": "Honorarium: To provide general support in honor of Edmundo Hidalgo, Piper Fellows 2024 Judge"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Goshen College Inc",
+      "purpose": "A Trustee Advised grant to support the Connected Cause"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Liberty Wildlife Inc",
+      "purpose": "A Trustee Advised grant to provide general support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "The University of Arizona Foundation",
+      "purpose": "A Trustee Advised grant to provide general support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Boyce Thompson Arboretum",
+      "purpose": "A Trustee Advised grant for general support in honor of Gema Duarte Luna's service on the board"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Colorado Academy",
+      "purpose": "A Trustee Advised grant to provide general support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Creutzfeldt-Jakob Disease Foundation Inc",
+      "purpose": "A staff giving grant for the \"Kelsey Slugocki in Memory of Colleen Berg\" fund"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "First United Methodist Church of Phoenix",
+      "purpose": "A Trustee Advised grant restricted to support the musical arts program"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "International Women's Forum",
+      "purpose": "A staff giving grant to provide general support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Kansas University Endowment Association",
+      "purpose": "A Trustee Advised grant for School of Public Affairs and Administration, KUCIMAT Expendable Fund (11396) for developing future city leaders"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "LA Frontera Mariachi Conference Inc",
+      "purpose": "A Trustee Advised grant to provide general support in honor of Executive Board Member John Aldecoa's service"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Latina Dance Project",
+      "purpose": "A staff giving grant to be designated for the BlakTinx Dance Festival in Phoenix, AZ"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Mennonite Disaster Service",
+      "purpose": "A Trustee Advised grant to support Hurricane Helene relief in North Carolina and the southern United States"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "National Council of Jewish Women Arizona",
+      "purpose": "Honorarium: To support Ruth's Place in honor of Darlene Newsom, Piper Fellows 2024 Judge"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Pawsitive Friendships",
+      "purpose": "A Trustee Advised Grant to provide general support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Serving Hands International",
+      "purpose": "A Trustee Advised grant to provide general support, given in honor of Co-Founder Mr Terry Caster on the occasion of his 94th birthday on April 2, 2024"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Special Olympics Arizona",
+      "purpose": "A Trustee Advised grant to provide general support in honor of Board Member David Funkhouser III for his commendable efforts to provide training and athletic opportunities to children and adults with intellectual disabilities"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "The Singletons",
+      "purpose": "A staff giving grant to provide general support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Veterans Community Project",
+      "purpose": "A Trustee Advised grant to support the Glendale Veterans Village project to house homeless veterans, in recognition of the leadership of Mayor Jerry Weiers"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Yuma Union High School District #70",
+      "purpose": "A staff giving grant for the Yuma High School Boys' Soccer Team"
+    },
+    {
+      "amount": 4700.0,
+      "is_new": false,
+      "name": "Osborn School District No 8",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 3600.0,
+      "is_new": false,
+      "name": "Balsz Elementary School District No 31",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 3600.0,
+      "is_new": false,
+      "name": "Gilbert Unified School District No 41",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 3600.0,
+      "is_new": false,
+      "name": "Liberty Elementary School District No 25",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": false,
+      "name": "Asian Pacific Community in Action",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": false,
+      "name": "Benevilla",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": false,
+      "name": "Foothills Food Bank",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": false,
+      "name": "Friendly House Inc",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": false,
+      "name": "Helping Hands for Single Moms",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": false,
+      "name": "Lura Turner Homes Inc",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": false,
+      "name": "Saddle Mountain Unified School District No 90",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": false,
+      "name": "Arizona Legal Women and Youth Services",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": false,
+      "name": "Advance Community",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": false,
+      "name": "Activate Food Arizona",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": false,
+      "name": "Creighton Community Foundation Inc",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": true,
+      "name": "Agua Fria Food and Clothing Bank Inc",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": true,
+      "name": "The Worker",
+      "purpose": "Holiday Grant"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "Downtown Phoenix Partnership Inc",
+      "purpose": "A Trustee Advised unrestricted grant to support the great work you do"
+    },
+    {
+      "amount": 2750.0,
+      "is_new": false,
+      "name": "PEAK Grantmaking",
+      "purpose": "Support for 2025 Membership Dues (January 1, 2025-December 31, 2025)"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "50th Street Girl and Boy Scout Youth Program",
+      "purpose": "A CEO Discretionary grant in honor of Orlando Epting"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "Benedictine College",
+      "purpose": "A Trustee Advised grant for general operating and maintenance needs"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "Scottsdale Artists' School Inc",
+      "purpose": "A Trustee Advised grant for unrestricted use"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "The Communications Network",
+      "purpose": "General Support (January 1, 2025 - December 31, 2025)"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "Lake View Foundation",
+      "purpose": "A Trustee Advised grant to be used for furnishings for the Community Center project"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "Gabriel Project Inc",
+      "purpose": "A Trustee Advised grant to provide general support"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "Calling Song Ministries Charitable Trust",
+      "purpose": "A CEO Discretionary grant to provide general support in honor of the Sikorra family"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "Be Better Be Different Legacy Foundation",
+      "purpose": "A Trustee Advised grant in honor of Phil Beckner for where needed most"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "Honor Flight Arizona",
+      "purpose": "A Trustee Advised grant to recognize the special care and respect for Veterans through their Honor Flight program"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "Kirabo Seeds",
+      "purpose": "A Trustee Advised grant to support the ministry for foster children in Uganda in recognition of the leadership of Jim King"
+    },
+    {
+      "amount": 2400.0,
+      "is_new": false,
+      "name": "Litchfield Elementary School District No 79",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 2400.0,
+      "is_new": false,
+      "name": "Nadaburg Unified School District No 81",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 2300.0,
+      "is_new": false,
+      "name": "Madison Elementary School District No 38",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 2300.0,
+      "is_new": false,
+      "name": "Wilson Elementary School District No 7",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "Arizona Humane Society",
+      "purpose": "A Trustee Advised grant to support the Circle of Friends"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "Crosier Village of Phoenix",
+      "purpose": "A Trustee Advised grant for general operating and maintenance needs"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "IRise Foundation",
+      "purpose": "A Trustee Advised grant for the First Lego League Robotics Regional at Chandler High on December 7, 2024 ($1,000) and First Native American Lego League Robotics Regional at Skyline Gila River High School on December 14, 2024 ($1,000)"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "Soles 2 Souls",
+      "purpose": "A Trustee Advised grant to recognize the spirited leadership of Brophy College Prep Class of '24 Graduates and co-founders Jake Krotonsky and Alec Bansal"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": false,
+      "name": "Girl Scouts-Arizona Cactus-Pine Council Inc",
+      "purpose": "Honorarium: To provide general support, in honor of Mary L Mitchell, Piper Conversations panelist"
+    },
+    {
+      "amount": 1200.0,
+      "is_new": false,
+      "name": "Aguila Elementary School District No 63",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 1200.0,
+      "is_new": false,
+      "name": "Arlington Elementary School District No 47",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 1200.0,
+      "is_new": false,
+      "name": "Gila Bend Unified School District No 24",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 1200.0,
+      "is_new": false,
+      "name": "Kyrene School District No 28",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 1200.0,
+      "is_new": false,
+      "name": "Mobile Elementary School District No 86",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 1200.0,
+      "is_new": false,
+      "name": "Morristown Elementary School District No 75",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 1200.0,
+      "is_new": false,
+      "name": "Palo Verde Elementary School District No 49",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 1200.0,
+      "is_new": false,
+      "name": "Paloma Elementary School District No 94",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 1200.0,
+      "is_new": false,
+      "name": "Riverside Elementary School District No 2",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 1200.0,
+      "is_new": false,
+      "name": "Sentinel Elementary School District No 71",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 1200.0,
+      "is_new": false,
+      "name": "Wickenburg Unified School District No 9",
+      "purpose": "Provide back-to-school resources that support education access for students in need"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "Boys Hope Girls Hope of Arizona",
+      "purpose": "A Trustee Advised grant to provide general support in honor of long-time Executive Director and Piper Fellow Amy Pfieffer, and in recognition of her steadfast leadership and invaluable contributions made to the organization"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "Kino Border Initiative Inc",
+      "purpose": "A Trustee Advised grant to support the March 2024 dinner"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "Mount St Scholastica",
+      "purpose": "A Trustee Advised grant for general operating and maintenance needs"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "Brophy College Preparatory",
+      "purpose": "A Trustee Advised grant to support the power breakfast"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "Historical League Inc",
+      "purpose": "A Trustee Advised grant to support students attending the Arizona National History Day Program"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "Scottsdale Historical Society Inc",
+      "purpose": "A Trustee Advised grant for general operating support"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "Shoreline Community Services",
+      "purpose": "A Trustee Advised grant to provide general support, given in honor of Veronica \"Gigi\" de Marie"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "Scottsdale Chamber Foundation Inc",
+      "purpose": "A Trustee Advised grant to support the 29th Annual Scottsdale History Hall of Fame Dinner"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "St Martins Academy Inc",
+      "purpose": "An employee matching grant to provide general support"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "University of Mary",
+      "purpose": "An employee matching grant to be designated for Mary College at ASU"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "Children's Cancer Network",
+      "purpose": "A Trustee Advised grant in honor of long-time volunteers Mary Kay and Pat Flynn"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "EENU-USA Inc",
+      "purpose": "A Trustee Advised grant to support E3 Africa where needed most in honor of the vision and leadership of Fr Robert Aliunzi, Co-Founder & Board Member"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "Helen's Hope Chest",
+      "purpose": "A Trustee Advised grant for general operating needs in honor of volunteer Janelle McNemar"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "North Valley Chorale",
+      "purpose": "A Trustee Advised grant for general support in recognition of vocal performers Sarah Smith and Shannon Barrett as well as appreciation of the special service provided by usher Jerry Williamson"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "NorthBridge College Success Program",
+      "purpose": "A Trustee Advised grant to support the fundraising breakfast"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "Simon Says Theatre",
+      "purpose": "A Trustee Advised grant to provide general support in honor of Director, AJ Flores"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "The Community Foundation of Western North Carolina",
+      "purpose": "A Trustee Advised Grant for the Emergency and Disaster Response Fund"
+    },
+    {
+      "amount": 971.0,
+      "is_new": false,
+      "name": "Technology Association of Grantmakers",
+      "purpose": "Support for 2025 Membership Dues (March 16, 2025 - March 15, 2026)"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "Arizona Opera",
+      "purpose": "An employee matching grant to provide general support"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "Ballet Arizona",
+      "purpose": "An employee matching grant to provide general support in honor of Mary Ann Luciano"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "Friends of Public Radio Arizona",
+      "purpose": "An employee matching grant to provide general support"
+    },
+    {
+      "amount": 250.0,
+      "is_new": false,
+      "name": "Be A Leader Foundation",
+      "purpose": "An employee matching grant to be designated for March Madness Scholarship fund"
+    },
+    {
+      "amount": 200.0,
+      "is_new": false,
+      "name": "Phonetic Spit",
+      "purpose": "An employee matching grant to provide general support"
+    },
+    {
+      "amount": 89.0,
+      "is_new": false,
+      "name": "Make-A-Wish Foundation of Arizona Inc",
+      "purpose": "An employee matching grant to provide general support"
+    },
+    {
+      "amount": 64.0,
+      "is_new": false,
+      "name": "Wikimedia Foundation Inc",
+      "purpose": "An employee matching grant to provide general support"
+    },
+    {
+      "amount": 25.0,
+      "is_new": true,
+      "name": "Dog Ranch Rescue",
+      "purpose": "An employee matching grant to provide general support"
+    },
+    {
+      "amount": 25.0,
+      "is_new": true,
+      "name": "The Rotary Club of Sacramento Foundation",
+      "purpose": "An employee matching grant to provide general support for Sacramento Children's Home Crisis Nursery"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "Grantees are encouraged to talk to a program officer before submitting a Letter of Inquiry (LOI). The Letter of Inquiry (LOI) should describe the project - addressing its impact, effectiveness, feasibility, and sustainability. After review of the inquiry, organizations may be invited to submit a full proposal for consideration. Please refer to \"What Makes a Strong Proposal\" on the Trust's website (www.pipertrust.org). For assistance with the application process, email Angelica Gonzalez, Program Associate at agonzalez@pipertrust.org or call at 480-948-5853.",

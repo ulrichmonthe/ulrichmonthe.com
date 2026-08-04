@@ -50,6 +50,20 @@
     "singleton_cluster_share": 0.9091,
     "total_grant_records": 15
   },
+  "recipients_latest_year": [
+    {
+      "amount": 6869866.0,
+      "is_new": false,
+      "name": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
+      "purpose": "TO SUPPORT THE MISSION OF THE RECIPIENT ORGANIZATION. . Description: 33,984 shares Apple Inc . Book value: $622,635.43 . Method used to determine the book value: specific identification . Method used to determine the FMV: JP Morgan bank statements . Date of the contribution: 6/25/2025"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "Milken Institute",
+      "purpose": "To support the mission of the recipient organization"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

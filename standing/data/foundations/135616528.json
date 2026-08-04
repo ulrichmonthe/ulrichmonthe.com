@@ -48,6 +48,488 @@
     "singleton_cluster_share": 0.1849,
     "total_grant_records": 436
   },
+  "recipients_latest_year": [
+    {
+      "amount": 3759322.0,
+      "is_new": false,
+      "name": "The Clark Foundation Scholarship Program",
+      "purpose": "SCHOLARSHIPS"
+    },
+    {
+      "amount": 1500000.0,
+      "is_new": false,
+      "name": "The Clara Welch Thanksgiving Home",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1500000.0,
+      "is_new": true,
+      "name": "Cooperstown Fire Department",
+      "purpose": "REPLACEMENT OF AERIAL LADDER TRUCK"
+    },
+    {
+      "amount": 870000.0,
+      "is_new": false,
+      "name": "Fenimore Art Museum",
+      "purpose": "GENERAL OPERATING SUPPORT, SPECIAL INITIATIVE, & CAPITAL SUPPORT"
+    },
+    {
+      "amount": 475000.0,
+      "is_new": false,
+      "name": "Goddard Riverside Community Center",
+      "purpose": "GENERAL OPERATING SUPPORT & GENERAL SUPPORT FOR #DEGREES NYC"
+    },
+    {
+      "amount": 450000.0,
+      "is_new": false,
+      "name": "New Visions for Public Schools",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 450000.0,
+      "is_new": false,
+      "name": "Uncommon Schools Inc",
+      "purpose": "GENERAL OPERATING SUPPORT FOR NYC SCHOOLS"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "City Harvest Inc",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "New York City Charter School Center",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 348000.0,
+      "is_new": false,
+      "name": "The Mary Imogene Bassett Hospital",
+      "purpose": "SCHOOL-BASED HEALTH PROGRAM"
+    },
+    {
+      "amount": 325000.0,
+      "is_new": false,
+      "name": "Bowery Residents' Committee Inc",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "East Side House Settlement",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "Women In Need Inc",
+      "purpose": "GENERAL OPERATING SUPPORT AND PROJECT SUPPORT FOR LEAD INITIATIVE"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": true,
+      "name": "College for Every StudentBrilliant Pathways",
+      "purpose": "SUPPORT FOR LEATHERSTOCKING CONSORTIUM"
+    },
+    {
+      "amount": 280000.0,
+      "is_new": true,
+      "name": "Fenimore Farm & Country Village",
+      "purpose": "GENERAL OPERATING SUPPORT & SPECIAL INITIATIVE"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "Graham Windham",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "Lawyers Alliance for New York",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "Lenox Hill Neighborhood House",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "New York Cares Inc",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "Per Scholas Inc",
+      "purpose": "GENERAL OPERATING SUPPORT FOR NYC PROGRAMS"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "Safe Horizon",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "Sanctuary for Families",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "The Children's Village",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "The Fortune Society",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "The Urban Assembly",
+      "purpose": "GENERAL OPERATING SUPPORT FOR NYC PROGRAMS"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "Urban Pathways",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "Food Bank for New York City",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "Glimmerglass Festival",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "The Children's Aid Society",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "The Jewish Board of Family & Children's Services",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": false,
+      "name": "Grand Street Settlement",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": false,
+      "name": "Human Services Council of New York City Inc",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "CAMBA Inc",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "Queens Community House",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "SCO Family of Services",
+      "purpose": "GENERAL OPERATING SUPPORT FOR NYC PROGRAMS"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "The Studio in a School Association Inc",
+      "purpose": "GENERAL OPERATING SUPPORT FOR NYC PROGRAMS"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "Center for Employment Opportunities",
+      "purpose": "GENERAL OPERATING SUPPORT FOR NYC PROGRAMS"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "Neighborhood Trust Financial Partners",
+      "purpose": "GENERAL OPERATING SUPPORT FOR NYC PROGRAMS"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "Center for Justice Innovation (Formerly Center for Court Innovation)",
+      "purpose": "GENERAL OPERATING SUPPORT FOR NYC PROGRAMS"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "Student Leadership Network",
+      "purpose": "COLLEGE BOUND INITIATIVE"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "Ascendus",
+      "purpose": "GENERAL OPERATING SUPPORT FOR NYC PROGRAMS"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "Henry Street Settlement",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "Sunnyside Community Services",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "Paraprofessional Healthcare Institute",
+      "purpose": "GENERAL OPERATING SUPPORT FOR NYC PROGRAMS"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "Coalition for the Homeless Inc",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "Family Legal Care",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "Jacob A Riis Neighborhood Settlement",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "The DreamYard Project Inc",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "Harlem RBIDREAM",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "Center for an Urban Future",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "Hudson Guild",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "Support Center for Nonprofit Management",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "The New York Immigration Coalition",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "Youth Represent Inc",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "SeaChange Capital Partners",
+      "purpose": "GENERAL OPERATING SUPPORT AND PROJECT SUPPORT FOR NYMAC"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "Madison Square Boys & Girls Club Foundation",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 120000.0,
+      "is_new": false,
+      "name": "Advocates for Children of New York",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 105000.0,
+      "is_new": false,
+      "name": "The Brookwood School",
+      "purpose": "GENERAL OPERATING SUPPORT & SUPPORT TO REPLACE AND INSTALL NEW FLOORING"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Bard College",
+      "purpose": "GENERAL OPERATING SUPPORT FOR NYC'S BARD HIGH SCHOOL EARLY COLLEGES"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Cypress Hills Local Development Corporation Inc",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Exalt Youth",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Hospital for Special Surgery",
+      "purpose": "BIOMECHANICS RESEARCH"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "New York Association of Training and Employment Professionals",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Rethink Food",
+      "purpose": "GENERAL OPERATING SUPPORT FOR NYC PROGRAMS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "The Knowledge House",
+      "purpose": "GENERAL OPERATING SUPPORT FOR NYC PROGRAMS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Arbor Brothers Inc (dba Arbor Rising)",
+      "purpose": "GENERAL OPERATING SUPPORT FOR NYC PROGRAMS"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": true,
+      "name": "State University of New York at Oneonta Foundation Corporation",
+      "purpose": "GENERAL OP. SUPPORT FOR BIOLOGICAL FIELD STATION AND TESTING AND MONITORING OF HARMFUL ALGAE BLOOMS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Nonprofit New York",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Nontraditional Employment for Women",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "The Opportunity Network of New York Inc",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Comprehensive Youth Development Inc",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "Columbia University Columbia Business School Tamer Center Executive Educat",
+      "purpose": "SCHOLARSHIPS FOR NONPROFIT EXECUTIVE EDUCATION"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "The New York State Trooper Foundation Inc",
+      "purpose": "K-9 TRAINING PROGRAM"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": true,
+      "name": "United Way of Mid-Rural New York",
+      "purpose": "THE HUNGER COALITION OF OTSEGO COUNTY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Civic Builders",
+      "purpose": "GENERAL OPERATING SUPPORT FOR NYC PROJECTS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Family Planning of South Central New York Inc",
+      "purpose": "GENERAL OPERATING SUPPORT FOR OTSEGO COUNTY OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "The United Methodist City Society",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Advocacy Institute",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "Columbia University Vagelos College of Physicians & Surgeons",
+      "purpose": "SEVERINGHAUS FUND"
+    },
+    {
+      "amount": 10350.0,
+      "is_new": false,
+      "name": "Village of Cooperstown",
+      "purpose": "BEAUTIFICATION PROGRAM CONTEST"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "LETTER REQUEST. GRANT REQUEST MUST INCLUDE AUDIT, BUDGET, AND PROOF OF EXEMPTION",

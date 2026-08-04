@@ -48,6 +48,770 @@
     "singleton_cluster_share": 0.4728,
     "total_grant_records": 658
   },
+  "recipients_latest_year": [
+    {
+      "amount": 3462391.0,
+      "is_new": false,
+      "name": "Redding City of",
+      "purpose": "City of Redding Block 7 HCD/AHSC Funding"
+    },
+    {
+      "amount": 1588581.0,
+      "is_new": false,
+      "name": "Turtle Bay Exploration Park",
+      "purpose": "OPERATING SUPPORT FOR CALENDAR YEAR 2024, SUSTAINABILITY GARDENS - SITE MAINTENANCE 2024, MEMBERSHIPS, ANNUAL AUCTION\""
+    },
+    {
+      "amount": 1094994.0,
+      "is_new": false,
+      "name": "Shasta Regional Community Foundation",
+      "purpose": "Operating Support for Occupancy Expenses 1335 Arboretum Drive, Suite B (2023-2025) ($77,028) Operating Support 2022-2026 ($193,375), The McConnell Fund at the Community Foundation of the North State 2024 ($742,500), Giving Tuesday 2024 ($70,091), & In Honor of Bill Cox's retirement from The McConnell Foundation Board of Directors after 12 years of service ($12,000)."
+    },
+    {
+      "amount": 617000.0,
+      "is_new": false,
+      "name": "Shasta College Foundation",
+      "purpose": "2014 ($4,221), 2019 ($150), 2020 ($4,000), 2021 ($2,000), 2022 ($7,500), 2023 ($10,500), & 2024 ($23,250) McConnell Scholars & Gateway to College"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "Siskiyou County Job Council",
+      "purpose": "Yreka Carnegie Library Rehabilitation Project"
+    },
+    {
+      "amount": 453000.0,
+      "is_new": false,
+      "name": "Shasta County Office of Education",
+      "purpose": "Pathways to Success: Integrating Community Schools and Cradle to Career Initiatives in the North State"
+    },
+    {
+      "amount": 403000.0,
+      "is_new": false,
+      "name": "Natural Resource Conflict Transformation Center - Nepal (NRCTC)",
+      "purpose": "Phase VIII: Peace for Prosperity Natural Resource Conflict Transformation Project: Global Platform III"
+    },
+    {
+      "amount": 350926.0,
+      "is_new": false,
+      "name": "Shasta Living Streets",
+      "purpose": "Block 7 HCD/AHSC Funding Build Capacity and Scale Sustainable Programs for a Bikeable-Walkable Downtown Occupancy-Rent and Utility Subsidy"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "College OPTIONS Inc",
+      "purpose": "College and Career Options 2022-2023 and 2024-2026"
+    },
+    {
+      "amount": 340779.0,
+      "is_new": false,
+      "name": "Viva Downtown Redding",
+      "purpose": "Butte Street Revitalization-Rent & Utility Subsidy 2023-2025 ($172,779) Butte Street Revitalization-Operating Grant 2022-2025 ($75,000), & Viva Downtown Place-Making ($93,000)"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "The Asia Foundation",
+      "purpose": "Community-based River Basin Management - Phase II"
+    },
+    {
+      "amount": 267880.0,
+      "is_new": false,
+      "name": "Mahila Shakti Bikash Kendra Nepal (MSBKN)",
+      "purpose": "Rural Women's Leadership Development Project: Phase VII"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "California State Grange Foundation",
+      "purpose": "Ono Grange Rebuild Project"
+    },
+    {
+      "amount": 211250.0,
+      "is_new": false,
+      "name": "Advance Redding",
+      "purpose": "Civic Auditorium Lighting"
+    },
+    {
+      "amount": 150831.0,
+      "is_new": false,
+      "name": "California State University Chico",
+      "purpose": "2017 ($5,631), 2018 ($1,309), 2019 ($18,820), 2020 ($10,317), 2021 ($23,329), 2022 ($31,809), 2023 ($38,955), and 2024 ($20,662) McConnell Scholars"
+    },
+    {
+      "amount": 103140.0,
+      "is_new": false,
+      "name": "United Way of Northern California",
+      "purpose": "Micro Shelter Community Hygiene Facilities Building Bridges Initiative-Equity Fund"
+    },
+    {
+      "amount": 100750.0,
+      "is_new": false,
+      "name": "Redding Fashion Alliance Incorporated",
+      "purpose": "Activation and Community Engagement ($100,000) & Support The Fashion Show Gala ($750)"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "IUCN International Union for Conservation Of Nature & Natural Resources",
+      "purpose": "Lao Ecology Small Grant Program - Phase II"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": false,
+      "name": "Henry L Stimson Center",
+      "purpose": "Early Warning System for Debris Floods in Nepal-Phase II"
+    },
+    {
+      "amount": 68418.0,
+      "is_new": false,
+      "name": "University of California Davis",
+      "purpose": "2019 ($19,136), 2020 ($10,034), 2021($20,261), 2023 ($10,737), & 2024 McConnell Scholars ($8,250)"
+    },
+    {
+      "amount": 51621.0,
+      "is_new": false,
+      "name": "Shasta College",
+      "purpose": "2014, 2019-2024 McConnell Scholars & Gateway to College"
+    },
+    {
+      "amount": 41896.0,
+      "is_new": false,
+      "name": "California Polytechnic State University Humboldt",
+      "purpose": "2022 ($20,500), 2023 ($500), & 2024 McConnell Scholars ($20,896)"
+    },
+    {
+      "amount": 41835.0,
+      "is_new": false,
+      "name": "Shasta County Young Men's Christian Association",
+      "purpose": "Healthy Shasta Partnership 2023-2025 ($36,000), 2024 Annual Campaign ($4,500), Camp McCumber Sponsorship ($585), & General Support ($750)"
+    },
+    {
+      "amount": 39425.0,
+      "is_new": false,
+      "name": "Mercy Foundation North",
+      "purpose": "Matching Gifts"
+    },
+    {
+      "amount": 37329.0,
+      "is_new": false,
+      "name": "California State University Sacramento",
+      "purpose": "2019 ($15,000), 2021 ($13,250), 2022 ($7,500), and 2023 ($1,579) McConnell Scholars"
+    },
+    {
+      "amount": 29125.0,
+      "is_new": false,
+      "name": "National University",
+      "purpose": "2020 ($8,500) & 2022 ($20,625) McConnell Scholars"
+    },
+    {
+      "amount": 29023.0,
+      "is_new": false,
+      "name": "JPR Foundation",
+      "purpose": "Cascade Theatre Grand Drape and Handrails ($24,223), general support ($1,800), Sponsor Percy Jackson Musical ($750), Sponsor Parmatee September 19, 2024 ($75), Cascade Theatre Green Room painting ($750), & Jefferson Live! dba The Cascade Theatre ($750)"
+    },
+    {
+      "amount": 27838.0,
+      "is_new": false,
+      "name": "University of California Santa Barbara",
+      "purpose": "2020 ($5,170), 2021 ($19,668), & 2024 McConnell Scholars ($3,000)"
+    },
+    {
+      "amount": 25916.0,
+      "is_new": false,
+      "name": "Oklahoma State University",
+      "purpose": "2021 ($3,750) & 2022 ($3,750) McConnell Scholars"
+    },
+    {
+      "amount": 23750.0,
+      "is_new": false,
+      "name": "Butte Community College",
+      "purpose": "2023 ($20,000) & 2024 ($3,750) McConnell Scholars"
+    },
+    {
+      "amount": 20375.0,
+      "is_new": false,
+      "name": "Shasta Land Trust",
+      "purpose": "Sustainable Agricultural Land Conservation Capacity and Project Development Grant Match, staffing, building capacity"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "Nepal Youth Foundation",
+      "purpose": "Educating Dalit Lawyers Project"
+    },
+    {
+      "amount": 16109.0,
+      "is_new": false,
+      "name": "University of California Merced",
+      "purpose": "2022 ($7,500) & 2023 McConnell Scholars ($8,609)"
+    },
+    {
+      "amount": 15667.0,
+      "is_new": false,
+      "name": "University of California Los Angeles",
+      "purpose": "2021 ($11,667) & 2023 ($4,000) McConnell Scholars"
+    },
+    {
+      "amount": 15500.0,
+      "is_new": false,
+      "name": "College of the Redwoods",
+      "purpose": "2022 ($6,500) & 2023 ($9,000) McConnell Scholars"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "University of San Diego School of Law",
+      "purpose": "2020 McConnell Scholars"
+    },
+    {
+      "amount": 13900.0,
+      "is_new": false,
+      "name": "University of Nevada Reno",
+      "purpose": "2022 ($6,400) & 2024 ($7,500) McConnell Scholars"
+    },
+    {
+      "amount": 12644.0,
+      "is_new": false,
+      "name": "University of California Berkeley",
+      "purpose": "2021 ($2,111), 2023 ($3,500) & 2024 ($7,033) McConnell Scholars"
+    },
+    {
+      "amount": 11090.0,
+      "is_new": false,
+      "name": "University of California Santa Cruz",
+      "purpose": "2021 ($9,924) & 2023 ($1,166) McConnell Scholars"
+    },
+    {
+      "amount": 10868.0,
+      "is_new": false,
+      "name": "California Polytechnic State University Pomona",
+      "purpose": "2022 McConnell Scholars"
+    },
+    {
+      "amount": 10800.0,
+      "is_new": true,
+      "name": "Oceana",
+      "purpose": "Unrestricted funds"
+    },
+    {
+      "amount": 10608.0,
+      "is_new": true,
+      "name": "M SHAPIRO",
+      "purpose": "2019 McConnell Scholars"
+    },
+    {
+      "amount": 10500.0,
+      "is_new": true,
+      "name": "Mount Shasta",
+      "purpose": "IN-KIND DONATION TO MT. SHASTA FIRE DEFT"
+    },
+    {
+      "amount": 10324.0,
+      "is_new": false,
+      "name": "Southern Oregon University",
+      "purpose": "2020 McConnell Scholars"
+    },
+    {
+      "amount": 9580.0,
+      "is_new": false,
+      "name": "Shasta Women's Refuge",
+      "purpose": "Unrestricted funds, At their discretion"
+    },
+    {
+      "amount": 9479.0,
+      "is_new": false,
+      "name": "Sonoma State University",
+      "purpose": "2019 ($2,229), 2020 ($750), 2022 ($3,500), & 2024 McConnell Scholars ($3,000)"
+    },
+    {
+      "amount": 9144.0,
+      "is_new": false,
+      "name": "Truckee Meadows Community College",
+      "purpose": "2022 McConnell Scholars"
+    },
+    {
+      "amount": 8826.0,
+      "is_new": false,
+      "name": "California State University Northridge",
+      "purpose": "2020 ($3,750) & 2024 ($5,076) McConnell Scholars"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": false,
+      "name": "California State University Fresno",
+      "purpose": "2018 McConnell Scholars"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": true,
+      "name": "Kent State University",
+      "purpose": "Support for Open Access to \"Functional Coexistence is Socio-political Conflict: Enabling Social Change Across Decades\""
+    },
+    {
+      "amount": 8000.0,
+      "is_new": true,
+      "name": "Tulelake Cornerstone Senior Advocacy",
+      "purpose": "FOOD DONATIONS"
+    },
+    {
+      "amount": 7988.0,
+      "is_new": false,
+      "name": "Haven Humane Society",
+      "purpose": "Doggie Dash and Putt 4 Paws ($300), Bark, Wine & Brew Sponsorship ($938), Misty Lee Fund ($4,500), & Haven Holidays ($2,250)"
+    },
+    {
+      "amount": 7695.0,
+      "is_new": false,
+      "name": "University of California San Diego",
+      "purpose": "2022 ($4,412) & 2023 ($3,283) McConnell Scholars"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "California State University Fullerton",
+      "purpose": "2021 McConnell Scholars"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "California State University Monterey Bay",
+      "purpose": "2023 McConnell Scholars"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "Lassen Community College",
+      "purpose": "2019 McConnell Scholars"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "San Jose State University",
+      "purpose": "2022 McConnell Scholars"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "University of Portland",
+      "purpose": "2023 McConnell Scholars"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "California State University Long Beach",
+      "purpose": "2022 McConnell Scholars"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "Dartmouth College",
+      "purpose": "2022 McConnell Scholars"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "Tarleton State University",
+      "purpose": "2022 McConnell Scholars"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "University of Nevada Las Vegas",
+      "purpose": "2023 McConnell Scholars"
+    },
+    {
+      "amount": 7450.0,
+      "is_new": false,
+      "name": "Mendocino College",
+      "purpose": "2022 McConnell Scholars"
+    },
+    {
+      "amount": 6978.0,
+      "is_new": false,
+      "name": "SHASTA SENIOR NUTRITION PROGRAM",
+      "purpose": "FOOD DONATIONS"
+    },
+    {
+      "amount": 6755.0,
+      "is_new": false,
+      "name": "Empire Hotel Eharc Inc DBA EMPIRE RECOVERY CENTER",
+      "purpose": "FOOD DONATIONS"
+    },
+    {
+      "amount": 6659.0,
+      "is_new": false,
+      "name": "Alternatives to Violence DBA Empower Tehama",
+      "purpose": "FOOD DONATIONS"
+    },
+    {
+      "amount": 6600.0,
+      "is_new": false,
+      "name": "Arizona State University",
+      "purpose": "2021 McConnell Scholars"
+    },
+    {
+      "amount": 6500.0,
+      "is_new": false,
+      "name": "California Polytechnic State University San Luis Obispo",
+      "purpose": "2019 ($2,500) & 2024 ($4,000) McConnell Scholars"
+    },
+    {
+      "amount": 6168.0,
+      "is_new": false,
+      "name": "Shasta Women's Refuge DBA ONE SAFE PLACE",
+      "purpose": "FOOD DONATIONS"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "Shasta Historical Society",
+      "purpose": "Underwriting for \"A Taste of History\", Membership & General Support, General Support"
+    },
+    {
+      "amount": 5950.0,
+      "is_new": false,
+      "name": "Oregon Institute of Technology",
+      "purpose": "2022 McConnell Scholars"
+    },
+    {
+      "amount": 5801.0,
+      "is_new": false,
+      "name": "GREAT NORTHERN SERVICES",
+      "purpose": "FOOD DONATIONS"
+    },
+    {
+      "amount": 5709.0,
+      "is_new": false,
+      "name": "TRINITY COUNTY FOOD ASSISTANCE PROGRAM",
+      "purpose": "FOOD DONATIONS"
+    },
+    {
+      "amount": 5644.0,
+      "is_new": false,
+      "name": "NORCAL OUTREACH",
+      "purpose": "FOOD DONATIONS"
+    },
+    {
+      "amount": 5423.0,
+      "is_new": false,
+      "name": "ANDERSON COTTONWOOD CHRISTIAN ASSISTANCE",
+      "purpose": "FOOD DONATIONS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Linn-Benton Community College",
+      "purpose": "2024 McConnell Scholars"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Boston Conservatory at Berklee",
+      "purpose": "2021 McConnell Scholars"
+    },
+    {
+      "amount": 4220.0,
+      "is_new": true,
+      "name": "W Garcia",
+      "purpose": "2020 McConnell Scholars"
+    },
+    {
+      "amount": 3750.0,
+      "is_new": false,
+      "name": "San Diego State University",
+      "purpose": "2021 McConnell Scholars"
+    },
+    {
+      "amount": 3750.0,
+      "is_new": false,
+      "name": "University of Puget Sound",
+      "purpose": "2023 McConnell Scholars"
+    },
+    {
+      "amount": 3723.0,
+      "is_new": false,
+      "name": "Kinetic Universe",
+      "purpose": "General funds"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "Childrens Legacy Center",
+      "purpose": "General Support"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "Girls Incorporated of the Northern Sacramento Valley",
+      "purpose": "September 21 gala sponsorship."
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "Axiom Repertory Theatre",
+      "purpose": "Sponsor Shakespeare play \"As You Like It\""
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "Dignity Health-Connected Living",
+      "purpose": "C1- Congregate Meals"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "Native Roots Network",
+      "purpose": "Be*le Bo*m Land Back Initiative"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "Siskiyou Family YMCA",
+      "purpose": "Siskiyou Volleyball"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "Anderson Historical Society and Museum",
+      "purpose": "In-kind donation of Antique Wagon"
+    },
+    {
+      "amount": 2355.0,
+      "is_new": false,
+      "name": "North State Public Radio NSPR",
+      "purpose": "General Support ($375) & Unrestricted funds ($1,980)"
+    },
+    {
+      "amount": 2255.0,
+      "is_new": true,
+      "name": "Western Governors University",
+      "purpose": "2023 McConnell Scholars"
+    },
+    {
+      "amount": 2250.0,
+      "is_new": false,
+      "name": "California Humanities",
+      "purpose": "General Support"
+    },
+    {
+      "amount": 2025.0,
+      "is_new": false,
+      "name": "Rotary Club of Redding Charitable Foundation",
+      "purpose": "Gary Burks Scholarship Fund ($750), Tickets for haunted house to be given to Children's Legacy ($375), & $100 to the club; balance due on Paul Harris; the rest to the permenment endowment ($900)"
+    },
+    {
+      "amount": 1800.0,
+      "is_new": false,
+      "name": "Acorn Community Enterprises",
+      "purpose": "general support"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": false,
+      "name": "North State Symphony",
+      "purpose": "General Support"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": true,
+      "name": "Yreka Ponytail Softball",
+      "purpose": "Jaxx Softball"
+    },
+    {
+      "amount": 1200.0,
+      "is_new": true,
+      "name": "Casa de Love Animal Rescue",
+      "purpose": "General Support"
+    },
+    {
+      "amount": 900.0,
+      "is_new": true,
+      "name": "Boy Scouts Of America Golden Empire Council",
+      "purpose": "(047) FS24 - Friends of Scouting 2024, Northern Rivers - Community"
+    },
+    {
+      "amount": 750.0,
+      "is_new": false,
+      "name": "National Parks Conservation Association",
+      "purpose": "General Support"
+    },
+    {
+      "amount": 750.0,
+      "is_new": false,
+      "name": "Planned Parenthood Federation of America",
+      "purpose": "General Support"
+    },
+    {
+      "amount": 750.0,
+      "is_new": false,
+      "name": "Planned Parenthood Shasta Diablo Inc",
+      "purpose": "General Support"
+    },
+    {
+      "amount": 750.0,
+      "is_new": false,
+      "name": "Shasta County Chemical People Inc",
+      "purpose": "Sponsorship of Juneteenth"
+    },
+    {
+      "amount": 750.0,
+      "is_new": false,
+      "name": "The Jefferson Pipe Band Inc",
+      "purpose": "Celtic Summer Concert sponsorship"
+    },
+    {
+      "amount": 750.0,
+      "is_new": false,
+      "name": "Rotary Club of Redding Sunrise Foundation",
+      "purpose": "general support"
+    },
+    {
+      "amount": 750.0,
+      "is_new": false,
+      "name": "Shasta County Arts Council",
+      "purpose": "General Support"
+    },
+    {
+      "amount": 750.0,
+      "is_new": true,
+      "name": "Catticus Corporation",
+      "purpose": "\"You Should Never Blink\" Project"
+    },
+    {
+      "amount": 750.0,
+      "is_new": true,
+      "name": "Reciproka Corporation",
+      "purpose": "general purposes"
+    },
+    {
+      "amount": 750.0,
+      "is_new": true,
+      "name": "The Associates of the University of Toronto Inc",
+      "purpose": "University of St. Michael's College in the University of Toronto, St. Mike's Fund"
+    },
+    {
+      "amount": 600.0,
+      "is_new": true,
+      "name": "Tree Of Life International Charter School",
+      "purpose": "Jog-A-Thon"
+    },
+    {
+      "amount": 400.0,
+      "is_new": true,
+      "name": "Yuba College",
+      "purpose": "2023 McConnell Scholars"
+    },
+    {
+      "amount": 375.0,
+      "is_new": false,
+      "name": "Friends of the Smithsonian",
+      "purpose": "General Support"
+    },
+    {
+      "amount": 375.0,
+      "is_new": false,
+      "name": "The Salvation Army",
+      "purpose": "Dedicated to stuff the buss"
+    },
+    {
+      "amount": 375.0,
+      "is_new": false,
+      "name": "Western Folklife Center",
+      "purpose": "Membership & General Support"
+    },
+    {
+      "amount": 375.0,
+      "is_new": false,
+      "name": "Ascend Wilderness Experience",
+      "purpose": "Promote and sustain Ascend activities."
+    },
+    {
+      "amount": 375.0,
+      "is_new": false,
+      "name": "West Valley High School",
+      "purpose": "West Valley Eagles Swim Team."
+    },
+    {
+      "amount": 375.0,
+      "is_new": true,
+      "name": "CHP 11-99 Foundation",
+      "purpose": "General Support"
+    },
+    {
+      "amount": 375.0,
+      "is_new": true,
+      "name": "East Redding Little League",
+      "purpose": "general support (credit to Katelyn Andre)"
+    },
+    {
+      "amount": 375.0,
+      "is_new": true,
+      "name": "Shasta Union High School District",
+      "purpose": "24th Annual Native Grad Honoring / Indian Education"
+    },
+    {
+      "amount": 309.0,
+      "is_new": true,
+      "name": "Vertical Raise NP Inc",
+      "purpose": "Cape Central High School band and choir fundraiser ($150) & Kennedy Girls Volleyball 2024 fundraiser for equipment/gear ($150)"
+    },
+    {
+      "amount": 300.0,
+      "is_new": false,
+      "name": "The Rotary Foundation of Rotary International",
+      "purpose": "Ukraine Response Fund"
+    },
+    {
+      "amount": 300.0,
+      "is_new": false,
+      "name": "Evergreen Elementary School",
+      "purpose": "Katelyn Knott's kindergarten class needs ($150) & C. Gonczeruk's second grade class needs ($150)"
+    },
+    {
+      "amount": 300.0,
+      "is_new": true,
+      "name": "PTA California Congress of Parents Teachers and Students Inc",
+      "purpose": "Matching Gifts"
+    },
+    {
+      "amount": 300.0,
+      "is_new": true,
+      "name": "Stillwater Cat Haven",
+      "purpose": "General Support"
+    },
+    {
+      "amount": 162.0,
+      "is_new": true,
+      "name": "Cuyamaca Community College",
+      "purpose": "2022 McConnell Scholars"
+    },
+    {
+      "amount": 150.0,
+      "is_new": true,
+      "name": "DTCare",
+      "purpose": "General Support"
+    },
+    {
+      "amount": 150.0,
+      "is_new": true,
+      "name": "Michael J Fox Foundation for Parkinson's Research",
+      "purpose": "Parkinson's Research"
+    },
+    {
+      "amount": 75.0,
+      "is_new": true,
+      "name": "National Multiple Sclerosis Society",
+      "purpose": "Matching Gifts"
+    },
+    {
+      "amount": 75.0,
+      "is_new": true,
+      "name": "Redding Piano Angels",
+      "purpose": "general use"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "PAPER APPLICATIONS AND SUBMISSION OF TRANSCRIPTS, STANDARDIZED TEST SCORES, AND STUDENT AID REPORTS (SAR) SHOWING EXPECTED FAMILY CONTRIBUTION.",

@@ -119,6 +119,20 @@
       #print-doc { position: absolute; left: 0; top: 0; width: 100%; border: none; padding: 0; }
       @page { margin: 18mm; }
     }
+
+    .nav-hint { font-size: 13.5px; color: var(--accent-deep); margin-top: 14px; }
+    .gapkeep { margin-top: 22px; background: var(--accent-soft); border-radius: 10px; padding: 18px 22px; }
+    .gapkeep h4 { font-family: var(--serif); font-size: 18px; font-weight: 600; margin-bottom: 8px; color: var(--ink); }
+    .gapkeep ul { margin: 0 0 0 18px; font-size: 15px; color: var(--ink-soft); }
+    .gapkeep li { margin-bottom: 6px; }
+    .gapkeep li b { color: var(--ink); }
+    .gapkeep .why { font-size: 13.5px; color: var(--accent-deep); margin-top: 10px; }
+
+    .cta { margin: 46px 0 8px; background: linear-gradient(155deg, #2a2218 0%, #1c1a17 100%); border-radius: 12px; padding: 34px 38px; color: var(--paper); }
+    .cta h3 { font-family: var(--serif); font-size: 23px; font-weight: 600; line-height: 1.3; margin-bottom: 12px; color: var(--paper); }
+    .cta p { color: #d8d0c2; max-width: 60ch; font-size: 16px; line-height: 1.65; }
+    .cta a { color: var(--accent-soft); text-decoration: underline; text-underline-offset: 2px; }
+    @media (max-width: 620px) { .cta { padding: 26px 22px; } }
   </style>
 </head>
 <body>
@@ -156,7 +170,29 @@
 
     <div id="app"><div class="panel" id="stage"></div></div>
 
-    <footer class="site">
+    
+    <div class="cta">
+      <h3>The policy is the easy part.</h3>
+      <p>
+        Adoption is where these fail. Ninety days on there is still no
+        inventory of what staff actually use, no review cadence, and nobody
+        certain who approves a new tool. A policy that does not change what
+        happens on Monday is a document, not a control.
+      </p>
+      <p style="margin-top: 14px;">
+        Send me the policy you just generated and I will tell you which
+        clauses organizations most often fail to implement, and what it took
+        the ones that did — no charge, no pitch attached.
+        <a href="mailto:umonthe1@gmail.com?subject=AI%20policy%20—%20implementation">Email it over</a>.
+      </p>
+      <p style="margin-top: 14px;">
+        If you are a funder thinking about this for your grantees rather than
+        for one organization, say so — that is a different and more useful
+        conversation.
+      </p>
+    </div>
+
+<footer class="site">
       <div>© 2026 Ulrich Monthe · Built in public · <a href="/live-projects/">More tools</a></div>
       <div>Not legal advice · <a href="mailto:umonthe1@gmail.com">Email</a></div>
     </footer>
@@ -287,7 +323,12 @@
     return h + '</div>';
   }
   function navRow(canNext) {
-    return '<div class="nav-row">' +
+    // Some steps ask two or three questions and gate Continue on all of them.
+    // Without a hint the button just sits there dead, which is the only
+    // confusing moment in the flow.
+    var hint = canNext ? '' :
+      '<div class="nav-hint">Answer every question above to continue.</div>';
+    return hint + '<div class="nav-row">' +
       (stepIndex > 0 ? '<button class="btn ghost" id="back">← Back</button>' : '<span></span>') +
       '<button class="btn primary" id="next"' + (canNext ? '' : ' disabled') + '>' +
       (stepIndex >= steps().length - 1 ? 'See my analysis →' : 'Continue →') + '</button></div>';
@@ -518,6 +559,27 @@
         h += '<div class="dl-row"><button class="btn primary" id="dl-doc">Download for Word (.doc)</button><button class="btn ghost" id="dl-pdf">Print / save as PDF</button></div>';
         h += '<p class="q-help">The Word file opens in Word, Google Docs, and LibreOffice. Edit freely — it’s yours.</p>';
       }
+
+      // Gaps are the most specific output the tool produces, and until now
+      // they only survived inside the gated board memo. Keep them on screen
+      // for everyone — they are what someone actually remembers.
+      if (currentTab !== 'why') {
+        h += '<div class="gapkeep"><h4>' +
+          (an.gaps.length ? 'What the policy assumes you will put in place' : 'No structural gaps flagged') +
+          '</h4>';
+        if (an.gaps.length) {
+          h += '<ul>';
+          an.gaps.forEach(function (g) { h += '<li><b>' + esc(g[1]) + '.</b> ' + esc(g[2]) + '</li>'; });
+          h += '</ul><div class="why">These are the clauses organizations most often adopt and then fail to operate. ' +
+            '<a href="mailto:umonthe1@gmail.com?subject=' +
+            encodeURIComponent('AI policy — ' + an.gaps.length + ' gap' + (an.gaps.length === 1 ? '' : 's') + ' flagged') +
+            '">Tell me which of these you are stuck on</a> and I will tell you what it took the organizations that closed them.</div>';
+        } else {
+          h += '<div class="why">Unusual, and worth keeping that way — the review cadence in the policy is what holds it.</div>';
+        }
+        h += '</div>';
+      }
+
       stage.innerHTML = h;
 
       stage.querySelectorAll('.doc-tabs button').forEach(function (b) {

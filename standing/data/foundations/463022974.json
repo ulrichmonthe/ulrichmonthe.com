@@ -47,6 +47,506 @@
     "singleton_cluster_share": 0.6127,
     "total_grant_records": 363
   },
+  "recipients_latest_year": [
+    {
+      "amount": 6000000.0,
+      "is_new": true,
+      "name": "EMORY UNIVERSITY - GOIZUETA BUSINESS SCHO",
+      "purpose": "PROGRAM"
+    },
+    {
+      "amount": 5000000.0,
+      "is_new": false,
+      "name": "ROBERT W WOODRUFF ARTS CENTER INC",
+      "purpose": "PROGRAM"
+    },
+    {
+      "amount": 4000000.0,
+      "is_new": true,
+      "name": "EMORY UNIVERSITY- GIN",
+      "purpose": "PROGRAM"
+    },
+    {
+      "amount": 2600000.0,
+      "is_new": true,
+      "name": "ATLANTA HISTORICAL SOCIETY INC",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 2377500.0,
+      "is_new": false,
+      "name": "WESTMINSTER SCHOOLS INC",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 1250000.0,
+      "is_new": true,
+      "name": "BELEN JESUIT PREPARATORY SCHOOL INC",
+      "purpose": "PROGRAM"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "YOUNG MENS CHRISTIAN ASSOCIATION OF METROPOLITAN ATLANTA INC",
+      "purpose": "PROGRAM"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "YWCA OF GREATER ATLANTA",
+      "purpose": "PROGRAM"
+    },
+    {
+      "amount": 725000.0,
+      "is_new": true,
+      "name": "NEXT GENERATION MEN AND WOMEN INC",
+      "purpose": "PROGRAM"
+    },
+    {
+      "amount": 706300.0,
+      "is_new": false,
+      "name": "ATLANTA RONALD MCDONALD HOUSE CHARITIES INC",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 700000.0,
+      "is_new": true,
+      "name": "CATHOLIC CHARITIES OF THE ARCHDIOCESE OF ATLANTA",
+      "purpose": "PROGRAM"
+    },
+    {
+      "amount": 700000.0,
+      "is_new": true,
+      "name": "GEORGIA STATE UNIVERSITY FOUNDATION INC",
+      "purpose": "PROGRAM"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "CHRIS 180",
+      "purpose": "PROGRAM"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "INTERNATIONAL RESCUE COMMITTEE INC",
+      "purpose": "PROGRAM"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "PROJECT LEAD THE WAY INC",
+      "purpose": "PROGRAM"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "TEACH FOR AMERICA INC",
+      "purpose": "PROGRAM"
+    },
+    {
+      "amount": 450000.0,
+      "is_new": true,
+      "name": "REFUGEE WOMENS NETWORK INC",
+      "purpose": "PROGRAM"
+    },
+    {
+      "amount": 314730.0,
+      "is_new": false,
+      "name": "INTERNATIONAL SCHOLARSHIP AND TUITION SERVICES INC",
+      "purpose": "GOIZUETA LEGACY SCHOLARSHIPS"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": true,
+      "name": "MERIDIAN EDUCATIONAL RESOURCE GROUP INC",
+      "purpose": "PROGRAM"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": true,
+      "name": "ONEGOAL",
+      "purpose": "PROGRAM"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "LOS NINOS PRIMERO INC",
+      "purpose": "PROGRAM"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "CHILDRENS DEVELOPMENT ACADEMY",
+      "purpose": "PROGRAM"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "POWERUP SCHOLARSHIP FUND",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "STAR-C CORPORATION",
+      "purpose": "PROGRAM"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "THE POSSE FOUNDATION INC",
+      "purpose": "PROGRAM"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "BARD COLLEGE",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "PREMIER ACADEMY INC",
+      "purpose": "PROGRAM"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "SCOTTDALE CHILD DEVELOPMENT",
+      "purpose": "PROGRAM"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "CATHOLIC SCHOOLS FOUNDATION",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "ROXBURY LATIN SCHOOL INC",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "ATLANTA SPEECH SCHOOL",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "SAVE THE MUSIC FOUNDATION",
+      "purpose": "PROGRAM"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ATLANTA POLICE FOUNDATION INC",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "AUBURN UNIVERSITY FOUNDATION",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "EMORY UNIVERSITY",
+      "purpose": "SPONSORSHIPS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "GIVING KITCHEN INITIATIVE INC",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "RONALD MCDONALD HOUSE CHARITIES INC",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "HOLY SPIRIT PREPARATORY SCHOOL",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "PEACE PREPARATORY ACADEMY",
+      "purpose": "PROGRAM"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "SOCIETY OF ST VINCENT DE PAUL GEORGIA",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "THE SCHOLARSHIP ACADEMY",
+      "purpose": "PROGRAM"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "CHILDRENS HOSPITAL CORPORATION",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "MASSACHUSETTS FOUNDATION FOR HUMANITIES AND PUBLIC POLICY",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "LUTZIE 43 FOUNDATION",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "PINE STREET INN",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 61000.0,
+      "is_new": true,
+      "name": "HOLY SPIRIT CATHOLIC CHURCH",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MONASTERY OF THE HOLY SPIRIT",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "AMERICAN ENTERPRISE INSTITUTE FOR PUBLIC POLICY RESEARCH",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BOSTON COLLEGE TRUSTEES",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ST MARTINS EPISCOPAL SCHOOL INC",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "GEORGIA WORKS",
+      "purpose": "PROGRAM"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "KATES CLUB",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 32500.0,
+      "is_new": false,
+      "name": "FUND FOR THE CITY OF NEW YORK",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "FBIAA MEMORIAL COLLEGE FUND",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "GEORGIA ASYLUM & IMMIGRATION NETWORK INC",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PRO BONO PARTNERSHIP OF ATLANTA",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ST PIUS X CATHOLIC HIGH SCHOOL",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PUTNAM INDIAN FIELD SCHOOL",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "THE UNIVERSITY OF GEORGIA FOUNDATION",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BRUNSWICK SCHOOL",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "MEAD SCHOOL",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "ST CHARLES BORROMEO SCHOOL",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "WATERSIDE SCHOOL",
+      "purpose": "DISCRETIONARY"
+    },
+    {
+      "amount": 24554.0,
+      "is_new": false,
+      "name": "HISPANIC SOCIETY OF AMERICA",
+      "purpose": "MATCHING"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "KAIROS CHURCH",
+      "purpose": "MATCHING"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": false,
+      "name": "TRINITY VINEYARD",
+      "purpose": "MATCHING"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "NEW AMERICAN PATHWAYS",
+      "purpose": "MATCHING"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "AGAPE COMMUNITY CENTER INC",
+      "purpose": "MATCHING"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "EMERGENT WORKS INC",
+      "purpose": "MATCHING"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "COUNSELING IN SCHOOLS",
+      "purpose": "MATCHING"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "GIVEDIRECTLY",
+      "purpose": "MATCHING"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "GIVINGDATA LLC",
+      "purpose": "SPONSORSHIPS"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "THE COMMUNITY FOUNDATION FOR GREATER ATLANTA",
+      "purpose": "MATCHING"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "CHURCHES FOR THE SAKE OF OTHERS",
+      "purpose": "MATCHING"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": false,
+      "name": "LAAMISTAD INC",
+      "purpose": "MATCHING"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": false,
+      "name": "MORRIS BRANDON ELEMENTARY SCHOOL FOUNDATION",
+      "purpose": "MATCHING"
+    },
+    {
+      "amount": 1030.0,
+      "is_new": false,
+      "name": "HANDS ON ATLANTA INC",
+      "purpose": "MATCHING"
+    },
+    {
+      "amount": 1025.0,
+      "is_new": false,
+      "name": "YOUNG LIFE",
+      "purpose": "MATCHING"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "LITTLE WARRIOR FOUNDATION",
+      "purpose": "MATCHING"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "CLASSIC CITY COMMUNITY CHURCH",
+      "purpose": "MATCHING"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "FAMILIES FIRST INC",
+      "purpose": "MATCHING"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "ST BENEDICTS EPISCOPAL DAY SCHOOL",
+      "purpose": "MATCHING"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "MAGDALEN HOUSE",
+      "purpose": "MEMORIAL"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "THOSE INTERESTED IN REQUESTING SUPPORT SHOULD FIRST VISIT THE GOIZUETA FOUNDATION'S WEBSITE AT WWW.GOIZUETAFOUNDATION.ORG AND FOLLOW THE DIRECTIONS UNDER \"APPLY FOR FUNDING/ONLINE APPLICATION\".",

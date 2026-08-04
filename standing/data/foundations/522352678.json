@@ -48,6 +48,392 @@
     "singleton_cluster_share": 0.5159,
     "total_grant_records": 339
   },
+  "recipients_latest_year": [
+    {
+      "amount": 8400000.0,
+      "is_new": false,
+      "name": "BOYS & GIRLS CLUBS OF METROPOLITAN BALTIMORE INCORPORATED",
+      "purpose": "CAPITAL CAMPAIGN - HILTON RECREATION CENTER"
+    },
+    {
+      "amount": 8383000.0,
+      "is_new": false,
+      "name": "BLACKBIRD LABORATORIES INC",
+      "purpose": "GENERAL OPERATING"
+    },
+    {
+      "amount": 8250000.0,
+      "is_new": false,
+      "name": "ASSOCIATED CATHOLIC CHARITIES INC",
+      "purpose": "LEADERSHIP BREAKFAST"
+    },
+    {
+      "amount": 5000000.0,
+      "is_new": true,
+      "name": "FOUNDATION TO COMBAT ANTI-SEMITISM INC",
+      "purpose": "GENERAL OPERATING"
+    },
+    {
+      "amount": 2069125.0,
+      "is_new": false,
+      "name": "BOYS & GIRLS CLUB OF MARTIN COUNTY INC",
+      "purpose": "FIELD TRIPS"
+    },
+    {
+      "amount": 2040000.0,
+      "is_new": false,
+      "name": "BALTIMORE COMMUNITY FOUNDATION INC",
+      "purpose": "KEY BRIDGE EMERGENCY FUND"
+    },
+    {
+      "amount": 960000.0,
+      "is_new": false,
+      "name": "COLLEGEBOUND FOUNDATION INC",
+      "purpose": "OZZIE NEWSOME SCHOLARS PROGRAM"
+    },
+    {
+      "amount": 900000.0,
+      "is_new": false,
+      "name": "BRIDGES BALTIMORE INC",
+      "purpose": "COLLEGE ACCESS"
+    },
+    {
+      "amount": 650000.0,
+      "is_new": true,
+      "name": "IRC'S CENTER FOR ECONOMIC OPPORTUNITY INC",
+      "purpose": "LOAN POOL PILOT"
+    },
+    {
+      "amount": 450000.0,
+      "is_new": true,
+      "name": "COLLEGE TRACK",
+      "purpose": "COLLEGE ACCESS"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "CIVIC WORKS INC",
+      "purpose": "CIVIC WORKS BALTIMORE CENTER FOR SUSTAINABLE CAREERS"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "MENTOR THE NATIONAL MENTORING PARTNERSHIP INC",
+      "purpose": "MENTOR NATIONAL & MENTOR MARYLAND"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "JUPITER MEDICAL CENTER FOUNDATION INC",
+      "purpose": "JUPITER MEDICAL CENTER SURGICAL INSTITUTE"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "LIVING CLASSROOMS FOUNDATION",
+      "purpose": "TOMORROWS PROMISE CAMPAIGN"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "TEACH FOR AMERICA INC",
+      "purpose": "BALTIMORE FUTURE FUND"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "TURNAROUND INC",
+      "purpose": "SAFE HOUSE FOR CHILD SURVIVORS OF HUMAN TRAFFICKING"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "UPSURGE BALTIMORE COMMUNITY INC",
+      "purpose": "GENERAL OPERATING"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "ST JUDE CHILDREN'S RESEARCH HOSPITAL",
+      "purpose": "RUN RICH RUN CAMPAIGN"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF MARYLAND MEDICAL SYSTEM FOUNDATION INC",
+      "purpose": "BUILDING FOR LIFE CAMPAIGN"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "BALTIMORE CIVIC FUND",
+      "purpose": "YOUTHWORKS"
+    },
+    {
+      "amount": 170000.0,
+      "is_new": false,
+      "name": "MORGAN STATE UNIVERSITY FOUNDATION INCORPORATED",
+      "purpose": "OZZIE NEWSOME SCHOLARS PROGRAM"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "GOUCHER COLLEGE",
+      "purpose": "GOUCHER COLLEGE PRISON EDUCATION PARTNERSHIP"
+    },
+    {
+      "amount": 140000.0,
+      "is_new": false,
+      "name": "BOWIE STATE UNIVERSITY FOUNDATION",
+      "purpose": "OZZIE NEWSOME SCHOLARS PROGRAM"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "ROMAN CATHOLIC ARCHBISHOP OF BALTIMORE CORPORATION SOLE",
+      "purpose": "PARTNERS IN EXCELLENCE SCHOLARSHIP PROGRAM"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "BOYS & GIRLS CLUBS OF ANNAPOLIS & ANNE ARUNDEL COUNTY INC",
+      "purpose": "GENERAL OPERATING"
+    },
+    {
+      "amount": 120000.0,
+      "is_new": false,
+      "name": "COPPIN STATE UNIVERSITY DEVELOPMENT FOUNDATION INC",
+      "purpose": "OZZIE NEWSOME SCHOLARS PROGRAM"
+    },
+    {
+      "amount": 120000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF MARYLAND FOUNDATION INC",
+      "purpose": "OZZIE NEWSOME SCHOLARS PROGRAM"
+    },
+    {
+      "amount": 118005.0,
+      "is_new": false,
+      "name": "MOTHER SETON ACADEMY INC",
+      "purpose": "SCHOLARSHIPS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "VEHICLES FOR CHANGE INC",
+      "purpose": "GENERAL OPERATING"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BALTIMORE ANIMAL RESCUE AND CARE SHELTER INC",
+      "purpose": "EMERGENCY ANIMAL CARE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "TALISMAN THERAPEUTIC RIDING",
+      "purpose": "MORTGAGE RETIREMENT"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": false,
+      "name": "PIVOT INC",
+      "purpose": "GENERAL OPERATING"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "FUND FOR EDUCATIONAL EXCELLENCE",
+      "purpose": "MOST - MARYLAND OUT OF SCHOOL TIME NETWORK"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "MARYLAND SPCA INC",
+      "purpose": "ANIMAL CARE"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "SAFE ALTERNATIVE FOUNDATION FOR EDUCATION INC",
+      "purpose": "WORKFORCE DEVELOPMENT CENTER"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "MARYLAND NEW DIRECTIONS INC",
+      "purpose": "GENERAL OPERATING"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "THE V FOUNDATION",
+      "purpose": "GENERAL OPERATING"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "TURNAROUND TUESDAY INC",
+      "purpose": "BUILD - BALTIMORE UNITED LEADERSHIP DEVELOPMENT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CRISTO REY JESUIT HIGH SCHOOL",
+      "purpose": "GENERAL OPERATING"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "JOHNS HOPKINS UNIVERSITY",
+      "purpose": "JOHNS HOPKINS TECHNOLOGY VENTURES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "POLICE BENEVOLENT ASSOCIATION CHARITY FUND INC",
+      "purpose": "PBSO MOTORMEN CHARITABLE CONTRIBUTION"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "CHILDRENS SCHOLARSHIP FUND BALTIMORE",
+      "purpose": "SCHOLARSHIPS"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "KENNEDY KRIEGER FOUNDATION INC",
+      "purpose": "HATS AND HORSES"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "IRVINE NATURAL SCIENCE CENTER INC",
+      "purpose": "ANIMAL CARE PROGRAM"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "FIRST FRUITS FARM INC",
+      "purpose": "GENERAL OPERATING"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "GILCHRIST HOSPICE CARE INC",
+      "purpose": "GILCHRIST BALL"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "HOUSE OF RUTH MARYLAND INC",
+      "purpose": "GENERAL OPERATING"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BALTIMORE HOMECOMING INC",
+      "purpose": "BALTIMORE HOMECOMING"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "HARLEM LACROSSE AND LEADERSHIP CORPORATION",
+      "purpose": "HARLEM LACROSSE BALTIMORE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF MARYLAND BALTIMORE FOUNDATION INC",
+      "purpose": "UMB CURE SCHOLARS PROGRAM"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "HOPE FOR ALL INC",
+      "purpose": "GENERAL OPERATING"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "FORWARD CITIES INC",
+      "purpose": "PLACE BUILDERS FELLOWSHIP"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "HUMAN DEVELOPMENT CORPORATION",
+      "purpose": "STUDENT SCHOLARSHIPS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "LOYOLA UNIVERSITY MARYLAND INC",
+      "purpose": "SCHOOL OF EDUCATION DEAN'S DISCRETIONARY FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "HOWARD HOSPITAL FOUNDATION INC",
+      "purpose": "GENERAL OPERATING"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "BALTIMORE MUSEUM OF ART INC",
+      "purpose": "BMA BALL"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "CASEY CARES",
+      "purpose": "GENERAL OPERATING"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "THE EVERYMAN THEATRE INC",
+      "purpose": "A NIGHT FOR BALTIMORE"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "HOSPICE OF THE CHESAPEAKE INC",
+      "purpose": "GENERAL OPERATING"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "SPCA OF ANNE ARUNDEL COUNTY",
+      "purpose": "ANNUAL WALK FOR ANIMALS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "THE EVERGLADES FOUNDATION",
+      "purpose": "FOREVERGLADES"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": true,
+      "name": "SPAN INC",
+      "purpose": "STRIDE FOR SPAN TURKEY TROT"
+    },
+    {
+      "amount": 1250.0,
+      "is_new": true,
+      "name": "BALTIMORE MUSEUM OF INDUSTRY",
+      "purpose": "REDEFINING INDUSTRY"
+    },
+    {
+      "amount": 680.0,
+      "is_new": false,
+      "name": "SEVERN RIVER LIONS CLUB",
+      "purpose": "FRUIT PURCHASED AND CONTRIBUTED TO SPAN, INC."
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

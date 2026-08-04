@@ -47,6 +47,248 @@
     "singleton_cluster_share": 0.2564,
     "total_grant_records": 206
   },
+  "recipients_latest_year": [
+    {
+      "amount": 2000000.0,
+      "is_new": false,
+      "name": "WETA",
+      "purpose": "THE SHARON ROCKEFELLER ENDOWMENT"
+    },
+    {
+      "amount": 800000.0,
+      "is_new": false,
+      "name": "OLNEY THEATRE CENTER",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "MARYLAND SCHOOL FOR THE BLIND",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "SHRINERS HOSPITAL FOR CHILDREN",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "REBUILDING TOGETHER MONTGOMERY CO",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "MONTGOMERY COUNTY CORPS MARYLAND",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "FEED THE HUNGRY",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 136000.0,
+      "is_new": false,
+      "name": "CARE FOR ALS",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "HOUSE OF RUTH",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "LITTLE SISTERS OF THE POOR",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "MERCY HEALTH CLINIC",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "THE METROPOLITAN WASHINGTON EAR INC",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "MY SISTER'S PLACE",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BARNS OF ROSE HILL ENDOWMENT",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CARING FOR OTHERS LTD",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "DONBOSCO CRISTOREY HIGH SCHOOL",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "IONA SENIOR SERVICES",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MISSION OF MERCY",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "THE GAULT CENTER",
+      "purpose": "GAULT JUVENILE JUSTICE CLINIC ENDOWNMENT FUND"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "OPERATION SMILE",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "EVERYMIND INC",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CHILDREN'S LAW CENTER",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CHRIST CHILD SOCIETY",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "TRINITY WASHINGTON UNIVERSITY",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "DOWNTOWN HOPE",
+      "purpose": "PATH TO HOPE PROGRAM"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "CAL RIPKEN SR FOUNDATION",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "THE FESTIVAL CENTER",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "SO WHAT ELSE INC",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "ST VINCENT PALLOTTI HIGH SCHOOL",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "PAWS FOR PURPLE HEARTS",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "THE FUND FOR AMERICAN STUDIES",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "REACH EVERY VOICE ACCESSABILITY",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "WANADA AUTOMOBILE DEALER EDUCATION",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "SMITH ISLAND UNITED INC",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "FREEDOM ALLIANCE",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "OPERATION FINALLY HOME",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "AMERICAN INDIAN COLLEGE FUND",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "ACTION YOUTH MEDIA",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "CABIN JOHN PARK VOLUNTEER FIRE DEPT",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "OCEAN CITY VOLUNTEER FIRE CO",
+      "purpose": "GENERAL OPERATING EXPENSES"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "NO SPECIFIC FORMAT, INCLUDE ANNUAL REPORT AND PURPOSE OF GRANT",

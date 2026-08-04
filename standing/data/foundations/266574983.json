@@ -48,6 +48,650 @@
     "singleton_cluster_share": 0.7966,
     "total_grant_records": 402
   },
+  "recipients_latest_year": [
+    {
+      "amount": 6000000.0,
+      "is_new": true,
+      "name": "CONCORDIA",
+      "purpose": "GENERAL OPERATING"
+    },
+    {
+      "amount": 1125000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF MARY",
+      "purpose": "VISION 2030 CAMPAIGN"
+    },
+    {
+      "amount": 290000.0,
+      "is_new": true,
+      "name": "NORTHWESTERN MINNESOTA SYNOD",
+      "purpose": "GHD, MN MAX, RURAL REVIVAL"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "YWCA",
+      "purpose": "LANTERN LIGHT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "FEED MY STARVING CHILDREN",
+      "purpose": "FARGO MOBILE PACK 2024"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "THEODORE ROOSEVELT PRESIDENTIAL LIBRARY",
+      "purpose": "CAPITAL CAMPAIGN"
+    },
+    {
+      "amount": 190500.0,
+      "is_new": true,
+      "name": "DEMOCRACY PREP PUBLIC SCHOOL",
+      "purpose": "GLOBAL CITIZENS & EMPOWER"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "OAK GROVE LUTHERAN SCHOOL",
+      "purpose": "CAPITAL CAMPAIGN"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "MAYO FOUNDATION",
+      "purpose": "GARRITY OPHTHALMOLOGY"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "NEW LIFE CENTER",
+      "purpose": "SOUTH FARGO THRIFT STORE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ANGELS HOCKEY",
+      "purpose": "ARENA PROJECT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ANNE CARLSEN CENTER",
+      "purpose": "PATHWAYS FOR THE FUTURE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "DORDT UNIVERSITY",
+      "purpose": "PRO TECH PROGRAM"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "EASTERN NORTH DAKOTA SYNOD",
+      "purpose": "DEVELOPMENT DIRECTOR"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "VALLEY CHRISTIAN COUNSEL",
+      "purpose": "BUILDING EXPANSION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "VALLEY CITY STATE UNIVERSITY",
+      "purpose": "FORWARD TOGETHER"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "FRIENDS OF THE CHILDREN",
+      "purpose": "GENERAL OPERATING"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ABUSED ADULT RESOURCE CENTER",
+      "purpose": "SEED OF HOPE RENOVATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "NORTH DAKOTA STATE UNIVERSITY DEVELOPMENT FOUNDATION",
+      "purpose": "P2P"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "VILLAGE IN PARTNERSHIP",
+      "purpose": "PEOPLE OF MALAWI"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "NORTH DAKOTA STATE UNIVERSITY",
+      "purpose": "MAP THE SYSTEM"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "NEXUS-PATH FAMILY HEALING",
+      "purpose": "SCHOOL CASE MANAGEMENT"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": true,
+      "name": "MEMORY CAFE",
+      "purpose": "GIVING HEARTS DAY 2024"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "HEART OF CLAY",
+      "purpose": "OUTREACH & STAFF EXPANSION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "MINNESOTA PRIVATE COLLEGE",
+      "purpose": "INNOVATION SCHOLARS"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": true,
+      "name": "HOPE MANOR FOUNDATION INC",
+      "purpose": "CB-SCHOLARSHIPS, HYGIENE"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": true,
+      "name": "LISBON FIRE DEPARTMENT",
+      "purpose": "CB-RESCUE EQUIPMENT"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": true,
+      "name": "NORTHERN CASS COMMUNITY HEALTH & WELLNESS CENTER",
+      "purpose": "CB-SUPPLIES TRAINING KITS"
+    },
+    {
+      "amount": 7760.0,
+      "is_new": true,
+      "name": "CHRISTINE COMMUNITY FIRE DISTRICT",
+      "purpose": "CB-THERMAL CAMERA"
+    },
+    {
+      "amount": 7360.0,
+      "is_new": true,
+      "name": "FARM IN THE DELL",
+      "purpose": "CATER TATERS MATCH"
+    },
+    {
+      "amount": 6800.0,
+      "is_new": false,
+      "name": "SLEEP IN HEAVENLY PEACE",
+      "purpose": "CB-GROW STAFF"
+    },
+    {
+      "amount": 6800.0,
+      "is_new": true,
+      "name": "CALIFORNIA MID-WINTER FAIR HERITAGE FOUNDATION INC",
+      "purpose": "CB-REPLACEMENT FENCE"
+    },
+    {
+      "amount": 6800.0,
+      "is_new": true,
+      "name": "FOOD IN NEED OF DISTRIBUTION",
+      "purpose": "CB-KIDS SUMMER MARKET"
+    },
+    {
+      "amount": 6800.0,
+      "is_new": true,
+      "name": "FOSSIL RIMS NATURAL HISTORY MUSEUM",
+      "purpose": "CB-EQUIP AND TRAVEL EXPENSES"
+    },
+    {
+      "amount": 6800.0,
+      "is_new": true,
+      "name": "JUNIOR ACHIEVEMENT NORTH",
+      "purpose": "CB-COMPANY OF THE YEAR"
+    },
+    {
+      "amount": 6800.0,
+      "is_new": true,
+      "name": "KINSHIP MOUNTAIN MINISTRY",
+      "purpose": "CB-AG ENRICHMENT YOUTH"
+    },
+    {
+      "amount": 6800.0,
+      "is_new": true,
+      "name": "LINCOLN VOLUNTEER FIRE DEPT",
+      "purpose": "CB-TURNOUT GEAR"
+    },
+    {
+      "amount": 6800.0,
+      "is_new": true,
+      "name": "THE DINNER BELL",
+      "purpose": "CB-FUND MEAL SERVICE 2ND"
+    },
+    {
+      "amount": 6400.0,
+      "is_new": true,
+      "name": "ABERDEEN CATHOLIC SCHOOL SYSTEM",
+      "purpose": "CB-LIGHTING UPGRADE - RONCALLI NEARLY NEW"
+    },
+    {
+      "amount": 6400.0,
+      "is_new": true,
+      "name": "AFTERSCHOOL TLC",
+      "purpose": "CB-FUND P/T EMPLOYEES"
+    },
+    {
+      "amount": 6400.0,
+      "is_new": true,
+      "name": "BBE ELEMENTARY SCHOOL",
+      "purpose": "CB-SWING SET"
+    },
+    {
+      "amount": 6400.0,
+      "is_new": true,
+      "name": "CASPER CHILDRENS CHORALE",
+      "purpose": "CB-EXPAND PROGRAM"
+    },
+    {
+      "amount": 6400.0,
+      "is_new": true,
+      "name": "HENNING FIREMANS RELIEF ASSOCIATION",
+      "purpose": "CB-TRAUMA BAGS"
+    },
+    {
+      "amount": 6400.0,
+      "is_new": true,
+      "name": "LYND PUBLIC SCHOOL",
+      "purpose": "CB-PREP LAND HORT CLASS"
+    },
+    {
+      "amount": 6400.0,
+      "is_new": true,
+      "name": "NORTH DAKOTA ARCHERY ALLIANCE",
+      "purpose": "CB-FUND NEW PARTICIPANTS"
+    },
+    {
+      "amount": 6400.0,
+      "is_new": true,
+      "name": "ROCKSOLID COMMUNITY TEEN CENTER",
+      "purpose": "CB-OPERATING FUNDS"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "AMERICAN FOUNDATION FOR SUICIDE PREVENTION (AFSP) ND CHAPTER",
+      "purpose": "CB-INCREASE PROGRAM OUTREACH"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "ARMORY ARTS & EVENTS CENTER",
+      "purpose": "CB-BUILDING REPAIR/UPGRAD"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "COMBAT VETERANS MOTORCYCLE ASSOCIATION 42-1",
+      "purpose": "CB-VARIOUS EXPENSES FOR"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "OUR LADY OF GRACE CATHOLIC CHURCH",
+      "purpose": "CB-BUILDING CAMPAIGN"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "RONALD MCDONALD HOUSE CHARITIES OF THE RRV",
+      "purpose": "CB-SAFETY & SECURITY MEASURES"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "ROSLYN VOLUNTEER FIRE DEPT",
+      "purpose": "CB-PROTECTIVE GEAR"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "YMCA OF CASS & CLAY COUNTY",
+      "purpose": "PAY INTERN SPONSORSHIP"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "CONCORDIA FOOTBALL",
+      "purpose": "ALL REGION SPONSOR"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "CHURCHES UNITED FOR THE HOMELESS",
+      "purpose": "GIVING HEARTS DAY 2024"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "HUBBARD COUNTY 4-H",
+      "purpose": "GENERAL OPERATING"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "SPECIAL OLYMPICS NORTH DAKOTA",
+      "purpose": "GIVING HEARTS DAY 2024"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "VALLEY SENIOR SERVICES INC MEALS ON WHEELS",
+      "purpose": "GIVING HEARTS DAY 2024"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "WADENA COUNTY 4-H",
+      "purpose": "GENERAL OPERATING"
+    },
+    {
+      "amount": 4800.0,
+      "is_new": true,
+      "name": "RITZVILLE BRONC BOOSTERS",
+      "purpose": "CB-CONCESSION EQUIPMENT"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "BAGOSENDAAN",
+      "purpose": "CB-EQUIP UPGRADE"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "BIKERS AGAINST BULLIES",
+      "purpose": "CB-INSTALL BUDDY BENCHES"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "FIREFLY CENTER FOR ART & WELLBEING",
+      "purpose": "CB-ESSENTIAL EXPENSES"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "KEOGH 501 MEMORIAL",
+      "purpose": "CB-MED TECH COURSE"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "NORTHLAND HEALTH CENTERS",
+      "purpose": "CB-TRANSLATION SERVICES B"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "RAISING OUR CELIAC KIDS - TWIN CITIES CHAPTER INC",
+      "purpose": "CB-SCHOLARSHIP FUND CAMP"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "SAFE HARBOR",
+      "purpose": "CB-COVER GAP FED FUNDING"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "SHEYENNE FINE ARTS ASSOCIATION",
+      "purpose": "CB-OPERATING SHORTAGE"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "SO MUCH MORE",
+      "purpose": "CB-HOST SPEAKER SERIES"
+    },
+    {
+      "amount": 3400.0,
+      "is_new": true,
+      "name": "HONORING 307 HEROES",
+      "purpose": "CB-WREATHS"
+    },
+    {
+      "amount": 2400.0,
+      "is_new": true,
+      "name": "BELIEVE AND ACHIEVE FOUNDATION",
+      "purpose": "CB-COVER GAP FOR FAMILY"
+    },
+    {
+      "amount": 2400.0,
+      "is_new": true,
+      "name": "FISHING WITH VETS",
+      "purpose": "CB-SUPPLIES"
+    },
+    {
+      "amount": 2400.0,
+      "is_new": true,
+      "name": "PARK RAPIDS FIREMANS RELIEF ASSOCIATION",
+      "purpose": "CB-FIRE PREVENTION PROG"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "ABOUT FAMILIES INC",
+      "purpose": "CB-FUND STARTUP CLINIC"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "BURLEIGH COUNTY BICYCLE CULT",
+      "purpose": "CB-NEW MOWER"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "EXTRA MILE STUDENT CENTER",
+      "purpose": "CB-BUILDING IMPROVEMENTS"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "LIQR PIGZ MC",
+      "purpose": "CB-PICNIC TABLES"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "MINNESOTA AMERICAN INDIAN CHAMBER OF COMMERCE",
+      "purpose": "CB-PROGRAM DEVELOPMENT"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "NDAD",
+      "purpose": "CB-ADA EQUIP"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "PARTNERS FOR AFFORDABLE HOUSING",
+      "purpose": "CB-PROGRAM COSTS"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "PB&J SPREADING THE LOVE",
+      "purpose": "CB-ASSIST FAMILIES DIPG"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "RONALD MCDONALD HOUSE CHARITIES OF EASTERN MONTANA",
+      "purpose": "CB-FAMILY EXPENSES"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "THE FARM FRIENDS BARN",
+      "purpose": "CB-CONSULTANT"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "THE FRESNO CENTER",
+      "purpose": "CB-CULTURE EXPERTS"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "WALLACE FIRE DEPARTMENT",
+      "purpose": "CB-PUMP & REEL HOSE"
+    },
+    {
+      "amount": 1600.0,
+      "is_new": true,
+      "name": "WEBSTER PAWS WALK",
+      "purpose": "CB-AGILITY EQUIP"
+    },
+    {
+      "amount": 1250.0,
+      "is_new": false,
+      "name": "NORTHERN LIGHTS COUNCIL",
+      "purpose": "2024 HEROES AND LEADERS G"
+    },
+    {
+      "amount": 1250.0,
+      "is_new": false,
+      "name": "BARNESVILLE AREA COMMUNITY FUND",
+      "purpose": "COMMUNITY NEEDS FUND"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "COBBER WRESTLING",
+      "purpose": "SPONSORSHIP"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "HALEY'S HOPE",
+      "purpose": "GIVING HEARTS DAY 2024"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "HISTORICAL AND CULTURAL SOCIETY OF CLAY COUNTY",
+      "purpose": "GIVING HEARTS DAY 2024"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "MAKE-A-WISH NORTH DAKOTA",
+      "purpose": "GIVING HEARTS DAY 2024"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "MOORHEAD WRESTLING",
+      "purpose": "GENERAL OPERATING"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "4-H FOUNDATION OF NORTH DAKOTA",
+      "purpose": "GIVING HEARTS DAY 2024"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "DOWN HOME",
+      "purpose": "GIVING HEARTS DAY 2024"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "GFWC NEVIS WOMEN'S CLUB",
+      "purpose": "EMPOWERING WOMEN COFERENCE"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "CENTRAL CASS TREEHOUSE",
+      "purpose": "GIVING HEARTS DAY 2024"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "DMF - MATTO FOUNDATION",
+      "purpose": "GIVING HEARTS DAY 2024"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "FIRSTLINK",
+      "purpose": "GIVING HEARTS DAY 2024"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "GIGI'S PLAYHOUSE FARGO",
+      "purpose": "GIVING HEARTS DAY 2024"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "HEART-N-SOUL COMMUNITY CAF INC",
+      "purpose": "GIVING HEARTS DAY 2024"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "HENNING MILITARY PARK",
+      "purpose": "CB- BENCH SEATING"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "IMPACT - BADGES OF UNITY FUND",
+      "purpose": "GIVING HEARTS DAY 2024"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "LAKE AGASSIZ HABITAT FOR HUMANITY FM",
+      "purpose": "GIVING HEARTS DAY 2024"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "NORMAN COUNTY DEVELOPMENTAL ACTIVITIES CENTER",
+      "purpose": "GIVING HEARTS DAY 2024"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "PRAY FOR GRAY",
+      "purpose": "GIVING HEARTS DAY 2024"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "RED RIVER ZOO",
+      "purpose": "GIVING HEARTS DAY 2024"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

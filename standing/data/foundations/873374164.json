@@ -49,6 +49,110 @@
     "singleton_cluster_share": 0.5,
     "total_grant_records": 54
   },
+  "recipients_latest_year": [
+    {
+      "amount": 36000000.0,
+      "is_new": false,
+      "name": "GARY AND MARY WEST HEALTH INSTITUTE",
+      "purpose": "TO SUPPORT OPERATIONS AND APPLIED MEDICAL RESEARCH INITIATIVES"
+    },
+    {
+      "amount": 12000000.0,
+      "is_new": false,
+      "name": "GARY AND MARY WEST HEALTH POLICY CENTER INC",
+      "purpose": "SEE STATEMENT FOR EXPENDITURE RESPONSIBILITY GRANT"
+    },
+    {
+      "amount": 520000.0,
+      "is_new": false,
+      "name": "OMAHA COMMUNITY FOUNDATION",
+      "purpose": "TO SUPPORT THE TRUST'S CONTINUED EFFORTS IN FUNDING CHARITABLE ORGANIZATIONS"
+    },
+    {
+      "amount": 410500.0,
+      "is_new": false,
+      "name": "SERVING SENIORS",
+      "purpose": "TO SUPPORT OPERATIONS AT THE GARY AND MARY WEST SENIOR WELLNESS CENTER"
+    },
+    {
+      "amount": 192500.0,
+      "is_new": false,
+      "name": "LEGAL AID SOCIETY OF SAN DIEGO INC",
+      "purpose": "TO SUPPORT THE HEALTH ADVOCACY PROJECT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "INTERFAITH COMMUNITY SERVICES INC",
+      "purpose": "TO SUPPORT SENIOR SERVICES IN NORTH SAN DIEGO COUNTY"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "SAN DIEGO SENIORS COMMUNITY FOUNDATION",
+      "purpose": "TO SUPPORT THE GENERAL OPERATIONS"
+    },
+    {
+      "amount": 53625.0,
+      "is_new": false,
+      "name": "CHALLENGE CENTER",
+      "purpose": "TO SUPPORT AGING WITH INDEPENDENCE AND DIGNITY"
+    },
+    {
+      "amount": 36400.0,
+      "is_new": false,
+      "name": "APPLE TREE DENTAL",
+      "purpose": "TO SUPPORT THE HEALTHY AGING PROJECT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SAN DIEGO REGIONAL ECONOMIC DEVELOPMENT FOUNDATION",
+      "purpose": "TO SUPPORT GENERAL OPERATIONS FOCUSED ON SUCCESSFUL AGING"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "LAKE NONA INSTITUTE INC",
+      "purpose": "TO SUPPORT THE LAKE NONA IMPACT FORUM 2025"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "SPECIAL FORCES CHARITABLE TRUST",
+      "purpose": "TO SUPPORT BEHAVIORAL HEALTH SERVICES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "GRANTMAKERS IN AGING INC",
+      "purpose": "TO SUPPORT GRANTMAKERS IN AGING GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "GIFFORD MEDICAL CENTER",
+      "purpose": "TO SUPPORT LAST MILE EVENT FOR END OF LIFE CARE"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "CALIFORNIA FOUNDATION ON AGING",
+      "purpose": "TO SUPPORT CALIFORNIA COMMISSION ON AGING'S 50TH ANNIVERSARY EVENT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "DENTAL LIFELINE NETWORK",
+      "purpose": "TO SUPPORT DENTAL SERVICES FOR SENIORS"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "THE SILVER GATE YACHT CLUB FOUNDATION",
+      "purpose": "TO SUPPORT HARBOR EXCURSIONS FOR PEOPLE WITH DISABILITIES"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

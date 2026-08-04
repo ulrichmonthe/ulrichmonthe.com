@@ -50,6 +50,14 @@
     "singleton_cluster_share": 0.5,
     "total_grant_records": 5
   },
+  "recipients_latest_year": [
+    {
+      "amount": 33332942.0,
+      "is_new": true,
+      "name": "SEE STATEMENTS 16 & 18",
+      "purpose": "SEE STATEMENTS 18 & 20"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "AN APPLICATION SHOULD CONTAIN NARRATIVE OF THE PROJECT OR PROGRAM, A COPY OF THE DETERMINATION LETTER ISSUED BY THE INTERNAL REVENUE SERVICE GRANTING EXEMPTION STATUS UNDER IRS CODE SECTION 501(C)(3), THE MOST RECENT 990 AND COPY OF THE MOST RECENT AUDITED FINANCIAL STATEMENTS (IF AVAILABLE) SHOULD BE ATTACHED.",

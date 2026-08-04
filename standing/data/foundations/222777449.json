@@ -47,6 +47,1346 @@
     "singleton_cluster_share": 0.3201,
     "total_grant_records": 909
   },
+  "recipients_latest_year": [
+    {
+      "amount": 850000.0,
+      "is_new": false,
+      "name": "CITIZENS FOR RESP & ETHICS IN WASHINGTON",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 850000.0,
+      "is_new": false,
+      "name": "EARTHJUSTICE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 600000.0,
+      "is_new": true,
+      "name": "RESET TECH",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 580000.0,
+      "is_new": true,
+      "name": "SUSTAINABLE NEIGHBORHOODS",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 576000.0,
+      "is_new": false,
+      "name": "DOCTORS WITHOUT BORDERS",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 575000.0,
+      "is_new": false,
+      "name": "STATE INFRASTRUCTURE FUND",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "VOTER PARTICIPATION CENTER",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "NATURAL RESOURCE DEFENSE COUNCIL",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "IRC CENTER FOR ECONOMIC OPPTY",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 450000.0,
+      "is_new": false,
+      "name": "NEW ISRAEL FUND",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "BRENNAN CENTER FOR JUSTICE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 325000.0,
+      "is_new": false,
+      "name": "AMERICAN CIVIL LIBERTIES UNION",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "CENTER FOR INVESTIGATIVE REPORTING",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "COMMON CAUSE EDUCATION FUND",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": true,
+      "name": "NEW VENTURE FUND",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 275000.0,
+      "is_new": false,
+      "name": "NEW YORK LAWYERS FOR THE PUBLIC INTEREST",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "CITYMEALS-ON-WHEELS",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "FOUNDATION FOR NATIONAL PROGRESS",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 230000.0,
+      "is_new": false,
+      "name": "SOUTHERN ENVIRONMENTAL LAW CENTER",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": false,
+      "name": "NEW YORK CIVIL LIBERTIES UNION FOUNDATION",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": false,
+      "name": "NEW YORK LEGAL ASSISTANCE GROUP",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 216000.0,
+      "is_new": false,
+      "name": "DOROT INC",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 215000.0,
+      "is_new": false,
+      "name": "MARIA COLLEGE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "HUMAN RIGHTS WATCH",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "PLANNED PARENTHOOD OF GREATER NEW YORK",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "WILDLIFE CONSERVATION SOCIETY",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "HUMAN RIGHTS FIRST",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 190000.0,
+      "is_new": false,
+      "name": "350ORG",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 184500.0,
+      "is_new": false,
+      "name": "INTERNATIONAL MEDICAL CORPS",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 180000.0,
+      "is_new": false,
+      "name": "INTERNATIONAL RESCUE COMMITTEE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "NATIONAL ABORTION FEDERATION",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 170000.0,
+      "is_new": false,
+      "name": "CITY HARVEST INC",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "PLANNED PARENTHOOD FEDERATION OF AMERICA",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "THE HEBREW HOME AT RIVERDALE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 151800.0,
+      "is_new": false,
+      "name": "NEW ECONOMY PROJECT",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "GOVERNMENT ACCOUNTABILITY PROJECT",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "GROW NYC",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "IMMIGRANT DEFENSE PROJECT",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "PRO PUBLICA",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "UNION OF CONCERNED SCIENTISTS",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 148000.0,
+      "is_new": false,
+      "name": "EQUAL JUSTICE WORKS",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 140000.0,
+      "is_new": false,
+      "name": "FOOD AND WATER WATCH",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 137500.0,
+      "is_new": false,
+      "name": "QUEENS COMMUNITY HOUSE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 135000.0,
+      "is_new": false,
+      "name": "GLOBAL WITNESS FOUNDATION",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 130000.0,
+      "is_new": false,
+      "name": "CENTRAL PARK CONSERVANCY",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 130000.0,
+      "is_new": false,
+      "name": "NEW YORK PUBLIC RADIO1",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "INTERNATIONAL REFUGEE ASSISTANCE PROJECT",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "PENNSYLVANIA VOICE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "ALLIANCE FOR JUSTICE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "VERA INSTITUTE OF JUSTICE INC",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "WITNESS",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": true,
+      "name": "LENOX HILL NEIGHBORHOOD ASSOCIATION",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 103405.0,
+      "is_new": false,
+      "name": "PRX INC",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CARTER BURDEN NETWORK",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "LEAGUE OF WOMEN VOTERS EDUCATION FUND",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "NATIONAL PUBLIC RADIO (NPR)",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "PEOPLE FOR THE AMERICAN WAY",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "THE LIBERTY FUND",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "THE NEW YORK IMMIGRATION COALITION",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "WFUV",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "COMMITTEE TO PROTECT JOURNALISTS",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "FLORIDA RISING TOGETHER",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "ALL VOTING IS LOCAL",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "CENTER FOR BIOLOGICAL DIVERSITY",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "PREGNANCY JUSTICE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 91380.0,
+      "is_new": false,
+      "name": "MONTEFIORE MEDICAL CENTER",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": false,
+      "name": "PROJECT GUARDIANSHIP",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": false,
+      "name": "REPRODUCTIVE HEALTH ACCESS PROJECT",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "INTERFAITH CTRON CORP RESPONSIBILITY",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "PREP FOR PREP",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "ASYLUM SEEKER ADVOCACY PROJECT",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "CUNY GRADUATE SCHOOL OF JOURNALISM FDN",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "FARMWORKER JUSTICE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "NYPIRG",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "ROBERT F KENNEDY HUMAN RIGHTS",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "CAMPAIGN LEGAL CENTER",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "DEMOCRACY WORKS",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "FLORIDA RIGHTS RESTORATION COALITION",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "NATIVE AMERICAN RIGHTS FUND",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "SOUTHERN COALITION FOR SOCIAL JUSTICE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "SURVELLIANCE TECHNOLOGY OVERSIGHT PROJECT",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": true,
+      "name": "JASA",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 67750.0,
+      "is_new": false,
+      "name": "VOLUNTEERS OF LEGAL SERVICE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "BROOKLYN LEGAL SERVICES",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "MOUNT SINAI HEALTH SYSTEM",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "REWIRE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "THE LONG TERM CARE COMMUNITY COALITION",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 62000.0,
+      "is_new": false,
+      "name": "UNITED NEIGHBORHOOD HOUSES",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "FUND FOR THE CITY OF NEW YORK",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "JEWISH COMMUNITY COUNCIL OF CONEY ISLAND",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "LAWYERS ALLIANCE FOR NEW YORK",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "PUBLIC EMPL FOR ENVIRON RESPONS (PEER)",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "SOCIAL GOOD FUND- DAYENU",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": true,
+      "name": "ISSUE ONE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "SUNNYSIDE COMMUNITY SERVICES",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 53000.0,
+      "is_new": false,
+      "name": "YM YWHA OF WASHINGTON HEIGHTS AND INWOOD",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "FAIR ELECTIONS CENTER",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "GRAMEEN FOUNDATION",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "GREENPEACE FUND INC",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "GRIST",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "HEAD COUNT",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MEDICARE RIGHTS CENTER",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "NONPROFIT VOTE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "PROGEORGIA STATE TABLE INC",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "RAINFOREST ACTION NETWORK",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SERVICE PROGRAM FOR OLDER PEOPLE (SPOP)",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ROCK THE VOTE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "NY RENEWS EDUCATION FUND",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SILVER STATE VOICES",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "THE INTERCEPT",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "VOTO LATINO FOUNDATION",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "ADAMAH",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "APOPO (SEE KING BAUDOUIN FND)",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "ASIAN AMERICANS ADVANCING JUSTICE - AAJC",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "CASA",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "MI FAMILIA EN ACCION",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "VOTING RIGHTS LAB",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 47500.0,
+      "is_new": false,
+      "name": "NEW YORK ACADEMY OF MEDICINE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "FAMILY SERVICE SOCIETY OF YONKERS",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "GREEN AMERICA",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 42500.0,
+      "is_new": false,
+      "name": "HUDSON GUILD",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 41800.0,
+      "is_new": false,
+      "name": "CAFETERIA CULTURE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "COALITION FOR INSTIT AGED & DISABLED INC",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "LIVEON NY",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "NATIONAL TRUST FOR LOCAL NEWS",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "VERIFIED VOTING",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "INSIDE CLIMATE NEWS",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "CANARY MEDIA",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "THE FUND FOR NEW CITIZENS",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "FOREST SERV EMPLOYEES FOR ENVIR ETHICS",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "NEW YORK COMMON PANTRY",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "SOLAR ONE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "NATIONAL IMMIGRATION PROJECT OF NLG",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "NORTH STAR FUND",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "PLANNED PARENTHOOD OF SOUTHRN NEW ENGLAND",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "THE PUBLIC THEATERNY SHAKESPEARE FEST",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "VISIONSSERVICES BLINDVISUALLY IMPAIRED",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "YOUTH REPRESENT",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "ABORTION CARE NETWORK",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "PBS NEWSHOUR",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 27073.0,
+      "is_new": false,
+      "name": "CENTER FOR APPELLATE LITIGATION",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ENCORE COMMUNITY SERVICES",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "RIVERDALE NEIGHBORHOOD HOUSE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SEARCH AND CARE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "STANDEARTH",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "THE NEW YORK FOUNDLING",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "UNIVERSITY SETTLEMENT",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PHYSICANS FOR HUMAN RIGHTS",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BLUE PRINT NC",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "POWER COALITION FOR EQUITY & JUSTICE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "RIDERS ALLIANCE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "AS YOU SOW",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "CARINGKIND",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "CENTER FOR REPRODUCTIVE RIGHTS",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "CITIZEN'S CLIMATE EDUCATION",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "TANENBAUM CTR FOR INTERRELIGIOUS UNDERST",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "EARTHRIGHTS INTERNATIONAL",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "NEW IMMIGRANT COMMUNITY EMPOWERMENT",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "PROMOTE THE VOTE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "DENTAL LIFELINE NETWORK",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "WE ACT FOR ENVIRONMENTAL JUSTICE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "WNETTHIRTEEN",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 18000.0,
+      "is_new": false,
+      "name": "BROWN UNIVERSITY",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 18000.0,
+      "is_new": false,
+      "name": "JUSTFIX INC",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 18000.0,
+      "is_new": true,
+      "name": "BEIT MORASHA",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 17500.0,
+      "is_new": false,
+      "name": "RACHEL'S NETWORK",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 15100.0,
+      "is_new": false,
+      "name": "PHILANTHROPY NEW YORK",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "AVODAH",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "ENVIRONMENTAL WORKING GROUP",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "FREEDOM OF THE PRESS FOUNDATION",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "GODDARD RIVERSIDE COMMUNITY CENTER",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "PESTICIDE ACTION NETWORK",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "SERVICES & ADVOCACY FOR GAY(SAGE)",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "THE DOE FUND",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "THE MARSHALL PROJECT",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "DOCUMENTED",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "THE HUMANE SOCIETY OF THE UNITED STATES",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": true,
+      "name": "EL PUENTE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "B LAB INC",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CANCER CARE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CITIZENS UNION FOUNDATION",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CITY PARKS FOUNDATION",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "HIAS",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "INDIVISIBLE CIVICS",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "POWERMYLEARNING - FKA CFY",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "RIVERSTONE SENIOR LIFE SERVICES",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "SUSTAINABLE HARVEST INTERNATIONAL",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "THE FORWARD",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "DISABILITY RIGHTS INTERNATIONAL",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "MONGABAY",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "THE POINT COMMUNITY DEV CORP",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "BILLION OYSTER PROJECT",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "CIVIC NEWS COMPANY",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "CENTER FOR AN URBAN FUTURE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "WAMC NORTHEAST PUBLIC RADIO",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "NYU LANGONE HEALTH",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 5500.0,
+      "is_new": false,
+      "name": "UMBRELLA OF THE CAPITAL DISTRICT",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "BIKE NEW YORK",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "CITY SQUASH",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "NEW YORK CITY POLICE FOUNDATION",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "NEW YORK ROAD RUNNERS",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "92NY",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "AGAHOZO-SHALOM YOUTH VILLAGE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "GLOBAL GIVING",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "JOSEPH HOUSE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 3750.0,
+      "is_new": false,
+      "name": "CANDID (FKATHE FOUNDATION CENTER)",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 3600.0,
+      "is_new": true,
+      "name": "PROJECT SUNSHINE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": false,
+      "name": "CARL SCHURZ PARK CONSERVANCY",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "MOHONK PRESERVE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "MOZILLA FOUNDATION",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "MDIF MEDIA FINANCE I BV",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "STAMFORD JCC",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "AVON THEATRE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "MOZAIC SENIOR LIFE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "RANDALL'S ISLAND PARK ALLIANCE",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "THE CITY",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "NATIONAL CENTER FOR FAMILY PHILANTHROPY",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "WIKIMEDIA FOUNDATION INC",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 750.0,
+      "is_new": false,
+      "name": "ACHILLES INTERNATIONAL",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 750.0,
+      "is_new": false,
+      "name": "SMITHSONIAN INSTITUTION",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "FRIENDS OF FIREFIGHTERS",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": 250.0,
+      "is_new": false,
+      "name": "MIANUS RIVER GORGE INC",
+      "purpose": "GENERAL DONATION"
+    },
+    {
+      "amount": -7500.0,
+      "is_new": false,
+      "name": "AFRICAN COMMUNITIES TOGETHER",
+      "purpose": "GENERAL DONATION"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

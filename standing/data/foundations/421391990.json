@@ -48,6 +48,584 @@
     "singleton_cluster_share": 0.456,
     "total_grant_records": 555
   },
+  "recipients_latest_year": [
+    {
+      "amount": 3166667.0,
+      "is_new": true,
+      "name": "CITY OF COUNCIL BLUFFS AND SINC",
+      "purpose": "IOWA RIVERFRONT PHASE 4"
+    },
+    {
+      "amount": 2775327.0,
+      "is_new": false,
+      "name": "CITY OF COUNCIL BLUFFS",
+      "purpose": "FIRST AVE ACTIVATION"
+    },
+    {
+      "amount": 1350000.0,
+      "is_new": false,
+      "name": "GREEN HILLS AREA EDUCATION AGENCY",
+      "purpose": "POTTAWATTAMIE COUNTY PRESCHOOL"
+    },
+    {
+      "amount": 1342527.0,
+      "is_new": false,
+      "name": "IOWA WEST FOUNDATION INITIATIVE",
+      "purpose": "CITY OF COUNCIL BLUFFS STREETSCAPE CONSTRUCTION AND PUBLIC RT"
+    },
+    {
+      "amount": 537500.0,
+      "is_new": false,
+      "name": "COUNCIL BLUFFS COMMUNITY SCHOOL DISTRICT",
+      "purpose": "ASPIRE PLUS ONE PATHWAYS"
+    },
+    {
+      "amount": 411551.0,
+      "is_new": false,
+      "name": "NEIGHBORWORKS HOME SOLUTIONS",
+      "purpose": "NWHS HILLSIDE ESTATES NEW CONSTRUCTION"
+    },
+    {
+      "amount": 393570.0,
+      "is_new": false,
+      "name": "SOUTHWEST IOWA NONPROFIT FOR COLLECTIVE IMPACT",
+      "purpose": "RIVERFRONT REVITALIZATION"
+    },
+    {
+      "amount": 373750.0,
+      "is_new": false,
+      "name": "HEARTLAND FAMILY SERVICE",
+      "purpose": "HEAT 2024"
+    },
+    {
+      "amount": 360000.0,
+      "is_new": false,
+      "name": "ANAWIM HOUSING",
+      "purpose": "SUPPORTIVE HOUSING GAP"
+    },
+    {
+      "amount": 316014.0,
+      "is_new": false,
+      "name": "HABITAT FOR HUMANITY OF COUNCIL BLUFFS",
+      "purpose": "HOME OWNERSHIP AND HOME REPAIR PROGRAM SUPPORT"
+    },
+    {
+      "amount": 307201.0,
+      "is_new": false,
+      "name": "IOWA WESTERN COMMUNITY COLLEGE FOUNDATION",
+      "purpose": "POTTAWATTAMIE PROMISE 2021-2022"
+    },
+    {
+      "amount": 299242.0,
+      "is_new": true,
+      "name": "COUNCIL BLUFFS SCHOOLS FOUNDATION",
+      "purpose": "ASPIRE INVESTMENTS - STARS"
+    },
+    {
+      "amount": 271000.0,
+      "is_new": false,
+      "name": "AVENUE SCHOLARS SOUTHWEST IOWA",
+      "purpose": "ASPIRE RURAL POTTAWATTAMIE CAREEER PREPAREDNESS"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "UNITED WAY OF THE MIDLANDS",
+      "purpose": "COMMUNITY CARE FUND 2023-2024"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": true,
+      "name": "ADVANCED SOUTHWEST IOWA CORPORATION",
+      "purpose": "OPERATING SUPPORT"
+    },
+    {
+      "amount": 216407.0,
+      "is_new": false,
+      "name": "712 INITIATIVE",
+      "purpose": "OPERATING SUPPORT"
+    },
+    {
+      "amount": 205000.0,
+      "is_new": true,
+      "name": "CITY OF DENISON",
+      "purpose": "CRAWFORD COUNTY WELLNESS CENTER"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "POTTAWATTAMIE ARTS CULTURE & ENTERTAINMENT",
+      "purpose": "GENERAL OPERATING"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "TOGETHER INC",
+      "purpose": "COUNCIL BLUFFS FOOD PANTRY 2024"
+    },
+    {
+      "amount": 187500.0,
+      "is_new": false,
+      "name": "LEWIS CENTRAL COMMUNITY SCHOOL DISTRICT",
+      "purpose": "ASPIRE CAREER PREPAREDNESS PORTFOLIO"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": true,
+      "name": "SOUTHWEST IOWA NATURE TRAILS",
+      "purpose": "RAPP PARK CONNECTOR TRAIL"
+    },
+    {
+      "amount": 130000.0,
+      "is_new": false,
+      "name": "NEW VISIONS HOMELESS SERVICES",
+      "purpose": "NEW VISIONS HOMELESS SERVICE"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "AMERICAN MIDWEST BALLET",
+      "purpose": "OPERATING SUPPORT"
+    },
+    {
+      "amount": 112293.0,
+      "is_new": false,
+      "name": "OMAHA BRIDGES OUT OF POVERTY INC",
+      "purpose": "SOUTHWEST IOWA POVERTY ALLEVIATION INITIATIVE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "CITY OF VILLISCA",
+      "purpose": "RIALTO FARMERS MARKET & PERFORMANCE SPACE"
+    },
+    {
+      "amount": 95000.0,
+      "is_new": false,
+      "name": "BOYS & GIRLS CLUBS OF THE MIDLANDS",
+      "purpose": "GENERAL OPERATING"
+    },
+    {
+      "amount": 93750.0,
+      "is_new": false,
+      "name": "IOWA LEGAL AID - SOUTHWEST IOWA",
+      "purpose": "POTTAWATTAMIE COUNTY EVICTION DIVERSION PROJECT"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": true,
+      "name": "IMMIGRANT LEGAL CENTER",
+      "purpose": "ILC + REC'S SOUTHWEST IOWA LEGAL SERVICES"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "CENTRO LATINO OF IOWA",
+      "purpose": "GENERAL OPERATING"
+    },
+    {
+      "amount": 70898.0,
+      "is_new": false,
+      "name": "FAMILY INC",
+      "purpose": "RAISE ME TO READ"
+    },
+    {
+      "amount": 68750.0,
+      "is_new": false,
+      "name": "OMAHA DISCOVERY TRUST",
+      "purpose": "STEM PROGRAMMING AT KIEWIT LUMINARIUM"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "POTTAWATTAMIE CONSERVATION FOUNDATION",
+      "purpose": "HITCHCOCK NATURE CENTER INFRASTRUCTURE IMPROVEMENTS"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "MICAH HOUSE CORPORATION",
+      "purpose": "SHELTER AND SUPPORT SERVICES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ECONOMIC EMPOWERMENT CENTER",
+      "purpose": "LENDING POOL FOR SOUTHWESTERN IOWA RESIDENTS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SOUTHWEST IOWA HOUSING TRUST FUND",
+      "purpose": "SOUTHWEST IOWA HOUSING REPAIR 2024"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "COUNCIL BLUFFS CONVENTION AND VISITORS BUREAU",
+      "purpose": "FY 25 COUNCIL BLUFFS SPORTING EVENT ATTRACTION & RETENTION PROJECT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "STANTON CHILD RESOURCE CENTER",
+      "purpose": "SCRC EXPANSION PROJECT"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "GOLDEN HILLS RESOURCE CONSERVATION & DEVELOPMENT",
+      "purpose": "GOLDEN HILLS RC&D CAPACITY AND OPERATING SUPPORT"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "LUTHERAN FAMILY SERVICES OF NEBRASKA INC",
+      "purpose": "FAMILY EDUCATION AND INITIATIVE PROGRAM"
+    },
+    {
+      "amount": 43750.0,
+      "is_new": false,
+      "name": "OMAHA CHILDREN'S MUSEUM",
+      "purpose": "PARTNER SCHOOL / WELCOME"
+    },
+    {
+      "amount": 33967.0,
+      "is_new": false,
+      "name": "NAMI SOUTHWEST IOWA",
+      "purpose": "NAMI SOUTHWEST IOWA FY24 PROGRAM SUPPORT"
+    },
+    {
+      "amount": 31535.0,
+      "is_new": true,
+      "name": "SOUTHWEST IOWA MENTAL HEALTH & DISABILITY SERVICES",
+      "purpose": "WARM HAND OFF INITIATIVE"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "FOOD BANK OF IOWA",
+      "purpose": "FIGHTING CHILDHOOD HUNGER ADAMS, AUDUBON, CARROLL & TAYLOR COUNTIES"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "FOOD BANK FOR THE HEARTLAND",
+      "purpose": "MOBILE FOOD PANTRIES: CONSISTENT ACCESS IN FOOD DESERTS"
+    },
+    {
+      "amount": 27500.0,
+      "is_new": true,
+      "name": "METRO REVAMP COLLECTIVE (METRO HOUSING COLLABORATIVE)",
+      "purpose": "METRO HOUSING COLLABORATIVE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "GREATER OMAHA CHAMBER FOUNDATION",
+      "purpose": "PROSPER OMAHA 2.0"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "OMAHA BOTANICAL CENTER INC",
+      "purpose": "IOWA YOUTH EDUCATIONAL PROGRAMMING 2024-2025"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "AHSTW COMMUNITY SCHOOLS",
+      "purpose": "ASPIRE 2024 WORK BASED LEARNING"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "COMMUNITY FOUNDATION FOR WESTERN IOWA",
+      "purpose": "DISASTER RESPONSE INITIATIVE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "TREYNOR COMMUNITY SCHOOL DISTRICT",
+      "purpose": "ASPIRE COLLEGE AND CAREER READINESS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "CITY OF NEOLA",
+      "purpose": "THE NEOLA CREEK BANK STABILIZATION AND ENHANCEMENT PROJECT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "IOWA JAG INC",
+      "purpose": "SWITCH: EQUIPPING CAREER READY STUDENTS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "RIVERSIDE COMMUNITY SCHOOL DISTRICT",
+      "purpose": "ASPIRE CAREER PREPAREDNESS PORTFOLIO (IJAG)"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "TRI-CENTER COMMUNITY SCHOOL DISTRICT",
+      "purpose": "ASPIRE CAREER PREPAREDNESS PORTFOLIO (IJAG)"
+    },
+    {
+      "amount": 23000.0,
+      "is_new": false,
+      "name": "UNION PACIFIC MUSEUM ASSOCIATION",
+      "purpose": "RAILROAD DAYS 2024"
+    },
+    {
+      "amount": 22500.0,
+      "is_new": false,
+      "name": "PROJECT HARMONY CHILD PROTECTION CENTER",
+      "purpose": "BUILDING EVIDENCE BASED PRACTICE SKILLS IN THERAPISTS"
+    },
+    {
+      "amount": 22496.0,
+      "is_new": false,
+      "name": "COUNCIL BLUFFS AREA CHAMBER OF COMMERCE",
+      "purpose": "COUNCIL BLUFFS WORKFORCE DEVELOPMENT"
+    },
+    {
+      "amount": 22481.0,
+      "is_new": false,
+      "name": "CITY OF ELK HORN IOWA",
+      "purpose": "POOL BATH HOUSE"
+    },
+    {
+      "amount": 21250.0,
+      "is_new": false,
+      "name": "THRIVING FAMILIES ALLIANCE",
+      "purpose": "COORDINATED INTAKE"
+    },
+    {
+      "amount": 21000.0,
+      "is_new": false,
+      "name": "OMAHA PERFORMING ARTS SOCIETY",
+      "purpose": "MUSIC EDUCATION PROGRAMS FOR IOWA STUDENTS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "POTTAWATTAMIE COUNTY HOUSING TRUST FUND INC",
+      "purpose": "2024 TORNADO RESPONSE"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "AVOCA VOLUNTEER FIRE DEPARTMENT",
+      "purpose": "SCBA"
+    },
+    {
+      "amount": 19427.0,
+      "is_new": false,
+      "name": "WALNUT VOLUNTEER FIRE DEPARTMENT",
+      "purpose": "FIRE BOOTS, HELMETS, & THERMAL IMAGING CAMERAS"
+    },
+    {
+      "amount": 17500.0,
+      "is_new": false,
+      "name": "CHRISTIAN HOME ASSOCIATION - CHILDREN'S SQUARE USA",
+      "purpose": "REVISED CHILDREN'S EMERGENCY SHELTER 2023"
+    },
+    {
+      "amount": 15477.0,
+      "is_new": false,
+      "name": "OMAHA SYMPHONY ASSOCIATION",
+      "purpose": "SCHOOL FIELD TRIPS & WORKSHOPS AND THE EVERY SINGLE CHILD PROGRAM FOR IOWA YOUTH"
+    },
+    {
+      "amount": 15470.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF NEBRASKA FOUNDATION",
+      "purpose": "SAMUEL BAK MUSEUM: THE LEARNING CENTER K-12 FIELD TRIPS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "OPERA OMAHA",
+      "purpose": "2024-2025 SEASON COMMUNITY ENGAGEMENT AND EDUCATION PROGRAMS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "CITY OF GLENWOOD",
+      "purpose": "GLENWOOD VISIBILITY PROJECT - CITY SIGN"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "NEBRASKA WILDLIFE REHAB",
+      "purpose": "WILDLIFE REHABILITATION AND COMMUNITY ASSISTANCE"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "SOUTHWEST IOWA FAMILIES INC",
+      "purpose": "CHILD AND FAMILY CENTER"
+    },
+    {
+      "amount": 11725.0,
+      "is_new": false,
+      "name": "CHEVRE B'NAI ISRAEL",
+      "purpose": "RESTORATION, REVITILIZATION, RESILIENCE"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "TREYNOR VOLUNTEER FIRE DEPARTMENT",
+      "purpose": "DISASTER RESPONSE INITIATIVE"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "MACEDONIA HAMILTON DEVELOPMENT",
+      "purpose": "MACEDONIA HEART & SOUL COORDINATOR"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "NEBRASKA DIAPER BANK",
+      "purpose": "POTTAWATTAMIE COUNTY - CHANGING DIAPERS, CHANGING LIVES 2024"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CARSON VOLUNTEER FIRE DEPARTMENT",
+      "purpose": "DISASTER RESPONSE INITIATIVE"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "UNDERWOOD VOLUNTEER FIRE & RESCUE",
+      "purpose": "DISASTER RESPONSE INITIATIVE"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "CRESCENT VOLUNTEER FIRE DEPARTMENT",
+      "purpose": "DISASTER RESPONSE INITIATIVE"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "HANCOCK VOLUNTEER FIRE DEPARTMENT",
+      "purpose": "GEAR EXTRACTOR AND DRYING SYSTEM FOR CLEANING GEAR"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "LEWIS TOWNSHIP VOLUNTEER FIRE DEPARTMENT",
+      "purpose": "DISASTER RESPONSE INITIATIVE"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "MACEDONIA FIRE & RESCUE",
+      "purpose": "STRYKER POWER COT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "MCCLELLAND VOLUNTEER FIRE DEPARTMENT",
+      "purpose": "DISASTER RESPONSE INITIATIVE"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "MINDEN VOLUNTEER FIRE DEPARTMENT",
+      "purpose": "DISASTER RESPONSE INITIATIVE"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "NEOLA FIRE DEPARTMENT",
+      "purpose": "DISASTER RESPONSE INITIATIVE"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "OAKLAND VOLUNTEER FIRE DEPARTMENT",
+      "purpose": "DISASTER RESPONSE INITIATIVE"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "RESPECT2",
+      "purpose": "BUILDING HEALTHY RELATIONSHIP SKILLS THROUGH THEATRE"
+    },
+    {
+      "amount": 9625.0,
+      "is_new": false,
+      "name": "HISTORIC GENERAL DODGE HOUSE",
+      "purpose": "PROGRAM: PRESERVATION, PORCHES & PAINT"
+    },
+    {
+      "amount": 8750.0,
+      "is_new": false,
+      "name": "CATHOLIC CHARITIES DIOCESE OF DES MOINES",
+      "purpose": "SHELTER LIVING SPACE RENOVATION"
+    },
+    {
+      "amount": 8500.0,
+      "is_new": true,
+      "name": "FAMILY CRISIS CENTERS INC",
+      "purpose": "CALL CENTER"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "MIDLANDS LATNO COMMUNITY DEVELOPMENT CORPORATION",
+      "purpose": "FINANCIAL STABILITY PROGRAM FOR LATINOS IN SOUTHWEST IOWA"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "SOUTHWEST IOWA LEADERSHIP ACACEMY",
+      "purpose": "SOUTHWEST IOWA LEADERSHIP ACADEMY 2024-2025"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "CITY OF CARROLL",
+      "purpose": "GRAHAM PARK BAND SHELL REHABILITATION"
+    },
+    {
+      "amount": 6750.0,
+      "is_new": false,
+      "name": "YMCA OF GREATER OMAHA",
+      "purpose": "AFTER SCHOOL SUPPORT FOR PRE-TEENS AND YOUNG TEENS AT THE CHARLES E. LAKIN YMCA"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "OMAHA BY DESIGN",
+      "purpose": "OPEN OMAHA 2024"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "THE WELLBEING PARTNERS",
+      "purpose": "NORALIZE MENTAL HEALTH: ELEVATING THE VOICES OF POTTAWATTAMIE COUNTY RESIDENTS THROUGH WHATMAKESUS"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "SHELBY VOLUNTEER FIRE & RESCUE DEPT",
+      "purpose": "DISASTER RESPONSE INITIATIVE"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "SILVER CITY AMBULANCE SERVICE",
+      "purpose": "REPLACEMENT OF CARDIAC MONITOR DEFIBRILLATOR"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "HTTPS://WWW.IOWAWESTFOUNDATION.ORG/GRANTMAKING/APPLICATION-PROCESS/",

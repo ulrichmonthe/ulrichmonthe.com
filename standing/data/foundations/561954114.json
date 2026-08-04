@@ -48,6 +48,440 @@
     "singleton_cluster_share": 0.7477,
     "total_grant_records": 191
   },
+  "recipients_latest_year": [
+    {
+      "amount": 2880000.0,
+      "is_new": false,
+      "name": "College Advising Corps",
+      "purpose": "General Operating Support"
+    },
+    {
+      "amount": 2738000.0,
+      "is_new": false,
+      "name": "Foundation For The Carolinas",
+      "purpose": "General Operating Support"
+    },
+    {
+      "amount": 1500000.0,
+      "is_new": true,
+      "name": "James B Hunt Jr Institute For Educational Leadership And Policy",
+      "purpose": "General Operating Support"
+    },
+    {
+      "amount": 1462491.0,
+      "is_new": true,
+      "name": "Strada Education Foundation Inc",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 1250000.0,
+      "is_new": false,
+      "name": "Myfuturenc Inc",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 1070000.0,
+      "is_new": true,
+      "name": "EducationNC",
+      "purpose": "General Operating Support"
+    },
+    {
+      "amount": 522400.0,
+      "is_new": true,
+      "name": "Presbyterian Hospital",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "Year Up",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "Latinxed Education Center",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "Land Of Sky Regional Council",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": true,
+      "name": "North Carolina Community Colleges",
+      "purpose": "General Operating Support"
+    },
+    {
+      "amount": 158730.0,
+      "is_new": true,
+      "name": "Robeson Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 132500.0,
+      "is_new": true,
+      "name": "Haywood Community College",
+      "purpose": "Support for NC Reconnect"
+    },
+    {
+      "amount": 130000.0,
+      "is_new": true,
+      "name": "Central Piedmont Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 130000.0,
+      "is_new": true,
+      "name": "James Sprunt Community College",
+      "purpose": "JMBE FAFSA GRANT"
+    },
+    {
+      "amount": 130000.0,
+      "is_new": true,
+      "name": "Wayne Community College",
+      "purpose": "Support for NC Reconnect"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "North Carolina Independent Colleges & Universities",
+      "purpose": "General Operating Support"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "Forsyth Tech Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "University Of North Carolina At Charlotte",
+      "purpose": "Support for NC Reconnect"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "Brunswick Community College",
+      "purpose": "NC Reconnect"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "Catawba Valley Community College",
+      "purpose": "NC Reconnect"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "College Of The Albemarle",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "Davidson-Davie Community College",
+      "purpose": "Support NC Reconnect"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "Edgecombe Community College",
+      "purpose": "Support NC Reconnect"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Iredell-Statesville Schools",
+      "purpose": "FAFSA Strong Initiative"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Charlotte-Mecklenburg Board of Education",
+      "purpose": "FAFSA Strong Initiative"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Cumberland County Board Of Education",
+      "purpose": "JMBE FAFSA GRANT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Durham Public Schools",
+      "purpose": "DPS FAFSA"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Johnston County Public Schools",
+      "purpose": "FAFSA Strong Initiative"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Pitt County Schools",
+      "purpose": "FAFSA Focus"
+    },
+    {
+      "amount": 24900.0,
+      "is_new": false,
+      "name": "Guilford County Schools",
+      "purpose": "FAFSA Strong Initiative"
+    },
+    {
+      "amount": 22941.0,
+      "is_new": false,
+      "name": "Union County Public Schools",
+      "purpose": "FAFSA Strong Initiative"
+    },
+    {
+      "amount": 21416.0,
+      "is_new": false,
+      "name": "Winston-SalemForsyth County Schools",
+      "purpose": "FAFSA Strong Initiative"
+    },
+    {
+      "amount": 18107.0,
+      "is_new": false,
+      "name": "Charlotte-Mecklenburg Schools",
+      "purpose": "FAFSA Strong Initiative"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "Southeastern Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Fayetteville Tech Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Vance-Granville Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Alamance Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Beaufort County Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Bladen Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Blue Ridge Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Caldwell Community College And Technical Institute",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Cape Fear Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Carteret Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Central Carolina Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Central Piedmont Community College Foundation",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Cleveland Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Coastal Carolina Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Craven Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Durham Technical Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Gaston College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Guilford Tech Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Halifax Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Isothermal Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Johnston Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Martin Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Mayland Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Mcdowell Technical Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Mitchell Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Montgomery Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Nash Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Piedmont Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Pitt Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Randolph Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Richmond Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Roanoke Chowan Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Rockingham Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Rowan Cabarrus Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "South Piedmont Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Stanly Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Western Piedmont Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Wilson Community College",
+      "purpose": "JMBE Next NC Acceleration Grant"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

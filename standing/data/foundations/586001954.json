@@ -48,6 +48,248 @@
     "singleton_cluster_share": 0.6417,
     "total_grant_records": 225
   },
+  "recipients_latest_year": [
+    {
+      "amount": 20000039.0,
+      "is_new": false,
+      "name": "Community Foundation for Greater Atlanta",
+      "purpose": "For the Joseph B. Whitehead Fund to support Achieve Atlanta, an initiative to improve the postsecondary success of students in Atlanta Public Schools."
+    },
+    {
+      "amount": 19723018.0,
+      "is_new": false,
+      "name": "United Way of Greater Atlanta",
+      "purpose": "Priority initiatives of Smart Start to improve the quality and accessibility of early childhood education in metro Atlanta."
+    },
+    {
+      "amount": 10000000.0,
+      "is_new": true,
+      "name": "Atlanta Ronald McDonald House Charities",
+      "purpose": "$67 million campaign to construct Ronald McDonald House at Children's Healthcare of Atlanta's North Druid Hills campus."
+    },
+    {
+      "amount": 7000000.0,
+      "is_new": true,
+      "name": "The Salvation Army",
+      "purpose": "$35 million campaign to construct the Center of Hope and expand programs."
+    },
+    {
+      "amount": 4200000.0,
+      "is_new": true,
+      "name": "Wellspring Living",
+      "purpose": "$25 million campaign to develop facilities and programs that provide a comprehensive continuum of care for survivors of trafficking."
+    },
+    {
+      "amount": 4000011.0,
+      "is_new": false,
+      "name": "Children's Healthcare of Atlanta",
+      "purpose": "Implementation of the Marcus Autism Center's strategic plan to expand access to services and advance research on early brain development."
+    },
+    {
+      "amount": 3000000.0,
+      "is_new": true,
+      "name": "Ser Familia",
+      "purpose": "$15.7 million campaign to establish a new headquarters in Cobb County for human services organization."
+    },
+    {
+      "amount": 2000001.0,
+      "is_new": true,
+      "name": "Atlanta Community Food Bank",
+      "purpose": "$19.3 million campaign to expand food distribution capacity with capital and technology updates."
+    },
+    {
+      "amount": 2000000.0,
+      "is_new": false,
+      "name": "Boys & Girls Clubs of Metro Atlanta",
+      "purpose": "Operating support."
+    },
+    {
+      "amount": 2000000.0,
+      "is_new": true,
+      "name": "Hillside",
+      "purpose": "$9 million campaign to expand capacity, make campus improvements, and grow community programs."
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "Community Foundation for Greater Atlanta fbo redefinED Atlanta",
+      "purpose": "Support of a loan guarantee fund for charter school facilities in metro Atlanta."
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "Partnership Against Domestic Violence",
+      "purpose": "$6 million campaign to establish a new emergency shelter in Fulton County for survivors of domestic violence."
+    },
+    {
+      "amount": 950000.0,
+      "is_new": false,
+      "name": "Georgia Family Connection Partnership",
+      "purpose": "Support of statewide network ($700,000) and dropout prevention cohort ($250,000)."
+    },
+    {
+      "amount": 900000.0,
+      "is_new": false,
+      "name": "Georgia Leadership Institute for School Improvement",
+      "purpose": "Operating support for organization working to improve K-12 public education through leadership development."
+    },
+    {
+      "amount": 800000.0,
+      "is_new": false,
+      "name": "Communities in Schools of Georgia",
+      "purpose": "Operating support for CISGA, which works to improve students' academic performance and reduce dropout rates."
+    },
+    {
+      "amount": 750000.0,
+      "is_new": true,
+      "name": "Global Village Project",
+      "purpose": "$5.375 million campaign to establish a new campus for school serving girls."
+    },
+    {
+      "amount": 650000.0,
+      "is_new": false,
+      "name": "Georgia Partnership for Excellence in Education",
+      "purpose": "Operating support for organization working to improve K-12 public education through research and public policy."
+    },
+    {
+      "amount": 600000.0,
+      "is_new": false,
+      "name": "Georgia CASA",
+      "purpose": "Operating support ($500,000) and growth fund ($100,000) for organization providing advocates for children in foster care."
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "Georgia State University Research Foundation",
+      "purpose": "Support for the After-School All-Stars program and summer academy at Sylvan Hills Middle School and Hollis Innovation Academy."
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "Horizons Atlanta",
+      "purpose": "Expansion of academic enrichment program."
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "Teach for America - Metro Atlanta",
+      "purpose": "Support for the recruitment, training and placement of corps members in metro Atlanta schools."
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "Nobis Works Inc",
+      "purpose": "$5.86 million campaign to construct a new education and training center to expand services for individuals with disabilities."
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "Good Samaritan Health Center",
+      "purpose": "$10 million capital and capacity-building campaign to expand community health services."
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "Open Doors",
+      "purpose": "$7.2 million campaign to expand services connecting homeless and low-income clients to affordable housing."
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "Voices for Georgia's Children",
+      "purpose": "Support of operations ($250,000) and the Georgia Statewide Afterschool Network ($100,000)."
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "Big Brothers Big Sisters of Metro Atlanta",
+      "purpose": "Expansion of the Level Up mentoring program in metro Atlanta."
+    },
+    {
+      "amount": 300000.0,
+      "is_new": true,
+      "name": "Georgia Welcome Co-Op",
+      "purpose": "Capital and capacity-building support to strengthen collaborative resettlement services."
+    },
+    {
+      "amount": 300000.0,
+      "is_new": true,
+      "name": "Momentum Advisory Collective",
+      "purpose": "Establishment of Cafe Momentum Atlanta to serve justice-involved youth."
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "Atlanta Legal Aid Society",
+      "purpose": "$1.5 million initiative to streamline and increase access to brief legal services for clients."
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "Children's Development Academy",
+      "purpose": "$1.2 million campaign to expand classrooms, update playgrounds, and develop a community room."
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "Inspiredu",
+      "purpose": "Construction of the Volunteer and Training Center."
+    },
+    {
+      "amount": 230000.0,
+      "is_new": false,
+      "name": "Communities in Schools of Atlanta",
+      "purpose": "Expansion of dropout prevention program in Atlanta Public Schools."
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "The Posse Foundation",
+      "purpose": "Support of program to recruit metro Atlanta high school students to attend selective colleges on full scholarships."
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "ArtsNOW",
+      "purpose": "Expansion of SmART Literacy initiative to improve K-3 literacy through arts integration at four metro Atlanta schools."
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "Crossroads Community Ministries",
+      "purpose": "$1.2 million campaign to improve facilities for homeless services agency."
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "Friends of Disabled Adults and Children",
+      "purpose": "Support of facility improvements for organization providing home medical equipment for individuals with disabilities."
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "Next Generation Men & Women",
+      "purpose": "Expansion of college and career readiness program in metro Atlanta."
+    },
+    {
+      "amount": 192000.0,
+      "is_new": true,
+      "name": "Home of Hope at Gwinnett Children's Shelter",
+      "purpose": "Roof replacement for shelter serving families in crisis."
+    },
+    {
+      "amount": 190000.0,
+      "is_new": false,
+      "name": "LaAmistad",
+      "purpose": "Support of reading specialists, technology updates and Teen Center launch for afterschool program."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Star-C",
+      "purpose": "Support of transportation, technology and site improvements to expand programs to new apartment communities."
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "Application form not required. Proposals should be submitted via the Foundation's online application portal on its website. Before submitting a formal grant request, prospective grantees are encouraged to submit an informal inquiry to fdns@woodruff.org. The grant request should be made in letter form and include the following information: - A description of the organization, its purposes, programs, staffing and governing board - The organization's latest financial statements including the most recent audit report - A description of the proposed project and full justification for its funding - An itemized project budget, including other sources of support in hand or anticipated - Evidence from the IRS of the organization's tax-exempt status and that the applying organization itself is not a private foundation.",

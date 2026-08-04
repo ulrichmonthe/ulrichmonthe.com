@@ -48,6 +48,458 @@
     "singleton_cluster_share": 0.3182,
     "total_grant_records": 406
   },
+  "recipients_latest_year": [
+    {
+      "amount": 1500000.0,
+      "is_new": false,
+      "name": "OPPORTUNITY 180",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 1500000.0,
+      "is_new": false,
+      "name": "KHAN ACADEMY",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 1082240.0,
+      "is_new": false,
+      "name": "THE MEADOWS SCHOOL",
+      "purpose": "WINDSONG SCHOLARSHIP PROGRAM"
+    },
+    {
+      "amount": 859000.0,
+      "is_new": true,
+      "name": "PINECREST OF NEVADA",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 850000.0,
+      "is_new": false,
+      "name": "EDNOVATE INC",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 750000.0,
+      "is_new": false,
+      "name": "TEACH FOR AMERICA LAS VEGAS",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 745575.0,
+      "is_new": false,
+      "name": "WINDSONG INTERNATIONAL FOUNDATION",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 700000.0,
+      "is_new": false,
+      "name": "FULFILLMENT FUND LAS VEGAS",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 700000.0,
+      "is_new": false,
+      "name": "TEACH FOR AMERICA LOS ANGELES",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 700000.0,
+      "is_new": true,
+      "name": "CRISTO REY ST VIATOR LAS VEGAS COLLEGE",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 665000.0,
+      "is_new": false,
+      "name": "DISCOVERY CHARTER SCHOOL",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 560000.0,
+      "is_new": true,
+      "name": "AMERICAN COMMITTEE FOR THE WEIZMANN INSTITUTE OF SCIENCE",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT AT THE DAVIDSON INSTITUTE OF SCIENCE"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "AFTER-SCHOOL ALL-STARS LOS ANGELES",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "OPPORTUNITY VILLAGE",
+      "purpose": "JOB DISCOVERY AND ARTS PROGRAMS"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "SIMON WIESENTHAL CENTER",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT AT THE MUSEUM OF TOLERANCE"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "DORAL RED ROCK ACADEMY OF NEVADA",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 450000.0,
+      "is_new": false,
+      "name": "COMMUNITIES IN SCHOOLS OF NEVADA",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "INSPIRING CHILDREN FOUNDATION",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "CITY YEAR",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "FOLDS OF HONOR FOUNDATION",
+      "purpose": "CHILDREN'S EDUCATIONAL SCHOLARSHIP PROGRAM"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "VISTA DEL MAR",
+      "purpose": "ARTS ENRICHMENT AND VOCATIONAL EDUCATION PROGRAMS"
+    },
+    {
+      "amount": 280500.0,
+      "is_new": false,
+      "name": "RONALD REAGAN PRESIDENTIAL FOUNDATION",
+      "purpose": "LIBERTY EDUCATION PROJECT"
+    },
+    {
+      "amount": 275000.0,
+      "is_new": false,
+      "name": "NEW HORIZONS",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 275000.0,
+      "is_new": false,
+      "name": "STRIVE FOUNDATION",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "MANHATTAN BEACH EDUCATION FOUNDATION",
+      "purpose": "SECONDARY COUNSELORS SUPPORTING AT-RISK STUDENTS"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "SERVITE HIGH SCHOOL",
+      "purpose": "TUITION ASSISTANCE"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "THE FRIENDSHIP FOUNDATION",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "THE GOLDIE HAWN FOUNDATION",
+      "purpose": "HIGH SCHOOL MIND UP PROGRAM"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "TRUCKEE MEADOWS COMMUNITY COLLEGE FOUNDATION",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT FOR HIGH SCHOOL STUDENTS"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "CISLA",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": false,
+      "name": "REDONDO BEACH EDUCATIONAL FOUNDATION",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 220000.0,
+      "is_new": true,
+      "name": "CSN FOUNDATION",
+      "purpose": "CTE ACADEMY FOR HIGH SCHOOL STUDENTS"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "CHILD DEVELOPMENT INSTITUTE",
+      "purpose": "EARLY CHILDHOOD CENTERS"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "DE TOLEDO HIGH SCHOOL",
+      "purpose": "TUITION ASSISTANCE"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "JUNIOR ACHIEVEMENT OF SOUTHERN NEVADA",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "SPREAD THE WORD NEVADA",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "FRIENDS OF GREEN CHIMNEYS",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "WINDWARD SCHOOL",
+      "purpose": "TUITION ASSISTANCE"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "CRESPI CARMELITE HIGH SCHOOL",
+      "purpose": "BUSINESS ACCOUNTING & FINANCE PROGRAM"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+      "purpose": "NEIGHBORHOOD ACADEMIC INITIATIVE (NAI) PROGRAM"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "C5 LOS ANGELES",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "HOLLENBECK POLICE ACADEMY LEAGUE",
+      "purpose": "YOUTH EDUCATIONAL PROGRAMS"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "MYCHAL'S LEARNING PLACE",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "BLIND CHILDREN'S CENTER",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "BOYS & GIRLS CLUB OF THE WEST VALLEY",
+      "purpose": "FUTURE READY PROGRAM"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "BOYS & GIRLS CLUB OF LA HABRA",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "CHILDREN TODAY",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "HARRISON GREENBERG MEMORIAL FOUNDATION",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT AT THE ROUNDHOUSE AQUARIUM"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "NASRI ACADEMY FOR GIFTED CHILDREN",
+      "purpose": "TUITION ASSISTANCE"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "ROSARY ACADEMY",
+      "purpose": "TUITION ASSISTANCE"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "PACIFIC CLINICS",
+      "purpose": "HOLLYGROVE HAVEN PROGRAM"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "BOYS & GIRLS CLUB OF TRUCKEE MEADOWS",
+      "purpose": "COLLEGE & CAREER BOUND CENTER"
+    },
+    {
+      "amount": 144000.0,
+      "is_new": false,
+      "name": "YESHIVA DAY SCHOOL OF LAS VEGAS",
+      "purpose": "TUITION ASSISTANCE"
+    },
+    {
+      "amount": 137000.0,
+      "is_new": false,
+      "name": "THE SMITH CENTER FOR THE PERFORMING ARTS",
+      "purpose": "STUDENT MATINEES"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "GRIFFITH OBSERVATORY FOUNDATION",
+      "purpose": "IN-PERSON SCHOOL PROGRAM"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "WISE READERS TO LEADERS",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "YESHIVA KETANA OF LOS ANGELES",
+      "purpose": "TUITION ASSISTANCE"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "DESERT TORAH ACADEMY",
+      "purpose": "TUITION ASSISTANCE"
+    },
+    {
+      "amount": 120000.0,
+      "is_new": false,
+      "name": "CHILDREN'S BURN FOUNDATION",
+      "purpose": "LA TROUPE SAFETY SMART PROGRAM"
+    },
+    {
+      "amount": 120000.0,
+      "is_new": false,
+      "name": "YMCA OF SOUTHERN NEVADA",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 120000.0,
+      "is_new": true,
+      "name": "THE SALVATION ARMY LOS ANGELES RED SHIELD",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT AT THE LOS ANGELES RED SHIELD YOUTH AND COMMUNITY CENTER"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": true,
+      "name": "LOS ANGELES POLICE ACADEMY MAGNET SCHOOL",
+      "purpose": "EDUCATIONAL OBSTACLE COURSES"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BET YOSSEF COMMUNITY CENTER",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "MONDAYS DARK",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "JUNIOR ACHIEVEMENT OF SOUTHERN CALIFORNIA",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "JBBBSLA",
+      "purpose": "CAMP BOB WALDORF"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "NETWORK FOR TEACHING ENTREPRENEURSHIP",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "WE BENEFIT CHILDREN",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "HERMOSA BEACH EDUCATION FOUNDATION",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "LEADERS IN TRAINING",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    },
+    {
+      "amount": 61440.0,
+      "is_new": true,
+      "name": "THE KING'S TRUST USA",
+      "purpose": "ACHIEVE PROGRAM"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MALIBU JEWISH CENTER & SYNAGOGUE",
+      "purpose": "HAND IN HAND PROGRAM"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "LEAP FOUNDATION",
+      "purpose": "SCHOLARSHIPS FOR SEO STUDENTS"
+    },
+    {
+      "amount": 20825.0,
+      "is_new": false,
+      "name": "THE ALEXANDER DAWSON SCHOOL",
+      "purpose": "TUITION ASSISTANCE"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "HENDERSON SYMPHONY ORCHESTRA",
+      "purpose": "EDUCATIONAL PROGRAM SUPPORT"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

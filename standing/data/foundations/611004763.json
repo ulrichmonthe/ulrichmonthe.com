@@ -48,6 +48,14 @@
     "singleton_cluster_share": 0.9152,
     "total_grant_records": 196
   },
+  "recipients_latest_year": [
+    {
+      "amount": 15914894.0,
+      "is_new": false,
+      "name": "SEE ATTACHED STATEMENT FOR DETAILS",
+      "purpose": "SEE ATTACHED STATEMENT FOR DETAILS"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "Applications for contributions, other than scholarships, should be submitted by letter and accompanied by a copy of the organization's exemption letter under Code Sec. 501(c)(3). The application must request a specific dollar amount and include a brief explanation of the charitable activities of the organization. Applications for scholarship awards should be submitted directly to Scholarship America, St. Peter MN, on a pre-approved form. For details, see \"Grant Information\" at www.humanafoundation.org.",

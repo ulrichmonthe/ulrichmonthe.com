@@ -48,6 +48,326 @@
     "singleton_cluster_share": 0.6417,
     "total_grant_records": 176
   },
+  "recipients_latest_year": [
+    {
+      "amount": 369954612.0,
+      "is_new": false,
+      "name": "THE FOUNDATION - SEE ATTACHMENT A",
+      "purpose": "SUPPORT SCHOOL OPERATIONS AND PROGRAMS"
+    },
+    {
+      "amount": 25000000.0,
+      "is_new": false,
+      "name": "FIDELITY CHARITABLE",
+      "purpose": "SUPPORT OF PUBLIC CHARITIES"
+    },
+    {
+      "amount": 10003643.0,
+      "is_new": false,
+      "name": "FIDELITY CHARITABLE - SEE ATTACHMENT A",
+      "purpose": "SUPPORT OF PUBLIC CHARITIES"
+    },
+    {
+      "amount": 7157000.0,
+      "is_new": true,
+      "name": "BAYLOR SCOTT & WHITE HEALTHCARE",
+      "purpose": "SUPPORT HEALTH INITIATIVES"
+    },
+    {
+      "amount": 5450000.0,
+      "is_new": false,
+      "name": "X PRIZE FOUNDATION INC",
+      "purpose": "SUPPORT TECHNOLOGICAL DEVELOPMENT FOR CARBON REMOVAL"
+    },
+    {
+      "amount": 5000000.0,
+      "is_new": false,
+      "name": "WINDWARD SCHOOL",
+      "purpose": "SUPPORT SCHOOL OPERATIONS AND PROGRAMS"
+    },
+    {
+      "amount": 5000000.0,
+      "is_new": true,
+      "name": "AUSTIN HABITAT FOR HUMANITY",
+      "purpose": "SUPPORT AFFORDABLE HOUSING AND COMMUNITY DEVELOPMENT"
+    },
+    {
+      "amount": 5000000.0,
+      "is_new": true,
+      "name": "THE SETON FUND",
+      "purpose": "SUPPORT HEALTH INTIATIVES"
+    },
+    {
+      "amount": 3250000.0,
+      "is_new": false,
+      "name": "THE UNIVERSITY OF TEXAS AT AUSTIN",
+      "purpose": "SUPPORT UNIVERSITY OPERATIONS AND PROGRAMS"
+    },
+    {
+      "amount": 3250000.0,
+      "is_new": true,
+      "name": "DIGITAL HARBOR FOUNDATION",
+      "purpose": "SUPPORT STEM EDUCATION AND DIGITAL LITERACY FOR YOUTH"
+    },
+    {
+      "amount": 2400000.0,
+      "is_new": false,
+      "name": "THE ST BERNARD PROJECT INC",
+      "purpose": "SUPPORT DISASTER RELIEF"
+    },
+    {
+      "amount": 2130000.0,
+      "is_new": false,
+      "name": "CODEORG",
+      "purpose": "SUPPORT ACCESS TO AND PARTICIPATION IN COMPUTER SCIENCE IN SCHOOLS"
+    },
+    {
+      "amount": 2084000.0,
+      "is_new": true,
+      "name": "SCROLL PRIZE INC",
+      "purpose": "SUPPORT CODING EDUCATION"
+    },
+    {
+      "amount": 2000000.0,
+      "is_new": false,
+      "name": "TEAM RUBICON",
+      "purpose": "SUPPORT HUMANITARIAN AND CONVENTIONAL AID RESPONSES"
+    },
+    {
+      "amount": 1975000.0,
+      "is_new": true,
+      "name": "OPERATION BBQ RELIEF",
+      "purpose": "SUPPORT DISASTER RELIEF THROUGH MEALS"
+    },
+    {
+      "amount": 1810000.0,
+      "is_new": false,
+      "name": "HACK FOUNDATION",
+      "purpose": "SUPPORT CODING EDUCATION"
+    },
+    {
+      "amount": 1500000.0,
+      "is_new": false,
+      "name": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+      "purpose": "SUPPORT RESEARCH PROGRAMS"
+    },
+    {
+      "amount": 1400000.0,
+      "is_new": false,
+      "name": "GIVEDIRECTLY INC",
+      "purpose": "SUPPORT FINANCIAL AID FOR FAMILIES LIVING IN POVERTY"
+    },
+    {
+      "amount": 1260000.0,
+      "is_new": true,
+      "name": "MERCY CHEFS INC",
+      "purpose": "SUPPORT DISASTER RELIEF THROUGH MEALS"
+    },
+    {
+      "amount": 1250000.0,
+      "is_new": true,
+      "name": "FEEDING AMERICA",
+      "purpose": "SUPPORT HUNGER RELIEF AND FOOD DISTRIBUTION"
+    },
+    {
+      "amount": 1100000.0,
+      "is_new": false,
+      "name": "THE TRAIL FOUNDATION",
+      "purpose": "SUPPORT PROTECTION OF THE BUTLER TRAIL"
+    },
+    {
+      "amount": 1083000.0,
+      "is_new": true,
+      "name": "SCHOLARSHIP AMERICA INC",
+      "purpose": "SUPPORT EDUCATIONAL SCHOLARSHIPS AND STUDENT FINANCIAL ASSISTANCE"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "AMERICA INSTITUTE FOR ROMAN CULTURE INC",
+      "purpose": "SUPPORT HISTORICAL RESEARCH AND CULTURAL PRESERVATION"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "EUROPEAN JEWISH ASSOCIATION",
+      "purpose": "SUPPORT ADVOCACY, EDUCATION, AND CULTURAL INITIATIVES FOR JEWISH COMMUNITIES"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "HEALTHCARE READY",
+      "purpose": "SUPPORT EMERGENCY PREPAREDNESS AND HEALTH CRISIS RESPONSE"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "PENN HARRIS MADISON SCHOOL CORPORATION",
+      "purpose": "SUPPORT EDUCATIONAL PROGRAMS AND STUDENT LEARNING INITIATIVES"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "PROSTATE CANCER FOUNDATION",
+      "purpose": "SUPPORT RESEARCH, AWARENESS, AND TREATMENT FOR PROSTATE CANCER"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "SAMARITANS PURSE",
+      "purpose": "SUPPORT INTERNATIONAL DISASTER RELIEF AND HUMANITARIAN AID PROGRAMS"
+    },
+    {
+      "amount": 930000.0,
+      "is_new": true,
+      "name": "BABY2BABY",
+      "purpose": "SUPPORT PROVIDING ESSENTIAL ITEMS TO LOW-INCOME FAMILIES"
+    },
+    {
+      "amount": 810000.0,
+      "is_new": true,
+      "name": "MORGAN'S INCLUSION INITIATIVE",
+      "purpose": "SUPPORT PROGRAMS PROMOTING ACCESSIBILITY, INCLUSION, AND OPPORTUNITIES"
+    },
+    {
+      "amount": 795000.0,
+      "is_new": true,
+      "name": "UC SANTA BARBARA FOUNDATION",
+      "purpose": "SUPPORT HIGHER EDUCATION, RESEARCH, AND STUDENT PROGRAMS"
+    },
+    {
+      "amount": 730472.0,
+      "is_new": true,
+      "name": "HOLOCAUST MUSEUM LA OPERATION",
+      "purpose": "SUPPORT HOLOCAUST EDUCATION AND REMEMBRANCE PROGRAMS"
+    },
+    {
+      "amount": 690000.0,
+      "is_new": true,
+      "name": "PARTNERS IN HEALTH",
+      "purpose": "SUPPORT GLOBAL HEALTH ACCESSIBILITY"
+    },
+    {
+      "amount": 550000.0,
+      "is_new": false,
+      "name": "SEATTLE CHILDREN'S HOSPITAL AARON MATTHEW SIDS RESEARCH GUILD",
+      "purpose": "SUPPORT SIDS RESEARCH"
+    },
+    {
+      "amount": 506000.0,
+      "is_new": true,
+      "name": "INFORMATION TECHNOLOGY DISASTER RESOURCE CENTER INC",
+      "purpose": "SUPPORT VOLUNTEER COORDINATION FOR DISASTER RESPONSE"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "THE DEFINITY PROJECT INC",
+      "purpose": "SUPPORT EDUCATION INITIATIVES"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "MAKE-A-WISH FOUNDATION OF AMERICA",
+      "purpose": "SUPPORT GRANTING WISHES FOR CHILDREN WITH CRITICAL ILLNESSES"
+    },
+    {
+      "amount": 499000.0,
+      "is_new": true,
+      "name": "MINUTEMAN DISASTER RESPONSE FOUNDATION",
+      "purpose": "SUPPORT VOLUNTEER DEPLOYMENT FOR DISASTER RELIEF AND RECOVERY"
+    },
+    {
+      "amount": 496735.0,
+      "is_new": true,
+      "name": "MISSIONS ON WHEELS INC",
+      "purpose": "SUPPORT MEDICAL CARE ACCESS IN UNDERSERVED OR REMOTE COMMUNITIES"
+    },
+    {
+      "amount": 443950.0,
+      "is_new": true,
+      "name": "MERCURY ONE INC",
+      "purpose": "SUPPORT HUMANITARIAN AID AND EDUCATIONAL INITIATIVES"
+    },
+    {
+      "amount": 295500.0,
+      "is_new": false,
+      "name": "CAMERON COUNTY EDUCATION INITIATIVE INC",
+      "purpose": "SUPPORT THE PATIENT CARE TECHNICIAN CERTIFICATION PROGRAM"
+    },
+    {
+      "amount": 295000.0,
+      "is_new": true,
+      "name": "SAE INTERNATIONAL",
+      "purpose": "SUPPORT ENGINEERING EDUCATION AND PROFESSIONAL DEVELOPMENT PROGRAMS"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "DIPLOMATIC SECURITY FOUNDATION INCORPORATED",
+      "purpose": "SUPPORT SAFETY, SECURITY, AND EDUCATIONAL PROGRAMS FOR DIPLOMATIC PERSONNEL"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "TEXAS A AND M FOUNDATION",
+      "purpose": "SUPPORT SCHOLARSHIPS, RESEARCH, AND EDUCATIONAL INITIATIVES"
+    },
+    {
+      "amount": 156400.0,
+      "is_new": true,
+      "name": "SENTINEL FOUNDATION",
+      "purpose": "SUPPORT COMMUNITY AND PUBLIC SAFETY INITIATIVES"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "CHILDREN'S MUSEUM OF BROWNSVILLE",
+      "purpose": "SUPPORT CREATIVE LEARNING OPPORTUNITIES FOR CHILDREN"
+    },
+    {
+      "amount": 120000.0,
+      "is_new": false,
+      "name": "CITY OF BROWNSVILLE",
+      "purpose": "SUPPORT COMMUNITY IMPROVEMENT AND CITY PROGRAMS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "FRIENDS OF WESTMINSTER",
+      "purpose": "SUPPORT WESTMINSTER ELEMENTARY SCHOOL OPERATIONS AND PROGRAMS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "THE FRITSCH FOUNDATION INC",
+      "purpose": "SUPPORT ACCELERATING CANCER IMMUNOTHERAPY RESEARCH"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "WORLD SPINE CARE",
+      "purpose": "SUPPORT SPINE HEALTH CARE, RESEARCH, AND TREATMENT INITIATIVES IN UNDERSERVED AREAS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "LOS ANGELES FIRE DEPARTMENT FOUNDATION",
+      "purpose": "PROVIDE RESOURCES TO PROGRAMS THAT SUPPORT THE LAFD"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "TRAVIS COUNTY SHERIFF'S OFFICE",
+      "purpose": "SUPPORT TRAINING AND DEPLOYMENT OF WORKING DOGS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "GIRLS IN ROBOTICS",
+      "purpose": "SUPPORT STEM EDUCATION AND ROBOTICS PROGRAMS FOR GIRLS"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

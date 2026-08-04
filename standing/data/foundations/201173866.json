@@ -48,6 +48,1100 @@
     "singleton_cluster_share": 0.6411,
     "total_grant_records": 1198
   },
+  "recipients_latest_year": [
+    {
+      "amount": 4127000.0,
+      "is_new": false,
+      "name": "Rockefeller Philanthropy Advisors Inc",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 2715000.0,
+      "is_new": false,
+      "name": "Amalgamated Charitable Foundation Inc",
+      "purpose": "To support Grantee's fund, the Families and Workers Fund"
+    },
+    {
+      "amount": 1250000.0,
+      "is_new": false,
+      "name": "Santa Fe Institute of Science",
+      "purpose": "To support the Emergent Political Economies: Rules, Dynamics and Diversity Research Theme"
+    },
+    {
+      "amount": 1100000.0,
+      "is_new": false,
+      "name": "Korean Immigrant Workers Advocates of Southern California",
+      "purpose": "To support's Grantee's project, the California Coalition for Worker Power (\"CCWP\")"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "Economic Policy Institute Inc",
+      "purpose": "To support Grantee's project, EARN"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "United Nations Economic Commission for Africa",
+      "purpose": "To support Grantee's Digital Centre of Excellence"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "Swiss Philanthropy Foundation",
+      "purpose": "To support Grantee's fund, Partners for a New Economy"
+    },
+    {
+      "amount": 830000.0,
+      "is_new": false,
+      "name": "The Franklin and Eleanor Roosevelt Institute",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 655000.0,
+      "is_new": false,
+      "name": "The Regents of the University of California Berkeley",
+      "purpose": "To support Grantee's Othering and Belonging Institute"
+    },
+    {
+      "amount": 600000.0,
+      "is_new": false,
+      "name": "Center for American Progress",
+      "purpose": "To support Grantee's unions and labor relations work"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "Jobs with Justice Education Fund",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "The New School",
+      "purpose": "To support Grantee's project, the Institute on Race and Political Economy"
+    },
+    {
+      "amount": 457500.0,
+      "is_new": false,
+      "name": "Welcoming America Inc",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 405859.0,
+      "is_new": true,
+      "name": "Partnership on AI to Benefit People and Society",
+      "purpose": "To support Grantee's work advancing responsible technology"
+    },
+    {
+      "amount": 405000.0,
+      "is_new": false,
+      "name": "President and Fellows of Harvard College",
+      "purpose": "To support Grantee's Trust and Belonging Institute"
+    },
+    {
+      "amount": 404500.0,
+      "is_new": false,
+      "name": "Hopewell Fund",
+      "purpose": "To support Grantees project, Over Zero"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "Neighborhood Funders Group Inc",
+      "purpose": "To support Grantee's project, the LIFT Fund"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "National Employment Law Project Inc",
+      "purpose": "To support Grantee's Strategic Partnerships project"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": true,
+      "name": "IllumiNative Inc",
+      "purpose": "General Operating Support"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "American Economic Liberties Project",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "Better Markets Inc",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": true,
+      "name": "Designing Justice Designing Spaces",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": true,
+      "name": "Massachusetts Institute of Technology",
+      "purpose": "To support research being conducted by Grantee's Program in Science, Technology, and Society"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": true,
+      "name": "Movement Advancement Project Inc",
+      "purpose": "To support Grantee's project, Winning Jobs Narrative"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": true,
+      "name": "The Christchurch Call Foundation",
+      "purpose": "General Operating"
+    },
+    {
+      "amount": 345000.0,
+      "is_new": false,
+      "name": "New Venture Fund",
+      "purpose": "To support the U.S. Impact Investing Alliance"
+    },
+    {
+      "amount": 325000.0,
+      "is_new": false,
+      "name": "American Compass Inc",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 320000.0,
+      "is_new": false,
+      "name": "Financial Services Stakeholder Project NFP",
+      "purpose": "General Operating"
+    },
+    {
+      "amount": 305000.0,
+      "is_new": false,
+      "name": "Code for Science & Society Inc",
+      "purpose": "To support Grantee's project, Distributed AI Research Institute"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "Atlantic Council of the United States Inc",
+      "purpose": "To support Grantee's Democracy + Tech Initiative at the DFRLab"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "Open Markets Institute",
+      "purpose": "General Operating"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "Data & Society Research Institute Inc",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "Los Angeles Alliance for a New Economy",
+      "purpose": "General Operating Support"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": true,
+      "name": "Democracy Forward Foundation",
+      "purpose": "General Operating Support"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": true,
+      "name": "Mosaic America",
+      "purpose": "General Operating Support"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": true,
+      "name": "NewPublic Inc",
+      "purpose": "To support Grantee's belonging work"
+    },
+    {
+      "amount": 295000.0,
+      "is_new": false,
+      "name": "Washington Center for Equitable Growth Inc",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 275000.0,
+      "is_new": true,
+      "name": "Rochester Institute of Technology",
+      "purpose": "To support Rochester Institute of Tech's project, Usable Tools for Deepfake Identification and Mitigation"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "Consumer Reports Inc",
+      "purpose": "To support Grantee's project, Permission Slip"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "Interfaith Center on Corporate Responsibility",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "Civic Nation",
+      "purpose": "To support Grantee's project, Change Collective"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "Philanthropic Ventures Foundation",
+      "purpose": "Support Grantee's project, Building Belonging"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "RadicalxChange Foundation Ltd",
+      "purpose": "Support for Grantee's Future of Property Rights project"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "Carnegie Mellon University",
+      "purpose": "To support Grantee's project, Open Forum for Artificial Intelligence"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "Investigative Studios Inc",
+      "purpose": "To support Grantee's documentary work"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "SeedAI Inc",
+      "purpose": "Support Grantee's educational efforts around Artificial Intelligence"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "Social Science Research Council",
+      "purpose": "To support Grantee's research on artificial intelligence"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "The AFL-CIO Working for America Institute Inc",
+      "purpose": "To support Grantee's project, the AFL-CIO Technology Institute"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "The Associated Press",
+      "purpose": "To support Grantee's efforts to investigate and report on the impacts of generative artificial intelligence"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "The EleutherAI Institute",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "Topos Public",
+      "purpose": "Supporting the Think Big Alliance"
+    },
+    {
+      "amount": 240000.0,
+      "is_new": false,
+      "name": "The Aspen Institute Inc",
+      "purpose": "To support Grantee's project, Aspen Digital"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": true,
+      "name": "Cambiar Education",
+      "purpose": "To support Grantee's project, The Rithm Project"
+    },
+    {
+      "amount": 223000.0,
+      "is_new": true,
+      "name": "The Collective Intelligence Project Inc",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 220000.0,
+      "is_new": false,
+      "name": "The American Exchange Project Inc",
+      "purpose": "General operating"
+    },
+    {
+      "amount": 215000.0,
+      "is_new": false,
+      "name": "The Center for Christianity and Public Life",
+      "purpose": "General Operating support"
+    },
+    {
+      "amount": 212500.0,
+      "is_new": true,
+      "name": "The New Press Inc",
+      "purpose": "To support Grantee's work creating a book program focusing on new economic paradigms"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "DEMOS A NETWORK FOR IDEAS AND ACTION LTD",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "National Domestic Workers Alliance Inc",
+      "purpose": "To support Grantee to support and empower disenfranchised care workers"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "Just Futures Law Inc",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "Repairers of the Breach Inc",
+      "purpose": "General Operating"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "National Hispanic Media Coalition",
+      "purpose": "General Operating"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "United Vision for Idaho Inc",
+      "purpose": "General Operating Support"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "Common Future",
+      "purpose": "Support Grantee's Mobility Alliance Project"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "East Bay Alliance for a Sustainable Economy",
+      "purpose": "General Operating"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "Harmony Labs Inc",
+      "purpose": "To support Grantee's project, Media R&D Lab for Economic Mobility Narratives"
+    },
+    {
+      "amount": 190544.0,
+      "is_new": true,
+      "name": "Pathos Labs",
+      "purpose": "To support Grantee's project, Popshift Writers Room"
+    },
+    {
+      "amount": 190000.0,
+      "is_new": false,
+      "name": "5050 Climate Project (DBA Majority Action)",
+      "purpose": "General Operating Support"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "For the Long Term",
+      "purpose": "to support Grantee to educate state and local fiscal officers about ESG-related risks and opportunities associated with the development and deployment of AI"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "Canadian Shareholder Association for Research and Education",
+      "purpose": "To support Grantee's efforts to promote socially responsible investing in private equity"
+    },
+    {
+      "amount": 170000.0,
+      "is_new": false,
+      "name": "Amis du Wellbeing Project",
+      "purpose": "General Operating Support"
+    },
+    {
+      "amount": 165000.0,
+      "is_new": false,
+      "name": "Datasphere Initiative Foundation",
+      "purpose": "To support Grantee's efforts to ensure responsible data sharing."
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "The One America Movement",
+      "purpose": "Support for Grantee's Matthew 5:9 Project"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "Public Knowledge",
+      "purpose": "General Operating"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "New America Foundation",
+      "purpose": "Support for global community of practice to deepen understanding of co-governance field, and connect practitioners building civic power"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "The San Francisco Foundation",
+      "purpose": "To support Grantee's project, ReWork the Bay"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "Aspiration",
+      "purpose": "To support Grantee's project, AI Now"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "Millions of Conversations Inc",
+      "purpose": "To support Grantee's Project 3142"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "More Perfect Union Foundation",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "National Center on Education and The Economy",
+      "purpose": "To support Grantee's project, the National Student Board Member Association (NSBMA)"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "National Economic and Social Rights Initiative (DBA Partners for Dignity &",
+      "purpose": "To support Grantees efforts to strengthen co-governance infrastructure in the US"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "Ruralorganizingorg Education Fund",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "Artificial Intelligence Forensics",
+      "purpose": "To support Grantee's algorithmic auditing project"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "Caring Across Generations Inc",
+      "purpose": "To support Grantee to develop a multi-state tour to engage community building, dialogue and civic engagement around care and care work"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "Neo Philanthropy Inc",
+      "purpose": "To support Grantee's project, Land Justice Futures"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "States Newsroom",
+      "purpose": "To support independent media reporting and the public's education"
+    },
+    {
+      "amount": 145000.0,
+      "is_new": true,
+      "name": "Mijente Support Committee",
+      "purpose": "General Operating Support"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "Action Center on Race and the Economy Institute",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "Liberation in a Generation Inc",
+      "purpose": "General Operating"
+    },
+    {
+      "amount": 120000.0,
+      "is_new": true,
+      "name": "University of California Irvine Foundation",
+      "purpose": "To support Research being conducted by UCI Law"
+    },
+    {
+      "amount": 110880.0,
+      "is_new": true,
+      "name": "Get Free Movement Fund Inc",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 110880.0,
+      "is_new": true,
+      "name": "Possibility Labs",
+      "purpose": "Support for Grantee's BLIS project"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "Carnegie Endowment for International Peace",
+      "purpose": "To support Grantee's project, California Artificial Intelligence Survey"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "Hampton University",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 109008.0,
+      "is_new": true,
+      "name": "European Center for Not-for-Profit Law Stichting",
+      "purpose": "To support Grantee's research on the negative impacts of generative AI."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Capita Social Inc",
+      "purpose": "To support Grantee's efforts to understand loneliness and unhappiness in the U.S."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Center for Community Change",
+      "purpose": "To advance social welfare for workers by supporting and enforcing worker protections"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "The Brookings Institution",
+      "purpose": "To support Grantee's governance studies project"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Yale University",
+      "purpose": "To support Yale University's Digital Economy Project at the Tobin Center for Economic Policy"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Morehouse College Inc",
+      "purpose": "General Operating Support"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Spelman College",
+      "purpose": "General Operating Support"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Generation Citizen Inc",
+      "purpose": "Support for Grantee's strategic planning"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Social Impact Fund",
+      "purpose": "To support Grantee's project, Influence Change"
+    },
+    {
+      "amount": 99964.0,
+      "is_new": false,
+      "name": "New York University",
+      "purpose": "To support Grantee's National Artificial Intelligence Research Resource (\"NAIRR\") Pilot"
+    },
+    {
+      "amount": 99563.0,
+      "is_new": true,
+      "name": "Institute for Public Policy Research",
+      "purpose": "To support Grantee to host a convening of economic policy experts"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": false,
+      "name": "The Trustees of Columbia University in the City of New York",
+      "purpose": "To support research at Columbia's School of International and Public Affairs"
+    },
+    {
+      "amount": 87700.0,
+      "is_new": true,
+      "name": "Institute for Public Affairs dba In These Times",
+      "purpose": "Support Grantee's work advancing democracy and economic justice"
+    },
+    {
+      "amount": 87500.0,
+      "is_new": false,
+      "name": "Connected by Data Ltd",
+      "purpose": "To support Grantee's networking and design labs activities to strengthen data governance practices for the benefit of communities."
+    },
+    {
+      "amount": 86957.0,
+      "is_new": false,
+      "name": "The Board of Trustees of the Leland Stanford Junior University",
+      "purpose": "To support the Rock Center for the production of pre-recorded modules on AI opportunities, risks and oversight"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "B Lab Company",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Global Impact",
+      "purpose": "To support Grantee's project, Galaxy Gives-Future US"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Next River",
+      "purpose": "Support Grantee's Radical Loss Project"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "Stichting World Benchmarking Alliance Foundation",
+      "purpose": "To support Grantee's efforts to organize investors and civil society organizations to advance ethics in AI"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "Take Creative Control Inc",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "The History CoLab",
+      "purpose": "To support Grantee's Belonging Barometer project"
+    },
+    {
+      "amount": 73780.0,
+      "is_new": true,
+      "name": "Ownership Futures Ltd",
+      "purpose": "To support Grantee to host a convening of economic policy experts"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "Community Initiatives",
+      "purpose": "To support Grantee's project, Predistribution Initiative"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Reproductive Health Investors Alliance Inc",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "TDP Labs",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "FairPlay Inc",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "genEquality Inc",
+      "purpose": "General Operating Support"
+    },
+    {
+      "amount": 48200.0,
+      "is_new": true,
+      "name": "Center for Strategic and International Studies Inc",
+      "purpose": "To support Grantee's research and analysis of the national security impacts of the growing open-source ecosystem"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "Smithsonian Institution",
+      "purpose": "To support Grantee's project, Smithsonian Folkways Recordings"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "Platform Info Exchange Limited",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": true,
+      "name": "Center for Open Data Enterprise Inc",
+      "purpose": "To support Grantee's cross sectoral partnerships on generative artificial intelligence"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": true,
+      "name": "CivicLex Incorporated",
+      "purpose": "Support for Grantee's Citizen Assembly Project"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": true,
+      "name": "Healthy Democracy Fund",
+      "purpose": "To support Grantee's efforts address youth homelessness in Central Oregon"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": true,
+      "name": "Kinfolk Tech Foundation",
+      "purpose": "General Operating"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": true,
+      "name": "Salt Lake Civil Network Inc",
+      "purpose": "Support Grantee's efforts to further community engagement"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": true,
+      "name": "The Center for Media Justice",
+      "purpose": "General Operations"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": true,
+      "name": "The University of Arizona Foundation",
+      "purpose": "Support Grantee's Native Nations Institute"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "The Tides Center",
+      "purpose": "To support Grantee's project, MH Action"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "Investor Advocates for Social Justice Inc",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "Fundacin Multitudes",
+      "purpose": "To support Grantee's project, Project Connie"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "National Black Tech Ecosystem Association",
+      "purpose": "General Operating"
+    },
+    {
+      "amount": 36012.0,
+      "is_new": true,
+      "name": "Institute for future-fit economies gemeinntzige UG",
+      "purpose": "To support Grantee to host a convening of economic policy experts"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "Economic Hardship Reporting Project",
+      "purpose": "Support Grantee's fundraising plan so it can carry on its charitable mission"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "Unbound Communities",
+      "purpose": "General Operating Support"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "National Women's Law Center",
+      "purpose": "General Operating"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "The George Washington University",
+      "purpose": "To support Grantee's Multiracial Democracy Project"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Lawyers' Committee for Civil RightsUnder Law",
+      "purpose": "General Operating Support"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Power Rising",
+      "purpose": "General Operating Support"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "The Barack Obama Foundation",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "National Conference on Citizenship",
+      "purpose": "Support for Grantee's \"Renewing Civic Health\" Conference"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "Geena Davis Institute on Gender in Media Inc",
+      "purpose": "General Operating"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "Social Good Fund Inc",
+      "purpose": "To support Grantee's project American Stories"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Center for Popular Democracy Inc",
+      "purpose": "To support Grantee's Dignified Retirement educational campaign"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Camp Kesem National",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "MUSO INC",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Tzedek DC Inc",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "University of Michigan Ford School",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "German Marshall Fund of the US",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "My Digital Tat2 Inc",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "The Clear Fund",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "Anti Defamation League",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 7000.0,
+      "is_new": false,
+      "name": "Planned Parenthood Federation of America",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "DC Central Kitchen",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Omega Institute for Holistic Studies",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Theatre at Boston Court",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Everytown for Gun Safety Support Fund",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Round House Theater Inc",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Jewish Community Relations Council of San Francisco Marin & Peninsula",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Southern University System Foundation- Southern University Gift Accoun",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": false,
+      "name": "In Our Own Voice National Black Womens Reproductive Justice Agenda",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "Americans for Oxford Inc- Harris Manchester College",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "Pearson College of the Pacific US Foundation",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "The Friends of Mount Allison Inc",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "A Wider Circle Inc",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "American Foundation for Suicide Prevention",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "SOME Inc (So Others Might Eat)",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "Anacostia Watershed Society Inc",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "City Wildlife Inc",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "Capital Area Food Bank",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "Ceres Inc",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "Penn Center Inc",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "Street Sense Media",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "Our Lady of Mercy Community Outreach Services",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "United We Dream",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "Block Club Chicago",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "Edmund Burke School",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "Florence Crittenton Services of Greater Washington",
+      "purpose": "Employee directed giving program"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "Doctors Without Borders USA - Medecins San Frontieres USA Inc",
+      "purpose": "Employee directed giving program"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

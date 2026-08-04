@@ -50,6 +50,14 @@
     "singleton_cluster_share": 0.0,
     "total_grant_records": 5
   },
+  "recipients_latest_year": [
+    {
+      "amount": 20200000.0,
+      "is_new": false,
+      "name": "C K BLANDIN FOUNDATION",
+      "purpose": "TO SUPPORT DIRECT CHARITABLE ACTIVITIES, GRANTMAKING, AND SCHOLARSHIPS"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

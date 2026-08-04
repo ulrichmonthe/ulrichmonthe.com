@@ -49,6 +49,230 @@
     "singleton_cluster_share": 0.6842,
     "total_grant_records": 86
   },
+  "recipients_latest_year": [
+    {
+      "amount": 3500000.0,
+      "is_new": true,
+      "name": "FRANCISCAN UNIVERSITY OF STEUBENVILLE",
+      "purpose": "TO FUND FRANCISCAN UNIVERSITY MISSION FOR STUDENTS IN WASHINGTON DC."
+    },
+    {
+      "amount": 2156666.0,
+      "is_new": false,
+      "name": "SAINT DENIS CATHOLIC CHURCH",
+      "purpose": "TO SUPPORT RELIGIOUS ACTIVITIES."
+    },
+    {
+      "amount": 1709239.0,
+      "is_new": false,
+      "name": "PROJECT HOME",
+      "purpose": "TO BREAK THE CYCLE OF HOMELESSNESS AND POVERTY IN PHILADELPHIA."
+    },
+    {
+      "amount": 1666668.0,
+      "is_new": false,
+      "name": "THOMAS JEFFERSON UNIVERSITY - RAPHAEL CENTER FOR NEURORESTORATION",
+      "purpose": "TO RESTORE, PROMOTE, MAINTAIN, AND IMPROVE FUNCTION CAUSED BY NEUROLOGICAL DISORDERS."
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "SAINT CHARLES BORROMEO SEMINARY",
+      "purpose": "TO SUPPORT ONGOING ACADEMIC AND PASTORAL PROGRAMS TO PRIESTS, DEACONS, RELIGIOUS AND LAITY."
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "PHILADELPHIA INDEPENDENCE MISSION SCHOOLS",
+      "purpose": "TO PROVIDE SUPPORT TO A NETWORK OF CATHOLIC ELEMENTARY SCHOOLS IN PHILADELPHIA."
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "CONGREGATION OF HOLY CROSS US PROVINCE",
+      "purpose": "TO SUPPORT EDUCATORS OF FAITH IN THE FIELDS OF EDUCATION, PARISH AND MISSION."
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "BECKET FUND FOR RELIGIOUS LIBERTY",
+      "purpose": "TO SUPPORT LEGAL ACTIVITIES IN DEFENSE OF RELIGIOUS LIBERTY."
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "THE CATHOLIC FOUNDATION OF GREATER PHILADELPHIA",
+      "purpose": "TO SUPPORT THE LITTLE SISTERS OF THE POOR HOLY FAMILY HOME PROGRAM FUND."
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "PLATFORM FOR SOCIAL IMPACT PUERTO RICO",
+      "purpose": "TO SUPPORT THE DEVELOPMENT, WELLBEING, AND OPPORTUNITIES TO SUCCEED FOR CHILDREN."
+    },
+    {
+      "amount": 350000.0,
+      "is_new": true,
+      "name": "THE PAPAL FOUNDATION",
+      "purpose": "TO FUND CHARITABLE PROJECTS SUPPORTING THE PHILANTHROPIC PRIORITIES OF THE CATHOLIC CHURCH."
+    },
+    {
+      "amount": 222094.0,
+      "is_new": true,
+      "name": "THE EHLERS-DANOS SOCIETY",
+      "purpose": "TO SUPPORT THE STUDY OF EHLERS-DANLOS SYNDROME & DEVELOPMENT OF PERSONALIZED THERAPEUTIC SOLUTIONS"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "CRISTO REY NETWORK",
+      "purpose": "TO SUPPORT PROGRAMS FURTHERING CRISTO REYS CATHOLIC CHARACTER, MISSIONS, AND PROGRAMS."
+    },
+    {
+      "amount": 189792.0,
+      "is_new": false,
+      "name": "SISTERS OF MARY WORLD VILLAGES FOR CHILDREN",
+      "purpose": "TO PROVIDE FOOD, SHELTER, MEDICAL CARE AND EDUCATION TO NEEDY INTERNATIONAL CHILDREN."
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF OKLAHOMA FOUNDATION INC",
+      "purpose": "TO SUPPORT THE OU COLLEGE OF MEDICINE."
+    },
+    {
+      "amount": 110445.0,
+      "is_new": false,
+      "name": "CATHOLIC LEADERSHIP INSTITUTE",
+      "purpose": "TO PROVIDE PASTORAL LEADERSHIP FORMATION AND CONSULTING IN THE ROMAN CATHOLIC CHURCH."
+    },
+    {
+      "amount": 106200.0,
+      "is_new": true,
+      "name": "SAINT JOHN NEUMANN PARISH",
+      "purpose": "TO SUPPORT RELIGIOUS ACTIVITIES."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BROAD STREET MINISTRY",
+      "purpose": "TO EMBRACE THE INDIVIDUAL NEEDS OF OUR MOST VULNERABLE SISTERS AND BROTHERS."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CARING FOR FRIENDS",
+      "purpose": "TO PROVIDE FOOD AND FRIENDSHIP TO SENIORS, KIDS, ADULTS AND THE HOMELESS."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ST CHRISTOPHERS HOSPITAL FOR CHILDREN",
+      "purpose": "TO SUPPORT THE HEALTH NEEDS OF CHILDREN THROUGH CLINICAL CARE, OUTREACH, RESEARCH, AND EDUCATION."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "LIVE VERTICAL",
+      "purpose": "TO CREATE CULTURES OF EVANGELIZATION AND MISSIONARY DISCIPLESHIP IN CATHOLIC SCHOOLS."
+    },
+    {
+      "amount": 51000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF NOTRE DAME",
+      "purpose": "TO SUPPORT HIGHER LEARNING AT THE UNIVERSITY OF NOTRE DAME."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "METRODORA FOUNDATION",
+      "purpose": "TO ADVANCE CARE AND ACCELERATE CURES FOR PATIENTS WITH CHRONIC, MULTISYSTEM DISORDERS."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "OUR HOUSE MINISTRIES",
+      "purpose": "TO FUND THE PRODUCTION AND DISTRIBUTION OF VENERABLE MATT TALBOT DOCUMENTARY FILM."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "THOMAS JEFFERSON UNIVERSITY",
+      "purpose": "TO SUPPORT PATIENT ASSISTANCE AT THE DAVID FARBER ASPIRE CENTER."
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "RC ACTIVITIES INC",
+      "purpose": "TO DEVELOP AND OFFER PROGRAMS AND RESOURCES BASED ON GOSPEL VALUES."
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "FOR PETE'S SAKE CANCER RESPITE FOUNDATION",
+      "purpose": "TO SUPPORT RESPITE PROGRAMS FOR CANCER PATIENTS AND THEIR FAMILIES."
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "MONASTERO DEI SANTI DOMENICO E SISTO",
+      "purpose": "TO SUPPORT RELIGIOUS ACTIVITIES."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "LA FONDITA DE JESUS",
+      "purpose": "TO PROVIDE A SUPPORTIVE COMMUNITY TO HOMELESS PEOPLE IN SAN JUAN, PUERTO RICO."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "ALS UNITED MID-ATLANTIC (FORMERLY THE ALS ASSOCIATION PHILADELPHIA CHAPTER)",
+      "purpose": "TO RAISE AWARENESS TO FIND A CURE FOR ALS."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "FRIENDS OF BARZILAI MEDICAL CENTER",
+      "purpose": "TO SUPPORT MEDICAL CARE FOR CIVILIANS AND SOLDIERS AT THE BARZILAI MEDICAL CENTER IN ISRAEL."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "THE CHILDREN'S HOSPITAL OF PHILADELPHIA FOUNDATION",
+      "purpose": "TO SUPPORT THE MATTHEW HOUDER ENDOWED FUND FOR SPINE DISORDER RESEARCH."
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "GREATER PHILADELPHIA YMCA",
+      "purpose": "TO PROVIDE FINANCIAL ASSISTANCE FOR FAMILIES TO UTILIZE YMCA PROGRAMS & SERVICES."
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "THE ROCK SCHOOL FOR DANCE EDUCATION",
+      "purpose": "TO MAKE ARTS EDUCATION AVAILABLE TO ECONOMICALLY DISADVANTAGED STUDENTS."
+    },
+    {
+      "amount": 2080.0,
+      "is_new": true,
+      "name": "ASSOCIATION OF NOTRE DAME CLUBS INC - PHILADELPHIA",
+      "purpose": "TO SUPPORT THE RACHEL GERNERD PHIGHTING IRISH 5K FUNDRAISER."
+    },
+    {
+      "amount": 1023.0,
+      "is_new": true,
+      "name": "LUMIND IDSC FOUNDATION",
+      "purpose": "TO PROVIDE IMPROVED HEALTH, INDEPENDENCE & OPPORTUNITIES TO THE DOWN SYNDROME COMMUNITY."
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "LEUKEMIA & LYMPHOMA SOCIETY",
+      "purpose": "TO SUPPORT RESEARCH AND CARE FOR BLOOD CANCER PATIENTS."
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

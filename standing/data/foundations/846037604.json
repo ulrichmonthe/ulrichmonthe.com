@@ -48,6 +48,2384 @@
     "singleton_cluster_share": 0.4355,
     "total_grant_records": 2456
   },
+  "recipients_latest_year": [
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "COLORADO FORUM FUND INC",
+      "purpose": "THE DRIVE INITIATIVE AT THE COLORADO"
+    },
+    {
+      "amount": 415000.0,
+      "is_new": false,
+      "name": "EARLY CHILDHOOD COUNCIL LEADERSHIP",
+      "purpose": "GENERAL OPERATING SUPPORT,TO BE PAID"
+    },
+    {
+      "amount": 320000.0,
+      "is_new": false,
+      "name": "BOYS AND GIRLS CLUBS OF THE SAN LUI",
+      "purpose": "THE SMART MOVES PROGRAM"
+    },
+    {
+      "amount": 285000.0,
+      "is_new": false,
+      "name": "EARLY CHILDHOOD COUNCIL OF LARIMER",
+      "purpose": "TO BE PAID IN TWO INSTALLMENTS. THE"
+    },
+    {
+      "amount": 275000.0,
+      "is_new": false,
+      "name": "COLORADO STATEWIDE PARENT COALITION",
+      "purpose": "PROVIDERS ADVANCING SCHOOL OUTCOMES"
+    },
+    {
+      "amount": 265000.0,
+      "is_new": false,
+      "name": "HEALTHY CHILD CARE COLORADO",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "TLC LEARNING CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "BUELL EARLY CHILDHOOD LEADERS NETWO",
+      "purpose": "THE BUELL EARLY CHILDHOOD LEADERS NE"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "VAIL VALLEY FOUNDATION INC",
+      "purpose": "CAPITAL FOR THE AVON CHILDCARE CENTE"
+    },
+    {
+      "amount": 235000.0,
+      "is_new": false,
+      "name": "RESILIENT COMMUNITIES RESILIENT FUT",
+      "purpose": "ECE TRAUMA-INFORMED TRAINING AND CON"
+    },
+    {
+      "amount": 227000.0,
+      "is_new": false,
+      "name": "STATE BOARD FOR COMMUNITY COLLEGES",
+      "purpose": "CHILD DEVELOPMENT SERVICES"
+    },
+    {
+      "amount": 220000.0,
+      "is_new": true,
+      "name": "STRATTON AREA FOUNDATION 2 INC",
+      "purpose": "CHILDCARE CENTER DEVELOPMENT IN STRA"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "COLORADO COMMUNITY COLLEGE SYSTEM F",
+      "purpose": "THE SKILLS INSTRUCTOR PILOT AT FOUR"
+    },
+    {
+      "amount": 185000.0,
+      "is_new": false,
+      "name": "MONTESSORI DEL MUNDO",
+      "purpose": "PRIMARY CLASSROOMS"
+    },
+    {
+      "amount": 180000.0,
+      "is_new": false,
+      "name": "GRAND BEGINNINGS",
+      "purpose": "THE COMMUNITY TUITION ASSISTANCE PRO"
+    },
+    {
+      "amount": 180000.0,
+      "is_new": false,
+      "name": "MILE HIGH MONTESSORI EARLY LEARNING",
+      "purpose": "THE EARLY LEARNING CENTERS"
+    },
+    {
+      "amount": 179125.0,
+      "is_new": true,
+      "name": "THE ARCHER GROUP",
+      "purpose": "ADVOCACY EFFORTS BENEFITTING CHILDRE"
+    },
+    {
+      "amount": 178000.0,
+      "is_new": false,
+      "name": "BRIGHT FUTURES",
+      "purpose": "CHILD CARE CENTER DIRECTOR-MENTOR PR"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "CLAYTON EARLY LEARNING TRUSTEE GEOR",
+      "purpose": "GENERAL OPERATING SUPPORT, TO BE PAI"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": true,
+      "name": "THE EARLY CHILDHOOD PARTNERSHIP OF",
+      "purpose": "EARLY CHILDHOOD MENTAL HEALTH CONSUL"
+    },
+    {
+      "amount": 170000.0,
+      "is_new": false,
+      "name": "CENTENNIAL MENTAL HEALTH CENTER INC",
+      "purpose": "EARLY CHILDHOOD MENTAL HEALTH CONSUL"
+    },
+    {
+      "amount": 166666.0,
+      "is_new": false,
+      "name": "WESTERN STOCK SHOW ASSOCIATION",
+      "purpose": "SPONSORSHIP NAMING RIGHTS FOR THE SC"
+    },
+    {
+      "amount": 165000.0,
+      "is_new": false,
+      "name": "HEALTH SOLUTIONS",
+      "purpose": "EARLY CHILDHOOD MENTAL HEALTH CONSUL"
+    },
+    {
+      "amount": 165000.0,
+      "is_new": false,
+      "name": "EMMANUEL STEM INTERNATIONAL",
+      "purpose": "TO BE USED AS FOLLOWS 30,000 FOR GEN"
+    },
+    {
+      "amount": 151500.0,
+      "is_new": false,
+      "name": "YOUNG TRACKS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "COLORADO CHILDRENS CAMPAIGN INC",
+      "purpose": "TO BE PAID OVER TWO YEARS AND TO BE"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "EARLY CHILDHOOD COUNCIL SAN LUIS VA",
+      "purpose": "EARLY CHILDHOOD MENTAL HEALTH CONSUL"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "CONFLUENCE CENTER OF COLORADO INC",
+      "purpose": "CAPITAL FOR STREAM PRESCHOOL, TO BE"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "WILD BEAR NATURE CENTER",
+      "purpose": "CAPITAL FOR THE EARLY CHILDHOOD PROG"
+    },
+    {
+      "amount": 145000.0,
+      "is_new": false,
+      "name": "DENVER HEALTH AND HOSPITALS FOUNDAT",
+      "purpose": "EARLY CHILDHOOD MENTAL HEALTH CONSUL"
+    },
+    {
+      "amount": 142250.0,
+      "is_new": false,
+      "name": "TEACHORG INC",
+      "purpose": "EXPANDING TEACH COLORADOS SUPPORT OF"
+    },
+    {
+      "amount": 133000.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF COLORADO FOUNDATION F",
+      "purpose": "GENERAL OPERATING SUPPORT FOR COMMUN"
+    },
+    {
+      "amount": 129027.0,
+      "is_new": false,
+      "name": "DENVER EARLY CHILDHOOD COUNCIL INC",
+      "purpose": "RMECC 2025 PRECONFERENCE CONVENING"
+    },
+    {
+      "amount": 129000.0,
+      "is_new": false,
+      "name": "PARENT POSSIBLE",
+      "purpose": "COLORADO HOME VISITING COALITION TOB"
+    },
+    {
+      "amount": 127000.0,
+      "is_new": false,
+      "name": "AURORA COMPREHENSIVE COMMUNITY MENT",
+      "purpose": "THE CHILD FIRST PROGRAM"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "ARAPAHOE COUNTY EARLY CHILDHOOD COU",
+      "purpose": "INFRASTRUCTURE AND SYSTEMS BUILDING,"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "MONTESSORI INTERGENERATIONAL LEARNI",
+      "purpose": "GENERAL OPERATING SUPPORT, TO BE PAI"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "CARE INVESTMENT PARTNERS LP",
+      "purpose": "MISSION DRIVEN FINANCES COLORADO CAR"
+    },
+    {
+      "amount": 115000.0,
+      "is_new": false,
+      "name": "JEFFERSON CENTER FOR MENTAL HEALTH",
+      "purpose": "TO BE USED AS FOLLOWS 85,000 FOR EAR"
+    },
+    {
+      "amount": 114500.0,
+      "is_new": false,
+      "name": "ROUTT COUNTY HUMAN SERVICES",
+      "purpose": "LOCAL FINANCING SUPPORT FOR LOCALIZI"
+    },
+    {
+      "amount": 113000.0,
+      "is_new": false,
+      "name": "VALLEY SETTLEMENT",
+      "purpose": "THE EL BUSESITO PROGRAM"
+    },
+    {
+      "amount": 105000.0,
+      "is_new": false,
+      "name": "EARLY CHILDHOOD COUNCIL OF LA PLATA",
+      "purpose": "INFRASTRUCTURE AND SYSTEMS BUILDING,"
+    },
+    {
+      "amount": 103000.0,
+      "is_new": false,
+      "name": "FAMILY VISITOR PROGRAM OF GARFIELD",
+      "purpose": "HOME VISITATION AND THE MOTHERWISE P"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "FAMILY RESOURCE CENTER ASSOCIATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "HISTORY COLORADO",
+      "purpose": "THE TEMPLE BUELL CURATOR OF ARCHITEC"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "EARLY CHILDHOOD COUNCIL OF THE SAN",
+      "purpose": "INFRASTRUCTURE AND SYSTEMS BUILDING,"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "EXECUTIVES PARTNERING TO INVEST IN",
+      "purpose": "SUSTAINABLE SYSTEMS DEVELOPMENT OPTI"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "THE POWERHOUSE",
+      "purpose": "CAPITAL TO OPEN NEW ECE SLOTS"
+    },
+    {
+      "amount": 98000.0,
+      "is_new": false,
+      "name": "MOUNTAIN VALLEY DEVELOPMENTAL SERVI",
+      "purpose": "ROCKY MOUNTAIN EARLY CHILDHOOD COUNC"
+    },
+    {
+      "amount": 95000.0,
+      "is_new": false,
+      "name": "CHILDREN'S HOSPITAL COLORADO FOUNDA",
+      "purpose": "AURORA TEEN PREGNANCY PREVENTION COL"
+    },
+    {
+      "amount": 95000.0,
+      "is_new": true,
+      "name": "CONFLUENCE EARLY CHILDHOOD EDUCATIO",
+      "purpose": "LOCAL FINANCING SUPPORT"
+    },
+    {
+      "amount": 94600.0,
+      "is_new": true,
+      "name": "COLORADO EDUCATION INITIATIVE",
+      "purpose": "THE K-12 POST SECONDARY AND WORKFORC"
+    },
+    {
+      "amount": 94000.0,
+      "is_new": true,
+      "name": "STATE",
+      "purpose": "INFRASTRUCTURE AND SYSTEMS BUILDING"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": false,
+      "name": "FOCUS POINTS FAMILY RESOURCE CENTER",
+      "purpose": "PARENTS AS TEACHERS AND HOME INSTRUC"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": false,
+      "name": "CATHOLIC CHARITIES OF THE DIOCESE O",
+      "purpose": "THE FAMILY EDUCATION AND EMPOWERMENT"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": true,
+      "name": "COLORADO STATE UNIVERSITY-PUEBLO FO",
+      "purpose": "TUITION ASSISTANCE FOR CSU PUEBLO'S"
+    },
+    {
+      "amount": 88000.0,
+      "is_new": false,
+      "name": "MESA COUNTY PARTNERSHIP FOR CHILDRE",
+      "purpose": "MESA COUNTY PARTNERSHIP FOR CHILDREN"
+    },
+    {
+      "amount": 87500.0,
+      "is_new": false,
+      "name": "INVEST IN KIDS",
+      "purpose": "THENURSE-FAMILY PARTNERSHIP PROGRAM"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "FAMILY STAR INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "EARLY CHILDHOOD COUNCIL OF BOULDER",
+      "purpose": "INFRASTRUCTURE AND SYSTEMS BUILDING,"
+    },
+    {
+      "amount": 83000.0,
+      "is_new": false,
+      "name": "FLORENCE CRITTENTON SERVICES OF COL",
+      "purpose": "TO BE USED AS FOLLOWS 62,000 FOR THE"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "ABILITY CONNECTION COLORADO",
+      "purpose": "THE CREATIVE OPTIONS FOR EARLY EDUCA"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "TEACHING TREE EARLY CHILDHOOD LEARN",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "THE COLORADO SPRINGS CHILD NURSERY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": true,
+      "name": "STATE OF COLORADO",
+      "purpose": "PARTIAL SALARY SUPPORT FOR THE GOVER"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "CHALKBEAT INC",
+      "purpose": "CHALKBEAT COLORADO COVERAGE OF EARLY"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "EARLY CHILDHOOD PARTNERS",
+      "purpose": "EARLY CHILDHOOD MENTAL HEALTH CONSUL"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "GROWING HOME INC",
+      "purpose": "PARENTS AS TEACHERS, TO BE PAID OVER"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "MASLOW ACADEMY OF APPLIED LEARNING",
+      "purpose": "EARLY CHILDHOOD EDUCATION"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "SEWALL CHILD DEVELOPMENT CENTER INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "THRIVING FAMILIES",
+      "purpose": "GENERAL OPERATING SUPPORT, TO BE PAI"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "TRAILHEAD INSTITUTE",
+      "purpose": "CHARGE FOR POSITIVE YOUTH DEVELOPMEN"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "TRAILHEAD INSTITUTE - WISE",
+      "purpose": "THE WISE INITIATIVE"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "WILD PLUM CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "NORTH RANGE BEHAVIORAL HEALTH",
+      "purpose": "EARLY CHILDHOOD MENTAL HEALTH CONSUL"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF COLORADO FOUNDATION",
+      "purpose": "THE ALMA PEER MENTORING PROGRAM"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "COMMUNITY PARTNERSHIP FOR CHILD DEV",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "DURANGO 4-C COUNCIL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "REGIONAL HOME VISITATION PROGRAM",
+      "purpose": "GENERAL OPERATING SUPPORT, TO BE PAI"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "CATHOLIC CHARITIES AND COMMUNITY SE",
+      "purpose": "THE CHILD DEVELOPMENT CENTER, MARIPO"
+    },
+    {
+      "amount": 74000.0,
+      "is_new": false,
+      "name": "WELD COUNTY'S EARLY CHILDHOOD COUNC",
+      "purpose": "WELD COUNTYS EARLY CHILDHOOD COUNCIL"
+    },
+    {
+      "amount": 72830.0,
+      "is_new": false,
+      "name": "CHAFFEE COUNTY EARLY CHILDHOOD COUN",
+      "purpose": "EARLY CHILDHOOD MENTAL HEALTH CONSUL"
+    },
+    {
+      "amount": 72000.0,
+      "is_new": true,
+      "name": "ARAPAHOE DOUGLAS MENTAL HEALTH",
+      "purpose": "EARLY CHILDHOOD MENTAL HEALTH CONSUL"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "BOULDER COUNTY PUBLIC HEALTH",
+      "purpose": "GENERATIONS PROGRAM, TO BE PAID OVER"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "HOPE CENTER INC",
+      "purpose": "THE EARLY CHILDHOOD EDUCATION PROGRA"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "WARREN VILLAGE INC",
+      "purpose": "LICENSED CHILD CARE, TO BE PAID IN T"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "COMMUNITY COALITION FOR FAMILIES AN",
+      "purpose": "THE EARLY CHILDHOOD HOME VISITATION"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "LUTHERAN SOCIAL SERVICE OF COLORADO",
+      "purpose": "TO BE USED AS FOLLOWS 30,000 FOR PAR"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "COMMUNITY FOUNDATION SERVING SOUTHW",
+      "purpose": "AMERICA 250 - COLORADO 150 SOUTHWEST"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": true,
+      "name": "DENVER PUBLIC SCHOOLS - COMMUNITY H",
+      "purpose": "PLAY AND LEARN PROGRAMS AT THE COMMU"
+    },
+    {
+      "amount": 68000.0,
+      "is_new": false,
+      "name": "EARLY CHILDHOOD COUNCIL FOR YUMA WA",
+      "purpose": "TO BE PAID OVER TWO YEARS AND TO BE"
+    },
+    {
+      "amount": 67000.0,
+      "is_new": false,
+      "name": "THE EARLY CHILDHOOD COUNCIL",
+      "purpose": "INFRASTRUCTURE AND SYSTEMS BUILDING,"
+    },
+    {
+      "amount": 65250.0,
+      "is_new": false,
+      "name": "WILDFLOWER MONTESSORI PUBLIC SCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "PLANNED PARENTHOOD OF THE ROCKY MOU",
+      "purpose": "AREA OF HIGHEST NEED"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "DURANGO EDUCATION CENTER",
+      "purpose": "THE EARLY CHILDHOOD PROFESSIONAL TRA"
+    },
+    {
+      "amount": 62000.0,
+      "is_new": false,
+      "name": "GIRLS INCORPORATED OF METRO DENVER",
+      "purpose": "THE COLLEGE SUCCESS PROGRAM"
+    },
+    {
+      "amount": 62000.0,
+      "is_new": false,
+      "name": "YOUNG MEN'S CHRISTIAN ASSOCIATION O",
+      "purpose": "INSPIRE PRESCHOOL"
+    },
+    {
+      "amount": 61000.0,
+      "is_new": false,
+      "name": "DEVELOPMENTAL OPPORTUNITIES",
+      "purpose": "TO BE USED AS FOLLOWS 25,000 FOR NUR"
+    },
+    {
+      "amount": 61000.0,
+      "is_new": false,
+      "name": "HUERFANO-LAS ANIMAS COUNTIES EARLY",
+      "purpose": "TO BE USED AS FOLLOWS 43,000 FOR INF"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "THE PION PROJECT FAMILY RESOURCE CE",
+      "purpose": "TREE HOUSE EARLY LEARNING CENTER, IN"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "ROCKY MOUNTAIN PUBLIC MEDIA INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "HILLTOP HEALTH SERVICES CORPORATION",
+      "purpose": "PARENTS AS TEACHERS,TO BE PAID OVER"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "MESA COUNTY SCHOOL DISTRICT 51 EARL",
+      "purpose": "PRESCHOOL COACHING, TO BE PAID IN TW"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "NEW LEGACY CHARTER HIGH SCHOOL",
+      "purpose": "TO BE USED AS FOLLOWS 40,000 FOR THE"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "STRIVE PREPARATORY SCHOOLS",
+      "purpose": "THE ECE PROGRAM, TO BE PAID IN TWO I"
+    },
+    {
+      "amount": 56000.0,
+      "is_new": false,
+      "name": "FOUNDATION OF TRUSTEES FOR THE FAMI",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "BAL SWAN CHILDREN'S CENTER",
+      "purpose": "LICENSED CHILD CARE"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "EARLY EXCELLENCE PROGRAM OF DENVER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 54500.0,
+      "is_new": true,
+      "name": "THE FAMILY CENTER - LA FAMILIA",
+      "purpose": "THE MI VOZ PROGRAM OR OTHER IMMIGRAN"
+    },
+    {
+      "amount": 52000.0,
+      "is_new": false,
+      "name": "COLORADO MESA UNIVERSITY FOUNDATION",
+      "purpose": "THE LITTLE MAVERICKS LEARNING CENTER"
+    },
+    {
+      "amount": 51000.0,
+      "is_new": false,
+      "name": "YWCA BOULDER COUNTY",
+      "purpose": "THE PERSIMMON EARLY LEARNING CENTER"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CHILDREN'S MEDICAL CENTER FOUNDATIO",
+      "purpose": "RESEARCH WORK BY DR. NAOMI WINICK"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CONNECTIONS 4 KIDS",
+      "purpose": "TO BE USED AS FOLLOWS 40,000 FOR INF"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "GRAND KIDS LEARNING CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "THE MATTHEWS HOUSE",
+      "purpose": "TO BE USED AS FOLLOWS 10,000 FOR GEN"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "VALDEZ ELEMENTARY SCHOOL",
+      "purpose": "PROGRAMA FAMILIAR DE LENGUAJE AT VAL"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ADAMS COUNTY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SHILOH HOME INC",
+      "purpose": "TO BE USED AS FOLLOWS 35,000 FOR PAR"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "COLORADO NONPROFIT DEVELOPMENT CENT",
+      "purpose": "GENERAL OPERATING SUPPORT OFASSURING"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ILLUMINATE COLORADO INC",
+      "purpose": "ADVOCACY EFFORTS BENEFITTING CHILDRE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "EAGLE",
+      "purpose": "TUITION ASSISTANCE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "EXPANDING EARLY CARE AND LEARNING I",
+      "purpose": "LOCAL FINANCING IN CLEAR CREEK COUNT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "TOWN OF ESTES PARK",
+      "purpose": "THE TOWN OF ESTES PARK ECE LODGING T"
+    },
+    {
+      "amount": 48000.0,
+      "is_new": false,
+      "name": "CENTER FOR AFRICAN AMERICAN HEALTH",
+      "purpose": "FAMILY AND EARLY CHILDHOOD SUPPORT P"
+    },
+    {
+      "amount": 46000.0,
+      "is_new": true,
+      "name": "EARLY CHILDHOOD ALLIANCE",
+      "purpose": "EARLY CHILDHOOD ALLIANCE TO BE USED"
+    },
+    {
+      "amount": 45226.0,
+      "is_new": true,
+      "name": "THE LEARNING TREE HEALTH SOLUTIONS",
+      "purpose": "CAPITAL TO MOVE DOORS AT THE LEARNIN"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "CHILDREN'S HAVEN CHILD CARE CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "DOUGLAS COUNTY EARLY CHILDHOOD COUN",
+      "purpose": "THE DOUGLAS COUNTY EARLY CHILDHOOD C"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "LA PINATA DEL APRENDIZAJE",
+      "purpose": "EARLY CHILDHOOD PROGRAMS"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "LIMON CHILD DEVELOPMENT CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": true,
+      "name": "NORTH HIGH SCHOOL",
+      "purpose": "A PART-TIME COMPREHENSIVE HEALTH TEA"
+    },
+    {
+      "amount": 43250.0,
+      "is_new": false,
+      "name": "LA PLATA FAMILY CENTERS COALITION",
+      "purpose": "HOME VISITATION AND PARENTING EDUCAT"
+    },
+    {
+      "amount": 43000.0,
+      "is_new": false,
+      "name": "THE AMERICAS ASSOCIATION FOR THE CA",
+      "purpose": "THE PAMOJA HOME VISITING PROGRAM, TO"
+    },
+    {
+      "amount": 43000.0,
+      "is_new": true,
+      "name": "JEWISH FAMILY SERVICE OF COLORADO I",
+      "purpose": "KIDSUCCESS - PARENTING EDUCATION AND"
+    },
+    {
+      "amount": 41100.0,
+      "is_new": false,
+      "name": "COURT APPOINTED SPECIAL ADVOCATE IN",
+      "purpose": "EVIDENCE-BASED PARENTING EDUCATION"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "BROOMFIELD EARLY CHILDHOOD COUNCIL",
+      "purpose": "INFRASTRUCTURE AND SYSTEMS BUILDING,"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "EAST SIDE CHILD CARE CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "KIDS FIRST HEALTH CARE",
+      "purpose": "THE REPRODUCTIVE HEALTH EDUCATION PR"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "LEARNING SOURCE",
+      "purpose": "THE EARLY CHILDHOOD COMPONENT OF THE"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "MORGAN COUNTY FAMILY CENTER INC",
+      "purpose": "PARENTS AS TEACHERS"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "ROOTS FAMILY CENTER",
+      "purpose": "THE HOME VISITATION PROGRAM, TO BE P"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "SAVIO HOUSE",
+      "purpose": "THE CHILD FIRST PROGRAM"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "TELLER PARK EARLY CHILDHOOD COUNCIL",
+      "purpose": "INFRASTRUCTURE AND SYSTEMS BUILDING,"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "YUMA CHILDREN'S ACADEMY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "CENTRAL CITY OPERA HOUSE ASSOCIATIO",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "WILDFLOWER FOUNDATION",
+      "purpose": "COLORADO ECE SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "CULTIVANDO",
+      "purpose": "ECE SUPPORTS, INCLUDING PARENTING ED"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "JEFFERSON COUNTY SCHOOL DISTRICT NO",
+      "purpose": "HOME VISITATION"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "KENT DENVER COUNTY DAY SCHOOL",
+      "purpose": "DENVER COUNTRY DAY SCHOOL SCHOLARSHI"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "THE PION PROJECT",
+      "purpose": "MONTELORES EARLY CHILDHOOD COUNCIL F"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "ECHO AND FAMILY CENTER EARLY CHILDH",
+      "purpose": "INFRASTRUCTURE AND SYSTEMS BUILDING,"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "GARDEN PRESCHOOL AND EARLY LEARNING",
+      "purpose": "TUITION ASSISTANCE FOR GARDEN PRESCH"
+    },
+    {
+      "amount": 38500.0,
+      "is_new": false,
+      "name": "HOUSE OF NEIGHBORLY SERVICE",
+      "purpose": "THE PARENTS AS TEACHERS PAT PROGRAM"
+    },
+    {
+      "amount": 38000.0,
+      "is_new": false,
+      "name": "COLORADO COALITION FOR THE HOMELESS",
+      "purpose": "THE RENAISSANCE CHILDREN'S CENTER"
+    },
+    {
+      "amount": 37500.0,
+      "is_new": false,
+      "name": "COLORADO CENTER ON LAW AND POLICY",
+      "purpose": "GENERAL OPERATING SUPPORT, TO BE PAI"
+    },
+    {
+      "amount": 37500.0,
+      "is_new": false,
+      "name": "VOLUNTEERS OF AMERICA COLORADO BRAN",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 37400.0,
+      "is_new": false,
+      "name": "ARAPAHOE COMMUNITY COLLEGE FOUNDATI",
+      "purpose": "THE READYING EDUCATING SUPPORTING PR"
+    },
+    {
+      "amount": 36000.0,
+      "is_new": false,
+      "name": "LITTLE IMAGINATIONS EARLY LEARNING",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 36000.0,
+      "is_new": false,
+      "name": "METROPOLITAN STATE UNIVERSITY OF DE",
+      "purpose": "PARENTS AS TEACHERS AND THE EARLY CH"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "CATHOLIC CHARITIES OF CENTRAL COLOR",
+      "purpose": "THE FAMILY CONNECTIONS PROGRAM"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "LANDMARK CHRISTIAN PRESCHOOL",
+      "purpose": "TUITION ASSISTANCE AT LANDMARK CHRIS"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "SISTER CARMEN COMMUNITY CENTER INC",
+      "purpose": "THE NURTURING PARENTING PROGRAM"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "YOUTHPOWER365",
+      "purpose": "TO BE USED AS FOLLOWS 25,000 FOR THE"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "BOULDER COUNTY",
+      "purpose": "EARLY CHILDHOOD MENTAL HEALTH CONSUL"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "LA COCINA",
+      "purpose": "SOMOS FAVAS"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "LAKE COUNTY SCHOOL DISTRICT R-1",
+      "purpose": "GENERAL OPERATING SUPPORT OF THE CEN"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "ZOOMERS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "AURARIA HIGHER EDUCATION CENTER",
+      "purpose": "TUITION ASSISTANCE FOR FAMILIES AT O"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "AURORA WELLNESS COMMUNITY",
+      "purpose": "OPERATING SUPPORT OF THE CHILD CARE"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "SAN LUIS VALLEY AREA HEALTH EDUCATI",
+      "purpose": "HIPPY IN THE SAN LUIS VALLEY"
+    },
+    {
+      "amount": 34400.0,
+      "is_new": false,
+      "name": "RED ROCKS COMMUNITY COLLEGE FOUNDAT",
+      "purpose": "THE CHILDREN'S CENTER AT RED ROCKS C"
+    },
+    {
+      "amount": 34000.0,
+      "is_new": false,
+      "name": "SAFEHOUSE PROGRESSIVE ALLIANCE FOR",
+      "purpose": "THE FAMILY FIRST PROGRAM"
+    },
+    {
+      "amount": 33000.0,
+      "is_new": false,
+      "name": "LITTLE GIANTS LEARNING CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 32750.0,
+      "is_new": true,
+      "name": "DELTA COUNTY",
+      "purpose": "PARENTS AS TEACHERS AND THE PRESCHOO"
+    },
+    {
+      "amount": 32000.0,
+      "is_new": false,
+      "name": "AURORA COMMUNITY CONNECTION",
+      "purpose": "EARLY CHILDHOOD AND FAMILY EDUCATION"
+    },
+    {
+      "amount": 30500.0,
+      "is_new": false,
+      "name": "FAMILY LEARNING CENTER",
+      "purpose": "THE EARLY CHILDHOOD PROGRAM"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "BMH-BJ PRESCHOOL",
+      "purpose": "TUITION ASSISTANCE AT BMH-BJ PRESCHO"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "EAGLE COUNTY SCHOOL DISTRICT RE-50J",
+      "purpose": "EAGLE COUNTY SCHOOL DISTRICT'S ECE P"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "EARLY MILESTONES COLORADO",
+      "purpose": "WORKFORCE INITIATIVE CONTRACT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "FOCUSEDKIDS",
+      "purpose": "PROGRAMMING FOR FAMILIES WITH CHILDR"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "IMPACT ON EDUCATION",
+      "purpose": "THE KINDER BRIDGE EARLY CHILDHOOD LE"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "SEEDS OF LEARNING",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "SOUTH PARK EARLY CHILDHOOD SYSTEM",
+      "purpose": "THE SOUTH PARK EARLY CHILDHOOD SYSTE"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "MILE HIGH UNITED WAY INC",
+      "purpose": "HOME INSTRUCTION FOR PARENTS OF PRES"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "PIKES PEAK LIBRARY DISTRICT FOUNDAT",
+      "purpose": "LENA START EARLY LITERACY PROGRAM, T"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "ECUMENICAL CHURCH OF PUEBLO WEST",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "GUNNISON COUNTY",
+      "purpose": "INFRASTRUCTURE AND SYSTEMS BUILDING"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "SUMMIT COUNTY FAMILY RESOURCE CENTE",
+      "purpose": "HOME VISITATION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "TEACH FOR AMERICA",
+      "purpose": "THE TFA COLORADO EARLY CHILDHOOD EDU"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "SUMMIT COUNTY CHILD CARE RESOURCE A",
+      "purpose": "INFRASTRUCTURE AND SYSTEMS BUILDING"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "EVERY CHILD PEDIATRICS",
+      "purpose": "COMPREHENSIVE SEX EDUCATION AT THE S"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "MORGAN COUNTY PARTNERSHIP FOR CHILD",
+      "purpose": "THE MORGAN COUNTY PARTNERSHIP FOR CH"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "PROWERS COUNTY DEPARTMENT OF HUMAN",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "TENDERFOOT CHILD AND FAMILY DEVELOP",
+      "purpose": "TUITION ASSISTANCE FOR FAMILIES AT O"
+    },
+    {
+      "amount": 28000.0,
+      "is_new": false,
+      "name": "RURAL COMMUNITIES RESOURCE CENTER",
+      "purpose": "THE PARENTING EDUCATION AND LITERACY"
+    },
+    {
+      "amount": 28000.0,
+      "is_new": false,
+      "name": "TOTALLY KIDS INC",
+      "purpose": "THE EARLY CHILDHOOD EDUCATION"
+    },
+    {
+      "amount": 27500.0,
+      "is_new": false,
+      "name": "RAISE THE FUTURE",
+      "purpose": "POST-PERMANENCY SUPPORT SERVICES, EX"
+    },
+    {
+      "amount": 27000.0,
+      "is_new": false,
+      "name": "WEE CARE IN LAKE CITY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 27000.0,
+      "is_new": true,
+      "name": "WILDFLOWER NATURE SCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 26400.0,
+      "is_new": false,
+      "name": "AKRON UNITED METHODIST CHURCH",
+      "purpose": "GENERAL OPERATING SUPPORT OF AKRON H"
+    },
+    {
+      "amount": 26000.0,
+      "is_new": true,
+      "name": "LA VETA SCHOOL DISTRICT RE-2",
+      "purpose": "EARLY CHILDHOOD EDUCATION"
+    },
+    {
+      "amount": 25500.0,
+      "is_new": false,
+      "name": "COMMUNITY MONTESSORI OF BOULDER VAL",
+      "purpose": "TUITION ASSISTANCE FOR THE ACCESS PR"
+    },
+    {
+      "amount": 25500.0,
+      "is_new": false,
+      "name": "BOULDER DAY NURSERY ASSOCIATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "COLORADO TEEN PARENT COLLABORATIVE",
+      "purpose": "THE COLORADO TEEN PARENT COLLABORATI"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ELBERT COUNTY EARLY CHILDHOOD COUNC",
+      "purpose": "THE ELBERT COUNTY EARLY CHILDHOOD CO"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "HIGHLINE ACADEMY",
+      "purpose": "THE EARLY CHILDHOOD EDUCATION ECE PR"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "THE RESOURCE EXCHANGE",
+      "purpose": "EARLY CHILDHOOD SERVICES, EXCLUDING"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "RIVERHOUSE CHILDREN'S CENTER INC",
+      "purpose": "TUITION ASSISTANCE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SUMMIT COUNTY PRESCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ACADEMY OF URBAN LEARNING",
+      "purpose": "THE REPRODUCTIVE HEALTH PROGRAM"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ARCHULETA COUNTY EDUCATION CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CHILDSAFE COLORADO",
+      "purpose": "PARENTING EDUCATION CLASSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SARGENT CHILDCARE ASSOCIATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "WIGGINS SCHOOL DISTRICT RE-50J",
+      "purpose": "GENERAL OPERATING SUPPORTOF WIGGINS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "ADAMS COUNTY YOUTH INITIATIVE INC",
+      "purpose": "EARLY CHILDHOOD/KINDERGARTEN READINE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "WE HELP AND LOVE EVERYONE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 24000.0,
+      "is_new": false,
+      "name": "COLORADO ASSOCIATION FOR THE EDUCAT",
+      "purpose": "PROFESSIONAL DEVELOPMENT"
+    },
+    {
+      "amount": 23500.0,
+      "is_new": true,
+      "name": "JACOB FAMILY SERVICES INC",
+      "purpose": "EVIDENCED-BASED PARENTING EDUCATION"
+    },
+    {
+      "amount": 23000.0,
+      "is_new": false,
+      "name": "INTEGRATED COMMUNITY",
+      "purpose": "EARLY CHILDHOOD PROGRAMMING"
+    },
+    {
+      "amount": 22000.0,
+      "is_new": false,
+      "name": "EUREKA MCCONNELL SCIENCE MUSEUM",
+      "purpose": "TO BE USED AS FOLLOWS 18,000 FOR LIC"
+    },
+    {
+      "amount": 22000.0,
+      "is_new": false,
+      "name": "ROARING FORK VALLEY EARLY LEARNING",
+      "purpose": "GENERAL OPERATING SUPPORT, TO BE PAI"
+    },
+    {
+      "amount": 21500.0,
+      "is_new": false,
+      "name": "AKRON BALANCED CHILD DEVELOPMENT CE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 21000.0,
+      "is_new": false,
+      "name": "CREEDE EARLY LEARNING CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 21000.0,
+      "is_new": false,
+      "name": "DELTA COUNTY SCHOOL DISTRICT 50J",
+      "purpose": "THE BACKPACK EARLY LEARNING ACADEMY"
+    },
+    {
+      "amount": 20800.0,
+      "is_new": false,
+      "name": "CAMPBELL CHILD AND FAMILY CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "A SHARED VISION",
+      "purpose": "PARENTING SUPPORTS THROUGH HOME VISI"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "CHILDREN'S SPEECH AND READING CENTE",
+      "purpose": "EARLY CHILDHOOD LITERACY PROGRAMS, I"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "COLORADO YOUTH FOR A CHANGE",
+      "purpose": "THE EARLY READING CORPS PROGRAM FOR"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "COMMUNITY RESOURCE CENTER INC",
+      "purpose": "THE RURAL ACTION NETWORK, WITH THE E"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "DURANGO EARLY LEARNING CENTER INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "EARLY LEARNING VENTURES",
+      "purpose": "EARLY HEAD START CHILD CARE PARTNERS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "EL CENTRO AMISTAD",
+      "purpose": "ESCUELA DE PADRES Y MADRES PROGRAM"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "THE LEARNING COUNCIL",
+      "purpose": "THE YOUTH SEXUAL HEALTH PROGRAM"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "NEW AMERICA SCHOOL",
+      "purpose": "CUIDATE TAKE CARE OF YOURSELF"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "SUMMIT COUNTY YOUTH AND FAMILY SERV",
+      "purpose": "THE STRENGTHENING FAMILIES OUTREACH"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "TRI-COUNTY FAMILY CARE CENTER INC",
+      "purpose": "EARLY CHILDHOOD PROGRAMS, TO BE PAID"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "WESTERN COLORADO UNIVERSITY FOUNDAT",
+      "purpose": "5,000 FOR LEADERSHIP DEVELOPMENT ACT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "HERITAGE PARK PRESCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "ROCKY MOUNTAIN WELCOME CENTER",
+      "purpose": "KINDERGARTEN PREP"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "VILLAGE INSTITUTE INC",
+      "purpose": "LITTLE VILLAGE AT THE VILLAGE INSTIT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "CUSTER COUNTY",
+      "purpose": "INFRASTRUCTURE AND SYSTEMS BUILDING,"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "PUEBLO DEPARTMENT OF PUBLIC HEALTH",
+      "purpose": "THE ADOLESCENT PREGNANCY PREVENTION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "ROCKY MOUNTAIN CHILDREN'S HEALTH FO",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "WRIGHT STUFF COMMUNITY FOUNDATION",
+      "purpose": "THE PRIME TIME EARLY LEARNING CENTER"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "CKLECC",
+      "purpose": "INFRASTRUCTURE AND SYSTEMS BUILDING,"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "COLORADO STATE UNIVERSITY EARLY CHI",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "EL PASO COUNTY DEPARTMENT OF HUMAN",
+      "purpose": "FATHERING CLASSAT THE CENTER ON FATH"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "TELLURIDE FOUNDATION",
+      "purpose": "THE CIMARRON ATHLETIC FIELD PROJECT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "BOYS AND GIRLS CLUB OF THE PIKES PE",
+      "purpose": "THE DRAW THE LINE RESPECT THE LINE P"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "BRIGHT LIGHTS EARLY LEARNING CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT, INCLUDING"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "CHILDRENS KIVA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "COLORADO RIVER BOCES- YAMPAH TEEN P",
+      "purpose": "THE TEEN PARENT PROGRAM AT YAMPAH MO"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "EARLY CHILDHOOD COUNCIL OF BENT OTE",
+      "purpose": "THE EARLY CHILDHOOD COUNCIL OF BENT,"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "FAMILY RESOURCE CENTER OF THE ROARI",
+      "purpose": "THE FAMILY RESOURCE CENTER OF THE RO"
+    },
+    {
+      "amount": 19000.0,
+      "is_new": false,
+      "name": "MANCOS VALLEY DRAGONFLY SCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 19000.0,
+      "is_new": false,
+      "name": "STEPPING STONES CHILDREN'S CENTER",
+      "purpose": "TUITION ASSISTANCE FOR FAMILIES AT O"
+    },
+    {
+      "amount": 18500.0,
+      "is_new": false,
+      "name": "EARLY LEARNING CENTER INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 18000.0,
+      "is_new": false,
+      "name": "OUTREACH UNITED RESOURCE CENTER",
+      "purpose": "THE ASPEN CENTER FOR CHILD DEVELOPME"
+    },
+    {
+      "amount": 18000.0,
+      "is_new": false,
+      "name": "FOOTPRINTS - INTERCESSION EPISCOPAL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 18000.0,
+      "is_new": false,
+      "name": "COMMON GOOD CONSULTING LLC",
+      "purpose": "LOCAL FUNDING TOOK KIT"
+    },
+    {
+      "amount": 18000.0,
+      "is_new": true,
+      "name": "CHILDRENS HOSPITAL COLORADO",
+      "purpose": "THE P3 PROGRAM"
+    },
+    {
+      "amount": 18000.0,
+      "is_new": true,
+      "name": "EARLY CHILDHOOD COUNCIL OF ARCHULET",
+      "purpose": "THE EARLY CHILDHOOD COUNCIL OF ARCHU"
+    },
+    {
+      "amount": 17500.0,
+      "is_new": false,
+      "name": "THOMPSON VALLEY PRESCHOOL INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 17000.0,
+      "is_new": false,
+      "name": "SUNSHINE CHILDCARE CENTER AT NORTHE",
+      "purpose": "TUITION ASSISTANCE, LIMITED TO FAMIL"
+    },
+    {
+      "amount": 17000.0,
+      "is_new": true,
+      "name": "LITTLE SPROUTS LEARNING CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 16000.0,
+      "is_new": false,
+      "name": "RIVER MIST INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 16000.0,
+      "is_new": false,
+      "name": "HOPEFUL CONSULTING",
+      "purpose": "LOCAL BALLOT MEASURE REPORT"
+    },
+    {
+      "amount": 16000.0,
+      "is_new": true,
+      "name": "WEST GRAND SCHOOL DISTRICT 1JT - EA",
+      "purpose": "GENERAL OPERATING SUPPORT OFWEST GRA"
+    },
+    {
+      "amount": 15500.0,
+      "is_new": false,
+      "name": "MOUNTAIN MUNCHKINS",
+      "purpose": "TUITION ASSISTANCE LIMITED TO FAMILI"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "DELTA ETA BOUL FOUNDATION",
+      "purpose": "SCHOLARSHIPS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "DENVER CENTER FOR THE PERFORMING AR",
+      "purpose": "BOOK STARS, LIMITED TO THE INTENSIVE"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "SOROCO PRESCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT OF THE SOR"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "SUMMIT COUNTY PUBLIC HEALTH",
+      "purpose": "HEALTHY CHOICES PROGRAM, TO BE PAID"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "COLORADO HEAD START ASSOCIATION",
+      "purpose": "GENERAL OPERATING SUPPORT, TO BE PAI"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "DENVER CHILDREN'S FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "THE JEWISH LIFE CENTER",
+      "purpose": "ALEF ACADEMY"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "THE PARK PEOPLE",
+      "purpose": "TO BE USED AS FOLLOWS 5,000 FOR GENE"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "THE BETHANY EVANGELICAL FREE CHURCH",
+      "purpose": "GENERAL OPERATING SUPPORT FOR BETHAN"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "DENVER PUBLIC LIBRARY FRIENDS FOUND",
+      "purpose": "THE READ ALOUD PROGRAM"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "ESTES VALLEY INVESTMENT IN CHILDHOO",
+      "purpose": "TUITION ASSISTANCE"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "LITTLE TREASURES EARLY CHILDHOOD CE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "NORTH FORK FRIENDS OF MONTESSORI",
+      "purpose": "TUITION ASSISTANCE"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "STEAMBOAT SPRINGS SCHOOL DISTRICT",
+      "purpose": "EARLY CHILDHOOD EDUCATION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "ELIZABETH SCHOOL DISTRICT",
+      "purpose": "INFANT AND TODDLER PROGRAMMING"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "PROJECT 1 27",
+      "purpose": "PARENTING EDUCATION FOR NEW FOSTER F"
+    },
+    {
+      "amount": 14000.0,
+      "is_new": false,
+      "name": "ROUTT COUNTY DEPARTMENT OF HUMAN SE",
+      "purpose": "EVIDENCE-BASED PARENTING EDUCATION F"
+    },
+    {
+      "amount": 14000.0,
+      "is_new": false,
+      "name": "HEARTSONG MONTESSORI",
+      "purpose": "LICENSED CHILD CARE"
+    },
+    {
+      "amount": 14000.0,
+      "is_new": true,
+      "name": "WEST END SCHOOLS NUCLA EARLY LEARNI",
+      "purpose": "THE NUCLA EARLY LEARNING CENTER"
+    },
+    {
+      "amount": 12800.0,
+      "is_new": true,
+      "name": "MORNING STAR CHILD CARE CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": false,
+      "name": "LITTLE SPROUTS COMMUNITY PRESCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": false,
+      "name": "NEW HORIZONS COOPERATIVE PRESCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": false,
+      "name": "BAYFIELD COMMUNITY TREEHOUSE",
+      "purpose": "THE CONSCIOUS DISCIPLINE PARENTING E"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": false,
+      "name": "BOULDER HOUSING PARTNERS FOUNDATION",
+      "purpose": "THE DARE TO BE YOU PROGRAM"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": true,
+      "name": "ASCENSION PRESCHOOL",
+      "purpose": "TUITION ASSISTANCE"
+    },
+    {
+      "amount": 11000.0,
+      "is_new": false,
+      "name": "TINY HANDS DAYCARE CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 11000.0,
+      "is_new": false,
+      "name": "WELDON VALLEY SCHOOL DISTRICT RE-20",
+      "purpose": "WELDON VALLEY PRESCHOOL"
+    },
+    {
+      "amount": 10500.0,
+      "is_new": false,
+      "name": "CRIPPLE CREEK VICTOR SCHOOL DISTRIC",
+      "purpose": "THE SUMMER ECE PROGRAM AT CRESSON PR"
+    },
+    {
+      "amount": 10500.0,
+      "is_new": true,
+      "name": "YOUTH EMPOWERMENT AGENCY",
+      "purpose": "THE EARLY LEARNING COMPONENT OF THE"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "COUNCIL FOR LIFE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "GRANBY PLAY DAYS PRESCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "HFS CHICAGO SCHOLARS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "HISPANIC AFFAIRS PROJECT",
+      "purpose": "CIVIC ENGAGEMENT PROGRAMS AND ACTIVI"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "MOUNTAIN RESOURCE CENTER INC",
+      "purpose": "THE PRESCHOOL PROGRAM"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ROSE ANDOM CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "SILVERTON FAMILY LEARNING CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "SOUTHERN COLORADO COMMUNITY FOUNDAT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ST ANNE'S EPISCOPAL SCHOOL",
+      "purpose": "SCHOLARSHIPS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "TRI-LAKES COMMUNITY PRESCHOOL",
+      "purpose": "TUITION ASSISTANCE FOR PRESCHOOL PRO"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "VOICE OF HOPE MINISTRIES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "WEST END FAMILY LINK CENTER",
+      "purpose": "EARLY CHILDHOOD OUTREACH PROGRAM"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CHILDREN'S MINI COLLEGE",
+      "purpose": "GENERAL OPERATING SUPPORT, TO BE PAI"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "COLORADO SPRINGS SCHOOL DISTRICT 11",
+      "purpose": "PARENTS AS TEACHERS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "NORTH ROUTT COMMUNITY CHARTER SCHOO",
+      "purpose": "EARLY CHILDHOOD EDUCATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "THINK 360 ARTS FOR LEARNING",
+      "purpose": "GREATER DENVER WOLF TRAP PROGRAM"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "COMMON SENSE INSTITUTE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CRIME STOPPERS PROGRAM INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ECHINACEA MONTESSORI SCHOOL",
+      "purpose": "TUITION ASSISTANCE, LIMITED TO FAMIL"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "LATINO CHAMBER DEVELOPMENT CORPORAT",
+      "purpose": "2024 JUNIOR LATINO CHAMBER ENTREPREN"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "VALLEY VILLAGE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "VENTURE FOR SUCCESS PREPARATORY LEA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "BOULDER PHILHARMONIC ORCHESTRA",
+      "purpose": "THE MUSIC AND EMOTIONS PROGRAM"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "CHAFFEE COUNTY COMMUNITY FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT OF SHINING"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "FORT LEWIS COLLEGE FOUNDATION",
+      "purpose": "CONCERTS IN THE COMMUNITY CONCERT HA"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "GOVERN FOR AMERICA INC",
+      "purpose": "RECRUITMENT, TRAINING AND SUPPORT FO"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "GUNNISON COUNTY HHS",
+      "purpose": "PARENTS AS TEACHERS, TO BE PAID OVER"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "HILLEL ACADEMY",
+      "purpose": "THE EARLY CHILDHOOD PROGRAM"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "HUMAN RESOURCES CENTER INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "LORETTO LITERARY AND BENEVOLENT INS",
+      "purpose": "GENERAL OPERATING SUPPORT FOR THE SI"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "NATURE SCHOOL COOPERATIVE LCA",
+      "purpose": "TUITION ASSISTANCE AT THE NATURE SCH"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "PUEBLO CHILD ADVOCACY CENTER",
+      "purpose": "PARENTING EDUCATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "THE FRENCH-AMERICAN FOUNDATION FOR",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "THE TRUST FOR LAND RESTORATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 9000.0,
+      "is_new": false,
+      "name": "PRAIRIE FAMILY CENTER",
+      "purpose": "THE NURTURING PARENTING PROGRAM"
+    },
+    {
+      "amount": 8800.0,
+      "is_new": false,
+      "name": "TEENS INC",
+      "purpose": "TUITION ASSISTANCE AT THE NEW EXPLOR"
+    },
+    {
+      "amount": 8800.0,
+      "is_new": false,
+      "name": "CHAFFEE COUNTY CHILDCARE",
+      "purpose": "TUITION ASSISTANCE FOR FAMILIES AT O"
+    },
+    {
+      "amount": 8500.0,
+      "is_new": false,
+      "name": "CAON LITERACY CENTER",
+      "purpose": "THE READINESS FOR READING CLASS, TO"
+    },
+    {
+      "amount": 8400.0,
+      "is_new": false,
+      "name": "RAINBOW SCHOOL AND DAY CARE CENTER",
+      "purpose": "TUITION ASSISTANCE LIMITED TO FAMILI"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": false,
+      "name": "THE LITERACY PROJECT",
+      "purpose": "THERAISING A READER PROGRAM"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": false,
+      "name": "LAKE GEORGE CHARTER SCHOOL",
+      "purpose": "THE PRESCHOOL"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": true,
+      "name": "ELAINE'S PLACE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "CASA OF THE SEVENTH JUDICIAL DISTRI",
+      "purpose": "GENERAL OPERATING SUPPORT TO BE APPL"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "WE MATTER LEARNING",
+      "purpose": "IMPLEMENTING WE MATTER LEARNING CURR"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "COLORADO SEMINARY",
+      "purpose": "THE INSTITUTE FOR THE ADVANCEMENT OF"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "COMMUNITY FOUNDATION OF THE GUNNISO",
+      "purpose": "TO BE USED AS FOLLOWS 2,500 FOR GENE"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "DENVER POLICE FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 7000.0,
+      "is_new": false,
+      "name": "CHILDRENS HOUSE PRESCHOOL INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 6400.0,
+      "is_new": true,
+      "name": "HAVEN HOUSE OF MONTROSE INC",
+      "purpose": "LICENSED CHILD CARE"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "URBAN PEAK DENVER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5400.0,
+      "is_new": false,
+      "name": "TELLURIDE PRESCHOOL",
+      "purpose": "TUITION ASSISTANCE LIMITED TO FAMILI"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "PUEBLO ROTARY FOUNDATION INC",
+      "purpose": "THEDICTIONARY PROJECT FOR PUEBLO COU"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "ST ELIZABETH'S SCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "GOODWILL OF COLORADO",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "CATHOLIC HEALTH INITIATIVES COLORAD",
+      "purpose": "DORSEY CANCER CENTER"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "COLORADO AGRICULTURAL LEADERSHIP FO",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "DENVER BOTANIC GARDENS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "FOOD BANK OF THE ROCKIES",
+      "purpose": "AREA OF HIGHEST NEED, WITH THE EXCEP"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "HAVERN CENTER INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "LARIMER COUNTY FOOD DISTRIBUTION CE",
+      "purpose": "AREA OF GREATEST NEED OR GENERAL OPE"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "LARIMER COUNTY PARTNERS",
+      "purpose": "AREA OF GREATEST NEED, AT THE EXECUT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "NEW DANCE THEATRE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "POSNER CENTER FOR INTERNATIONAL DEV",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "WESTERN STOCK SHOW ASSOCIATION SCHO",
+      "purpose": "SCHOLARSHIPS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "COLORADO PRESERVATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "MEXICAN AMERICAN DEVELOPMENT ASSOCI",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "NORTH STAR VICTIM AND COMMUNITY SER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "OURAY COUNTY PERFORMING ARTS GUILD",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "SAN JUAN SKIJORING",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "THE LION PROJECT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "VALLEY YOUTH ORCHESTRA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "WEEHAWKEN CREATIVE ARTS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "GIRL SCOUTS OF COLORADO",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "JEHARDIN LLC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "MOUNT CARBON ELEMENTARY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "THE COLORADO STATE FAIR FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "HARP FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "THE ROSELAWN 1891 COMPANY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "ROUNDUP RIVER RANCH",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "THIRD WAY CENTER INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "THE WILD ANIMAL SANCTUARY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "COLORADO CATTLEMAN'S AGRICULTURAL L",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "THE DELTA GAMMA ANCHOR CENTER FOR B",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "HARMONY A COLORADO CHORALE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2185.0,
+      "is_new": false,
+      "name": "ZEBRA INCORPORATED",
+      "purpose": "LOCAL BALLOT MEASURE AFTER ACTION RE"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "DENVER RESCUE MISSION",
+      "purpose": "THE BRIDGE PROGRAM AT THE CROSSING"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "HABITAT FOR HUMANITY OF METRO DENVE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "THE ODYSSEY SCHOOL INCORPORATED",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": true,
+      "name": "LOVE FOR LILY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": true,
+      "name": "NEWBORN HOPE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": true,
+      "name": "PROJECT ANGEL HEART",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "BAYAUD ENTERPRISES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "DAKOTA RIDGE HIGH SCHOOL",
+      "purpose": "THE CROSS COUNTRY AND TRACK AND FIEL"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "DENVER DUMB FRIENDS LEAGUE",
+      "purpose": "SUPPORT OF THE BUDDY CENTER"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "INSIDE THE ORCHESTRA INC",
+      "purpose": "THE IN-PERSON TINY TOTS PROGRAM"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "RECOVERYWORKS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "SUMMIT RIDGE MIDDLE SCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 478.0,
+      "is_new": true,
+      "name": "CWH CONSULTING",
+      "purpose": "GENERAL OPERATING"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "APPLICATIONS MUST BE SUBMITTED THROUGH OUR ONLINE GRANTEE PORTAL SUPPORTED BY GIVING DATA BY 5:00 PM ON THE DEADLINE DATE. GRANT SEEKERS ARE ENCOURAGED TO CALL ONE OF THE FOUNDATION'S PROGRAM OFFICERS PRIOR TO SUBMITTING AN APPLICATION.",

@@ -48,6 +48,824 @@
     "singleton_cluster_share": 0.5472,
     "total_grant_records": 807
   },
+  "recipients_latest_year": [
+    {
+      "amount": 6949615.0,
+      "is_new": true,
+      "name": "SCHWAB DONOR ADVISED FUND",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 6050000.0,
+      "is_new": false,
+      "name": "OMAHA PUBLIC LIBRARY FOUNDATION",
+      "purpose": "SUPPORT LIBRARY COLLECTIONS"
+    },
+    {
+      "amount": 4018980.0,
+      "is_new": false,
+      "name": "CHILD SAVINGS INSTITUTE",
+      "purpose": "SUPPORT CHILD & FAMILY SERVICES"
+    },
+    {
+      "amount": 2515000.0,
+      "is_new": false,
+      "name": "COMMUNITY ALLIANCE FOUNDATION",
+      "purpose": "SUPPORT MENTAL HEALTH PROGRAMS"
+    },
+    {
+      "amount": 2000000.0,
+      "is_new": false,
+      "name": "DOWNTOWN RIVERFRONT TRUST",
+      "purpose": "SUPPORT COMMUNITY PARK PROJECT"
+    },
+    {
+      "amount": 1500000.0,
+      "is_new": true,
+      "name": "MUSEUM OF NEBRASKA ART",
+      "purpose": "SUPPORT ART MUSEUAM"
+    },
+    {
+      "amount": 1211939.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF NE FOUNDATION",
+      "purpose": "SUPPORT EDUCATION PROGRAMS AND SCHOLARSHIPS"
+    },
+    {
+      "amount": 1070000.0,
+      "is_new": false,
+      "name": "OMAHA COMMUNITY PLAYHOUSE",
+      "purpose": "SUPPORT PERFORMING ARTS"
+    },
+    {
+      "amount": 950015.0,
+      "is_new": true,
+      "name": "JUSTICE FOR OUR NEIGHBORS",
+      "purpose": "SUPPORT LEGAL AID FOR IMMIGRANTS AND REFUGEES"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "JOSIE HARPER HOSPICE HOUSE",
+      "purpose": "SUPPORT PALLIATIVE CARE"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "NEBRASKA PUBLIC MEDIA (FKA NET NE)",
+      "purpose": "SUPPORT EDUCATIONAL MEDIA"
+    },
+    {
+      "amount": 222845.0,
+      "is_new": true,
+      "name": "BROOKE ARMY MEDICAL CENTER",
+      "purpose": "SEATS FOR SOLDIERS"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "DURHAM MUSEUM",
+      "purpose": "SUPPORT MUSEUM PROGRAMS"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "HEARTLAND FAMILY SERVICE",
+      "purpose": "SUPPORT MENTAL HEALTH CARE"
+    },
+    {
+      "amount": 195758.0,
+      "is_new": false,
+      "name": "MASSACHUSETTS GENERAL PHYSICIANS ORGANIZATION",
+      "purpose": "SUPPORT FOR MENTAL HEALTH EDUCATION"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "SANTA MONICA",
+      "purpose": "SUPPORT WOMEN IN RECOVERY"
+    },
+    {
+      "amount": 124985.0,
+      "is_new": false,
+      "name": "IMMIGRANT LEGAL CENTER",
+      "purpose": "SUPPORT LEGAL AID FOR IMMIGRANTS AND REFUGEES"
+    },
+    {
+      "amount": 120000.0,
+      "is_new": false,
+      "name": "COLLEGE OF ST MARY",
+      "purpose": "SUPPORT SCHOLARSHIP PROGRAM"
+    },
+    {
+      "amount": 108000.0,
+      "is_new": false,
+      "name": "LUTHERAN CHURCH OF THE MASTER",
+      "purpose": "SUPPORT CHRISTIAN MINISTRY"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BOYS & GIRLS CLUBS OF THE MIDLANDS",
+      "purpose": "SUPPORT YOUTH PROGRAMS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "FAMILY HOUSING ADVISORY SERVICES",
+      "purpose": "SUPPORT FINANCIAL LITERACY PROGRAM"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "HOLY NAME HOUSING CORPORATION",
+      "purpose": "SUPPORT LOW INCOME HOUSING PROGRAM"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "JOSLYN ART MUSEUM",
+      "purpose": "SUPPORT MUSEUM"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "OMAHA SYMPHONY",
+      "purpose": "SUPPORT PERFORMING ARTS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ONE WORLD COMMUNITY HEALTH CENTER",
+      "purpose": "SUPPORT HEALTH CARE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "RISE (FKA DEFY)",
+      "purpose": "SUPPORT RE-ENTRY PROGRAM FOR INCARCERATED"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "SIENA FRANCIS HOUSE",
+      "purpose": "SUPPORT SHELTER SERVICES"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "MOUNT SINAI HEALTH SYSTEM",
+      "purpose": "SUPPORT MEDICAL RESEARCH"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "SUSAN LAFLESCHE PICOTTE CENTER",
+      "purpose": "SUPPORT MUSEUM PROJECT"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "INTERCULTURAL SENIOR CENTER",
+      "purpose": "SUPPORT PROGRAMS FOR SENIORS"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "TOGETHER INC",
+      "purpose": "SUPPORT HOMELESS PREVENTION PROGRAM"
+    },
+    {
+      "amount": 76000.0,
+      "is_new": false,
+      "name": "METROPOLITAN COMMUNITY COLLEGE",
+      "purpose": "SUPPORT ACADEMIC PROGRAM"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "BELLEVUE UNIVERSITY FOUNDATION",
+      "purpose": "SUPPORT SCHOLARSHIPS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "COMPLETELY KIDS",
+      "purpose": "SUPPORT OUT OF SCHOOLTIME PROGRAM"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "OMAHA MUNICIPAL LAND BANK",
+      "purpose": "SUPPORT REDEVELOPMENT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "HABITAT FOR HUMANITY - CB",
+      "purpose": "SUPPORT MIDDLE INCOME HOUSING"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "KIEWIT LUMINARIUM",
+      "purpose": "SUPPORT SCIENCE EDUCATION"
+    },
+    {
+      "amount": 73583.0,
+      "is_new": false,
+      "name": "HEART MINISTRY CENTER",
+      "purpose": "SUPPORT POVERTY RELIEF PROGRAM"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": true,
+      "name": "GIRLS INCORPORATED OF OMAHA",
+      "purpose": "SUPPORT OUT OF SCHOOL PROGRAM FOR GIRLS"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "MICAH HOUSE",
+      "purpose": "SUPPORT SHELTER SERVICES"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": true,
+      "name": "KOUNTZE COMMONS SOCIAL WORKER",
+      "purpose": "SUPPORT SOCIAL WORK NAVIGATION"
+    },
+    {
+      "amount": 60050.0,
+      "is_new": true,
+      "name": "LEGAL AID",
+      "purpose": "SUPPORT CIVIL LEGAL SERVICES FOR THE POOR"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "CAROLE'S HOUSE OF HOPE",
+      "purpose": "SUPPORT HOUSING FOR WOMEN AND CHILDREN"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "FRIENDSHIP HOME OF LINCOLN",
+      "purpose": "SUPPORT WOMEN'S SHELTER"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": true,
+      "name": "VISITING NURSES ASSOC",
+      "purpose": "SUPPORT HEATLH CARE FOR LOW-INCOME"
+    },
+    {
+      "amount": 58866.0,
+      "is_new": false,
+      "name": "NEW VISIONS HOMELESS SERVICES",
+      "purpose": "SUPPORT HOMELESS SERVICES"
+    },
+    {
+      "amount": 53061.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF NEBRASKA OMAHA",
+      "purpose": "SUPPORT SCHOLARSHIP AND ATHLETICS PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CASA FOR DOUGLAS COUNTY",
+      "purpose": "SUPPORT CHILD ADVOCACY PROGRAM"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "FOOD BANK FOR THE HEARTLAND",
+      "purpose": "SUPPORT FOOD DISTRIBUTION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "GOOD NEWS JAIL & PRISON MINISTRY",
+      "purpose": "SUPPORT JAIL MINISTRY PROGRAM"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "HEARTLAND HOPE MISSION",
+      "purpose": "SUPPORT FOOD PANTRY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "KIDS CAN COMMUNITY CENTER",
+      "purpose": "SUPPORT CHILD CARE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "RELEASE MINISTRIES",
+      "purpose": "SUPPORT YOUTH AND FAMILY MENTORING"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "STEPHEN CENTER INC",
+      "purpose": "SUPPORT HOMELESS AND ADDICTION RECOVERY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CENTERPOINTE INC",
+      "purpose": "SUPPORT RECOVERY PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "OMAHA CONSERVATORY OF MUSIC",
+      "purpose": "SUPPORT ARTS EDUCATION FOR UNDERSERVED"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SHARE OMAHA",
+      "purpose": "SUPPORT NONPROFIT SERVICES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "STRATEGIC AIR COMMAND & AEROSPACE MUSEUM",
+      "purpose": "SUPPORT SCIENCE EDUCATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "PHOENIX ACADEMY",
+      "purpose": "SUPPORT SPECIAL EDUCATION"
+    },
+    {
+      "amount": 49372.0,
+      "is_new": true,
+      "name": "RADIUS",
+      "purpose": "SUPPORT PROGRAM FOR YOUTH ON PROBATION"
+    },
+    {
+      "amount": 48458.0,
+      "is_new": false,
+      "name": "YOUTH EMERGENCY SERVICES OF OMAHA",
+      "purpose": "SUPPORT YOUTH HOMELESS PROGRAM"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "NEBRASKA LUTHERAN OUTDOOR MINISTRIES",
+      "purpose": "SUPPORT SUMMER CAMP FOR UNDERSERVED"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "PARTNERSHIP 4 KIDS",
+      "purpose": "SUPPORT YOUTH EDUCATION AND MENTORING"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "METROPOLITAN AREA CONTINUUM OF CARE FOR THE HOMELESS",
+      "purpose": "SUPPORT HOMELESSNESS SERVICES"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "OLLIE WEBB CENTER",
+      "purpose": "SUPPORT DEVELOPMENTALLY DISABLED ADULTS"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "OMAHA THEATER COMPANY",
+      "purpose": "SUPPORT PERFORMING ARTS"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "SAVING GRACE",
+      "purpose": "SUPPORT FOOD RESCUE AND DISTRIBUTION"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "ALL CARE HEALTH CARE",
+      "purpose": "SUPPORT HEALTH CARE"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "TABITHA INC",
+      "purpose": "SUPPORT MEALS PROGRAM"
+    },
+    {
+      "amount": 38769.0,
+      "is_new": false,
+      "name": "OMAHA CHILDREN'S MUSEUM",
+      "purpose": "SUPPORT CHILDREN'S EDUCATION PROGRAM"
+    },
+    {
+      "amount": 38500.0,
+      "is_new": false,
+      "name": "UNITED WAY OF THE MIDLANDS",
+      "purpose": "SUPPORT LOCAL NONPROFIT ORGANIZATIONS"
+    },
+    {
+      "amount": 37842.0,
+      "is_new": true,
+      "name": "SMART GEN SOCIETY",
+      "purpose": "SUPPORT YOUTH ORGANIZATION"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "OMAHA BRIDGES OUT OF POVERTY",
+      "purpose": "SUPPORT FINANCIAL LITERACY EDUCATION"
+    },
+    {
+      "amount": 33000.0,
+      "is_new": true,
+      "name": "DUCKS UNLIMITED",
+      "purpose": "SUPPORT WETLANDS PRESERVATION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "100 BLACK MEN OF OMAHA INC",
+      "purpose": "SUPPORT EDUCATION AND MENTORING PROGRAMS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "CHARIOTS4HOPE",
+      "purpose": "SUPPORT VEHICLES FOR LOW INCOME INDIVIDUALS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "DIBS FOR KIDS",
+      "purpose": "SUPPORT CHILDREN'S LITERACY PROGRAM"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "OMAHA STREET SCHOOL",
+      "purpose": "SUPPORT EDUCATION PROGRAM"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "RONALD MC DONALD HOUSE",
+      "purpose": "SUPPORT FAMILIES WITH HOSPITALIZED CHILDREN"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "COLLECTIVE FOR HOPE",
+      "purpose": "SUPPORT GRIEF PROGRAM FOR CHILDREN AND ADULTS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "HOFF FAMILY ARTS & CULTURE CENTER",
+      "purpose": "SUPPORT COMMUNITY ARTS PROGRAMS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "FONTENELLE FOREST",
+      "purpose": "SUPPORT NATURE EDUCATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LINCOLN CHILDREN'S MUSEUM",
+      "purpose": "SUPPORT CHILDREN'S MUSEUM"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "MERCY HOUSING MIDWEST",
+      "purpose": "SUPPORT LOW INCOME HOUSING"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "MIDLAND UNIVERSITY",
+      "purpose": "SUPPORT SCHOLARSHIP PROGRAM"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NEBRASKA CHILDREN & FAMILIES FOUNDATION",
+      "purpose": "SUPPORT CHILD CARE PROGRAMS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "NONPROFIT ASSOCIATION OF THE MIDLANDS",
+      "purpose": "SUPPORT NONPROFIT TRAINING"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SPECIAL OLYMPICS",
+      "purpose": "SUPPORT PROGRAMS FOR DISABLED"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CHILDREN'S SQUARE USA",
+      "purpose": "SUPPORT YOUTH MENTAL HEALTH"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NEBRASKA DIAPER BANK",
+      "purpose": "SUPPORT DIAPER PROGRAM"
+    },
+    {
+      "amount": 20500.0,
+      "is_new": false,
+      "name": "VOLUNTEERS ASSISTING SENIORS",
+      "purpose": "SUPPORT SENIOR ASSISTANCE PROGRAM"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "BANISTER'S LEADERSHIP ACADEMY",
+      "purpose": "SUPPORT MENTORSHIP PROGRAM"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "RESTORING DIGNITY",
+      "purpose": "SUPPORT REFUGEE TRAINING"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "A TIME TO HEAL",
+      "purpose": "SUPPORT FOR CANCER SURVIVORS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "EDUCATION RIGHTS COUNSEL",
+      "purpose": "SUPPORT EDUCATIONAL EQUITY FOR STUDENTS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "IOWA WESTERN COMMUNITY COLLEGE FOUNDATION",
+      "purpose": "SUPPORT SCHOLARSHIPS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "JESUIT ACADEMY OF OMAHA",
+      "purpose": "SUPPORT EDUCATION"
+    },
+    {
+      "amount": 17500.0,
+      "is_new": true,
+      "name": "HOT SHOPS ART FOUNDATION",
+      "purpose": "SUPPORT ART PROGRAMS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "ASSISTANCE LEAGUE OF OMAHA",
+      "purpose": "SUPPORT RECOVERY PROGRAMS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "BUENA VISTA UNIVERSITY",
+      "purpose": "SUPPORT SCHOLARSHIP PROGRAM"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "KVNO",
+      "purpose": "SUPPORT CLASSICAL MUSIC"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "RESPECT2",
+      "purpose": "SUPPORT SAFE RELATIONSHIPS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "YOUTH FRONTIERS",
+      "purpose": "SUPPORT CHARACTER EDUCATION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "DREAMWEAVER FOUNDATION",
+      "purpose": "SUPPORT FOR ELDER PROGRAM"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "OASIS COUNSELING",
+      "purpose": "SUPPORT MENTAL HEALTH"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "AUTISM ACTION PARTNERSHIP",
+      "purpose": "SUPPORT AUTISM PROGRAMS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "BRAIN INJURY ALLIANCE",
+      "purpose": "SUPPORT BRAIN INJURY EDUCATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "WHYARTS",
+      "purpose": "SUPPORT ARTS FOR DISADVANTAGED POPULATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "ACCESS PERIOD",
+      "purpose": "SUPPORT WOMEN'S HEALTH"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "CENTRO LATINO OF IA",
+      "purpose": "SUPPORT IMMIGRANT AND REFUGEE PROGRAMS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "MAKE A WISH",
+      "purpose": "SUPPORT CHILDREN"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "SHEEPGATE WOMEN CTR (FKA ADLT TEEN CHLG)",
+      "purpose": "SUPPORT WOMEN IN RECOVERY"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "WORLD SPEAKS",
+      "purpose": "SUPPORT TRANSLATION AND INTERPRETATION"
+    },
+    {
+      "amount": 9400.0,
+      "is_new": false,
+      "name": "CAMPUS CRUSADE FOR CHRIST (CRU)",
+      "purpose": "SUPPORT CHRISTIAN MINISTRY"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": false,
+      "name": "RADIO TALKING BOOK SERVICES",
+      "purpose": "SUPPORT SERVICES FOR VISION IMPAIRED"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "CORNBELT DIABETES CONNECTION INC",
+      "purpose": "SUPPORT HEALTH PROGRAM"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "MERRYMAKERS ASSOCIATION",
+      "purpose": "SUPPORT SENIOR PROGRAM"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "COLORADO MESA UNIVERSITY - SHIFLETT",
+      "purpose": "SCHOLARSHIP PROGRAM"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "CREIGHTON UNIVERSITY",
+      "purpose": "SUPPORT EDUCATION AND ATHLETICS PROGRAMS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "SEAL FAMILY FOUNDATION",
+      "purpose": "SUPPORT FAMILIES OF NAVY SEAL MEMBERS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "DOUGLAS COUNTY HEALTH CENTER FOUNDATION",
+      "purpose": "SUPPORT HEALTH PROGRAMS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "FILM STREAMS",
+      "purpose": "SUPPORT EDUCATION THROUGH FILM"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "INTERNATIONAL CO-RESPONDER ALLIANCE",
+      "purpose": "SUPPORT MENTAL HEALTH CARE"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF NEBRASKA-OMAHA - KARLOFF",
+      "purpose": "SCHOLARSHIP PROGRAM"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF NEBRASKA-OMAHA - OLABIGE",
+      "purpose": "SCHOLARSHIP PROGRAM"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "WAYNE STATE COLLEGE - THOMSON",
+      "purpose": "SCHOLARSHIP PROGRAM"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "WESTERN IOWA TECH - ANDERSON",
+      "purpose": "SCHOLARSHIP PROGRAM"
+    },
+    {
+      "amount": 3032.0,
+      "is_new": false,
+      "name": "COMPASSION INTERNATIONAL",
+      "purpose": "SUPPORT CHILDREN IN POVERTY"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "PROJECT LINUS",
+      "purpose": "SUPPORT TRAUMA SUPPORT PROGRAM"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "AMERICAN COLLEGE OF EDUCATION - FULTON",
+      "purpose": "SCHOLARSHIP PROGRAM"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "COLORADO MESA UNIVERSITY - LANG",
+      "purpose": "SCHOLARSHIP PROGRAM"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "T1D FKA JDRF",
+      "purpose": "SUPPORT MEDICAL RESEARCH AND EDUCATION"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF NEBRASKA-LINCOLN - LAKE",
+      "purpose": "SCHOLARSHIP PROGRAM"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF NEBRASKA-LINCOLN - MCDONNELL",
+      "purpose": "SCHOLARSHIP PROGRAM"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF NEBRASKA-OMAHA - THOMSON",
+      "purpose": "SCHOLARSHIP PROGRAM"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "COUNCIL BLUFFS PUBLIC LIBRARY",
+      "purpose": "SUPPORT CHILDREN'S BOOK COLLECTION"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "A SCHOLARSHIP APPLICANT SHOULD SUBMIT A COMPLETED SCHOLARSHIP FORM, WITH REQUIRED ATTACHMENTS INCLUDING FINANCIAL INFORMATION, GRADE TRANSCRIPT AND RESULTS OF ACT TEST. A MEDICAL PROGRAM APPLICANT SHOULD SUBMIT A COMPLETED MEDICAL PROGRAM FORM, WITH REQUIRED ATTACHMENTS INCLUDING FINANCIAL INFORMATION. APPLICATION FORMS ARE AVAILABLE AT THE FOUNDATION'S OFFICE.",

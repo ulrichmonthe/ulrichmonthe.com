@@ -48,6 +48,74 @@
     "singleton_cluster_share": 0.6923,
     "total_grant_records": 38
   },
+  "recipients_latest_year": [
+    {
+      "amount": 9145000.0,
+      "is_new": false,
+      "name": "Massachusetts Institute of Technology",
+      "purpose": "Exempt Purpose"
+    },
+    {
+      "amount": 9000000.0,
+      "is_new": false,
+      "name": "Mass Audobon Society",
+      "purpose": "Exempt Purpose"
+    },
+    {
+      "amount": 2000000.0,
+      "is_new": true,
+      "name": "CARE USA",
+      "purpose": "Exempt Purpose"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "Khan Academy Inc",
+      "purpose": "Exempt Purpose"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "Commonwealth Zoological Corp",
+      "purpose": "Exempt purpose"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "Foundation For Metrowest",
+      "purpose": "Exempt Purpose"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "National Arbor Day Foundation",
+      "purpose": "Exempt Purpose"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "UMass Foundation",
+      "purpose": "Exempt Purpose"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Wikimedia Foundation Inc",
+      "purpose": "Exempt Purpose"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Every Org",
+      "purpose": "Exempt Purpose"
+    },
+    {
+      "amount": 41000.0,
+      "is_new": true,
+      "name": "Society for Industrial and Applied Mathematics",
+      "purpose": "Not Related"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

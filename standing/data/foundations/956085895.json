@@ -48,6 +48,1970 @@
     "singleton_cluster_share": 0.4141,
     "total_grant_records": 1768
   },
+  "recipients_latest_year": [
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "THE COLBURN SCHOOL",
+      "purpose": "OVER THREE YEARS FOR SUPPORT OF THE CAMPUS EXPANSION PROJECT"
+    },
+    {
+      "amount": 430250.0,
+      "is_new": false,
+      "name": "COMMUNITY PARTNERS",
+      "purpose": "OVER TWO YEARS FOR NONPROFIT CAPACITY BUILDING PROGRAMS"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "PEOPLE ASSISTING THE HOMELESS",
+      "purpose": "OVER TWO YEARS FOR GENERAL SUPPORT OF HOUSING AND HOMELESS SERVICES IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "PROJECT ANGEL FOOD",
+      "purpose": "OVER TWO YEARS FOR THE CAMPUS EXPANSION PROJECT"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "SOUTHERN CALIFORNIA GRANTMAKERS",
+      "purpose": "FOR THE 2024 ANNUAL CONFERENCE"
+    },
+    {
+      "amount": 310000.0,
+      "is_new": false,
+      "name": "THE PEOPLE CONCERN",
+      "purpose": "OVER TWO YEARS FOR GENERAL SUPPORT OF HOMELESS SERVICES"
+    },
+    {
+      "amount": 301000.0,
+      "is_new": false,
+      "name": "HEART OF LOS ANGELES YOUTH INC",
+      "purpose": "FOR GENERAL SUPPORT OF FIELD CONTRIBUTIONS TO PHILANTHROPY"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "PASADENA CONSERVATORY OF MUSIC",
+      "purpose": "OVER TWO YEARS TO CONSTRUCT A NEW MUSIC LEARNING CENTER AND OUTDOOR AMPHITHEATER"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "SEED SCHOOL OF LOS ANGELES COUNTY",
+      "purpose": "FOR CAPITAL SUPPORT TO CONSTRUCT THE SEED SCHOOL OF LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 220200.0,
+      "is_new": false,
+      "name": "LIBERTY HILL FOUNDATION",
+      "purpose": "TO SUPPORT ENVIRONMENTAL HEALTH AND JUSTICE PROGRAMS"
+    },
+    {
+      "amount": 210000.0,
+      "is_new": false,
+      "name": "PERFORMING ARTS CENTER OF LOS ANGELES COUNTY (DBA THE MUSIC CENTER)",
+      "purpose": "OVER TWO YEARS FOR GENERAL SUPPORT OF ARTS AND COMMUNITY PROGRAMS"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "LTSC COMMUNITY DEVELOPMENT CORPORATION (DBA LTSC CDC AND LITTLE TOKYO SERVI",
+      "purpose": "OVER TWO YEARS TO CONSTRUCT COMMUNITY SPACES IN AN AFFORDABLE HOUSING PROJECT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "PUBLIC MEDIA GROUP OF SOUTHERN CALIFORNIA",
+      "purpose": "FOR CAPITAL SUPPORT OF STUDIO RENOVATIONS AND EQUIPMENT IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 170000.0,
+      "is_new": false,
+      "name": "CCF COMMUNITY INITIATIVES FUND",
+      "purpose": "OVER TWO YEARS TO SUPPORT PROFESSIONAL DEVELOPMENT FOR EARLY CHILDHOOD EDUCATION LEADERS"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "CHILDRENS INSTITUTE INC",
+      "purpose": "FOR GENERAL SUPPORT OF SERVICES FOR CHILDREN AND FAMILIES"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "UNION RESCUE MISSION",
+      "purpose": "FOR GENERAL SUPPORT OF HOUSING AND SUPPORTIVE SERVICES FOR PEOPLE EXPERIENCING HOMELESSNESS"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "SOUTHERN CALIFORNIA CENTER FOR NONPROFIT MANAGEMENT",
+      "purpose": "OVER TWO YEARS FOR GENERAL SUPPORT OF NONPROFIT CAPACITY BUILDING SERVICES IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "THE WENDE MUSEUM OF THE COLD WAR INC",
+      "purpose": "FOR CAPITAL SUPPORT OF THE CREATIVE COMMUNITY CENTER"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "A PLACE CALLED HOME",
+      "purpose": "FOR GENERAL SUPPORT OF YOUTH DEVELOPMENT PROGRAMS"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "BOYS AND GIRLS CLUBS OF THE LOS ANGELES HARBOR",
+      "purpose": "FOR GENERAL SUPPORT OF YOUTH DEVELOPMENT PROGRAMS"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "PARA LOS NINOS",
+      "purpose": "FOR GENERAL SUPPORT OF SCHOOLS AND FAMILY SERVICE PROGRAMS"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "MOUNT SAINT MARYS UNIVERSITY",
+      "purpose": "OVER TWO YEARS FOR CAPITAL SUPPORT TO CONSTRUCT THE CHALON WELLNESS PAVILION"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "BLIND CHILDRENS CENTER INC",
+      "purpose": "FOR RENOVATIONS TO THE EARLY CHILDHOOD CENTER"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "THE CLINIC INC (DBA THE HEALTH AND WELLNESS CENTERS)",
+      "purpose": "TO RENOVATE AND EXPAND THE LENNOX HEALTH CENTER"
+    },
+    {
+      "amount": 130000.0,
+      "is_new": false,
+      "name": "LOS ANGELES PHILHARMONIC ASSOCIATION",
+      "purpose": "FOR GENERAL SUPPORT OF MUSIC AND EDUCATION PROGRAMS"
+    },
+    {
+      "amount": 126900.0,
+      "is_new": false,
+      "name": "SOUTHERN CALIFORNIA PUBLIC RADIO",
+      "purpose": "TO MATCH AN EMPLOYEE GIFT BY JENNIFER PRICE-LETSCHER"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "MUSE-IQUE",
+      "purpose": "FOR GENERAL SUPPORT OF MUSICAL EVENTS AND COMMUNITY ENGAGEMENT PROGRAMS"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+      "purpose": "FOR GENERAL SUPPORT OF COSMOS"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "INNER CITY LAW CENTER",
+      "purpose": "FOR GENERAL SUPPORT OF LEGAL SERVICES"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "THE ACTORS' FUND OF AMERICA (DBA ENTERTAINMENT COMMUNITY FUND)",
+      "purpose": "OVER TWO YEARS FOR CAPITAL SUPPORT OF COMMUNITY SPACES IN THE HOLLYWOOD ARTS COLLECTIVE HOUSING COMPLEX"
+    },
+    {
+      "amount": 115000.0,
+      "is_new": true,
+      "name": "IMAGINE LOS ANGELES INC (DBA IMAGINE LA)",
+      "purpose": "FOR GENERAL SUPPORT OF SERVICES TO END FAMILY HOMELESSNESS"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "PUBLIC COUNSEL",
+      "purpose": "FOR GENERAL SUPPORT OF PRO BONO LEGAL SERVICES"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "EXTRAORDINARY FAMILIES",
+      "purpose": "FOR GENERAL SUPPORT OF SERVICES FOR CHILDREN AND FAMILIES IN THE CHILD WELFARE SYSTEM"
+    },
+    {
+      "amount": 100500.0,
+      "is_new": false,
+      "name": "YOUNG MENS CHRISTIAN ASSOCIATION OF METROPOLITAN LOS ANGELES",
+      "purpose": "FOR GENERAL SUPPORT OF COMMUNITY AND YOUTH DEVELOPMENT PROGRAMS"
+    },
+    {
+      "amount": 100200.0,
+      "is_new": false,
+      "name": "PLANNED PARENTHOOD LOS ANGELES",
+      "purpose": "TO MATCH AN EMPLOYEE GIFT BY PIPER KAMINS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "DOWNTOWN WOMENS CENTER",
+      "purpose": "FOR GENERAL SUPPORT OF HOUSING AND SUPPORTIVE SERVICES FOR WOMEN"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "EQUITAS ACADEMY CHARTER SCHOOL INC",
+      "purpose": "FOR GENERAL SUPPORT OF EDUCATION AND ENRICHMENT PROGRAMS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "HOUSING WORKS",
+      "purpose": "FOR GENERAL SUPPORT OF HOUSING AND RETENTION SERVICES FOR INDIVIDUALS EXPERIENCING CHRONIC HOMELESSNESS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "JAPANESE AMERICAN NATIONAL MUSEUM",
+      "purpose": "FOR GENERAL SUPPORT OF EXHIBITIONS AND COMMUNITY ENGAGEMENT PROGRAMS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "LOS ANGELES YOUTH NETWORK LA YOUTH (DBA YOUTH EMERGING STRONGER)",
+      "purpose": "FOR GENERAL SUPPORT OF HOUSING AND SUPPORTIVE SERVICES"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "TEACH FOR AMERICA INC",
+      "purpose": "FOR GENERAL SUPPORT OF TEACHER PLACEMENT AND TRAINING IN PUBLIC SCHOOLS IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "THE CHRYSALIS CENTER",
+      "purpose": "FOR GENERAL SUPPORT OF EMPLOYMENT PROGRAMS IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "UNION STATION HOMELESS SERVICES",
+      "purpose": "FOR GENERAL SUPPORT OF HOUSING AND SUPPORTIVE SERVICES FOR PEOPLE EXPERIENCING HOMELESSNESS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "AUTRY MUSEUM OF THE AMERICAN WEST",
+      "purpose": "FOR GENERAL SUPPORT OF MUSEUM PROGRAMMING"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ST JOSEPH CENTER",
+      "purpose": "OVER TWO YEARS FOR GENERAL SUPPORT OF HOUSING, JOB TRAINING, AND SUPPORTIVE SERVICES"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "INNER-CITY ARTS",
+      "purpose": "FOR GENERAL SUPPORT OF ARTS EDUCATION PROGRAMMING"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "LOCAL INITIATIVES SUPPORT CORPORATION",
+      "purpose": "FOR GENERAL SUPPORT OF COMMUNITY DEVELOPMENT IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "VENICE COMMUNITY HOUSING CORPORATION",
+      "purpose": "FOR GENERAL SUPPORT OF AFFORDABLE HOUSING AND SERVICES FOR INDIVIDUALS AND FAMILIES"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ORTHOPAEDIC INSTITUTE FOR CHILDREN FOUNDATION (DBA ORTHOPAEDIC FOUNDATION)",
+      "purpose": "OVER TWO YEARS FOR CAPITAL IMPROVEMENTS TO ITS OUTPATIENT MEDICAL CENTER"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "CENTER THEATRE GROUP OF LOS ANGELES (DBA CENTER THEATRE GROUP)",
+      "purpose": "OVER TWO YEARS FOR GENERAL SUPPORT OF PERFORMING ARTS PROGRAMMING"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": true,
+      "name": "REGENTS UNIV OF CALIFORNIA",
+      "purpose": "OVER TWO YEARS TO SUPPORT THE UCLA BRUIN GUARDIAN SCHOLARS ACADEMY"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "KOREATOWN YOUTH AND COMMUNITY CENTER INC",
+      "purpose": "FOR GENERAL SUPPORT OF SOCIAL SERVICES"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "RAINBOW SERVICES LTD",
+      "purpose": "FOR GENERAL SUPPORT OF HOUSING AND SERVICES FOR SURVIVORS OF DOMESTIC VIOLENCE"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": true,
+      "name": "LOS ANGELES LGBT CENTER",
+      "purpose": "TO PROVIDE SUPPORTIVE SERVICES FOR HOMELESS YOUTH"
+    },
+    {
+      "amount": 83000.0,
+      "is_new": false,
+      "name": "CORO SOUTHERN CALIFORNIA INC",
+      "purpose": "FOR GENERAL SUPPORT OF LEADERSHIP DEVELOPMENT PROGRAMS"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "WESTSIDE FAMILY HEALTH CENTER",
+      "purpose": "IN SUPPORT OF THE 50TH ANNIVERSARY"
+    },
+    {
+      "amount": 76000.0,
+      "is_new": false,
+      "name": "ARMORY CENTER FOR THE ARTS",
+      "purpose": "FOR GENERAL SUPPORT OF FIELD CONTRIBUTIONS TO PHILANTHROPY"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "ALLIANCE COLLEGE-READY PUBLIC SCHOOLS FOUNDATION",
+      "purpose": "FOR GENERAL SUPPORT OF A MIDDLE AND HIGH SCHOOL CHARTER NETWORK"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "BET TZEDEK",
+      "purpose": "FOR GENERAL SUPPORT OF LEGAL SERVICES"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "BOYS & GIRLS CLUB OF WEST SAN GABRIEL VALLEY",
+      "purpose": "FOR GENERAL SUPPORT OF YOUTH DEVELOPMENT PROGRAMS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "CHILD DEVELOPMENT INSTITUTE",
+      "purpose": "FOR GENERAL SUPPORT OF EARLY CHILDHOOD DEVELOPMENT AND EDUCATION PROGRAMS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "EDNOVATE INC",
+      "purpose": "FOR GENERAL SUPPORT OF EDUCATION PROGRAMS IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "ENTERPRISE COMMUNITY PARTNERS INC",
+      "purpose": "TO STRENGTHEN AND SUSTAIN THE PERMANENT SUPPORTIVE HOUSING DELIVERY SYSTEM IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "FOOD FORWARD INC",
+      "purpose": "OVER TWO YEARS FOR GENERAL SUPPORT OF FOOD RECOVERY AND DISTRIBUTION IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "KIPP SOCAL PUBLIC SCHOOLS",
+      "purpose": "FOR GENERAL SUPPORT OF TK-8 CHARTER SCHOOLS IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "LOS ANGELES CONSERVATION CORPS",
+      "purpose": "FOR GENERAL SUPPORT OF EDUCATION AND JOB OPPORTUNITIES FOR YOUTH"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "LOS ANGELES COUNTY HIGH SCHOOL FOR THE ARTS FOUNDATION (DBA ARTS HIGH FOUND",
+      "purpose": "FOR GENERAL SUPPORT OF CONSERVATORY-STYLE PUBLIC ARTS EDUCATION"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "P S ARTS",
+      "purpose": "FOR GENERAL SUPPORT OF ARTS EDUCATION PROGRAMMING IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "SCHOOL ON WHEELS INC",
+      "purpose": "FOR GENERAL SUPPORT OF EDUCATIONAL PROGRAMMING IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "SHELTER PARTNERSHIP INC",
+      "purpose": "FOR GENERAL SUPPORT TO PROVIDE BASIC GOODS FOR UNHOUSED INDIVIDUALS IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "SINGLE MOTHERS OUTREACH INC",
+      "purpose": "FOR CAPITAL SUPPORT OF NEW HEADQUARTERS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "A NOISE WITHIN",
+      "purpose": "FOR GENERAL SUPPORT OF THEATER AND EDUCATION PROGRAMS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "AQUARIUM OF THE PACIFIC",
+      "purpose": "TO SUPPORT EDUCATIONAL PROGRAMMING"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "BOYS AND GIRLS CLUB OF HOLLYWOOD",
+      "purpose": "FOR GENERAL SUPPORT OF YOUTH DEVELOPMENT PROGRAMS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "CALMATTERS",
+      "purpose": "FOR GENERAL SUPPORT OF PUBLIC SERVICE JOURNALISM IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "CHILD LANE",
+      "purpose": "OVER TWO YEARS FOR CAPITAL SUPPORT TO RENOVATE THE INFANT AND TODDLER CENTER"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "GREATER LOS ANGELES EDUCATION FOUNDATION",
+      "purpose": "FOR GENERAL SUPPORT OF EDUCATION, OUTREACH, AND CAPACITY BUILDING PROGRAMS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "NATIONAL CENTER FOR YOUTH LAW",
+      "purpose": "TO SUPPORT EDUCATIONAL SERVICES FOR FOSTER YOUTH LOCATED IN LOS ANGELES COUNTYS ANTELOPE VALLEY"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "PROYECTO PASTORAL",
+      "purpose": "FOR GENERAL SUPPORT OF SOCIAL SERVICES AND YOUTH ENRICHMENT PROGRAMS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "THE HARMONY PROJECT",
+      "purpose": "FOR GENERAL SUPPORT OF MUSIC EDUCATION PROGRAMMING IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "CITIZENS OF THE WORLD CHARTER SCHOOLS - LOS ANGELES",
+      "purpose": "FOR GENERAL SUPPORT OF EDUCATIONAL AND ENRICHMENT PROGRAMS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "HEALTHRIGHT 360",
+      "purpose": "FOR SUPPORT OF THE PROTOTYPES BEHAVIORAL HEALTH PROGRAM IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "PORT OF LOS ANGELES HIGH SCHOOL",
+      "purpose": "FOR GENERAL SUPPORT OF EDUCATION AND ENRICHMENT PROGRAMS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "EVERYBODY DANCE LA",
+      "purpose": "FOR GENERAL SUPPORT OF DANCE PROGRAMS FOR YOUTH"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "DOOR OF HOPE",
+      "purpose": "FOR GENERAL SUPPORT OF HOUSING AND SUPPORTIVE SERVICES FOR FAMILIES"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "THE FID GROUP (DBA FRIENDS IN DEED)",
+      "purpose": "FOR GENERAL SUPPORT OF FOOD ASSISTANCE AND SOCIAL SERVICES"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "END HOMELESSNESS CALIFORNIA (DBA THE SHOWER OF HOPE)",
+      "purpose": "FOR GENERAL SUPPORT OF HOUSING AND SUPPORTIVE SERVICES"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": true,
+      "name": "ADVANCEMENT THROUGH OPPORTUNITY AND KNOWLEDGE INCORPORATED",
+      "purpose": "FOR PROFESSIONAL DEVELOPMENT ACTIVITIES"
+    },
+    {
+      "amount": 60500.0,
+      "is_new": false,
+      "name": "DIY GIRLS",
+      "purpose": "FOR GENERAL SUPPORT OF STEAM EDUCATION PROGRAMS FOR GIRLS"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": true,
+      "name": "TIA CHUCHAS CENTRO CULTURAL INC",
+      "purpose": "FOR GENERAL SUPPORT OF CULTURAL ARTS CENTER PROGRAMMING"
+    },
+    {
+      "amount": 56000.0,
+      "is_new": false,
+      "name": "AL WOOTEN JR YOUTH CENTER",
+      "purpose": "FOR GENERAL SUPPORT OF YOUTH DEVELOPMENT PROGRAMS"
+    },
+    {
+      "amount": 53000.0,
+      "is_new": true,
+      "name": "WOMENS & CHILDRENS CRISIS SHELTER",
+      "purpose": "FOR PROFESSIONAL DEVELOPMENT ACTIVITIES"
+    },
+    {
+      "amount": 52500.0,
+      "is_new": false,
+      "name": "UNUSUAL SUSPECTS THEATRE CO",
+      "purpose": "FOR GENERAL SUPPORT OF ARTS EDUCATION FOR YOUTH"
+    },
+    {
+      "amount": 50250.0,
+      "is_new": false,
+      "name": "READY TO SUCCEED",
+      "purpose": "FOR GENERAL SUPPORT OF CAREER DEVELOPMENT PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "24TH STREET THEATRE COMPANY",
+      "purpose": "FOR GENERAL SUPPORT OF THEATER AND ARTS EDUCATION PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BOYS AND GIRLS CLUBS OF LONG BEACH",
+      "purpose": "FOR GENERAL SUPPORT OF YOUTH DEVELOPMENT PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "CALIFORNIA STATE UNIVERSITY DOMINGUEZ HILLS PHILANTHROPIC FOUNDATION",
+      "purpose": "FOR THE GUARDIAN SCHOLARS PROGRAM"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CENTRAL AMERICAN RESOURCE CENTER - CARECEN - OF CALIFORNIA",
+      "purpose": "FOR GENERAL SUPPORT OF LEGAL AND FAMILY SUPPORT SERVICES IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "DISCOVERY SCIENCE CENTER OF LOS ANGELES",
+      "purpose": "FOR GENERAL SUPPORT OF MUSEUM ENRICHMENT PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ENCORPS INC",
+      "purpose": "TO SUPPORT STEM TEACHING AND TUTORING IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ETM-LA INC",
+      "purpose": "FOR GENERAL SUPPORT OF MUSIC EDUCATION PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "EXECUTIVE SERVICE CORPS OF SOUTHERN CALIFORNIA",
+      "purpose": "FOR GENERAL SUPPORT OF NONPROFIT CAPACITY BUILDING SERVICES IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "HARBOR INTERFAITH SERVICES INC",
+      "purpose": "FOR GENERAL SUPPORT OF HOUSING AND SUPPORTIVE SERVICES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "HEAL THE BAY",
+      "purpose": "FOR GENERAL SUPPORT OF ENVIRONMENTAL EDUCATION PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "HOLLYWOOD COMMUNITY HOUSING CORPORATION",
+      "purpose": "FOR GENERAL SUPPORT OF HOUSING AND SUPPORTIVE SERVICES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "INDUSTRY PRODUCTIONS INC (DBA THE INDUSTRY)",
+      "purpose": "FOR GENERAL SUPPORT OF OPERA PROGRAMMING"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "JENESSE CENTER INC",
+      "purpose": "FOR GENERAL SUPPORT OF DOMESTIC VIOLENCE PREVENTION AND INTERVENTION PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "KIND INC",
+      "purpose": "FOR GENERAL SUPPORT OF LEGAL REPRESENTATION AND SOCIAL SERVICES FOR CHILDREN IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "LONG BEACH NONPROFIT PARTNERSHIP (DBA THE NONPROFIT PARTNERSHIP)",
+      "purpose": "FOR GENERAL SUPPORT OF NONPROFIT CAPACITY BUILDING SERVICES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "LOS ANGELES TEAM MENTORING INC A DELAWARE CORPORATION",
+      "purpose": "FOR GENERAL SUPPORT OF YOUTH MENTORING"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MADISON PROJECT (DBA THE BROAD STAGE)",
+      "purpose": "FOR GENERAL SUPPORT OF ARTISTIC AND EDUCATIONAL PROGRAMMING"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MUSEUM ASSOCIATES (DBA LOS ANGELES COUNTY MUSEUM OF ART)",
+      "purpose": "FOR ARTS EDUCATION AND PUBLIC PROGRAMMING"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "PACIFIC CHARTER SCHOOL DEVELOPMENT INC",
+      "purpose": "FOR GENERAL SUPPORT TO ASSIST CHARTER SCHOOLS WITH FACILITY DEVELOPMENT IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "PASADENA SYMPHONY ASSOCIATION",
+      "purpose": "FOR GENERAL SUPPORT OF ORCHESTRAL PERFORMANCES AND MUSIC EDUCATION PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "PLANNED PARENTHOOD PASADENA AND SAN GABRIEL VALLEY INC",
+      "purpose": "FOR GENERAL SUPPORT OF HEALTH SERVICES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "PROGRAM FOR TORTURE VICTIMS",
+      "purpose": "FOR GENERAL SUPPORT OF HEALTH AND HUMAN SERVICES IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SOUTH CENTRAL LOS ANGELES MINISTRY PROJECT INC",
+      "purpose": "FOR GENERAL SUPPORT OF EDUCATION PROGRAMS AND RESOURCES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "STREET SYMPHONY PROJECT INC",
+      "purpose": "OVER TWO YEARS FOR GENERAL SUPPORT OF MUSIC PROGRAMMING"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "THE BOYS & GIRLS CLUB OF BURBANK AND GREATER EAST VALLEY INC",
+      "purpose": "FOR GENERAL SUPPORT OF YOUTH DEVELOPMENT PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "THE LOS ANGELES CHAMBER ORCHESTRA SOCIETY INC",
+      "purpose": "FOR GENERAL SUPPORT OF MUSIC AND EDUCATION PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "THE POSSE FOUNDATION INC",
+      "purpose": "FOR GENERAL SUPPORT OF COLLEGE ACCESS AND ENRICHMENT PROGRAMS IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "VENICE ARTS",
+      "purpose": "FOR GENERAL SUPPORT OF YOUTH ARTS EDUCATION PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "YOUNG & HEALTHY",
+      "purpose": "FOR GENERAL SUPPORT OF HEALTH SERVICES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CHILDREN TODAY A CALIFORNIA NON PROFIT PUBLIC BENEFIT CORPORATION",
+      "purpose": "FOR GENERAL SUPPORT OF EARLY EDUCATION AND FAMILY SERVICES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CHINATOWN SERVICE CENTER",
+      "purpose": "FOR GENERAL SUPPORT OF YOUTH AND FAMILY SERVICES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "EAST-WEST PLAYERS INC",
+      "purpose": "FOR GENERAL SUPPORT OF ARTISTIC AND EDUCATIONAL PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "FOOTHILL UNITY CENTER",
+      "purpose": "FOR GENERAL SUPPORT OF FOOD ASSISTANCE AND SUPPORTIVE SERVICES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "FREE ARTS FOR ABUSED CHILDREN",
+      "purpose": "OVER TWO YEARS FOR GENERAL SUPPORT OF ARTS PROGRAMMING"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "GAMBLE HOUSE CONSERVANCY",
+      "purpose": "FOR GENERAL SUPPORT OF EDUCATIONAL PROGRAMMING AND PRESERVATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "HARVEST HOME INC",
+      "purpose": "FOR GENERAL SUPPORT OF TRANSITIONAL HOUSING AND SERVICES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "HOMES FOR FAMILIES",
+      "purpose": "FOR GENERAL SUPPORT OF HOUSING AND SERVICES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "HOUSE OF RUTH INC",
+      "purpose": "FOR GENERAL SUPPORT OF DOMESTIC VIOLENCE SERVICES IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "JUMPSTART FOR YOUNG CHILDREN INC",
+      "purpose": "FOR GENERAL SUPPORT OF SCHOOL READINESS PROGRAMMING IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "LIFT INC",
+      "purpose": "FOR GENERAL SUPPORT OF FAMILY STRENGTHENING SERVICES IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "LOS ANGELES CENTER FOR LAW AND JUSTICE",
+      "purpose": "FOR GENERAL SUPPORT OF LEGAL SERVICES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MEMORIAL MEDICAL CENTER FOUNDATION",
+      "purpose": "FOR CAPITAL SUPPORT OF PEDIATRIC CRITICAL CARE EQUIPMENT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "NORTHEAST COMMUNITY CLINIC",
+      "purpose": "FOR GENERAL SUPPORT OF HEALTHCARE SERVICES IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "OPERATION JUMP START",
+      "purpose": "FOR GENERAL SUPPORT OF COLLEGE ACCESS PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "PARTNERS IN CARE FOUNDATION INC",
+      "purpose": "FOR A COORDINATED HEALTH CARE MANAGEMENT PROGRAM IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "PUENTE LEARNING CENTER",
+      "purpose": "FOR GENERAL SUPPORT OF EDUCATION AND WRAPAROUND SERVICES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SAVING INNOCENCE INC",
+      "purpose": "FOR GENERAL SUPPORT OF SERVICES FOR YOUTH SURVIVORS OF SEX TRAFFICKING"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SOUTHERN CALIFORNIA INSTITUTE OF ARCHITECTURE",
+      "purpose": "OVER TWO YEARS TO SUPPORT CAMPUS TECHNOLOGY AND EQUIPMENT UPGRADES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "TEAM PRIME TIME INC",
+      "purpose": "FOR GENERAL SUPPORT OF AFTER-SCHOOL YOUTH DEVELOPMENT PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "VISION TO LEARN",
+      "purpose": "FOR GENERAL SUPPORT OF VISION SERVICES FOR STUDENTS IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "WEST VALLEY BOYS & GIRLS CLUB",
+      "purpose": "FOR GENERAL SUPPORT OF YOUTH DEVELOPMENT PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "YOUNG MENS CHRISTIAN ASSOCIATION OF GREATER LONG BEACH",
+      "purpose": "FOR SUPPORT OF COMMUNITY DEVELOPMENT BRANCH PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "AGINGNEXT INC",
+      "purpose": "FOR GENERAL SUPPORT OF PROGRAMS AND SERVICES FOR OLDER ADULTS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "AMERICA ON TECH INC",
+      "purpose": "FOR TECHNOLOGY SKILLS DEVELOPMENT PROGRAMS FOR YOUTH IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BREASTFEEDING TASK FORCE OF GREATER LOS ANGELES",
+      "purpose": "OVER TWO YEARS FOR GENERAL SUPPORT OF COMMUNITY HEALTH PROGRAMS IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BRIDGE BUILDERS FOUNDATION INC",
+      "purpose": "FOR GENERAL SUPPORT OF YOUTH ACADEMIC AND ENRICHMENT PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BRIDGE HOUSING CORPORATION",
+      "purpose": "FOR SUPPORT OF RESIDENT SERVICES IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CHILD & FAMILY CENTER",
+      "purpose": "FOR GENERAL SUPPORT OF MENTAL HEALTH AND DOMESTIC VIOLENCE SERVICES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "EDUCARE FOUNDATION",
+      "purpose": "FOR GENERAL SUPPORT OF YOUTH ENRICHMENT PROGRAMS IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ENGAGE INC",
+      "purpose": "FOR GENERAL SUPPORT OF ARTS AND WELLNESS PROGRAMMING IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "EXCEPTIONAL MINDS",
+      "purpose": "FOR GENERAL SUPPORT OF VOCATIONAL TRAINING PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "FLINTRIDGE CENTER",
+      "purpose": "FOR GENERAL SUPPORT OF EMPLOYMENT AND YOUTH DEVELOPMENT SERVICES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "FOSTERALL",
+      "purpose": "FOR GENERAL SUPPORT OF FOSTER CARE FAMILY RECRUITMENT AND SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "FULFILLMENT FUND",
+      "purpose": "FOR GENERAL SUPPORT OF COLLEGE ACCESS AND SUCCESS PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "HARBOR COMMUNITY CLINIC INC (DBA HARBOR COMMUNITY HEALTH CENTERS)",
+      "purpose": "FOR GENERAL SUPPORT OF HEALTHCARE SERVICES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "HOPE OF THE VALLEY RESCUE MISSION",
+      "purpose": "FOR GENERAL SUPPORT OF HOUSING AND SUPPORTIVE SERVICES IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "LOS ANGELES CHILDRENS CHORUS",
+      "purpose": "FOR GENERAL SUPPORT OF CHORAL MUSIC EDUCATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "LOS ANGELES POVERTY DEPARTMENT",
+      "purpose": "OVER TWO YEARS FOR GENERAL SUPPORT OF ARTS AND CULTURAL PROGRAMMING"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MUSEUM OF CONTEMPORARY ART",
+      "purpose": "FOR GENERAL SUPPORT OF EXHIBITS AND PUBLIC PROGRAMMING"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ALZHEIMERS GREATER LOS ANGELES (DBA ALZHEIMER'S LOS ANGELES)",
+      "purpose": "FOR GENERAL SUPPORT OF SERVICES FOR INDIVIDUALS AND FAMILIES IMPACTED BY DEMENTIA"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "BOYS & GIRLS CLUB OF CARSON",
+      "purpose": "FOR GENERAL SUPPORT OF YOUTH DEVELOPMENT PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "PEACE 4 KIDS",
+      "purpose": "FOR GENERAL SUPPORT OF YOUTH DEVELOPMENT PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "RAMONA CONVENT SECONDARY SCHOOL",
+      "purpose": "FOR GENERAL SUPPORT OF COLLEGE PREPARATORY EDUCATION FOR GIRLS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "ST MATTHIAS HIGH SCHOOL (DBA ST PIUS X-ST MATTHIAS ACADEMY)",
+      "purpose": "FOR GENERAL SUPPORT OF HIGH SCHOOL EDUCATION AND ENRICHMENT PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "THE RICHSTONE CENTER INC",
+      "purpose": "FOR GENERAL SUPPORT OF MENTAL HEALTH SERVICES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "UNITED STATES VETERANS INITIATIVE",
+      "purpose": "FOR GENERAL SUPPORT TO PROVIDE HOUSING AND SERVICES FOR VETERANS IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "UNIVERSITY MUSLIM MEDICAL ASSOCIATION INC (DBA UMMA COMMUNITY CLINIC)",
+      "purpose": "FOR GENERAL SUPPORT OF HEALTHCARE SERVICES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "VALLEY COMMUNITY HEALTHCARE",
+      "purpose": "FOR GENERAL SUPPORT OF HEALTHCARE SERVICES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "YWCA OF GLENDALE AND PASADENA",
+      "purpose": "FOR GENERAL SUPPORT OF DOMESTIC VIOLENCE PREVENTION AND INTERVENTION SERVICES AND YOUTH DEVELOPMENT PROGRAMS"
+    },
+    {
+      "amount": 48000.0,
+      "is_new": false,
+      "name": "GREEN DOT PUBLIC SCHOOLS",
+      "purpose": "TO SUPPORT PROGRAMS AT NIMO JAMES B. TAYLOR CHARTER MIDDLE SCHOOL"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "ANGELS GATE CULTURAL CENTER INC",
+      "purpose": "FOR GENERAL SUPPORT OF ARTS EDUCATION, EXHIBITIONS, AND PUBLIC PROGRAMMING"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "LAKE AVENUE FOUNDATION INC (DBA STARS ILLUMINATE EDUCATE ADVOCATE)",
+      "purpose": "OVER TWO YEARS FOR GENERAL SUPPORT OF YOUTH DEVELOPMENT PROGRAMS"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "COALITION TO ABOLISH SLAVERY & TRAFFICKING",
+      "purpose": "FOR GENERAL SUPPORT OF SERVICES FOR SURVIVORS OF HUMAN TRAFFICKING IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "FOSTERING MEDIA CONNECTIONS",
+      "purpose": "FOR GENERAL SUPPORT OF CHILD WELFARE JOURNALISM IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "FRIENDS OF GALA",
+      "purpose": "FOR GENERAL SUPPORT OF EDUCATION AND ENRICHMENT PROGRAMS FOR GIRLS"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "CITY SCHOLARS FOUNDATION",
+      "purpose": "OVER TWO YEARS FOR GENERAL SUPPORT OF PROFESSIONAL DEVELOPMENT PROGRAMS FOR NONPROFIT LEADERS IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "LOS ANGELES METROPOLITAN DEBATE COMMISSION",
+      "purpose": "FOR GENERAL SUPPORT OF YOUTH DEBATE AND ENRICHMENT PROGRAMS"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "DIAVOLO DANCE THEATRE",
+      "purpose": "FOR GENERAL SUPPORT OF DANCE AND EDUCATION PROGRAMS"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "GIRLS INC OF GREATER LOS ANGELES",
+      "purpose": "FOR GENERAL SUPPORT OF ENRICHMENT PROGRAMS FOR GIRLS"
+    },
+    {
+      "amount": 38200.0,
+      "is_new": false,
+      "name": "SPIRIT AWAKENING FOUNDATION",
+      "purpose": "FOR PROFESSIONAL DEVELOPMENT ACTIVITIES"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "AIRPORT MARINA COUNSELING SERVICE",
+      "purpose": "FOR GENERAL SUPPORT OF COMMUNITY MENTAL HEALTH SERVICES"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "COLLEGE ACCESS PLAN",
+      "purpose": "FOR GENERAL SUPPORT OF COLLEGE ACCESS AND SUCCESS PROGRAMS"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "HEALING CALIFORNIA",
+      "purpose": "FOR GENERAL SUPPORT OF DENTAL AND VISION SERVICES IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "KIDSAVE INTERNATIONAL INC",
+      "purpose": "TO SUPPORT THE WEEKEND MIRACLES PROGRAM IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "PASADENA SENIOR CENTER",
+      "purpose": "FOR GENERAL SUPPORT OF SOCIAL SERVICES AND ENRICHMENT PROGRAMS"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "HEIDI DUCKLER DANCE",
+      "purpose": "FOR GENERAL SUPPORT OF DANCE AND EDUCATION PROGRAMS"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "KIDS COMMUNITY CLINIC OF BURBANK",
+      "purpose": "FOR GENERAL SUPPORT OF DENTAL SERVICES"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "ALTAMED FOUNDATION",
+      "purpose": "FOR YOUTH SERVICES PROGRAMMING IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "EMPOWHER INSTITUTE INC",
+      "purpose": "FOR GENERAL SUPPORT OF EDUCATIONAL AND ENRICHMENT PROGRAMS FOR GIRLS"
+    },
+    {
+      "amount": 31000.0,
+      "is_new": false,
+      "name": "GRAND PERFORMANCES",
+      "purpose": "TO SUPPORT TUITION AND TRAVEL EXPENSES ASSOCIATED WITH THE CEO'S PARTICIPATION IN THE EXECUTIVE PROGRAM FOR NONPROFIT LEADERS AT STANFORD"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "CALIFORNIA SCIENCE CENTER FOUNDATION",
+      "purpose": "FOR THE ENDEAVOR LA CAMPAIGN"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "THE INDEPENDENT SHAKESPEARE CO INC",
+      "purpose": "FOR GENERAL SUPPORT OF THEATER AND EDUCATION PROGRAMMING"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "PATHWAYS LA (DBA PATHWAYS)",
+      "purpose": "FOR GENERAL SUPPORT OF EARLY CHILDHOOD PROGRAMMING"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "SOCIETY FOR SCIENCE AND THE PUBLIC (DBA SOCIETY FOR SCIENCE)",
+      "purpose": "TO SUPPORT EDUCATION OUTREACH DAY AT THE INTERNATIONAL SCIENCE AND ENGINEERING FAIR IN LOS ANGELES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "BRIDGE TO HOME SCV",
+      "purpose": "OVER TWO YEARS FOR GENERAL SUPPORT OF HOUSING AND SUPPORTIVE SERVICES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "GHETTO FILM SCHOOL INC",
+      "purpose": "FOR GENERAL SUPPORT OF FILM EDUCATION FOR YOUTH IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LA THEATRE WORKS",
+      "purpose": "OVER TWO YEARS FOR GENERAL SUPPORT OF AUDIO THEATER AND EDUCATION PROGRAMS IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "VALLEY FAMILY CENTER",
+      "purpose": "OVER TWO YEARS FOR GENERAL SUPPORT OF COUNSELING AND SUPPORTIVE SERVICES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
+      "purpose": "TO SUPPORT ARTS AND CULTURE PUBLIC PROGRAMMING"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CHILDREN NOW",
+      "purpose": "FOR GENERAL SUPPORT TO IMPROVE THE WELL-BEING OF FOSTER YOUTH IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "GARDEN SCHOOL FOUNDATION INC",
+      "purpose": "OVER TWO YEARS FOR GENERAL SUPPORT OF FOOD EDUCATION PROGRAMS FOR YOUTH AND FAMILIES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "HAVEN HILLS INC",
+      "purpose": "OVER TWO YEARS FOR GENERAL SUPPORT OF DOMESTIC VIOLENCE INTERVENTION AND HOUSING PROGRAMS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "HELEN KELLER INTERNATIONAL",
+      "purpose": "TO SUPPORT THE VISION PROGRAM IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LOS ANGELES MUSIC AND ART SCHOOL",
+      "purpose": "FOR GENERAL SUPPORT OF MUSIC AND ARTS EDUCATION FOR YOUTH"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LOS ANGELES RIVER REVITALIZATION CORPORATION (DBA RIVER LA)",
+      "purpose": "FOR GENERAL SUPPORT OF LOS ANGELES RIVER REVITALIZATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NATIONAL TRUST FOR HISTORIC PRESERVATION IN THE UNITED STATES",
+      "purpose": "OVER TWO YEARS FOR SUPPORT OF HISTORIC PRESERVATION IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ADVOT PROJECT",
+      "purpose": "OVER TWO YEARS FOR GENERAL SUPPORT OF ARTS AND YOUTH DEVELOPMENT PROGRAMS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "FOOTHILL AIDS PROJECT",
+      "purpose": "FOR GENERAL SUPPORT OF HIV/AIDS SERVICES IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "FUND FOR PARTNERSHIP FOR SUCCESS",
+      "purpose": "OVER TWO YEARS FOR GENERAL SUPPORT OF EDUCATION AND ENRICHMENT SERVICES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "HUMAN RIGHTS WATCH",
+      "purpose": "FOR GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ACCION OPPORTUNITY FUND COMMUNITY DEVELOPMENT",
+      "purpose": "OVER TWO YEARS FOR SUPPORT OF MICROLENDING PROGRAMS IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "AMERICAN FRIENDS OF THE MUNICH SECURITY CONFERENCE",
+      "purpose": "FOR GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "CICLAVIA INC",
+      "purpose": "FOR GENERAL SUPPORT OF COMMUNITY ENRICHMENT EVENTS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "HOLLYWOOD CHAMBER OF COMMERCE COMMUNITY FOUNDATION",
+      "purpose": "FOR GENERAL SUPPORT TO RE-ENVISION THE HOLLYWOOD CHAMBER COMMUNITY FOUNDATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "JOHN TRACY CLINIC (DBA JOHN TRACY CENTER)",
+      "purpose": "FOR GENERAL SUPPORT OF SERVICES FOR CHILDREN WITH HEARING LOSS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "ROSE CITY CENTER",
+      "purpose": "OVER TWO YEARS FOR GENERAL SUPPORT OF MENTAL HEALTH SERVICES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "SAINT MARKS SCHOOL ALTADENA INC",
+      "purpose": "FOR CAPITAL SUPPORT OF A PRESCHOOL BUILDING"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "TEACH DEMOCRACY",
+      "purpose": "OVER TWO YEARS FOR GENERAL SUPPORT OF CIVIC EDUCATION PROGRAMS IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "VARIETY BOYS AND GIRLS CLUB",
+      "purpose": "FOR GENERAL SUPPORT OF YOUTH DEVELOPMENT PROGRAMS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "WILD UP",
+      "purpose": "FOR GENERAL SUPPORT OF MUSIC PROGRAMMING IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "CALIFORNIA STATE UNIVERSITY - NORTHRIDGE FOUNDATION",
+      "purpose": "FOR \"INSTRUMENTAL,\" A BENEFIT CONCERT AND DINNER"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "EAST YARD COMMUNITIES FOR ENVIRONMENTAL JUSTICE",
+      "purpose": "FOR GENERAL SUPPORT OF SAFE AND HEALTHY ENVIRONMENTS FOR COMMUNITIES IMPACTED BY INDUSTRIAL POLLUTION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "JERICHO ROAD PASADENA INC",
+      "purpose": "FOR GENERAL SUPPORT OF CAPACITY BUILDING SERVICES FOR NONPROFITS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "LOS ANGELES WORLD AFFAIRS COUNCIL",
+      "purpose": "TO SUPPORT CIVIC PROGRAMS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "MARTIN LUTHER KING JR COMMUNITY HEALTH FOUNDATION",
+      "purpose": "FOR GENERAL SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "CARNEGIE INSTITUTION OF WASHINGTON (DBA CARNEGIE SCIENCE)",
+      "purpose": "OVER TWO YEARS FOR SUPPORT OF THE CARNEGIE OBSERVATORIES SUMMER UNDERGRADUATE RESEARCH PROGRAM"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "GROWINGGREAT",
+      "purpose": "OVER TWO YEARS FOR STEAM EDUCATION AND ENRICHMENT PROGRAMS IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "LIVING THROUGH GIVING FOUNDATION",
+      "purpose": "FOR THE ACT UP (AIDS COALITION TO UNLEASH POWER) ORAL HISTORY PROJECT"
+    },
+    {
+      "amount": 16500.0,
+      "is_new": true,
+      "name": "CENTER FOR EFFECTIVE PHILANTHROPY INC",
+      "purpose": "FOR GENERAL SUPPORT OF PROGRAMS AND SERVICES PROMOTING EFFECTIVE PHILANTHROPY"
+    },
+    {
+      "amount": 16000.0,
+      "is_new": false,
+      "name": "CENTER FOR THE PACIFIC ASIAN FAMILY INC",
+      "purpose": "TO SUPPORT PARTICIPATION IN WORKFORCE DEVELOPMENT ACTIVITIES"
+    },
+    {
+      "amount": 16000.0,
+      "is_new": false,
+      "name": "OPEN PATHS COUNSELING CENTER",
+      "purpose": "FOR PROFESSIONAL DEVELOPMENT ACTIVITIES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "CALIFORNIA COMMUNITY FOUNDATION",
+      "purpose": "TO SUPPORT THE ROBERT K. ROSS CENTER FOR HOPE AND HEALING"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "EL CENTRO DE AMISTAD INC",
+      "purpose": "FOR PROFESSIONAL DEVELOPMENT ACTIVITIES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "ESPERANZA COMMUNITY HOUSING CORPORATION",
+      "purpose": "FOR GENERAL SUPPORT OF HEALTH AND HOUSING SERVICES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "M F PLACE INC (DBA MY FRIEND'S PLACE)",
+      "purpose": "FOR PROFESSIONAL DEVELOPMENT ACTIVITIES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "ST FRANCIS CENTER",
+      "purpose": "FOR PROFESSIONAL DEVELOPMENT ACTIVITIES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "THE UCLA FOUNDATION",
+      "purpose": "FOR ATHLETIC SCHOLARSHIPS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "BOYS & GIRLS CLUBS OF METRO LOS ANGELES",
+      "purpose": "FOR GENERAL SUPPORT OF YOUTH DEVELOPMENT PROGRAMS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "GET LIT WORDS IGNITE INC",
+      "purpose": "FOR PROFESSIONAL DEVELOPMENT ACTIVITIES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "JAPANESE AMERICAN CULTURAL AND COMMUNITY CENTER",
+      "purpose": "FOR PROFESSIONAL DEVELOPMENT ACTIVITIES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "KARSH FAMILY SOCIAL SERVICE CENTER INC",
+      "purpose": "FOR PROFESSIONAL DEVELOPMENT ACTIVITIES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "SOUTHERN CALIFORNIA COUNSELING CENTER",
+      "purpose": "FOR PROFESSIONAL DEVELOPMENT ACTIVITIES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "WAYFINDER FAMILY SERVICES",
+      "purpose": "FOR GENERAL SUPPORT OF COMPREHENSIVE CHILD WELFARE SERVICES IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "826LA",
+      "purpose": "FOR PROFESSIONAL DEVELOPMENT ACTIVITIES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "BARRIO ACTION YOUTH & FAMILY CENTER",
+      "purpose": "FOR PROFESSIONAL DEVELOPMENT ACTIVITIES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "EBELL FRIENDS",
+      "purpose": "FOR PROFESSIONAL DEVELOPMENT ACTIVITIES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "OUTWARD BOUND ADVENTURES INC",
+      "purpose": "FOR PROFESSIONAL DEVELOPMENT ACTIVITIES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "PUBLIC CORPORATION FOR THE ARTS OF THE CITY OF LONG BEACH (DBA LONG BEACH A",
+      "purpose": "FOR PROFESSIONAL DEVELOPMENT ACTIVITIES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "7UICE FOUNDATION",
+      "purpose": "FOR GENERAL SUPPORT OF ACCESS TO RESOURCES FOR YOUTH"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "ACCESS BOOKS",
+      "purpose": "FOR GENERAL SUPPORT OF YOUTH LITERACY PROGRAMS IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "MAR VISTA FAMILY CENTER",
+      "purpose": "FOR GENERAL SUPPORT OF EDUCATION AND ENRICHMENT PROGRAMS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "MOUNT WILSON INSTITUTE",
+      "purpose": "FOR GENERAL SUPPORT OF PUBLIC PROGRAMS AT THE MOUNT WILSON OBSERVATORY"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": true,
+      "name": "JUNIOR ACHIEVEMENT OF SOUTHERN CA",
+      "purpose": "FOR GENERAL SUPPORT OF YOUTH EDUCATION PROGRAMS"
+    },
+    {
+      "amount": 11000.0,
+      "is_new": true,
+      "name": "THE OTHER SIDE OF THE HILL PRODUCTIONS INC",
+      "purpose": "FOR GENERAL SUPPORT OF THEATRICAL PRODUCTIONS AND COMMUNITY PROGRAMMING"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CHILDRENS HOSPITAL LOS ANGELES",
+      "purpose": "FOR THE BEHAVIORAL HEALTH PROGRAM"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CLAREMONT MCKENNA COLLEGE",
+      "purpose": "FOR STUDENT RESEARCH AND INTERNSHIPS AT THE LOWE INSTITUTE OF POLITICAL ECONOMY"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "INTERNATIONAL MEDICAL CORPS",
+      "purpose": "FOR GENERAL SUPPORT OF EMERGENCY MEDICAL SERVICES, HEALTH INTERVENTIONS, AND RELATED ACTIVITIES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "PACIFIC COUNCIL ON INTERNATIONAL POLICY",
+      "purpose": "IN HONOR OF JERROLD GREEN"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "HOLLYWOOD FOOD COALITION",
+      "purpose": "FOR GENERAL SUPPORT OF FOOD DISTRIBUTION AND SUPPORTIVE SERVICES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "INTERNATIONAL BIRD RESCUE",
+      "purpose": "FOR EFFORTS AT THE SAN PEDRO SITE"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "THE PLAY EQUITY FUND",
+      "purpose": "FOR GENERAL SUPPORT OF SPORTS-BASED YOUTH DEVELOPMENT PROGRAMS AND ADVOCACY"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ASPIRE PUBLIC SCHOOLS",
+      "purpose": "TO SUPPORT THE ASPIRE FIRESTONE ACADEMY"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "BILL HILLARY & CHELSEA CLINTON FOUNDATION",
+      "purpose": "FOR GENERAL SUPPORT OF EFFORTS TO EXPAND ECONOMIC OPPORTUNITY, IMPROVE PUBLIC HEALTH, CONFRONT THE CLIMATE CRISIS, AND INSPIRE CITIZEN ENGAGEMENT AND SERVICE"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CLAREMONT GRADUATE UNIVERSITY",
+      "purpose": "TO SUPPORT THE DEVELOPMENT OF THE DRUCKER PLAYBOOK FOR RISING LEADERS IN THE SOCIAL SECTOR"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ECONOMIC ROUNDTABLE",
+      "purpose": "TO SUPPORT HOMELESSNESS PREVENTION EFFORTS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "SCHOLARMATCH INC",
+      "purpose": "FOR GENERAL SUPPORT OF COLLEGE ACCESS AND SUCCESS PROGRAMS IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "LOS ANGELES URBAN LEAGUE",
+      "purpose": "FOR GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "LUNDQUIST INSTITUTE FOR BIOMEDICAL INNOVATION AT HARBOR-UCLA MEDICAL (DBA T",
+      "purpose": "FOR GENERAL SUPPORT OF MEDICAL RESEARCH"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "PACIFIC OPERA PROJECT INCORPORATED",
+      "purpose": "FOR PROFESSIONAL DEVELOPMENT ACTIVITIES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "AMERICAN FAMILY HOUSING",
+      "purpose": "TO SUPPORT COMPREHENSIVE SERVICES FOR PEOPLE EXPERIENCING HOMELESSNESS IN SOUTHEAST LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "BEST BUDDIES INTERNATIONAL INC",
+      "purpose": "FOR THE JOBS PROGRAM IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "CONCERNED BLACK MEN OF LOS ANGELES INC",
+      "purpose": "FOR GENERAL SUPPORT OF YOUTH MENTORING PROGRAMS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "CONVALESCENT AID SOCIETY",
+      "purpose": "FOR GENERAL SUPPORT OF THE FREE LOAN OF DURABLE MEDICAL EQUIPMENT FOR IN-HOME USE"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "DIRECT RELIEF",
+      "purpose": "TO SUPPORT MEDICAL AID AND RELIEF IN UKRAINE"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "LINCOLN HEIGHTS TUTORIAL PROGRAM",
+      "purpose": "FOR COMPUTER LAB EQUIPMENT FOR AFTER-SCHOOL PROGRAMS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "LOS ANGELES MUSEUM OF THE HOLOCAUST",
+      "purpose": "FOR GENERAL SUPPORT OF MUSEUM AND EDUCATIONAL PROGRAMS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "PLUNUM HEALTH",
+      "purpose": "TO SUPPORT THE CARE TRANSFORMATION PROJECT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "THE CLIMATE CENTER",
+      "purpose": "FOR GENERAL SUPPORT OF EFFORTS TO REDUCE CLIMATE POLLUTION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "VIDIOTS FOUNDATION",
+      "purpose": "FOR GENERAL SUPPORT OF THE FILM COLLECTION AND PROGRAMS"
+    },
+    {
+      "amount": 8500.0,
+      "is_new": true,
+      "name": "ENLIGHTENED MENTOR CORPORATION",
+      "purpose": "FOR GENERAL SUPPORT OF YOUTH MENTORING SERVICES"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": true,
+      "name": "A SENSE OF HOME",
+      "purpose": "FOR SUPPORT OF A HOME CREATION FOR FORMER FOSTER YOUTH"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "FOUNDATION FOR INTERSCHOLASTIC YOUTH ATHLETICS",
+      "purpose": "FOR GENERAL SUPPORT OF YOUTH SPORTS PROGRAMMING"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "MEXICAN AMERICAN BAR FOUNDATION",
+      "purpose": "TO SUPPORT THE SCHOLARSHIP AWARDS GALA"
+    },
+    {
+      "amount": 5500.0,
+      "is_new": true,
+      "name": "INNER CITY YOUTH ORCHESTRA OF LOS ANGELES",
+      "purpose": "FOR GENERAL SUPPORT OF MUSIC EDUCATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "PRAGER UNIVERSITY FOUNDATION",
+      "purpose": "FOR GENERAL SUPPORT OF EFFORTS TO SHARE INFORMATION ABOUT AMERICAN VALUES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "TAKING THE REINS",
+      "purpose": "FOR GENERAL SUPPORT OF EQUESTRIAN AND EDUCATION PROGRAMS FOR YOUTH"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "URBAN VOICES PROJECT",
+      "purpose": "FOR GENERAL SUPPORT OF MUSIC PROGRAMMING"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "READING LEGACIES",
+      "purpose": "FOR GENERAL SUPPORT OF READING PROGRAMS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "SOCIAL AND ENVIRONMENTAL ENTREPRENEURS INC",
+      "purpose": "FOR GENERAL SUPPORT OF MENTAL HEALTH PROGRAMS AND SERVICES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "CENTER FOR EXCELLENCE IN EDUCATION",
+      "purpose": "FOR GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "AMERICAN JOURNALISM PROJECT INC",
+      "purpose": "FOR GENERAL SUPPORT TO LAUNCH A LOCAL JOURNALISM INITIATIVE IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "JAPANESE AMERICAN BAR ASSOCIATION EDUCATIONAL FOUNDATION",
+      "purpose": "TO SUPPORT THE 2024 JABA GALA"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "KIDS IN THE SPOTLIGHT INC",
+      "purpose": "FOR GENERAL SUPPORT OF MEDIA ARTS EDUCATION AND VOCATIONAL TRAINING FOR FOSTER YOUTH"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "KOREA TOWN SENIOR AND COMMUNITY CENTER INC",
+      "purpose": "FOR GENERAL SUPPORT OF PROGRAMS FOR SENIORS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "KOREAN AMERICAN COALITION",
+      "purpose": "FOR GENERAL SUPPORT OF CIVIC PROGRAMS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "MUSEUM OF THE AFRICAN DIASPORA",
+      "purpose": "FOR GENERAL SUPPORT OF MUSEUM PROGRAMMING"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "OHANA WELLNESS CENTER",
+      "purpose": "TO SUPPORT MATERNAL WELLNESS PROGRAMS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "ONE ARCHIVES FOUNDATION",
+      "purpose": "FOR GENERAL SUPPORT OF COMMUNITY ARTS AND YOUTH ENRICHMENT PROGRAMS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "RAINBOW LABS MENTORING INC",
+      "purpose": "FOR GENERAL SUPPORT OF YOUTH ENRICHMENT PROGRAMS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "THE MAYOR'S FUND FOR LOS ANGELES",
+      "purpose": "FOR GENERAL SUPPORT OF HOMELESSNESS PREVENTION EFFORTS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "TREASURES MINISTRIES",
+      "purpose": "FOR GENERAL SUPPORT OF SURVIVOR SERVICES AND OUTREACH"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "TWINSPIRE TOGETHER WE INSPIRE",
+      "purpose": "FOR GENERAL SUPPORT OF FINANCIAL LITERACY PROGRAMS FOR YOUTH"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "WESTERN UNIVERSITY OF HEALTH SCIENCES",
+      "purpose": "FOR GENERAL SUPPORT OF THE PHYSICAL THERAPY PROGRAM"
+    },
+    {
+      "amount": 4500.0,
+      "is_new": false,
+      "name": "AMERICAN COUNCIL ON GERMANY INC",
+      "purpose": "FOR GENERAL SUPPORT"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "LOS ANGELES ROOM & BOARD",
+      "purpose": "TO SUPPORT THE MISSION INVESTORS EXCHANGE CONFERENCE TAY HOUSING CONVENING"
+    },
+    {
+      "amount": 2800.0,
+      "is_new": false,
+      "name": "NEFESH LA",
+      "purpose": "TO MATCH AN EMPLOYEE GIFT BY PIPER KAMINS"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "LA'S BEST",
+      "purpose": "FOR GENERAL SUPPORT OF AFTER-SCHOOL EDUCATION AND ENRICHMENT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "WOODCRAFT RANGERS",
+      "purpose": "FOR GENERAL SUPPORT OF YOUTH DEVELOPMENT PROGRAMS"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "SANTA TERESITA INC",
+      "purpose": "TO MATCH AN EMPLOYEE GIFT BY KATHERINE BONALOS"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "LATINA LAWYERS BAR ASSOCIATION",
+      "purpose": "FOR GENERAL SUPPORT TO PROVIDE ASSISTANCE AND A COMMUNITY OF SUPPORT FOR LATINAS IN LEGAL CAREERS"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "MARYCREST MANOR",
+      "purpose": "TO MATCH AN EMPLOYEE GIFT BY KATHERINE BONALOS"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "THE TALENTED YOUTH",
+      "purpose": "FOR GENERAL SUPPORT OF YOUNG ARTISTS WORKING IN THE MEDIA ARTS"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "FRIENDS OF THE LOS ANGELES COUNTY LAW LIBRARY",
+      "purpose": "FOR GENERAL SUPPORT TO PROVIDE LEGAL INFORMATION, EDUCATION, AND RESOURCES"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "DESTINATION CRENSHAW",
+      "purpose": "TO MATCH AN EMPLOYEE GIFT BY JENNIFER PRICE-LETSCHER"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": false,
+      "name": "COVENANT HOUSE CALIFORNIA",
+      "purpose": "TO MATCH AN EMPLOYEE GIFT BY JENNIFER PRICE-LETSCHER"
+    },
+    {
+      "amount": 750.0,
+      "is_new": false,
+      "name": "DANCE DOWNTOWN LA INC (DBA LA DANCE PROJECT)",
+      "purpose": "TO MATCH AN EMPLOYEE GIFT BY ROMESH ANKETELL"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "UPTOWN GAY & LESBIAN ALLIANCE INC",
+      "purpose": "TO MATCH AN EMPLOYEE GIFT BY NATALIE EGNATCHIK"
+    },
+    {
+      "amount": 462.0,
+      "is_new": false,
+      "name": "HENRY E HUNTINGTON LIBRARY & ART GALLERY (DBA HUNTINGTON LIBRARY ART MUSEUM",
+      "purpose": "TO MATCH AN EMPLOYEE GIFT BY NATALIE EGNATCHIK"
+    },
+    {
+      "amount": 300.0,
+      "is_new": true,
+      "name": "BROTHERS HELPERS INC",
+      "purpose": "TO MATCH AN EMPLOYEE GIFT BY NATALIE EGNATCHIK"
+    },
+    {
+      "amount": 250.0,
+      "is_new": false,
+      "name": "FACING HISTORY AND OURSELVES INC",
+      "purpose": "TO MATCH AN EMPLOYEE GIFT BY PIPER KAMINS FOR GENERAL SUPPORT OF PROGRAMS IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 250.0,
+      "is_new": true,
+      "name": "DOLORES C HUERTA FOUNDATION",
+      "purpose": "TO MATCH AN EMPLOYEE GIFT BY ARACELI CAMPOS FOR PROGRAMS IN LOS ANGELES COUNTY"
+    },
+    {
+      "amount": 105.0,
+      "is_new": true,
+      "name": "PASADENA HUMANE SOCIETY",
+      "purpose": "TO MATCH AN EMPLOYEE GIFT BY NATALIE EGNATCHIK"
+    },
+    {
+      "amount": 100.0,
+      "is_new": false,
+      "name": "LEGAL EDUCATION ACCESS PIPELINE INC",
+      "purpose": "TO MATCH AN EMPLOYEE GIFT BY ARACELI CAMPOS FOR PROGRAMS IN LOS ANGELES COUNTY"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "ONLINE APPLICATIONS AT RMPF.ORG/ ALL GRANT APPLICATIONS BEGIN WITH AN ONLINE LETTER OF INQUIRY (LOI) AS A REQUIRED FIRST STEP IN SEEKING FUNDING. WE HAVE A CONTINUOUS APPROVAL PROCESS AND LOIS MAY BE SUBMITTED AT ANY TIME THROUGHOUT THE YEAR.",

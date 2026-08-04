@@ -47,6 +47,518 @@
     "singleton_cluster_share": 0.3882,
     "total_grant_records": 613
   },
+  "recipients_latest_year": [
+    {
+      "amount": 564957.0,
+      "is_new": false,
+      "name": "University of California Los Angeles",
+      "purpose": "Adapting to Climate Shocks: Evidence from California Wildfires"
+    },
+    {
+      "amount": 384231.0,
+      "is_new": false,
+      "name": "University of Michigan",
+      "purpose": "Using Large-Scale Network Data to Measure Social Returns and Improve Targ..."
+    },
+    {
+      "amount": 357541.0,
+      "is_new": false,
+      "name": "Columbia University",
+      "purpose": "How Social Media Influencers Shape the Politics of Young Adults"
+    },
+    {
+      "amount": 314564.0,
+      "is_new": false,
+      "name": "New York University",
+      "purpose": "The Impact of Hurricane Sandy on Rents"
+    },
+    {
+      "amount": 283766.0,
+      "is_new": false,
+      "name": "University of California San Diego",
+      "purpose": "Belief-updating about discrimination: How to close the partisan belief gap"
+    },
+    {
+      "amount": 281507.0,
+      "is_new": false,
+      "name": "University of Pennsylvania",
+      "purpose": "Still Launching? Moral Understandings of Financial (In)Dependence in Youn..."
+    },
+    {
+      "amount": 265025.0,
+      "is_new": false,
+      "name": "Harvard University",
+      "purpose": "2024 Behavioral Economics (BE) Summer Institute"
+    },
+    {
+      "amount": 260603.0,
+      "is_new": false,
+      "name": "Brown University",
+      "purpose": "How Does Firm-Level Sorting Contribute to the Gender Wage Gap? Changes fr..."
+    },
+    {
+      "amount": 219096.0,
+      "is_new": false,
+      "name": "Cornell University",
+      "purpose": "Can Immigrants Transfer their Skills? Evidence from International Census ..."
+    },
+    {
+      "amount": 215661.0,
+      "is_new": false,
+      "name": "University of California Irvine",
+      "purpose": "FARMWORKER IDENTITY FORMATION AMONG FORMER SEASONAL FARMWORKER YOUTH"
+    },
+    {
+      "amount": 147070.0,
+      "is_new": true,
+      "name": "University of Massachusetts Amherst",
+      "purpose": "How People of Color Respond to Narratives of Rising Diversity"
+    },
+    {
+      "amount": 134588.0,
+      "is_new": false,
+      "name": "University of Notre Dame",
+      "purpose": "Structuring Gig Work"
+    },
+    {
+      "amount": 129353.0,
+      "is_new": true,
+      "name": "Drake University",
+      "purpose": "The inequities of unemployment"
+    },
+    {
+      "amount": 125602.0,
+      "is_new": false,
+      "name": "University of Illinois Chicago",
+      "purpose": "Remote Work, Work-Life Conflict, and Belonging in Silicon Valley"
+    },
+    {
+      "amount": 125057.0,
+      "is_new": false,
+      "name": "University of Pittsburgh",
+      "purpose": "Using municipal land records to reconstruct the initial patterns and evol..."
+    },
+    {
+      "amount": 118448.0,
+      "is_new": false,
+      "name": "University of California Berkeley",
+      "purpose": "Suburban Lockdown"
+    },
+    {
+      "amount": 112399.0,
+      "is_new": false,
+      "name": "Duke University",
+      "purpose": "Has the Changing Media Landscape Affected Labor Union Organizing? Evidenc..."
+    },
+    {
+      "amount": 107674.0,
+      "is_new": false,
+      "name": "Boston College",
+      "purpose": "Exploring the relationship between family member criminal justice involve..."
+    },
+    {
+      "amount": 106326.0,
+      "is_new": false,
+      "name": "Stanford University",
+      "purpose": "Double Jeopardy"
+    },
+    {
+      "amount": 96943.0,
+      "is_new": true,
+      "name": "University of Nebraska Lincoln",
+      "purpose": "The Parenthood Gap: Firms and Earnings Inequality After Kids"
+    },
+    {
+      "amount": 95000.0,
+      "is_new": false,
+      "name": "University of Southern California",
+      "purpose": "The Effects of HOPE VI Revitalization Programs on Housing Markets"
+    },
+    {
+      "amount": 94336.0,
+      "is_new": false,
+      "name": "Massachusetts Institute of Technology",
+      "purpose": "The Effect of the Japan Trade Shock on Black and White Workers"
+    },
+    {
+      "amount": 91434.0,
+      "is_new": false,
+      "name": "Johns Hopkins University",
+      "purpose": "How Do High-Achieving Low-Income Students Make Postsecondary Decisions? I..."
+    },
+    {
+      "amount": 87184.0,
+      "is_new": false,
+      "name": "University of California Merced",
+      "purpose": "Immigrant Peers and the Short-Run Academic and Long-Run Outcomes of US-Bo..."
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "University of Maryland College Park",
+      "purpose": "Black Men's Vocational Journeys: Overcoming Racism and Justice Involvement"
+    },
+    {
+      "amount": 82000.0,
+      "is_new": false,
+      "name": "University of Houston",
+      "purpose": "A First Examination of Academic and Early-Career Outcomes of Refugee and ..."
+    },
+    {
+      "amount": 81216.0,
+      "is_new": false,
+      "name": "University of North Carolina Wilmington",
+      "purpose": "The Civil Rights Movement and Legacies of Racial Violence"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Arizona State University",
+      "purpose": "Youth Vote and Political Engagement in Unsettled Times"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "Joan & Sanford I Weill Medical College of Cornell University",
+      "purpose": "State recreational cannabis laws and racial disparities in the criminal j..."
+    },
+    {
+      "amount": 74800.0,
+      "is_new": true,
+      "name": "RAND Corporation",
+      "purpose": "Social Capital & Early-Career Outcomes"
+    },
+    {
+      "amount": 74721.0,
+      "is_new": true,
+      "name": "University of Alabama Tuscaloosa",
+      "purpose": "Pay Your Debt? How Perceived Race and Deservingness Affect Moral Dilemmas..."
+    },
+    {
+      "amount": 74298.0,
+      "is_new": false,
+      "name": "University of California Davis",
+      "purpose": "Measuring and Understanding New Work and Displaced Work in the US"
+    },
+    {
+      "amount": 72500.0,
+      "is_new": false,
+      "name": "University of Massachusetts Boston",
+      "purpose": "Hurricanes, Floods and Fires"
+    },
+    {
+      "amount": 72498.0,
+      "is_new": false,
+      "name": "Research Foundation for the State University of New York",
+      "purpose": "The Economic and Social Impact of COVID-19 and Anti-Asian Hate on Chinato..."
+    },
+    {
+      "amount": 69622.0,
+      "is_new": false,
+      "name": "Brookings Institution",
+      "purpose": "Chilling Effects and Participation in Safety Net Programs among Children ..."
+    },
+    {
+      "amount": 68210.0,
+      "is_new": true,
+      "name": "Monash University",
+      "purpose": "Does Work from Home Work for Diversity? Evidence from a Field Experiment"
+    },
+    {
+      "amount": 67838.0,
+      "is_new": false,
+      "name": "Rutgers University New Brunswick",
+      "purpose": "(Mis)Perceptions of American Economic Inequality at the Intersection of ..."
+    },
+    {
+      "amount": 67403.0,
+      "is_new": false,
+      "name": "Purdue University",
+      "purpose": "Income, Hours, or Enjoyment"
+    },
+    {
+      "amount": 63000.0,
+      "is_new": true,
+      "name": "St John's University",
+      "purpose": "Race, Immigration, and Integration: South Asian Immigrants in Queens"
+    },
+    {
+      "amount": 59841.0,
+      "is_new": true,
+      "name": "University of Texas Arlington",
+      "purpose": "Urban Braceros"
+    },
+    {
+      "amount": 59510.0,
+      "is_new": false,
+      "name": "University of Toronto",
+      "purpose": "Does Better Information Reduce Gender Discrimination in the Technology In..."
+    },
+    {
+      "amount": 51572.0,
+      "is_new": false,
+      "name": "University of North Carolina Chapel Hill",
+      "purpose": "Ethnic Profiling Under the Auspices of Community Safety"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Fordham University",
+      "purpose": "Affirmative Action Inc.: Race Consciousness in Americas Largest Corporations"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "Georgia Southern University",
+      "purpose": "Crimmigration, Policing, and Black Immigrant Integration in the U.S. South"
+    },
+    {
+      "amount": 49994.0,
+      "is_new": false,
+      "name": "Syracuse University",
+      "purpose": "Immigrants and Children of Immigrants in the US Military"
+    },
+    {
+      "amount": 49987.0,
+      "is_new": true,
+      "name": "Colorado State University Fort Collins",
+      "purpose": "The Geography of Union Decline in the U.S."
+    },
+    {
+      "amount": 48851.0,
+      "is_new": false,
+      "name": "Rice University",
+      "purpose": "Locked Out of Place"
+    },
+    {
+      "amount": 44920.0,
+      "is_new": false,
+      "name": "University of Wisconsin Madison",
+      "purpose": "Move in and Get Paid? The Welfare Consequences of Remote Worker Relocatio..."
+    },
+    {
+      "amount": 43614.0,
+      "is_new": false,
+      "name": "University of Virginia",
+      "purpose": "Winning Without Bargaining: Unionization & the Federal Workforce"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "Boston University",
+      "purpose": "The Union's Inspiration"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "Northwestern University",
+      "purpose": "The impact of workplace efficacy on political engagement"
+    },
+    {
+      "amount": 37500.0,
+      "is_new": false,
+      "name": "University of Illinois Urbana-Champaign",
+      "purpose": "Algorithmic Management in Hotel Housekeeping"
+    },
+    {
+      "amount": 37500.0,
+      "is_new": true,
+      "name": "Gettysburg College",
+      "purpose": "Taking Perspective"
+    },
+    {
+      "amount": 37500.0,
+      "is_new": true,
+      "name": "Kennesaw State University Research and Service Foundation Inc",
+      "purpose": "Long-Term Reduction of Racial and Ethnoreligious Bias Through a New, Mult..."
+    },
+    {
+      "amount": 37500.0,
+      "is_new": true,
+      "name": "Virginia Commonwealth University",
+      "purpose": "The Structural and Cultural Context of Deaths of Despair"
+    },
+    {
+      "amount": 37463.0,
+      "is_new": false,
+      "name": "University of Mississippi",
+      "purpose": "Disability Insurance and Economic Decline in Rural America"
+    },
+    {
+      "amount": 37441.0,
+      "is_new": false,
+      "name": "University of Connecticut",
+      "purpose": "If You Dont See Color, You Dont See Me"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "Georgia Institute of Technology",
+      "purpose": "The Effect of Medicaid on Recidivism and Employment after Release from Prison"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "University of North Texas",
+      "purpose": "Renewing the American Dream: The Children of Immigrants in Higher Education"
+    },
+    {
+      "amount": 34360.0,
+      "is_new": false,
+      "name": "Emmanuel College",
+      "purpose": "Beyond White Picket Fences"
+    },
+    {
+      "amount": 34261.0,
+      "is_new": false,
+      "name": "Colgate University",
+      "purpose": "Subjective feelings of falling behind other whites and being passed by pe..."
+    },
+    {
+      "amount": 32650.0,
+      "is_new": false,
+      "name": "Washington Center for Equitable Growth",
+      "purpose": "The Future of Public Sector Worker Power"
+    },
+    {
+      "amount": 32240.0,
+      "is_new": true,
+      "name": "University of British Columbia",
+      "purpose": "Causes and Macroeconomic Implications of the Growth of the Professional B..."
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "University of Georgia Research Foundation",
+      "purpose": "The effects of eviction moratoria and renter-supportive measures on the p..."
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "American University",
+      "purpose": "SNAP Distribution Schedules and Student Standardized Test Score Performance"
+    },
+    {
+      "amount": 29999.0,
+      "is_new": false,
+      "name": "University of Denver",
+      "purpose": "Unionizing the Convicted Class on the Eve of Mass Incarceration"
+    },
+    {
+      "amount": 29956.0,
+      "is_new": false,
+      "name": "North Carolina State University",
+      "purpose": "Legal Consciousness of Collateral Consequence Policies"
+    },
+    {
+      "amount": 29240.0,
+      "is_new": true,
+      "name": "McGill University",
+      "purpose": "Learning Activism"
+    },
+    {
+      "amount": 28000.0,
+      "is_new": false,
+      "name": "Princeton University",
+      "purpose": "Navigating the Narrative Rupture"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "University Corporation at Monterey Bay",
+      "purpose": "H-2A Mexican Agricultural Guestworkers"
+    },
+    {
+      "amount": 24921.0,
+      "is_new": false,
+      "name": "Texas A&M University",
+      "purpose": "In my humble non-opinion"
+    },
+    {
+      "amount": 24523.0,
+      "is_new": false,
+      "name": "Dartmouth College",
+      "purpose": "The Impacts of School Facilities Investments in the Mid-Century South"
+    },
+    {
+      "amount": 23000.0,
+      "is_new": false,
+      "name": "Yale University",
+      "purpose": "La Planta: Latinx Worker Survival in U.S. Slaughterhouses"
+    },
+    {
+      "amount": 23000.0,
+      "is_new": true,
+      "name": "University of Colorado Denver",
+      "purpose": "Socio-economic integration and assimilation of Mexican-origin migrants in..."
+    },
+    {
+      "amount": 22431.0,
+      "is_new": true,
+      "name": "W E Upjohn Institute for Employment Research",
+      "purpose": "Changing Cash Assistance Rules in the U.S."
+    },
+    {
+      "amount": 22307.0,
+      "is_new": false,
+      "name": "California State University East Bay Foundation Inc",
+      "purpose": "What Underlies Opposition to Critical Race Theory and What Reduces It?"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "University of Washington Seattle",
+      "purpose": "Paid Family Leave and Parent Wellbeing"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Howard University",
+      "purpose": "\"The Importance of Considering State Eligibility Requirements for Equitab..."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Research Foundation of the City University of New York",
+      "purpose": "Rezoning New York: Class and Racial Inequalities in the Struggle for Space"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Temple University",
+      "purpose": "Privileged and Unprivileged Precarity"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "University of California Riverside",
+      "purpose": "How Does Contact with Street-Level Bureaucrats Impact Immigrant Politica..."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "University of Chicago",
+      "purpose": "Bringing it Home"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "University of California Santa Barbara",
+      "purpose": "The Effects of Windfalls on Descendents of the Enslaved"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Tufts University",
+      "purpose": "The Impact of Policy Interventions on Housing Supply in Massachusetts"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "University of Arizona",
+      "purpose": "Triangulating earth observation, legal and sociodemographic data, and qua..."
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "CHECK THE FOUNDATION'S WEBSITE FOR FORMS, DEADLINES AND RESTRICTIONS.",

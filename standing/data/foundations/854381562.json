@@ -48,6 +48,242 @@
     "singleton_cluster_share": 0.7736,
     "total_grant_records": 69
   },
+  "recipients_latest_year": [
+    {
+      "amount": 405000.0,
+      "is_new": true,
+      "name": "YWCA OF SOUTH FLORIDA",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 367000.0,
+      "is_new": true,
+      "name": "ACHIEVEMENT CENTERS FOR CHILDREN",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "4KIDS OF SOUTH FLORIDA INC",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 340000.0,
+      "is_new": false,
+      "name": "TAKE STOCK IN CHILDREN OF PALM BEACH COUNTY",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "GEORGE SNOW SCHOLARSHIP FUND",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "BROWARD PARTNERSHIP",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "PLACE OF HOPE INC",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 120000.0,
+      "is_new": true,
+      "name": "HABCENTER BOCA RATON",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "BROWARD COLLEGE FOUNDATION INC",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "NORTHEND RISE INC",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": true,
+      "name": "FLORIDA ATLANTICFOUNDATION INC",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 82000.0,
+      "is_new": false,
+      "name": "BOUND FOR COLLEGE INC",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "BOCA HELPING HANDS INC",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "EDUCATION FOUNDATION PALM BEACH",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "MAX PLANCK FLORIDA INSTITUTE",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "THE 1909 FOUNDATION INC",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 52000.0,
+      "is_new": false,
+      "name": "EMANUEL JACKSON SR PROJECT INC",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "PALM BEACH SCHOOL FOR AUTISM",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "SOS CHILDRENS VILLAGE INC",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 39771.0,
+      "is_new": true,
+      "name": "FLORIDA PREPAID COLLEGE FOUNDATION",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "DELRAY CITIZENS FOR DELRAY POLICE INC",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "CENTER FOR FAMILY SERVICES OF PALM BEACH COUNTY INC",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 27000.0,
+      "is_new": false,
+      "name": "MIRACLE LEAGUE OF DELRAY BEACH",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BOCA RATON COMMUNITY CHURCH",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ROOTS AND WINGS INC",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "CITYHOUSE DELRAY BEACH INC",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "COMMUNITY CLASSROOM PROJECT INC",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "HANNAHS HOME OF SOUTH FLORIDA",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "SUITS FOR SENIORS INC",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "UNITED WAY BROWARD",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "CREATIVE CITY COLLABORATIVE OF DELRAY BEACH INC",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "HISPANIC UNITY OF FLORIDA",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "GILDAS CLUB SOUTH FLORIDA",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "DELRAY BEACH HISTORIC SOCIETY",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "DELRAY CONCOURS FOUNDATION",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "EAT BETTER LIVE BETTER INC",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "GBDC ENTREPRENEURSHIP INSTITUTE INC",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "KNIGHTS OF PYTHAGORAS MENTORING",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "SPADY CULTURAL HERITAGE MUSEUM INC",
+      "purpose": "UNRESTRICTED SUPPORT OF THE ORGANIZATION'S EXEMPT PURPOSE"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

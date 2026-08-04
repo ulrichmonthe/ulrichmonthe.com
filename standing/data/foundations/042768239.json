@@ -48,6 +48,962 @@
     "singleton_cluster_share": 0.4282,
     "total_grant_records": 859
   },
+  "recipients_latest_year": [
+    {
+      "amount": 2550000.0,
+      "is_new": false,
+      "name": "CAMP HARBOR VIEW FOUNDATION INC",
+      "purpose": "CAPITAL RENOVATIONS TO NEW CO-LOCATED FACILITY FOR CAMP & YOUTH ENRICHMENT PROGRAMS"
+    },
+    {
+      "amount": 2000000.0,
+      "is_new": false,
+      "name": "PINE STREET INN INC",
+      "purpose": "CAPITAL SUPPORT FOR PERMANENT SUPPORTIVE HOUSING FOR FORMERLY HOMELESS INDIVIDUALS"
+    },
+    {
+      "amount": 1300000.0,
+      "is_new": false,
+      "name": "TRUSTEES OF BOSTON COLLEGE",
+      "purpose": "CAPITAL PROJECT FOR CONSTRUCTION OF FRATES CENTER BASEBALL & SOFTBALL FIELD COMPLEX"
+    },
+    {
+      "amount": 1075000.0,
+      "is_new": false,
+      "name": "THE BASEBALL INC",
+      "purpose": "BASEBALL & SOFTBALL PROGRAMS FOR RECREATION & SKILLS DEVELOPMENT"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "FATHER BILLS & MAINSPRING INC",
+      "purpose": "SUPPORT FOR HOUSING RESOURCE CENTER FOR UNDERSERVED INDIVIDUALS"
+    },
+    {
+      "amount": 750000.0,
+      "is_new": false,
+      "name": "INQUILINOS BORICUAS EN ACCION INC",
+      "purpose": "CAPITAL PROJECT FOR NEW BUILDING TO EXPAND PROGRAMS AND MISSION DELIVERY"
+    },
+    {
+      "amount": 750000.0,
+      "is_new": false,
+      "name": "LAWRENCE CATHOLIC ACADEMY OF LAWRENCE MASSACHUSETTS INC",
+      "purpose": "CAPITAL PROJECT FOR NEW BUILDINGS FOR SCHOOL AND RECREATION/ATHLETICS"
+    },
+    {
+      "amount": 750000.0,
+      "is_new": false,
+      "name": "NATIONAL BASEBALL HALL OF FAME AND MUSEUM INC",
+      "purpose": "DEVELOPMENT, EDUCATION, AND OUTREACH FOR BLACK BASEBALL INITIATIVE"
+    },
+    {
+      "amount": 621056.0,
+      "is_new": false,
+      "name": "BOSTON FOUNDATION INC",
+      "purpose": "YAWKEY SCHOLARS PROGRAM"
+    },
+    {
+      "amount": 505000.0,
+      "is_new": false,
+      "name": "THE GREATER BOSTON FOOD BANK INC",
+      "purpose": "CAPITAL PROJECT FOR HUNGER RELIEF & FOOD ACCESS"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "BENJAMIN FRANKLIN CUMMINGS INSTITUTE OF TECHNOLOGY",
+      "purpose": "EDUCATION AND SKILLS BUILDING FOR UNDERSERVED INDIVIDUALS TO GAIN SELF-SUFFICIENCY"
+    },
+    {
+      "amount": 260000.0,
+      "is_new": false,
+      "name": "RON BURTON TRAINING VILLAGE INC",
+      "purpose": "CAPITAL PROJECT FOR SKILLS BUILDING FOR UNDERSERVED INDIVIDUALS TO GAIN SELF-SUFFICIENCY"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "BOSTON MEDICAL CENTER CORPORATION",
+      "purpose": "HEALTH CARE ACCESS FOR UNDERSERVED INDIVIDUALS & COMMUNITIES"
+    },
+    {
+      "amount": 209500.0,
+      "is_new": false,
+      "name": "PHILANTHROPY MASSACHUSETTS INC",
+      "purpose": "MEMBERSHIP ORGANIZATION FOR GRANTMAKERS"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "LA COLABORATIVA",
+      "purpose": "CAPITAL PROJECT FOR FOOD ACCESS AND HUNGER RELIEF FOR UNDERSERVED INDIVIDUALS"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "BMA TENPOINT INC",
+      "purpose": "EDUCATION & ENRICHMENT OPPORTUNITIES FOR UNDERSERVED YOUTH"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "XAVERIAN BROTHERS HIGH SCHOOL",
+      "purpose": "SCHOLARSHIP PROGRAM"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "CATHOLIC CHARITABLE BUREAU OF THE ARCHDIOCESE OF BOSTON INC",
+      "purpose": "BASIC NEEDS CAPACITY BUILDING IN LYNN AND BROCKTON"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "MY BROTHERS KEEPER INC",
+      "purpose": "CAPITAL PURCHASE (TRUCK) FOR PROGRAM SERVING VULNERABLE INDIVIDUALS"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "YOUNG MENS CHRISTIAN ASSOCIATION OF GREATER BOSTON INC",
+      "purpose": "CAPITAL RENOVATIONS TO CLUBHOUSE SERVING VULNERABLE YOUTH AND FAMILIES"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "NATIVITY-BOSTON INC",
+      "purpose": "CAPITAL RENOVATIONS TO FACILITY SERVING VULNERABLE YOUTH"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "THE WANG CENTER FOR THE PERFORMING ARTS INC",
+      "purpose": "CAPITAL IMPROVEMENTS PROJECT FOR ARTS PROGRAM ACCESS & OUTREACH"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "PAN-MASSACHUSETTS CHALLENGE INC",
+      "purpose": "HEALTH CARE ACCESS FOR UNDERSERVED INDIVIDUALS & COMMUNITIES"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "BOYS AND GIRLS CLUB OF METRO SOUTH INC",
+      "purpose": "CAPITAL RENOVATIONS TO CLUBHOUSES SERVING VULNERABLE YOUTH"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BOYS AND GIRLS CLUBS OF BOSTON INC",
+      "purpose": "CAPITAL RENOVATIONS TO CLUBHOUSE SERVING VULNERABLE YOUTH"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "FAMILYAID BOSTON INC",
+      "purpose": "WRAPAROUND BASIC NEEDS (FOOD, HOUSING) FOR UNDERSERVED INDIVIDUALS AND FAMILIES"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "FUND FOR CATHOLIC SCHOOLS INC",
+      "purpose": "SKILLS BUILDING & EDUCATIONAL PROGRAMS TO STRENGTHEN NONPROFIT SECTOR"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ST MARY'S CENTER FOR WOMEN AND CHILDREN",
+      "purpose": "WRAPAROUND BASIC NEEDS (FOOD, HOUSING) FOR UNDERSERVED INDIVIDUALS AND FAMILIES"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CATHOLIC MEMORIAL SCHOOL",
+      "purpose": "SCHOLARSHIP PROGRAM"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CATHOLIC SCHOOLS FOUNDATION INC",
+      "purpose": "SKILLS BUILDING & EDUCATIONAL PROGRAMS TO STRENGTHEN NONPROFIT SECTOR"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BOSTON CHILDREN'S MUSEUM",
+      "purpose": "EDUCATION & ENRICHMENT OPPORTUNITIES FOR UNDERSERVED YOUTH"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CATHEDRAL HIGH SCHOOL INC",
+      "purpose": "SUPPORT FOR SCHOOL FACILITY RENOVATIONS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "SPOONFULS",
+      "purpose": "CAPITAL PURCHASE (TRUCK) FOR PROGRAM SERVING VULNERABLE INDIVIDUALS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "TUFTS MEDICAL CENTER PARENT INC",
+      "purpose": "ESSENTIAL CAPITAL IMPROVEMENTS TO DELIVER ON MISSION"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "DANA-FARBER CANCER INSTITUTE",
+      "purpose": "HEALTH CARE ACCESS FOR UNDERSERVED INDIVIDUALS & COMMUNITIES"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "purpose": "HEALTH CARE ACCESS FOR UNDERSERVED INDIVIDUALS & COMMUNITIES"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "BOYS AND GIRLS CLUBS OF DORCHESTER INC",
+      "purpose": "EDUCATION & ENRICHMENT OPPORTUNITIES FOR UNDERSERVED YOUTH"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "ROSIES PLACE INC",
+      "purpose": "CAPITAL SUPPORT FOR HOUSING HOMELESS INDIVIDUALS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "WOMENS LUNCH PLACE INC",
+      "purpose": "CAPITAL PROJECT FOR HUNGER RELIEF & FOOD ACCESS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "WOODS HOLE OCEANOGRAPHIC INSTITUTION",
+      "purpose": "NATURE & WILDLIFE PROGRAMS FOR CONSERVATION, PROTECTION & EDUCATION"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "HALE EDUCATION INC",
+      "purpose": "CAPITAL PROJECT FOR NEW BUILDING TO EXPAND PROGRAMS AND MISSION DELIVERY"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "BRIDGE OVER TROUBLED WATERS INC",
+      "purpose": "WRAPAROUND BASIC NEEDS FOR UNDERSERVED YOUTH"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "ROXBURY COMMUNITY COLLEGE FOUNDATION INC",
+      "purpose": "EDUCATION AND SKILLS BUILDING FOR UNDERSERVED INDIVIDUALS TO GAIN SELF-SUFFICIENCY"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "YOUTH ENRICHMENT SERVICES INC",
+      "purpose": "EDUCATION & ENRICHMENT OPPORTUNITIES FOR UNDERSERVED YOUTH"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "EMERSON HOSPITAL",
+      "purpose": "MENTAL HEALTH & SOCIAL-EMOTIONAL SUPPORT FOR VULNERABLE INDIVIDUALS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BOSTON HOME INC",
+      "purpose": "CAPITAL PROJECT TO ENHANCE OPPORTUNITY FOR PEOPLE WITH DISABILITIES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BROCKTON HOSPITAL INC",
+      "purpose": "EDUCATION AND SKILLS BUILDING FOR UNDERSERVED INDIVIDUALS TO GAIN SELF-SUFFICIENCY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "COMMUNITY SERVINGS INC",
+      "purpose": "HUNGER RELIEF & FOOD ACCESS FOR VULNERABLE INDIVIDUALS AND FAMILIES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CROSSROADS FOR KIDS INC",
+      "purpose": "EDUCATION & ENRICHMENT OPPORTUNITIES FOR UNDERSERVED YOUTH"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "DIMOCK COMMUNITY HEALTH CENTER INC",
+      "purpose": "HEALTH CARE ACCESS FOR UNDERSERVED INDIVIDUALS & COMMUNITIES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ECKHART TOLLE FOUNDATION",
+      "purpose": "MENTAL HEALTH & SOCIAL-EMOTIONAL SUPPORT FOR VULNERABLE INDIVIDUALS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "INTERFAITH SOCIAL SERVICES INC",
+      "purpose": "WRAPAROUND BASIC NEEDS FOR UNDERSERVED INDIVIDUALS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MARGARITA MUNIZ ACADEMY FOUNDATION INC",
+      "purpose": "EDUCATION & ENRICHMENT OPPORTUNITIES FOR UNDERSERVED YOUTH"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "PROJECT BREAD - THE WALK FOR HUNGER INC",
+      "purpose": "HUNGER RELIEF & FOOD ACCESS FOR VULNERABLE INDIVIDUALS AND FAMILIES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "UTEC INC",
+      "purpose": "HUNGER RELIEF & FOOD ACCESS FOR VULNERABLE INDIVIDUALS AND FAMILIES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BOSTON COMMUNITY PEDIATRICS",
+      "purpose": "HEALTH CARE ACCESS FOR UNDERSERVED INDIVIDUALS & COMMUNITIES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BOYS AND GIRLS CLUBS OF METROWEST INC",
+      "purpose": "CAPITAL RENOVATIONS TO CLUBHOUSE SERVING VULNERABLE YOUTH"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CARDINAL CUSHING CENTERS INC",
+      "purpose": "SUPPORT FOR SCHOOL FACILITY RENOVATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "IMMIGRANT LEARNING CENTER INC",
+      "purpose": "EDUCATION AND SKILLS BUILDING FOR UNDERSERVED INDIVIDUALS TO GAIN SELF-SUFFICIENCY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ROUND THE BEND FARM INC",
+      "purpose": "NATURE & WILDLIFE PROGRAMS FOR CONSERVATION, PROTECTION & EDUCATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "USS CONSTITUTION MUSEUM INC",
+      "purpose": "CAPITAL PROJECT FOR ARTS PROGRAM ACCESS & OUTREACH"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Y2Y NETWORK",
+      "purpose": "ESSENTIAL PROGRAM EQUIPMENT TO DELIVER ON MISSION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "EMPOWERED AND DEDICATED TO EDIFY THE NATION INC",
+      "purpose": "WRAPAROUND BASIC NEEDS (FOOD, HOUSING) FOR UNDERSERVED INDIVIDUALS AND FAMILIES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "LYNN SHELTER ASSOCIATION INC",
+      "purpose": "CAPITAL SUPPORT FOR HOUSING HOMELESS INDIVIDUALS AND FAMILIES"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": true,
+      "name": "ESPLANADE ASSOCIATION INC",
+      "purpose": "NATURE & WILDLIFE PROGRAMS FOR CONSERVATION, PROTECTION & EDUCATION"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": true,
+      "name": "GROW ASSOCIATES INC",
+      "purpose": "CAPITAL RENOVATIONS TO FACILITY SERVING VULNERABLE YOUTH"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "CAPE COD BASEBALL LEAGUE INC",
+      "purpose": "BASEBALL & SOFTBALL PROGRAMS FOR RECREATION & SKILLS DEVELOPMENT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "MASSACHUSETTS AMATEUR SPORTS",
+      "purpose": "BASEBALL & SOFTBALL PROGRAMS FOR RECREATION & SKILLS DEVELOPMENT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "BOSTON SYMPHONY ORCHESTRA INC",
+      "purpose": "ENHANCED ACCESS/OUTREACH FOR ARTS & CULTURE PROGRAMS"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "GOOD SPORTS INC",
+      "purpose": "BASEBALL & SOFTBALL EQUIPMENT FOR UNDERSERVED COMMUNITIES"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "MORE THAN WORDS INC",
+      "purpose": "BASIC NEEDS (FOOD, HOUSING) FOR UNDERSERVED YOUTH"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "PLUMMER YOUTH PROMISE",
+      "purpose": "BASIC NEEDS (FOOD, HOUSING) FOR UNDERSERVED YOUTH"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "BOSTON DEBATE LEAGUE",
+      "purpose": "EDUCATION & ENRICHMENT OPPORTUNITIES FOR UNDERSERVED YOUTH"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "CRISTO REY BOSTON HIGH SCHOOL INC",
+      "purpose": "CAPITAL PROJECT FOR HUNGER RELIEF & FOOD ACCESS"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "ISABELLA STEWART GARDNER MUSEUM INC",
+      "purpose": "ENHANCED ACCESS/OUTREACH FOR ARTS & CULTURE PROGRAMS"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "RODMAN RIDE FOR KIDS INC",
+      "purpose": "ENHANCED ACCESS/OUTREACH FOR ARTS & CULTURE PROGRAMS"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "SARATOGA PERFORMING ARTS CENTER INC",
+      "purpose": "ENHANCED ACCESS/OUTREACH FOR ARTS & CULTURE PROGRAMS"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "GIRLS INCORPORATED OF LYNN",
+      "purpose": "ESSENTIAL PROGRAM EQUIPMENT TO DELIVER ON MISSION"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "URBAN FOOD INITIATIVE",
+      "purpose": "CAPITAL PROJECT FOR HUNGER RELIEF & FOOD ACCESS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "LAZARUS HOUSE INCORPORATED",
+      "purpose": "ESSENTIAL PROGRAM EQUIPMENT TO DELIVER ON MISSION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "BOSTON LANDMARKS ORCHESTRA INC",
+      "purpose": "ENHANCED ACCESS/OUTREACH FOR ARTS & CULTURE PROGRAMS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "YWCA OF SOUTHEASTERN MASSACHUETTS",
+      "purpose": "CAPITAL SUPPORT FOR NEW BEHAVIORAL AND MENTAL HEALTH FACILITY"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "BLESSED STEPHEN BELLESINI OSA ACADEMY INC",
+      "purpose": "SUPPORT FOR SCHOOL FACILITY RENOVATIONS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "ESPERANZA ACADEMY INC",
+      "purpose": "ESSENTIAL PROGRAM EQUIPMENT TO DELIVER ON MISSION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "NEW COMMONWEALTH RACIAL EQUITY AND SOCIAL JUSTICE FUND INC",
+      "purpose": "SKILLS BUILDING & EDUCATIONAL PROGRAMS TO STRENGTHEN NONPROFIT SECTOR"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BOSTON PARK LEAGUE INC",
+      "purpose": "BASEBALL & SOFTBALL PROGRAMS FOR RECREATION & SKILLS DEVELOPMENT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CASA MYRNA VASQUEZ INC",
+      "purpose": "BASIC NEEDS (FOOD, HOUSING) ACCESS FOR UNDERSERVED INDIVIDUALS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CLERGY HEALTH AND RETIREMENT TRUST",
+      "purpose": "EDUCATION & ENRICHMENT OPPORTUNITIES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CONGREGATION OF SISTERS OF ST JOSEPH OF BOSTON",
+      "purpose": "WRAPAROUND BASIC NEEDS (FOOD, HOUSING) FOR UNDERSERVED INDIVIDUALS AND FAMILIES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "FOUNDATION TO ADVANCE CATHOLIC EDUCATION",
+      "purpose": "EDUCATION & ENRICHMENT OPPORTUNITIES FOR UNDERSERVED YOUTH"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "HOUSING ASSISTANCE CORPORATION",
+      "purpose": "BASIC NEEDS (BEDS, FURNISHINGS) FOR FORMERLY HOMELESS INDIVIDUALS AND FAMILIES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "HOUSING FAMILIES INC",
+      "purpose": "CAPITAL PURCHASE (VAN) FOR PROGRAM SERVING VULNERABLE INDIVIDUALS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "KRIPALU CENTER FOR YOGA & HEALTH INC",
+      "purpose": "SKILLS BUILDING & EDUCATIONAL PROGRAMS TO STRENGTHEN NONPROFIT SECTOR"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LAWRENCE BOYS CLUB & GIRLS CLUB INC",
+      "purpose": "EDUCATION & ENRICHMENT OPPORTUNITIES FOR UNDERSERVED YOUTH"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LEARN LIVE LOVE INC",
+      "purpose": "HEALTH CARE ACCESS FOR UNDERSERVED INDIVIDUALS & COMMUNITIES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "MISSION OF DEEDS INC",
+      "purpose": "BASIC NEEDS (BEDS, FURNISHINGS) FOR FORMERLY HOMELESS INDIVIDUALS AND FAMILIES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "MY BROTHER'S TABLE INC",
+      "purpose": "HUNGER RELIEF & FOOD ACCESS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CHILDRENS PLACE INC",
+      "purpose": "CAPITAL PROJECT FOR NEW BUILDING TO EXPAND PROGRAMS AND MISSION DELIVERY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CONGREGACION LEON DE JUDA",
+      "purpose": "CAPITAL PROJECT FOR SKILLS BUILDING FOR UNDERSERVED INDIVIDUALS TO GAIN SELF-SUFFICIENCY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "EAST BOSTON SOCIAL CENTERS INC",
+      "purpose": "EDUCATION AND SKILLS BUILDING FOR UNDERSERVED INDIVIDUALS TO GAIN SELF-SUFFICIENCY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "JEWISH COMMUNITY CENTER OF GREATER BOSTON INC",
+      "purpose": "SCHOLARSHIP PROGRAM"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NATIONAL CENTER OF AFRO AMERICAN ARTISTS INC",
+      "purpose": "ENHANCED ACCESS/OUTREACH FOR ARTS & CULTURE PROGRAMS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SOCIEDAD LATINA INC",
+      "purpose": "EDUCATION & ENRICHMENT OPPORTUNITIES FOR UNDERSERVED YOUTH"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SOUTHEASTERN MASSACHUSETTS VETERANS HOUSING PROGRAM INC",
+      "purpose": "HUNGER RELIEF & FOOD ACCESS FOR VULNERABLE INDIVIDUALS AND FAMILIES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "GREATER BOSTON INTERFAITH ORGANIZATION",
+      "purpose": "BASIC NEEDS (FOOD, HOUSING) ACCESS FOR UNDERSERVED INDIVIDUALS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LA ALIANZA HISPANA INC",
+      "purpose": "WRAPAROUND BASIC NEEDS (FOOD, HOUSING) FOR UNDERSERVED INDIVIDUALS AND FAMILIES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NOTRE DAME CRISTO REY HIGH SCHOOL INC",
+      "purpose": "EDUCATION & ENRICHMENT OPPORTUNITIES FOR UNDERSERVED YOUTH"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NOTRE DAME EDUCATION CENTER",
+      "purpose": "EDUCATION AND SKILLS BUILDING FOR UNDERSERVED INDIVIDUALS TO GAIN SELF-SUFFICIENCY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "OLD COLONY YOUNG MENS CHRISTIAN ASSOCIATION INC",
+      "purpose": "ENRICHMENT & RECREATION OPPORTUNITIES FOR PEOPLE WITH DISABILITIES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "THE OLD NORTH FOUNDATION OF BOSTON INC",
+      "purpose": "ENHANCED ACCESS/OUTREACH FOR ARTS & CULTURE PROGRAMS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "VICTORY PROGRAMS INC",
+      "purpose": "BASIC NEEDS (FOOD, HOUSING) ACCESS FOR UNDERSERVED INDIVIDUALS AND FAMILIES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ARTISTS FOR HUMANITY INC",
+      "purpose": "ENHANCED ACCESS/OUTREACH FOR ARTS & CULTURE PROGRAMS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BETHANY HEALTH CARE CENTER",
+      "purpose": "ESSENTIAL PROGRAM EQUIPMENT TO DELIVER ON MISSION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "FREEDOM HOUSE INC",
+      "purpose": "CAPITAL RENOVATIONS TO FACILITY SERVING VULNERABLE YOUTH"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "JUSTICE RESOURCE INSTITUTE INC",
+      "purpose": "MENTAL HEALTH & SOCIAL-EMOTIONAL SUPPORT FOR VULNERABLE INDIVIDUALS AND YOUTH"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ZUMIX INC",
+      "purpose": "EDUCATION & ENRICHMENT OPPORTUNITIES FOR UNDERSERVED YOUTH"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "BOSTON AREA GLEANERS INC",
+      "purpose": "ESSENTIAL PROGRAM EQUIPMENT TO DELIVER ON MISSION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "BOSTON POLICE ATHLETIC LEAGUE INC",
+      "purpose": "BASEBALL & SOFTBALL PROGRAMS FOR RECREATION & SKILLS DEVELOPMENT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "ELEVATED THOUGHT INC",
+      "purpose": "EDUCATION & ENRICHMENT OPPORTUNITIES FOR UNDERSERVED YOUTH"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "FRONT PORCH ARTS COLLECTIVE OF BOSTON",
+      "purpose": "ENHANCED ACCESS/OUTREACH FOR ARTS & CULTURE PROGRAMS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "MASSACHUSETTS ADVOCATES FOR CHILDREN INC",
+      "purpose": "PROGRAMMATIC SUPPORT AND OUTREACH FOR VULNERABLE YOUTH"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "MUSEUM OF AFRO-AMERICAN HISTORY INC",
+      "purpose": "CAPITAL PROJECT FOR ARTS PROGRAM ACCESS & OUTREACH"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "ROBERT F KENNEDY COMMUNITY ALLIANCE",
+      "purpose": "MENTAL HEALTH & SOCIAL-EMOTIONAL SUPPORT FOR VULNERABLE YOUTH"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "SPORTS MUSEUM OF NEW ENGLAND INC",
+      "purpose": "EDUCATION & ENRICHMENT OPPORTUNITIES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "THE INSTITUTE OF CONTEMPORARY ART",
+      "purpose": "ENHANCED ACCESS/OUTREACH FOR ARTS & CULTURE PROGRAMS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "THE SOCIETY OF JESUS OF NEW ENGLAND",
+      "purpose": "HEALTH CARE ACCESS FOR DISABLED INDIVIDUALS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "A SPORTING CHANCE INC",
+      "purpose": "BASEBALL & SOFTBALL PROGRAMS FOR RECREATION & SKILLS DEVELOPMENT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "BOYS & GIRLS CLUB OF GREATER NEW BEDFORD INC",
+      "purpose": "CAPITAL RENOVATIONS TO CLUBHOUSE SERVING VULNERABLE YOUTH"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "CAPE COD COUNCIL OF CHURCHES INC",
+      "purpose": "WRAPAROUND BASIC NEEDS (FOOD, HOUSING) FOR UNDERSERVED INDIVIDUALS AND FAMILIES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "LOUISA MAY ALCOTTS ORCHARD HOUSE INC",
+      "purpose": "ENHANCED ACCESS/OUTREACH FOR ARTS & CULTURE PROGRAMS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "MASS MENTORING PARTNERSHIP INC",
+      "purpose": "EDUCATION & ENRICHMENT OPPORTUNITIES FOR UNDERSERVED YOUTH"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "THE B E L L FOUNDATION INC",
+      "purpose": "EDUCATION & ENRICHMENT OPPORTUNITIES FOR UNDERSERVED YOUTH"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "YAWKEY BASEBALL LEAGUE",
+      "purpose": "BASEBALL & SOFTBALL PROGRAMS FOR RECREATION & SKILLS DEVELOPMENT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "FRIENDS OF THE ANIMAL SHELTER INC",
+      "purpose": "SUPPORT OF ANIMAL SHELTER MISSION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "UNION CAPITAL BOSTON",
+      "purpose": "EDUCATION AND SKILLS BUILDING FOR UNDERSERVED INDIVIDUALS TO GAIN SELF-SUFFICIENCY"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "AIKEN LAND CONSERVANCY",
+      "purpose": "NATURE & WILDLIFE PROGRAMS FOR CONSERVATION, PROTECTION & EDUCATION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "NORTHERN ESSEX COMMUNITY COLLEGE FOUNDATION",
+      "purpose": "EDUCATION AND SKILLS BUILDING FOR UNDERSERVED INDIVIDUALS TO GAIN SELF-SUFFICIENCY"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "THE CAPE AND ISLANDS VETERANS OUTREACH CENTER INC",
+      "purpose": "HUNGER RELIEF & FOOD ACCESS FOR VULNERABLE INDIVIDUALS AND FAMILIES"
+    },
+    {
+      "amount": 19000.0,
+      "is_new": false,
+      "name": "COUNCIL ON FOUNDATIONS INC",
+      "purpose": "MEMBERSHIP ORGANIZATION FOR GRANTMAKERS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "AMAZING GRACE OF CAPE COD INC",
+      "purpose": "RECREATION & ENRICHMENT CAMP OPPORTUNITIES FOR UNDERSERVED YOUTH"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "DANIELS TABLE INC",
+      "purpose": "HUNGER RELIEF & FOOD ACCESS FOR VULNERABLE INDIVIDUALS AND FAMILIES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "EMMANUEL GOSPEL CENTER INC",
+      "purpose": "WRAPAROUND BASIC NEEDS (FOOD, HOUSING) FOR UNDERSERVED INDIVIDUALS AND FAMILIES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "FRIENDS OF ACADIA",
+      "purpose": "ESSENTIAL PROGRAM EQUIPMENT TO DELIVER ON MISSION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "TRUSTEES OF MOUNT HOLYOKE COLLEGE",
+      "purpose": "SUPPORT OF EQUESTRIAN TEAM PROGRAM"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "NATIONAL MUSEUM OF RACING INC",
+      "purpose": "ENHANCED ACCESS/OUTREACH FOR ARTS & CULTURE PROGRAMS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "HYDE SQUARE TASK FORCE",
+      "purpose": "EDUCATION & ENRICHMENT OPPORTUNITIES FOR UNDERSERVED YOUTH"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "TOMMYS PLACE FOUNDATION INC",
+      "purpose": "ESSENTIAL PROGRAM EQUIPMENT TO DELIVER ON MISSION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "AIKEN HORSE PARK FOUNDATION",
+      "purpose": "SUPPORT OF EQUESTRIAN PROGRAM"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "ACCELERATED COLLGE EXPERIENCES INC",
+      "purpose": "EDUCATION AND SKILLS BUILDING FOR UNDERSERVED INDIVIDUALS TO GAIN SELF-SUFFICIENCY"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "THE SAMARITANS ON CAPE COD AND THE ISLANDS INC",
+      "purpose": "ESSENTIAL PROGRAM EQUIPMENT TO DELIVER ON MISSION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "WE CAN CORPORATION",
+      "purpose": "ESSENTIAL PROGRAM EQUIPMENT TO DELIVER ON MISSION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "COMMUNITY ACTION COMMITTEE OF CAPE COD & ISLANDS INC",
+      "purpose": "WRAPAROUND BASIC NEEDS (FOOD, HOUSING) FOR UNDERSERVED INDIVIDUALS AND FAMILIES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "HOUSE OF POSSIBILITIES INC",
+      "purpose": "ESSENTIAL PROGRAM EQUIPMENT TO DELIVER ON MISSION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ADAPTIVE SPORTS NEW ENGLAND INC",
+      "purpose": "ENRICHMENT & RECREATION OPPORTUNITIES FOR PEOPLE WITH DISABILITIES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "AGGANIS FOUNDATION INC",
+      "purpose": "SCHOLARSHIP PROGRAM"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "MYSTIC VALLEY ELDER SERVICES",
+      "purpose": "BASIC NEEDS (FOOD, HOUSING) ACCESS FOR UNDERSERVED INDIVIDUALS AND FAMILIES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "TRUSTEES OF BOSTON UNIVERSITY",
+      "purpose": "BASEBALL & SOFTBALL PROGRAMS FOR RECREATION & SKILLS DEVELOPMENT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "MASS GENERAL BRIGHAM INCORPORATED",
+      "purpose": "HEALTH CARE ACCESS FOR UNDERSERVED INDIVIDUALS & COMMUNITIES"
+    },
+    {
+      "amount": 2250.0,
+      "is_new": false,
+      "name": "PEAK GRANTMAKING INC",
+      "purpose": "MEMBERSHIP ORGANIZATION FOR GRANTMAKERS"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "THE FOUNDATION ENCOURAGES APPLICANTS TO REVIEW THE FOUNDATION'S GRANT GUIDELINES ON OUR WEBSITE (WWW.YAWKEYFOUNDATION.ORG) PRIOR TO APPLYING FOR A FOUNDATION GRANT.",

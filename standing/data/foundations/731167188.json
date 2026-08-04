@@ -48,6 +48,842 @@
     "singleton_cluster_share": 0.4464,
     "total_grant_records": 1710
   },
+  "recipients_latest_year": [
+    {
+      "amount": 4000000.0,
+      "is_new": true,
+      "name": "FUEL OKC",
+      "purpose": "FUEL OKC GENERAL OPERATING ($4,000,000; 2-YEAR GRANT)"
+    },
+    {
+      "amount": 3015000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF OKLAHOMA FOUNDATION",
+      "purpose": "OU HEALTH SCIENCES CENTER PROPOSAL: PHARMACY ($1.5M), ALLIED HEALTH ($1.5M), AND NEUROLOGY ($2M)"
+    },
+    {
+      "amount": 2016000.0,
+      "is_new": false,
+      "name": "KEY TO HOME (CITY OF OKLAHOMA CITY)",
+      "purpose": "HUMAN CENTERED DESIGN SPEARHEADED BY SCOTIA MOORE"
+    },
+    {
+      "amount": 2000000.0,
+      "is_new": true,
+      "name": "CROSSROADS RENEWAL PROJECT",
+      "purpose": "GRANT MODIFIED (7.17.2024): CROSSROADS RENEWAL PROJECT (INSTALLMENT GRANT: $150,000; $1,850,000)"
+    },
+    {
+      "amount": 1150000.0,
+      "is_new": false,
+      "name": "THE VERGE FOUNDATION",
+      "purpose": "CAPITAL & GENERAL OPERATING ($1,150,000)"
+    },
+    {
+      "amount": 754160.0,
+      "is_new": false,
+      "name": "OKLAHOMA CITY NATIONAL MEMORIAL FOUNDATION",
+      "purpose": "2025 GENERAL OPERATING ($105,000); 2024-2026 SPONSORSHIPS ($145,000); CAPITAL CAMPAIGN ($2,000,000)"
+    },
+    {
+      "amount": 518693.0,
+      "is_new": true,
+      "name": "REMERGE",
+      "purpose": "REMERGE - AMERICAN RECOVERY PLAN ACT (ARPA) - JUSTICE-INVOLVED FEMALE PROGRAM EXPANSION (JFPE)"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "CENTER OF FAMILY LOVE",
+      "purpose": "CAREER TRAINING AND DEVELOPMENT CENTER (INSTALLMENT GRANT; $1,000,000)"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "OKLAHOMA ZOOLOGICAL SOCIETY",
+      "purpose": "GRANTS: EXPEDITION AFRICA"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "DEAN MCGEE EYE INSTITUTE FOUNDATION",
+      "purpose": "IMPROVING AND EXPANDING THE OPHTHALMIC WORKFORCE IN OKLAHOMA (THREE-YEAR GRANT; $750,000)"
+    },
+    {
+      "amount": 402500.0,
+      "is_new": false,
+      "name": "RAINBOW FLEET",
+      "purpose": "TRICK OR TREAT WITH RAINBOW FLEET EVENT SPONSORSHIP OCTOBER 24, 2024"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "SANTA FE SOUTH SCHOOLS",
+      "purpose": "SANTA FE SOUTH AOA ACADEMIC INITIATIVE SUPPORT ($750,000)"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": true,
+      "name": "HEALTHY MINDS POLICY INITIATIVE",
+      "purpose": "OKLAHOMA CITY MENTAL HEALTH NEEDS ASSESSMENT ($300,000)"
+    },
+    {
+      "amount": 268000.0,
+      "is_new": false,
+      "name": "REGIONAL FOOD BANK OF OKLAHOMA",
+      "purpose": "WORKFORCE DEVELOPMENT ($250,000) & AGENCY PROFESSIONAL DEVELOPMENT ($18,000)"
+    },
+    {
+      "amount": 260000.0,
+      "is_new": false,
+      "name": "FIELDS AND FUTURES FOUNDATION",
+      "purpose": "C.B. CAMERON PARK SOCCER PROJECT ($250,000)"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "FRIENDS OF THE MANSION",
+      "purpose": "GRANTS: OKLAHOMA FIRST FAMILY RESIDENCE"
+    },
+    {
+      "amount": 230500.0,
+      "is_new": false,
+      "name": "CITY RESCUE MISSION",
+      "purpose": "GENERAL OPERATIONS ($60,000), CHALLENGE GRANT TOWARD DIVERSION ($10,000), & HEARTS OF HOPE SPONSORSHIP ($1,500)"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": false,
+      "name": "OKLAHOMA PUBLIC SCHOOL RESOURCE CENTER",
+      "purpose": "OPSRC AND FUEL OKC GENERAL OPERATING ($750,000 OVER 3 YEARS, $300,000, $225,000, $225,000)"
+    },
+    {
+      "amount": 215667.0,
+      "is_new": false,
+      "name": "SUNBEAM FAMILY SERVICES",
+      "purpose": "MATCHING GIFT - BOB ROSS"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "COMMUNITY HEALTH PARTNERSHIP",
+      "purpose": "PIKES PEAK CONTINUUM OF CARE GENERAL OPERATING (TWO-YEAR GRANT; $200,000)"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "OKLAHOMA PARTNERSHIP FOR SCHOOL READINESS FOUNDATION",
+      "purpose": "MATCHING FUNDS FOR CLEARINGHOUSE ($125,000) AND GENERAL OPERATING ($75,000)"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "DOVE SCHOOLS",
+      "purpose": "EXPANSION EXPENSES ($200,000)"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "CATHOLIC CHARITIES OF CENTRAL COLORADO",
+      "purpose": "FAMILY SOLUTIONS COLLABORATIVE (TWO-YEAR GRANT; $50,000)"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "CITY CARE",
+      "purpose": "GENERAL OPERATING ($150,000)"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "INSTITUTE FOR NONPROFIT NEWS",
+      "purpose": "GENERAL OPERATING SUPPORT 2023-2025 ( $300,000; 2-YEAR GRANT; $150,000/YEAR)"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "MIAMI FOUNDATION",
+      "purpose": "NEWSMATCH 2024 ($150,000)"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "PALOMAR",
+      "purpose": "GENERAL OPERATING ($150,000)"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "THE PLACE",
+      "purpose": "GENERAL OPERATING (TWO-YEAR GRANT; $100,000) & CAPITAL ($50,000)"
+    },
+    {
+      "amount": 133334.0,
+      "is_new": false,
+      "name": "NATIONAL GEOGRAPHIC SOCIETY",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "BOYS AND GIRLS CLUBS OF OKLAHOMA COUNTY",
+      "purpose": "GENERAL OPERATING ($125,000)"
+    },
+    {
+      "amount": 101768.0,
+      "is_new": false,
+      "name": "OKLAHOMA CENTER FOR NONPROFITS",
+      "purpose": "DANIEL BILLINGSLEY MEMORIAL FUND"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CLEATS FOR KIDS",
+      "purpose": "OKC FACILITY RENOVATION ($100,000)"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "HOMEWARD PIKES PEAK",
+      "purpose": "GENERAL OPERATING (TWO-YEAR GRANT; $100,000)"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "INVESTIGATIVE REPORTERS AND EDITORS",
+      "purpose": "GENERAL OPERATING ($200,000; 2-YEAR GRANT)"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "MENTAL HEALTH ASSOCIATION OKLAHOMA",
+      "purpose": "OKLAHOMA CITY GENERAL OPERATING ($100,000)"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "OKLAHOMA STATE UNIVERSITY FOUNDATION",
+      "purpose": "KOSU GENERAL OPERATING ($100,000)"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "GRECCIO HOUSING",
+      "purpose": "GENERAL OPERATING (TWO-YEAR GRANT; $100,000)"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "PARTNERS IN HOUSING",
+      "purpose": "FAMILY SELF-SUFFICIENCY PROGRAM (TWO-YEAR GRANT; $100,000)"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "WESTSIDE CARES",
+      "purpose": "GENERAL OPERATING (TWO-YEAR GRANT; $100,000)"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "OKLAHOMA CITY BEAUTIFUL",
+      "purpose": "2024 MAINTENANCE FUNDS FOR BEAUTIFICATION PROJECTS ($85,000)"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "LOCAL MEDIA FOUNDATION",
+      "purpose": "INDUSTRY COLLABORATION ($75,000)"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "POSITIVE TOMORROWS",
+      "purpose": "EARLY CHILDHOOD EDUCATION SERVICES FOR HOMELESS CHILDREN ($75,000)"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF CENTRAL OKLAHOMA FOUNDATION",
+      "purpose": "EARLY INTERVENTION WORKFORCE DEVELOPMENT PROJECT ($75,000)"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "HOPE RISING OKLAHOMA",
+      "purpose": "GENERAL OPERATING ($50,000) & HOPE-DRIVEN PARENTING CLINIC/SUMMIT ($10,000)"
+    },
+    {
+      "amount": 58000.0,
+      "is_new": false,
+      "name": "BEACON",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "DEADCENTER FILM",
+      "purpose": "25TH ANNIVERSARY DEADCENTER FILM FESTIVAL SPONSORSHIP ($50,000)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "DIVERSION HUB",
+      "purpose": "INCOME STABILITY INITIATIVE ($50,000)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "DRAGONFLY HOME",
+      "purpose": "GENERAL OPERATING ($50,000)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "INVESTIGATIVE POST",
+      "purpose": "GENERAL OPERATING ($50,000)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "KEYSTONE ADVENTURE SCHOOL AND FARM",
+      "purpose": "GENERAL OPERATING ($50,000)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "MAINE CENTER FOR PUBLIC INTEREST REPORTING",
+      "purpose": "GENERAL OPERATING ($50,000)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "PUBLICSOURCE",
+      "purpose": "GENERAL OPERATING ($50,000)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "REPORTERS COMMITTEE FOR FREEDOM OF THE PRESS",
+      "purpose": "LOCAL LEGAL INITIATIVE SUPPORT IN OKLAHOMA, 2023-2025 ($100,000; 2-YEAR GRANT; $50,000/YEAR)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "UPWARD TRANSITIONS",
+      "purpose": "GENERAL OPERATING ($100,000; 2-YEAR GRANT; $50,000/YEAR)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "COLORADO NEWS COLLABORATIVE",
+      "purpose": "GENERAL OPERATING ($50,000)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "THE NEW BEDFORD LIGHT",
+      "purpose": "GENERAL OPERATING ($50,000)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "NEBRASKA JOURNALISM TRUST",
+      "purpose": "GENERAL OPERATING ($50,000)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SAN ANTONIO REPORT",
+      "purpose": "GENERAL OPERATING ($50,000)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SEARCHLIGHT NEW MEXICO",
+      "purpose": "GENERAL OPERATING ($50,000)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SIDEXSIDE",
+      "purpose": "GENERAL OPERATING ($50,000)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "DEEP SOUTH TODAY",
+      "purpose": "GENERAL OPERATING ($50,000)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "LOCAL JOURNALISM INITIATIVE OF DELAWARE",
+      "purpose": "GENERAL OPERATING ($50,000)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "ST LUKE'S CHILDREN'S CENTER",
+      "purpose": "CHILDCARE TUITION ASSISTANCE FOR EARLY EDUCATION TEACHERS ($50,000)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "ST PAUL'S COMMUNITY SCHOOL",
+      "purpose": "RELOCATION AND GENERAL OPERATING ($50,000)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "TULSA LOCAL NEWS INITIATIVE",
+      "purpose": "GENERAL OPERATING ($50,000)"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "INTEGRIS FOUNDATION",
+      "purpose": "INTEGRIS HEALTH GALA (SEPTEMBER 20, 2024)"
+    },
+    {
+      "amount": 41351.0,
+      "is_new": false,
+      "name": "YMCA OF GREATER OKLAHOMA CITY",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "RIVERSPORT FOUNDATION",
+      "purpose": "EXECUTIVE DIRECTOR SEARCH ($40,000)"
+    },
+    {
+      "amount": 27500.0,
+      "is_new": false,
+      "name": "OKC REP",
+      "purpose": "FREDERICK DOUGLASS NOW ($25,000) AND OKC REPS ANNUAL BENEFIT ($2,500)"
+    },
+    {
+      "amount": 27500.0,
+      "is_new": false,
+      "name": "CHEYENNE MOUNTAIN ZOOLOGICAL SOCIETY",
+      "purpose": "TOUR APPRECIATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NEIGHBORHOOD SERVICES ORGANIZATION",
+      "purpose": "GENERAL OPERATING ($25,000)"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "ASIAN DISTRICT CULTURAL ASSOCIATION",
+      "purpose": "\"WE HAVE ARRIVED\" ($25,000)"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "PIKES PEAK HOUSING NETWORK",
+      "purpose": "GENERAL OPERATING ($25,000)"
+    },
+    {
+      "amount": 21500.0,
+      "is_new": false,
+      "name": "CENTRAL OKLAHOMA HUMANE SOCIETY",
+      "purpose": "IN HONOR OF PHIL SCARMUCCI"
+    },
+    {
+      "amount": 16983.0,
+      "is_new": true,
+      "name": "OKLAHOMA ARTS COUNCIL",
+      "purpose": "OKLAHOMA ARTS SECTOR ARPA GRANTS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "POSSIBILITIES",
+      "purpose": "POWER OF POSSIBILITIES FUNDRAISING LUNCHEON 12-5-24"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "ST JOSEPH CATHOLIC SCHOOL",
+      "purpose": "IN HONOR OF PAT ROONEY"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "CATHOLIC FOUNDATION OF OKLAHOMA",
+      "purpose": "IN HONOR OF PAT ROONEY FOR THE CHRIST THE KING PARISH ENDOWMENT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "GATESWAY FOUNDATION (GATESWAY)",
+      "purpose": "IMPROVING HOUSING FOR TULSANS WITH IDD"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "OU MEDICINE INC",
+      "purpose": "KNIT FOR GOOD PROGRAM IN HONOR OF DAVID GRIFFIN"
+    },
+    {
+      "amount": 13000.0,
+      "is_new": false,
+      "name": "WESLEYAN UNIVERSITY",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "GIRL SCOUTS WESTERN OKLAHOMA",
+      "purpose": "2024 13THANNUAL COOKIES & COCKTAILS (AUGUST 16, 2024)"
+    },
+    {
+      "amount": 11000.0,
+      "is_new": false,
+      "name": "OKLAHOMA CITY UNIVERSITY",
+      "purpose": "24 HOH GOLD SPONSOR $5K, '25 AOE RUBY SPONSOR $3,500, '25 WIL SPONSOR $2,500"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ARTS COUNCIL OF OKLAHOMA CITY",
+      "purpose": "FESTIVAL OF THE ARTS (APRIL 24-27, 2025)"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "FOSTERING HOPE",
+      "purpose": "FOSTERING MORE HOPE"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "ST PAUL'S UNITED METHODIST CHURCH",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ISAIAH STONE FOUNDATION",
+      "purpose": "2024 ISAIAH STONE FOUNDATION GOLF TOURNAMENT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "OKLAHOMA MURAL SYNDICATE",
+      "purpose": "PLAZA WALLS MURAL EXPO 2024"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "BLESSED ARE THEY INC",
+      "purpose": "COATS FOR THE HOMELESS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "JOHN MARSHALL HIGH SCHOOL FOUNDATION INC",
+      "purpose": "JOHN MARSHALL HIGH SCHOOL 75TH ANNIVERSARY CELEBRATION MARCH 1, 2025"
+    },
+    {
+      "amount": 9850.0,
+      "is_new": false,
+      "name": "UNITED WAY OF CENTRAL OKLAHOMA",
+      "purpose": "THE HOLE SHEBANG! CORN HOLE TOURNAMENT (OCT 3, 2024)"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "FOLDS OF HONOR OKLAHOMA",
+      "purpose": "FOLDS OF HONOR BOURBON & BLUES (11/9/2024)"
+    },
+    {
+      "amount": 7200.0,
+      "is_new": false,
+      "name": "RESTOREOKC",
+      "purpose": "COMMUNITY FELLOWSHIP STIPEND: EXTENDED FUNDING (JULIAN RUGER)"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "NORTH OKLAHOMA CITY SOCCER CLUB (NOKC)",
+      "purpose": "C.B. CAMERON PARK PHASE ONE RIBBON CUTTING COMMUNITY CELEBRATION SEPT 8 1-4 PM"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "MYRIAD GARDENS FOUNDATION",
+      "purpose": "ORCHIDS IN OCTOBER 2025 & PUMPKINVILLE 2025"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "TEEN RECOVERY SOLUTIONS",
+      "purpose": "RECLAIMED LUNCHEON"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "COMMITTEE OF ONE HUNDRED",
+      "purpose": "2025 BANQUET"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "DOWNTOWN OKLAHOMA CITY PARTNERSHIP",
+      "purpose": "OKLAHOMA CITY TREE LIGHTING FESTIVAL (NOVEMBER 12, 2024)"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "FIRST SERVE OKC FOUNDATION",
+      "purpose": "RAISE YOUR RACQUET (SEPTEMBER 27TH, 2024)"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "OCCC OKLAHOMA CITY COMMUNITY COLLEGE FOUNDATION",
+      "purpose": "OKLAHOMA CITY COMMUNITY COLLEGE'S ROSEWOOD GALA"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "OKLAHOMA FELLOWSHIP OF CHRISTIAN ATHLETES",
+      "purpose": "HOOPS & HOPE EVENT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "OKLAHOMA HISPANIC INSTITUTE",
+      "purpose": "THE INAUGURAL OKLAHOMA HISPANIC HALL OF FAME AWARDS DINNER AND AWARDS EVENT"
+    },
+    {
+      "amount": 4500.0,
+      "is_new": false,
+      "name": "SCISSORTAIL PARK FOUNDATION",
+      "purpose": "GALA IN THE PARK 2025 & 'TIS THE SEASON 2025"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": false,
+      "name": "LAST FRONTIER COUNCIL BOY SCOUTS OF AMERICA",
+      "purpose": "2024 CITIZEN OF THE YEAR AWARD HONORING ALICE & PHIL PIPPIN"
+    },
+    {
+      "amount": 3334.0,
+      "is_new": false,
+      "name": "SAINT MARY'S COLLEGE",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "LATINO COMMUNITY DEVELOPMENT AGENCY",
+      "purpose": "ANNUAL AWARDS LUNCHEON (SEPTEMBER 11, 2024)"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "LEADERSHIP OKLAHOMA",
+      "purpose": "2024 FALL FORUM-HARVESTING HOPE FOR OKLAHOMANS EXPERIENCING HUNGER & HOMELESSNESS"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "NEWVIEW OKLAHOMA",
+      "purpose": "NEWVIEW OKLAHOMA 75TH ANNIVERSARY GALA MARCH 28, 2025"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "OKLAHOMA MEDICAL RESEARCH FOUNDATION",
+      "purpose": "OMRF'S ANNUAL 241 EVENT (OCT. 6, 2024)"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "OKLAHOMA PROJECT WOMAN",
+      "purpose": "CELEBRATE PINK OKC (NOVEMBER 21, 2024)"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "SISU YOUTH",
+      "purpose": "SISU STAY GOLD"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "WINGS",
+      "purpose": "WINGS & WAFFLES"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "FREEDOM CITY INC",
+      "purpose": "ARE YOU SMARTER 2025"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "RACE DANCE COLLECTIVE",
+      "purpose": "RACE'S HIP HOP NUTCRACKER"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "CHABAD COMMUNITY CENTER",
+      "purpose": "OKC COMMUNITY CHANUKAH FESTIVAL (DECEMBER 29, 2024)"
+    },
+    {
+      "amount": 2068.0,
+      "is_new": false,
+      "name": "DOWN SYNDROME ASSOCIATION OF CENTRAL OKLAHOMA",
+      "purpose": "DOWN SYNDROME FESTIVAL AND 5K (SEPTEMBER 28, 2024)"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "WASHINGTON AND LEE UNIVERSITY",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 1800.0,
+      "is_new": false,
+      "name": "HARN HOMESTEAD",
+      "purpose": "HOMESTEAD SOCIAL, A NIGHT ON THE PRAIRIE (SEPTEMBER 25, 2024)"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": false,
+      "name": "OKLAHOMA CITY INNOVATION DISTRICT",
+      "purpose": "OKCID ANNUAL BREAKFAST (JANUARY 31, 2025)"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "FOCUS ON HOME",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "YWCA OKLAHOMA CITY",
+      "purpose": "DOMESTIC VIOLENCE PREVENTION & RECOVERY 5K BY MABEL BASSETT CORRECTIONAL CENTER & TEEM (10/20/2024)"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "HOPE FOR THE FUTURE",
+      "purpose": "HFTF 4TH CHILD WELFARE SPECIALIST APPRECIATION LUNCHEON"
+    },
+    {
+      "amount": 880.0,
+      "is_new": true,
+      "name": "OKLAHOMA AFRICAN AMERICAN EDUCATORS HALL OF FAME INC",
+      "purpose": "13TH ANNUAL INDUCTION CEREMONY"
+    },
+    {
+      "amount": 750.0,
+      "is_new": false,
+      "name": "PEACEFUL FAMILY SOLUTIONS",
+      "purpose": "HEAL OUT LOUD LUNCHEON"
+    },
+    {
+      "amount": 667.0,
+      "is_new": false,
+      "name": "OKLAHOMA HALL OF FAME",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "ALLIED ARTS",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "FREEDOM CENTER OF OKLAHOMA CITY",
+      "purpose": "IN HONOR OF REVEREND DR. JOHN A. REED, JR."
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "HOMELESS ALLIANCE",
+      "purpose": "IN HONOR OF FRANK MERRICK"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "OKLAHOMA CONTEMPORARY",
+      "purpose": "IN HONOR OF LOUISA MCCUNE"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "OKLAHOMA INSTITUTE FOR CHILD ADVOCACY",
+      "purpose": "ADVOCACY BOOTCAMP"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "CHISHOLM TRAIL ARTS COUNCIL",
+      "purpose": "IN HONOR OF VIRGINIA BUXTON"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "OKLAHOMA CITY POLICE DEPARTMENT",
+      "purpose": "OKC POLICE DEPARTMENT WELLNESS UNIT IN HONOR OF GREYSON FOX"
+    },
+    {
+      "amount": 400.0,
+      "is_new": false,
+      "name": "WES WELKER FOUNDATION",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 400.0,
+      "is_new": true,
+      "name": "WHITE FIELDS",
+      "purpose": "TWO TICKETS TO THE WHITE FIELDS DINNER AND AUCTION"
+    },
+    {
+      "amount": 300.0,
+      "is_new": false,
+      "name": "CHISHOLM ELEMENTARY PTO",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 200.0,
+      "is_new": false,
+      "name": "SALVATION ARMY CENTRAL OKLAHOMA",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 200.0,
+      "is_new": false,
+      "name": "CROSSINGS COMMUNITY CHURCH",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 100.0,
+      "is_new": true,
+      "name": "SEQUOYAH PARENT ORGANIZATION",
+      "purpose": "MATCHING GIFT"
+    },
+    {
+      "amount": 50.0,
+      "is_new": false,
+      "name": "OKLAHOMA HOSPITALITY CLUB",
+      "purpose": "TWO TICKETS TO THEATRE NIGHT"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "INASMUCH FOUNDATION, CREATED BY EDITH KINNEY GAYLORD IN 1982, INVESTS IN ORGANIZATIONS THAT EFFECT THE GREATEST POSITIVE OUTCOME FOR OKLAHOMANS. FUNDING PRIORITIES ARE EDUCATION, HEALTH AND HUMAN SERVICES AND COMMUNITY ENHANCEMENT. ETHICS AND EXCELLENCE IN JOURNALISM FOUNDATION, CREATED BY EDITH KINNEY GAYLORD IN 1982, INVESTS IN THE FUTURE OF JOURNALISM BY BUILDING THE ETHICS, SKILLS AND OPPORTUNITIES NEEDED TO ADVANCE PRINCIPLED, PROBING NEWS AND INFORMATION NOW AND FOR THE FUTURE. FUNDING PRIORITIES ARE INVESTIGATIVE REPORTING, PROFESSIONAL DEVELOPMENT AND YOUTH EDUCATION.",

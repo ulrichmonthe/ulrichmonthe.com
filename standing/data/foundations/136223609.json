@@ -48,6 +48,128 @@
     "singleton_cluster_share": 0.6452,
     "total_grant_records": 58
   },
+  "recipients_latest_year": [
+    {
+      "amount": 9653607.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF CALIFORNIA SAN FRANCISCO FOUNDATION",
+      "purpose": "Satisfaction of Pledge"
+    },
+    {
+      "amount": 3753607.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF CALIFORNIA BERKELEY FOUNDATION",
+      "purpose": "$3,653,607 SATISFACTION OF PLEDGE"
+    },
+    {
+      "amount": 2500000.0,
+      "is_new": true,
+      "name": "UC DAVIS FOUNDATION",
+      "purpose": "SATISFACTION OF PLEDGE"
+    },
+    {
+      "amount": 800000.0,
+      "is_new": false,
+      "name": "NAF",
+      "purpose": "Satisfaction of Pledge"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "NEW YORK HISTORICAL SOCIETY",
+      "purpose": "GENERAL CHARITABLE NEEDS"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "CHABAD OF SONOMA COUNTY",
+      "purpose": "GENERAL CHARITABLE NEEDS"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "ALVIN AILEY DANCE FOUNDATION INC",
+      "purpose": "GENERAL CHARITABLE NEEDS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "THE CARNEGIE HALL CORPORATION",
+      "purpose": "GENERAL CHARITABLE NEEDS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "CORNELL university",
+      "purpose": "GENERAL CHARITABLE NEEDS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "LANG LANG INTERNATIONAL MUSIC FOUNDATION INC",
+      "purpose": "GENERAL CHARITABLE NEEDS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "AMERICAN CONSERVATORY THEATRE FOUNDATION",
+      "purpose": "GENERAL CHARITABLE NEEDS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "LEUKEMIA & LYMPHOMA SOCIETY",
+      "purpose": "GENERAL CHARITABLE NEEDS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF CHICAGO",
+      "purpose": "GENERAL CHARITABLE NEEDS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "COUNCIL ON FOREIGN RELATIONS",
+      "purpose": "GENERAL CHARITABLE NEEDS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "YALE UNIVERSITY",
+      "purpose": "GENERAL CHARITABLE NEEDS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "JEWISH COMMUNITY FEDERATION OF SF MARIN PENINSULA",
+      "purpose": "GENERAL CHARITABLE NEEDS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "WORLD CENTRAL KITCHEN INCORPORATED",
+      "purpose": "GENERAL CHARITABLE NEEDS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "COLORADO COMMUNITY SHELTER PROVIDERS INC",
+      "purpose": "GENERAL CHARITABLE NEEDS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "JEWISH AGENCY FOR ISRAEL-NORTH AMERICAN COUNCIL",
+      "purpose": "GENERAL CHARITABLE NEEDS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "PROJECT SUNSHINE INC",
+      "purpose": "GENERAL CHARITABLE NEEDS"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

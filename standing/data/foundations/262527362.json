@@ -47,6 +47,344 @@
     "singleton_cluster_share": 0.5462,
     "total_grant_records": 286
   },
+  "recipients_latest_year": [
+    {
+      "amount": 11750000.0,
+      "is_new": false,
+      "name": "PERMIAN BASIN BEHAVIORAL HEALTH CENTER",
+      "purpose": "PERMIAN BASIN BEHAVIORAL HEALTH CENTER - CAPITAL CAMPAIGN"
+    },
+    {
+      "amount": 2251978.0,
+      "is_new": true,
+      "name": "PERMIAN BASIN MEDICAL CENTER (DBA THE BEACON ALLIANCE)",
+      "purpose": "PBMC 2023-2024 OPERATING BUDGET"
+    },
+    {
+      "amount": 750000.0,
+      "is_new": true,
+      "name": "THE HOLDSWORTH CENTER",
+      "purpose": "2023-2025 MISD & ECISD CAMPUS LEADERSHIP PROGRAM & LEADERSHIP COLLABORATIVE"
+    },
+    {
+      "amount": 708788.0,
+      "is_new": false,
+      "name": "NONPROFIT MANAGEMENT CENTER OF THE PERMIAN BASIN",
+      "purpose": "NMC ENGAGEMENT FOR STRATEGIC CONSULTATION FOR BREAKING BREAD MINISTRIES"
+    },
+    {
+      "amount": 616522.0,
+      "is_new": false,
+      "name": "THE UNIVERSITY OF TEXAS OF THE PERMIAN BASIN",
+      "purpose": "GRADUATE SCHOLARSHIP PROGRAM TO INCREASE THE NUMBER OF LOCAL LICENSED BEHAVIORAL HEALTH PROFESSIONALS"
+    },
+    {
+      "amount": 512500.0,
+      "is_new": false,
+      "name": "SENIOR LIFE MIDLAND",
+      "purpose": "ADDITIONAL GRANT: SENIOR LIFE MIDLAND CAPITAL CAMPAIGN"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "YMCA OF MIDLAND",
+      "purpose": "PROPERTY ACQUISITION FOR FUTURE EXPANSION"
+    },
+    {
+      "amount": 310000.0,
+      "is_new": false,
+      "name": "MIDLAND MEMORIAL FOUNDATION",
+      "purpose": "BOARD DIRECTED GRANT FOR GENERAL OPERATING"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "MIDLAND COLLEGE FOUNDATION INC",
+      "purpose": "EARLY COLLEGE HIGH SCHOOL AT MC 2023-2024"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "MIDLAND SHARED SPACES INC",
+      "purpose": "DESKTOP PC REPLACEMENT PROJECT"
+    },
+    {
+      "amount": 187000.0,
+      "is_new": true,
+      "name": "THIRD FUTURE SCHOOLS",
+      "purpose": "2023-2024 TEACHER APPRENTICES FOR LAMAR ELEMENTARY"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "PERMIACARE",
+      "purpose": "INDIVIDUALIZED SKILLS AND SOCIALIZATION (ISS) CAPACITY EXPANSION"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "AGAPE COUNSELING SERVICES OF WEST TEXAS",
+      "purpose": "CAPACITY-BUILDING GRANT: RECRUIT AND HIRE ADDITIONAL LICENSED COUNSELOR"
+    },
+    {
+      "amount": 71908.0,
+      "is_new": false,
+      "name": "MIDLAND ISD EDUCATION FOUNDATION",
+      "purpose": "DIRECTOR OF OPPORTUNITY CULTURE MISD STAFF POSITION"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": true,
+      "name": "GIRL SCOUTS OF THE DESERT SW SOUTHERN NEW MEXICO & WEST TX INC",
+      "purpose": "ODESSA PROGRAM CENTER: UPDATES AND REPAIRS ON EXTERIOR SECURITY"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "CENTERS FOR CHILDREN AND FAMILIES INC",
+      "purpose": "BOARD DIRECTED GRANT FOR GENERAL OPERATING"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "COMMUNITIES IN SCHOOLS OF THE PERMIAN BASIN INC",
+      "purpose": "DROPOUT PREVENTION PROGRAM"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": true,
+      "name": "GREATER IDEAL FAMILY LIFE CENTER",
+      "purpose": "2023 EDUCATION PROGRAM EXPENSES"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "HIGH SKY CHILDREN'S RANCH",
+      "purpose": "RESIDENTIAL SUPPORT FOR HIGH SKY'S HOME FOR TEEN BOYS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CRISIS CENTER OF WEST TEXAS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "TEXAS A&M UNIVERSITY-KINGSVILLE FOUNDATION INC",
+      "purpose": "BOARD DIRECTED GRANT FOR GENERAL OPERATING"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "BOYS AND GIRLS CLUB OF MIDLAND INC",
+      "purpose": "OUTREACH AND PROGRAMMING FOR TEENS AND TWEENS"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "THRIVING UNITED INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "SIBLEY NATURE CENTER",
+      "purpose": "BOARD DIRECTED GRANT FOR GENERAL OPERATING"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "FRIENDSHIP HOUSE",
+      "purpose": "9-PASSENGER VAN WITH LIFT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "STARLIGHT THERAPEUTIC RIDING CENTER INC",
+      "purpose": "BOARD DIRECTED GRANT FOR GENERAL OPERATING"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "THE LIFE CENTER",
+      "purpose": "BOARD DIRECTED GRANT FOR GENERAL OPERATING"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "MIDLAND YOUNG LIFE BUILDING FOUNDATION",
+      "purpose": "BOARD DIRECTED GRANT FOR GENERAL OPERATING"
+    },
+    {
+      "amount": 21500.0,
+      "is_new": false,
+      "name": "BYNUM SCHOOL",
+      "purpose": "MEDICAL EMERGENCY AND SAFETY INITIATIVE"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "BREAKING BREAD MINISTRIES",
+      "purpose": "GENERAL OPERATING"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "SPECTRUM OF SOLUTIONS",
+      "purpose": "BOARD DIRECTED GRANT FOR GENERAL OPERATING"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "BOYS AND GIRLS CLUBS OF THE PERMIAN BASIN",
+      "purpose": "BOARD DIRECTED GRANT FOR GENERAL OPERATING"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "HEALTHY CITY",
+      "purpose": "BOARD DIRECTED GRANT FOR GENERAL OPERATING"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "ROPE YOUTH",
+      "purpose": "FOOD FIRST STUDENT HUNGER INITIATIVE"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "BOYS AND GIRLS CLUB OF ODESSA",
+      "purpose": "OUTREACH AND PROGRAMMING FOR TEENS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "UNITED WAY OF MIDLAND INC",
+      "purpose": "2023 EXCELLENCE IN EDUCATION AWARDS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "PERMIAN BASIN PETROLEUM MUSEUM",
+      "purpose": "2023 HALL OF FAME"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "FIRST TEE WEST TEXAS",
+      "purpose": "BOARD DIRECTED GRANT FOR GENERAL OPERATING"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "HISPANIC CULTURAL CENTER OF MIDLAND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "MIDLAND CHILDREN'S REHABILITATION CENTER INC",
+      "purpose": "BOARD DIRECTED GRANT FOR GENERAL OPERATING"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": true,
+      "name": "MIDLAND SOUP KITCHEN",
+      "purpose": "BOARD DIRECTED GRANT FOR GENERAL OPERATING"
+    },
+    {
+      "amount": 12100.0,
+      "is_new": false,
+      "name": "PHILANTHROPY SOUTHWEST",
+      "purpose": "MEMBERSHIP GRANT FOR 2023"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "MEADOWS MENTAL HEALTH POLICY INSTITUTE OF TEXAS",
+      "purpose": "MIDLAND SCHOOL BEHAVIORAL HEALTH PROJECT - YEAR 4"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "BACKYARD MIDLAND",
+      "purpose": "BOARD DIRECTED GRANT FOR GENERAL OPERATING"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "MIDLAND TEEN COURT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "BIG BROTHERS BIG SISTERS OF THE PERMIAN BASIN INC",
+      "purpose": "BOARD DIRECTED GRANT FOR GENERAL OPERATING"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "HOSPICE OF MIDLAND",
+      "purpose": "BOARD DIRECTED GRANT FOR GENERAL OPERATING"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "WEST TEXAS FOOD BANK",
+      "purpose": "BOARD DIRECTED GRANT FOR GENERAL OPERATING"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "MIDLAND HABITAT FOR HUMANITY",
+      "purpose": "BOARD DIRECTED GRANT FOR GENERAL OPERATING"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "COMMUNITY CHILDREN'S CLINIC",
+      "purpose": "BOARD DIRECTED GRANT FOR GENERAL OPERATING"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "ONE ACCORD FOR KIDS",
+      "purpose": "BOARD DIRECTED GRANT FOR GENERAL OPERATING"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "SPRINGBOARD CENTER",
+      "purpose": "BOARD DIRECTED GRANT FOR GENERAL OPERATING"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "311 MINISTRIES",
+      "purpose": "BOARD DIRECTED GRANT FOR GENERAL OPERATING"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "PHILANTHROPY ROUNDTABLE",
+      "purpose": "MEMBERSHIP GRANT"
+    },
+    {
+      "amount": 225.0,
+      "is_new": true,
+      "name": "SAN ANGELO AREA FOUNDATION",
+      "purpose": "SUPPORT FOR PERMIAN AREA FUNDER'S NETWORK"
+    },
+    {
+      "amount": 200.0,
+      "is_new": true,
+      "name": "PETROLEUM CLUB EMPLOYEE CHRISTMAS FUND",
+      "purpose": "EMPLOYEE CHRISTMAS FUND"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "ORGANIZATIONS REQUESTING FUNDING FILL OUT AND SUBMIT AN ONLINE PRE-APPLICATION THROUGH THE FOUNDATIONS WEBSITE AT WWW.SCHARBAUERFOUNDATION.ORG BY DUE DATES LISTED ON THE HOME PAGE. THE FOUNDATION WILL INVITE SELECTED PREAPPLICANTS TO SUBMIT AN ONLINE FULL GRANT REQUEST. INSTRUCTIONS AND ATTACHMENTS ARE INCLUDED IN THE ONLINE REQUEST PROCESS.",

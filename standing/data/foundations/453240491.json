@@ -48,6 +48,1604 @@
     "singleton_cluster_share": 0.3164,
     "total_grant_records": 1510
   },
+  "recipients_latest_year": [
+    {
+      "amount": 5675000.0,
+      "is_new": false,
+      "name": "CROCKER CATALYST FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 5000000.0,
+      "is_new": false,
+      "name": "DESERET TRUST COMPANY",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 1800000.0,
+      "is_new": false,
+      "name": "INTERMOUNTAIN HEALTHCARE FOUNDATION INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 1750000.0,
+      "is_new": true,
+      "name": "U OF U - SCMI BUILDING",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 1500000.0,
+      "is_new": true,
+      "name": "JDRF INTERNATIONAL",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 1161000.0,
+      "is_new": false,
+      "name": "THOM & GAIL WILLIAMSEN FAMILY FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 1030000.0,
+      "is_new": false,
+      "name": "ELIZABETH ACADEMY",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 826200.0,
+      "is_new": false,
+      "name": "U OF U - COLLEGE OF EDUCATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 775000.0,
+      "is_new": false,
+      "name": "AMERICAN HERITAGE SCHOOLS INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 666667.0,
+      "is_new": true,
+      "name": "COMMUNITY FOUNDATION OF UTAH",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 381333.0,
+      "is_new": false,
+      "name": "UTAH FOOD BANK",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 260000.0,
+      "is_new": false,
+      "name": "U OF U - TANNER DANCE",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 210000.0,
+      "is_new": false,
+      "name": "TEXAS PUBLIC POLICY FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "BILL OF RIGHTS INSTITUTE",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "THE ROAD HOME",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "UTAH YOUTH VILLAGE",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "SUU - UTAH SHAKESPEARE FESTIVAL",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "DO NO HARM",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 120000.0,
+      "is_new": false,
+      "name": "CAPITAL RESEARCH CENTER",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "THE GOOD SAMARITAN FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "AMERICAN NATIONAL RED CROSS",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BOUNTIFUL CHILDRENS FOUNDATION (LIAHONA)",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CONSERVATIVE PARTNERSHIP INSTITUTE INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "UTAH SYMPHONY AND OPERA",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "SALT LAKE CITY MISSION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "THE INN BETWEEN",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "FIT TO RECOVER INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "VOLUNTEERS OF AMERICA",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "SAMARITAN'S PURSE",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "WASATCH HOMELESS HEALTH CARE INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 66667.0,
+      "is_new": true,
+      "name": "U OF U - MASTER OF BUSINESS CREATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "ODYSSEY HOUSE INC UTAH",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "SOUTH VALLEY SANCTUARY INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "YOUNG WOMEN'S CHRISTIAN ASSOCIATION OF UT",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "RACE SWAMI",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "ASIAN ASSOCIATION OF UTAH (REFUGEE & IMM)",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "THE SALVATION ARMY",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "ASPEN MAGDALENE HOUSE INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CHILDREN'S SERVICE SOCIETY OF UTAH",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MALIHEH FREE CLINIC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "OPERATION WARM INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "RONALD MCDONALD HOUSE CHARITIES",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SALT LAKE DONATED DENTAL SERVICES",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SOUTHERN UTAH UNIVERSITY - UTAH SHAKESPEARE FESTIVAL",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ST ANNE'S CENTER",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "WASATCH ADAPTIVE SPORTS",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CITIZENS AGAINST PHYSICAL & SEXUAL ABUSE",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "NATIONAL ALLIANCE ON MENTAL ILLNESS UTAH",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "OTHER SIDE ACADEMY",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "UTAH STATE BOARD OF EDUCATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "WILFORD WOODRUFF PAPERS FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "LEADERSHIP INSTITUTE",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "COMMUNITY ACTION SERVICES AND FOOD BANK",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "U OF U - MORAN EYE CENTER",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 48000.0,
+      "is_new": false,
+      "name": "RISE AND REBUILD FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "DOCTORS WITHOUT BORDERS",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "ENGLISH SKILLS LEARNING CENTER",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "FIRST STEP HOUSE INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "JOSEPH JAMES MORELLI LEGACY FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "KIDS ON THE MOVE INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "NOVA PRINCIPLES FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "SALT LAKE CITY BICYCLE COLLECTIVE",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "ORPHANGE SUPPORT SERVICES ORGANIZATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "CHILDREN'S CENTER",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "FRIENDS OF THE COALITION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "CONSTITUTING AMERICA INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "UTAH DOWN SYNDROME FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "CHRISTMAS BOX INTERNATIONAL",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "COMMUNITY NURSING SERVICES",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "UTAH COUNCIL OF THE BLIND",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "ALLIANCE HOUSE",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "BALLET WEST",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "NATIONAL KIDNEY FOUNDATION INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "PACHYONYCHIA CONGENITA FUND",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "SNOWBASIN ADAPTIVE SPORTS EDUCATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "THE RACHEL COVEY FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "WATTS OF LOVE",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "WHEELCHAIR 4 KIDS INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "YOUTH FUTURES",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "ZION CANYON MESA",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "EMPOWER MALI",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "HALE CENTRE THEATRE",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 27000.0,
+      "is_new": false,
+      "name": "CROSSROADS URBAN CENTER",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 26000.0,
+      "is_new": false,
+      "name": "NOW I CAN FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ASSISTANCE LEAGUE OF SALT LAKE",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CALLED2SERVE FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "FAMILY PROMISE OF SALT LAKE CITY",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "GUIDE DOGS FOR THE BLIND INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "HUMAN COALITION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "JUMP THE MOON FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "JUNIOR LEAGUE OF SALT LAKE CITY INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LIBERTAS INSTITUTE",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LIVE YOUR DREAM",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "MOBILE SURGERY INTERNATIONAL INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PEOPLE HELPING PEOPLE INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PLAYWORKS EDUCATION ENERGIZED",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SOUTHERN SUDAN HUMANITARIAN",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "INTERPRETER FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "TIMPANOGOS LEGAL CENTER",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "UTAH FOSTER CARE FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ENGLISH LANGUAGE CENTER OF CACHE VALLEY",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "EYE CARE 4 KIDS FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LIBERTY LIVES FOREVER",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NEIGHBORHOOD HOUSE ASSOCIATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "STELLA H OAKS CHARITABLE FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "THE FAMILY PLACE UTAH",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ADOPT-A-NATIVE-ELDER",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PREGNANCY RESOURCE CENTER OF SLC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "HABITAT FOR HUMANITY SALT LAKE VALLEY",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SOUTHEASTERN COMMUNITY ACTION PARTNERSHIP",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "AMERICA'S FREEDOM FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CHRISTIAN CENTER OF PARK CITY",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PRAGER UNIVERSITY FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SAFE HOUSE PROJECT",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SNOW COLLEGE FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "U OF U - COLLEGE OF HUMANITIES",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "U OF U - WOMEN'S RESOURCE CENTER",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "UTAH ROYAL KIDS",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "DRAPER PHILHARMONIC AND CHORAL SOCIETY",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "GIRLS HOPE RESCUE MISSION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "HOMEAID AMERICAN INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "U OF U - HONORS COLLEGE",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "U OF U - SCHOOL OF DENTISTRY",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 22000.0,
+      "is_new": false,
+      "name": "COMMON GROUND OUTDOOR ADVENTURES INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "BOX ELDER COMMUNITY PANTRY",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "CACHE COMMUNITY FOOD PANTRY INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "CACHE REFUGEE AND IMMIGRANT CONNECTION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "CANYON CREEK WOMEN'S CRISIS CENTER",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "COMMUNITY HEALTH CONNECT",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "GRAND COUNTY SCHOOL DISTRICT",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "HEARTS KNIT TOGETHER",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "HOLY CROSS MINISTRIES",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "INTERNATIONAL RESCUE COMMITTEE INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "MOAB FREE HEALTH CLINIC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "MOUNTAINLANDS COMMUNITY HEALTH CENTER INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "PRO-LIFE UTAH",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "FOUNDATION FOR FAMILY LIFE OF UTAH",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "THE GREEN URBAN LUNCH BOX",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "TUACAHN CENTER FOR THE ARTS",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "UTAH INFERTILITY RESOURCE CENTER",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "CENTRO HISPANO",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "DOCTORS VOLUNTEER CLINIC OF ST GEORGE",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "IHHELPP INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "LIFTING HANDS INTERNATIONAL",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "SANPETE PANTRY",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "HEALING THE CHILDREN (ROCKY MOUNTAINS)",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "ALIGHT",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "BYU - CENTER FOR LAW AND RELIGION STUDIES",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "TECH-MOMS",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "U OF U - LOWELL BENNION COMMUNITY CENTER",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "UNITY GOSPEL CHOIR INTERNATIONAL",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "APPLIED TECHNOLOGY FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "BIG BROTHERS - BIG SISTERS OF UTAH",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "CRAFT LAKE CITY",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "DAVIS EDUCATION FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "FOR THE KIDS ORG",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "FREE WHEELCHAIR MISSION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "FRIENDS FOR SIGHT",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "FRIENDS OF SL COUNTY CHILDREN'S JUSTICE",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "HEART & SOUL",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "REPERTORY DANCE THEATER",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "UTAH 1033 FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "UNITED WAY OF NORTHERN UTAH",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "UTAH SCIENCE TEACHERS ASSOCIATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "UTAH VALLEY UNIVERSITY",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "WASATCH COMMUNITY GARDENS",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "MOUNT LIBERTY COLLEGE CORPORATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "PARK CITY TOTS",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "SPRINGVILLE MUSEUM OF ART",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "UTAH DISPUTE RESOLUTION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "FRIENDS OF THE CHILDREN",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "THANKSGIVING HEROES",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "UTAH NEIGHBORHOOD CONNECTION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "THIS IS THE PLACE FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "U OF U - NEIGHBORHOOD PARTNERS",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "U OF U - PBS UTAH (KUED)",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "WASATCH FORENSIC NURSES",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": false,
+      "name": "MOAB VALLEY MULTICULTURAL CENTER",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ABILITY FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "BEST BUDDIES UTAH",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "BRIDGERLAND COMMUNITY ICE ARENA (ECCLES ICE)",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "BUILDING YOUTH AROUND THE WORLD",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CACHE VALLEY COWBOY RENDEZVOUS",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "DAVIS PERFORMING ARTS ASSOCIATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "DISCOVERY GATEWAY CHILDREN'S MUSEUM",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ECCLES COMMUNITY ART CENTER",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "EPICENTER",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "FAMILY COUNSELING SERVICE OF NORTHERN UTAH",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "FAMILY PROMISE OF OGDEN",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "FAMILY SUMMIT FOUNDATION (GREIVING CHILD)",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "IMMIGRANT LEGAL SERVICES",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "JEWISH FAMILY SERVICE",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "OUELESSEBOUGOU ALLIANCE",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "PEOPLES HEALTH CLINIC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "RAPE RECOVERY CENTER",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ROCKY MOUNTAIN INNOCENCE CENTER",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "RON MCBRIDE FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "SCOTTISH RITE FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "UTAH HEALTH AND HUMAN RIGHTS PROJECT",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "UTAH PARTNERS FOR HEALTH",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "UTAH POLICE CIVILIAN ASSOCIATION INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "VALLEY MENTAL HEALTH",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "WHOLIVES",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "WOW UTAH INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "YOUTH WINTERSPORTS ALLIANCE",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "YOUTHLINC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ZULOO HUMANITARIAN OUTREACH",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "FRIENDS OF ARCHES & CANYONLANDS PARKS",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "FRIENDS OF THE MOAB FOLK MUSIC FESTIVAL",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "GIRLS ON THE RUN UTAH INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "GUADALUPE CENTER EDUCATIONAL PROGRAMS INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "JUNIOR ACHEVEMENT OF UTAH",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "NATIONAL MULTIPLE SCLEROSIS SOCIETY",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "OPEN DOORS SOCIAL SERVICES",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "PROJECT CONNECTION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "RIRIE-WOODBURY DANCE FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "SALT LAKE CITY POLICE FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "UNIFIED POLICE DEPARTMENT",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "UTAH FILM CENTER",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "UTAH SCHOOLS FOR THE DEAF AND BLIND",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "DREAM INSTITUTE INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "NORTH SANPETE SCHOOL DISTRICT FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "STONE OF HOPE YOUTH",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "UTAHS FIRST LADY FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "HEARSEE",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "POWER FORWARD UTAH",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "SLEEP IN HEAVENLY PEACE INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "U OF U - PHYSICAL MEDICINE & REHAB",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "CENTER FOR LATTER-DAY SAINTS ARTS INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "LEARNING CENTER FOR FAMILIES (ROOT KIDS)",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "MOUNTAIN COUNTRY HOME SOLUTIONS",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "ROCKY MOUNTAIN UNIVERSITY",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "U OF U - SOUTH MAIN CLINIC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 9500.0,
+      "is_new": false,
+      "name": "GRANARY ART CENTER",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 8700.0,
+      "is_new": false,
+      "name": "UTAH CONGRESS OF PARENTS AND TEACHERS",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": false,
+      "name": "FAMILY SUPPORT CENTER OF WASHINGTON COUNTY",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": false,
+      "name": "LYRICAL OPERA THEATER",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": true,
+      "name": "THE MAGIC YARN PROJECT",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "ASSISTANCE LEAGUE OF SOUTHERN UTAH",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "ALANO CLUB OF SALT LAKE CITY",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "MOUNTAIN MEDIATION CENTER",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "CHILDREN'S THEATRE (PARKER THEATRE)",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "ABOUT LOVE AND LANGUAGE",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "BAD DOG ARTS",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "FRIENDS OF THE GREAT SALT LAKE",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "MUNDI PROJECT",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "OFF BROADWAY THEATRE",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "SALT CONTEMPORARY DANCE",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "SALT LAKE ACTING COMPANY",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "THE YMCA OF NORTHERN UTAH",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "UTAH YOUTH SYMPHONY ASSOCIATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "AMERICAN DIABETES ASSOCIATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "WASTELESS SOLUTIONS INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "WOLF CREEK FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "INTERCOLLEGIATE STUDIES INSTITUTE INC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "PARK CITY COMMUNITY FOUNDATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "SEAGER MEMORIAL CLINIC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "TIMPANOGOS SYMPHONY ORCHESTRA",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "TINY TIM'S FOUNDATION FOR KIDS",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "BYU - MUSEUM OF ART",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "MORMON TRAILS ASSOCIATION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "U OF U - SCHOOL OF MUSIC",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "UTAH VALLEY ARTS",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "BEST SEAT IN THE HOUSE",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 1600.0,
+      "is_new": false,
+      "name": "MERIT COLLEGE PREPARATORY ACADEMY",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    },
+    {
+      "amount": 700.0,
+      "is_new": false,
+      "name": "CONTINUE MISSION",
+      "purpose": "GENERAL CHARITABLE PURPOSES"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "APPLICANTS MAY APPLY ONLINE OR REQUEST A COPY OF THE GRANT APPLICATION IN PERSON. ALL APPLICATIONS ARE REVIEWED AND SCREENED BY THE FOUNDATION'S ADMINISTRATIVE MANAGER TO ENSURE THAT THE APPLICATION IS APPROPRIATE AND CONSISTENT WITH THE FOUNDATION'S CHARTER AND THAT THE APPLICANT IS APPROVED AND IN GOOD STANDING ACCORDING TO IRC 501(C)(3) REQUIREMENTS. AFTER THIS EVALUATION, CHARITABLE CONTRIBUTIONS AND GRANT APPLICATIONS MAY BE APPROVED BY A MAJORITY VOTE OF A QUORUM OF THE BOARD OF DIRECTORS. GRANT APPLICATIONS ARE REVIEWED BY THE BOARD OF DIRECTORS ON A QUARTERLY BASIS.",

@@ -48,6 +48,20 @@
     "singleton_cluster_share": 0.8966,
     "total_grant_records": 35
   },
+  "recipients_latest_year": [
+    {
+      "amount": 15563000.0,
+      "is_new": false,
+      "name": "SEE 642(C) ELECTION STATEMENT",
+      "purpose": "GENERAL CHARITABLE CONTRIBUTION"
+    },
+    {
+      "amount": 62500.0,
+      "is_new": true,
+      "name": "ST ANN'S SCHOOL",
+      "purpose": "GENERAL CHARITABLE CONTRIBUTION"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

@@ -48,6 +48,1298 @@
     "singleton_cluster_share": 0.2925,
     "total_grant_records": 826
   },
+  "recipients_latest_year": [
+    {
+      "amount": 25036178.0,
+      "is_new": true,
+      "name": "ARKANSAS STATE UNIVERSITY",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 8114026.0,
+      "is_new": false,
+      "name": "ARTSPACE PROJECTS",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 4157993.0,
+      "is_new": false,
+      "name": "WOMEN & CHILDREN FIRST THE CENTER AGAINST FAMILY VIOLENCE",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 3058043.0,
+      "is_new": false,
+      "name": "METAL MUSEUM",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 3035504.0,
+      "is_new": false,
+      "name": "ARKANSAS COMMUNITY FOUNDATION",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 2639208.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF ARKANSAS FORT SMITH FOUNDATION",
+      "purpose": "HEALTH/WELLNESS"
+    },
+    {
+      "amount": 2587368.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF ARKANSAS FOUNDATION",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 2511283.0,
+      "is_new": false,
+      "name": "CLAY STUDIO",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 1875266.0,
+      "is_new": false,
+      "name": "BLACK MOUNTAIN COLLEGE MUSEUM & ARTS CENTER",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 1501759.0,
+      "is_new": false,
+      "name": "OUR HOUSE",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "CRAFT EMERGENCY RELIEF FUND",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 758675.0,
+      "is_new": false,
+      "name": "CENTER FOR CRAFT",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 650000.0,
+      "is_new": false,
+      "name": "MUSEUM OF CRAFT AND DESIGN",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 590000.0,
+      "is_new": false,
+      "name": "NORTH CAROLINA POTTERY CENTER",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 587106.0,
+      "is_new": false,
+      "name": "MID-AMERICA ARTS ALLIANCE",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 562500.0,
+      "is_new": false,
+      "name": "ARKANSAS CHILDREN'S FOUNDATION",
+      "purpose": "HEALTH/WELLNESS"
+    },
+    {
+      "amount": 544426.0,
+      "is_new": false,
+      "name": "COMPREHENSIVE JUVENILE SERVICES INC",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 525000.0,
+      "is_new": false,
+      "name": "ARKANSAS SYMPHONY ORCHESTRA SOCIETY",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "CCCD FOUNDATION",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 495000.0,
+      "is_new": false,
+      "name": "LOUISIANA STATE UNIVERSITY FOUNDATION",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 450000.0,
+      "is_new": false,
+      "name": "THEA FOUNDATION",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 450000.0,
+      "is_new": false,
+      "name": "CALICO ROCK COMMUNITY FOUNDATION",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 420000.0,
+      "is_new": false,
+      "name": "ARKANSAS FOOD BANK",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 405000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF CENTRAL OKLAHOMA",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "HENDRIX COLLEGE",
+      "purpose": "EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "AMERICAN CRAFT COUNCIL",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "VISARTS",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "EUREKA SPRINGS SCHOOL OF THE ARTS",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 299820.0,
+      "is_new": false,
+      "name": "FULLER CRAFT MUSEUM",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 296850.0,
+      "is_new": false,
+      "name": "MERCY HEALTH FOUNDATION NORTHWEST ARKANSAS",
+      "purpose": "HEALTH/WELLNESS"
+    },
+    {
+      "amount": 290051.0,
+      "is_new": true,
+      "name": "PHILANDER SMITH UNIVERSITY",
+      "purpose": "HEALTH/WELLNESS"
+    },
+    {
+      "amount": 259046.0,
+      "is_new": false,
+      "name": "HOUSTON CENTER FOR CONTEMPORARY CRAFT",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "ARROWMONT SCHOOL OF ARTS AND CRAFTS",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "CENTER FOR METAL ARTS",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 247000.0,
+      "is_new": false,
+      "name": "CENTRAL ARKANSAS LIBRARY SYSTEM FOUNDATION",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 239400.0,
+      "is_new": false,
+      "name": "ARKANSAS TECH UNIVERSITY FOUNDATION",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 237500.0,
+      "is_new": false,
+      "name": "BRANDON HOUSE CULTURAL & PERFORMING ARTS CENTER",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 230000.0,
+      "is_new": false,
+      "name": "CHILDREN'S DYSLEXIA CENTER OF NORTHWEST ILLINOIS",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": false,
+      "name": "SOUTHERN ARKANSAS UNIVERSITY",
+      "purpose": "EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 219500.0,
+      "is_new": false,
+      "name": "SOUTH ARTS",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 211000.0,
+      "is_new": false,
+      "name": "ARKANSAS ARTS COUNCIL",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "CRAFT ALLIANCE CENTER",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 197000.0,
+      "is_new": false,
+      "name": "STARWORKS",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 177540.0,
+      "is_new": false,
+      "name": "POCOSIN ARTS SCHOOL OF FINE CRAFT",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "PENLAND SCHOOL OF CRAFT",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 158455.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF ARKANSAS-COEHP",
+      "purpose": "EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 154000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF WISCONSIN-MILWAUKEE PECK SCHOOL OF THE ARTS",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 152020.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF THE OZARKS",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 152000.0,
+      "is_new": false,
+      "name": "ANDERSON RANCH ARTS CENTER",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "COMMUNITY RESCUE MISSION INC",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "RONALD MCDONALD HOUSE CHARITIES OF ARKANSAS",
+      "purpose": "HEALTH/WELLNESS"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "THE NATURE CONSERVANCY IN ARKANSAS",
+      "purpose": "ENVIRONMENT CONSERVATION"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "WATERSHED CENTER FOR THE CERAMIC ARTS",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "ARKANSAS MUSEUM OF FINE ARTS",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 139125.0,
+      "is_new": false,
+      "name": "ASU FOUNDATION",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "ARKANSAS REPERTORY THEATRE",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "WOMEN'S STUDIO WORKSHOP",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "YAYA",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "TENNESSEE TECHNOLOGICAL UNIVERSITY",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": true,
+      "name": "MCCOLL CENTER FOR ART & INNOVATION",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 107088.0,
+      "is_new": false,
+      "name": "GREGG MUSEUM OF ART AND DESIGN",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 105000.0,
+      "is_new": false,
+      "name": "JOHN C CAMPBELL FOLK SCHOOL",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 104126.0,
+      "is_new": false,
+      "name": "VIRGINIA COMMONWEALTH UNIVERSITY",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 102000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF ALABAMA",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "DIEU DONN",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "HAYSTACK MOUNTAIN SCHOOL OF CRAFTS",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "HOME FOR HEALING",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "IMMERSE ARKANSAS",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "MOUNTAIN BIZWORKS",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "THEATRESQUARED",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF TEXAS AT SAN ANTONIO--UTSA SOUTHWEST",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "MUSEUM OF ARTS AND DESIGN",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "NORTH CAROLINA ARTS FOUNDATION",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "TEACH FOR AMERICA- GREATER DELTA MISSISSIPPI AND ARKANSAS",
+      "purpose": "EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "VERMONT STUDIO CENTER",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "COLUMBUS MUSEUM",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "CRAFT IN AMERICA",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 93117.0,
+      "is_new": false,
+      "name": "FIGGE ART MUSEUM",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 87060.0,
+      "is_new": false,
+      "name": "OHR O KEEFE MUSEUM OF ART",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "SNOW FARM",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "STEEL YARD",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 79500.0,
+      "is_new": false,
+      "name": "SAN FRANCISCO CENTER FOR THE BOOK",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 77012.0,
+      "is_new": true,
+      "name": "GOGGLEWORKS CENTER FOR THE ARTS",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "AMERICAN MUSEUM OF CERAMIC ART",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "BALTIMORE JEWELRY CENTER",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "HABITAT FOR HUMANITY OF CENTRAL ARKANSAS",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF ARKANSAS AT MONTICELLO",
+      "purpose": "EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "VILLAGE PLACE",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "APPALACHIAN STATE UNIVERSITY",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "COMMUNITY FOUNDATION OF WESTERN NORTH CAROLINA",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 74000.0,
+      "is_new": false,
+      "name": "WARREN WILSON COLLEGE",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 70013.0,
+      "is_new": false,
+      "name": "PETERS VALLEY SCHOOL OF CRAFT",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "ARTS ON MAIN",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "BAPTIST HEALTH FOUNDATION",
+      "purpose": "HEALTH/WELLNESS"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "PURCHASE COLLEGE FOUNDATION",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "SPACE ONE ELEVEN",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "THE CALL",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "CRAFTING THE FUTURE",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 66250.0,
+      "is_new": false,
+      "name": "LAWRENCE ARTS CENTER",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF OKLAHOMA SCHOOL OF VISUAL ARTS",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 62600.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF NORTH CAROLINA AT ASHEVILLE",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "SCOTT FAMILY AMAZEUM",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 54500.0,
+      "is_new": false,
+      "name": "BUCKS COUNTY COMMUNITY COLLEGE FOUNDATION",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 52000.0,
+      "is_new": false,
+      "name": "SMITHSONIAN AMERICAN ART MUSEUM-RENWICK GALLERY",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 50500.0,
+      "is_new": false,
+      "name": "NORTHERN CLAY CENTER",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ARKANSAS ADVOCATES FOR CHILDREN AND FAMILIES",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ARKANSAS PBS FOUNDATION",
+      "purpose": "EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BRANDON BURLSWORTH FOUNDATION",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CARTI FOUNDATION",
+      "purpose": "HEALTH/WELLNESS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CENTERS FOR YOUTH AND FAMILIES FOUNDATION",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CONTEMPORARY CRAFT",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CUB CREEK FOUNDATION",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "EMERGENT ARTS",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "HAVEN HOUSE",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MISSISSIPPI MUSEUM OF ART",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MONTEREY BAY AQUARIUM FOUNDATION",
+      "purpose": "ANIMAL WELFARE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "RACINE ART MUSEUM",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "WOODMERE ART MUSEUM",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "FRANCONIA SCULPTURE PARK",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "IMPACT MINISTRIES WORLDWIDE",
+      "purpose": "EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "NATIONAL ART EDUCATION ASSOCIATION",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "PATHWAY TO FREEDOM",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "POTLUCK INC",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "ARTSCENTER",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "HEALTH INFORMATION PROJECT",
+      "purpose": "HEALTH/WELLNESS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "HENDERSON STATE UNIVERSITY",
+      "purpose": "EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "LIFE SKILLS FOR YOUTH",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "NORTH CAROLINA GLASS CENTER",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "RISE HOUSE ARKANSAS",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "THE MUSEUM OF PRINTING",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 48000.0,
+      "is_new": false,
+      "name": "ARKANSAS INDEPENDENT COLLEGES & UNIVERSITIES",
+      "purpose": "EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 46060.0,
+      "is_new": false,
+      "name": "MILLSAPS COLLEGE",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 45642.0,
+      "is_new": false,
+      "name": "ARKANSAS CRAFT SCHOOL",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "FORT SMITH REGIONAL ART MUSEUM",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 44500.0,
+      "is_new": false,
+      "name": "BARD GRADUATE CENTER",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 40252.0,
+      "is_new": false,
+      "name": "MARGIE'S HAVEN HOUSE",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "ARKANSAS CINEMA SOCIETY",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "LAUMEIER SCULPTURE PARK",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF ALABAMA AT BIRMINGHAM",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 38000.0,
+      "is_new": false,
+      "name": "ARKANSAS LEARNING THROUGH THE ARTS",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "GREGORY KISTLER TREATMENT CENTER",
+      "purpose": "HEALTH/WELLNESS"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "SOUTH WALTON MONTESSORI ACADEMY",
+      "purpose": "EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "VISUAL ARTS CENTER OF RICHMOND",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 34000.0,
+      "is_new": false,
+      "name": "SAM AND ALFREDA MALOOF FOUNDATION FOR THE ARTS AND CRAFTS",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 32370.0,
+      "is_new": false,
+      "name": "OX BOW SCHOOL OF ART",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "FLINT INSTITUTE OF ARTS",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "FRIST ART MUSEUM",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "LUX CENTER FOR THE ARTS",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "URBANGLASS",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "ARROW CREATIVE",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "DELTAARTS",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "MOSAIC TEMPLARS CULTURAL CENTER",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 28000.0,
+      "is_new": false,
+      "name": "MISSISSIPPI STATE UNIVERSITY FOUNDATION",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ALAQUA ANIMAL REFUGE",
+      "purpose": "ANIMAL WELFARE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ART MUSEUM OF SOUTH TEXAS",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ARTS CENTER OF THE GRAND PRAIRIE",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CHARLOTTE STREET FOUNDATION",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "COBSCOOK INSTITUTE",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "DENVER SEMINARY",
+      "purpose": "EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "E STANLEY JONES FOUNDATION",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "FORT SMITH SYMPHONY",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "GALVESTON ARTS CENTER",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "GRANTMAKERS IN THE ARTS",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "HISPANIC COMMUNITY SERVICES INC",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "HOT SPRINGS DOCUMENTARY FILM INSTITUTE",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "MINNESOTA CENTER FOR BOOK ARTS",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "MITCHELL COUNTY ANIMAL RESCUE",
+      "purpose": "ANIMAL WELFARE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "MORGAN CONSERVATORY",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "MUSEUM OF CONTEMPORARY ART TUCSON",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PARK FOUNDATION",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "REAL CHRISTIAN FOUNDATION",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "THE MUSES CREATIVE ARTISTRY PROJECT",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "WALTON ARTS CENTER",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ART SCHOOL AT OLD CHURCH",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CAMP ALDERSGATE",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "FARNSWORTH ART MUSEUM",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LOST PROVINCE CENTER FOR CULTURAL ARTS",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "OXFORD AMERICAN",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PURDUE UNIVERSITY FORT WAYNE",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "RANCHO CIELO YOUTH CAMPUS",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SAVE THE CHIMPS",
+      "purpose": "ANIMAL WELFARE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "BEATRICE WOOD CENTER FOR THE ARTS",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "FREEMAN FOUNDATION",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "JAMES A MICHENER ART MUSEUM",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "TENNESSEE CRAFT",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 24100.0,
+      "is_new": false,
+      "name": "MARS HILL UNIVERSITY",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "ADOPT-A-CLASSROOM INC",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "CREATIVE GROWTH INC",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "GREENWICH HOUSE",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "KENNESAW STATE UNIVERSITY FOUNDATION",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "MARYLAND INSTITUTE COLLEGE OF ART",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "HUMANE SOCIETY OF PULASKI COUNTY",
+      "purpose": "ANIMAL WELFARE"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "KENTUCKY MUSEUM OF ART AND CRAFT",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "MORGAN ARTS COUNCIL INC",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 18000.0,
+      "is_new": false,
+      "name": "CHEROKEE COUNTY ARTS COUNCIL",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 18000.0,
+      "is_new": false,
+      "name": "MOUNT SEQUOYAH CENTER",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 16850.0,
+      "is_new": false,
+      "name": "NORTH ARKANSAS COLLEGE",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 16000.0,
+      "is_new": false,
+      "name": "STARKVILLE AREA ARTS COUNCIL INC",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "ALEX FOUNDATION",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "MEMPHIS BROOKS MUSEUM OF ART",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "GIRLS SHELTER OF FORT SMITH",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "HAMBIDGE CENTER",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "WIREGRASS MUSEUM OF ART",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 13775.0,
+      "is_new": false,
+      "name": "DUKE UNIVERSITY",
+      "purpose": "EDUCATION IMPROVEMENT"
+    },
+    {
+      "amount": 13750.0,
+      "is_new": true,
+      "name": "SINGLE PARENT SCHOLARSHIP FUND OF NORTHWEST ARKANSAS",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": false,
+      "name": "COMMUNITY CREATIVE CENTER",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "METHODIST FAMILY HEALTH FOUNDATION",
+      "purpose": "HEALTH/WELLNESS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "ASHEVILLE TOOL LIBRARY",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "LOUISVILLE VISUAL ART",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "KC CLAY GUILD",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "TULSA GIRLS ART SCHOOL",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "AR KIDS READ",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": 4700.0,
+      "is_new": false,
+      "name": "BUFFALO RIVER ARTS",
+      "purpose": "ART & CULTURE"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "MAYFLY PROJECT",
+      "purpose": "COMMUNITY SUPPORT/IMPROVEMENT"
+    },
+    {
+      "amount": -261456.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF ARKANSAS AT LITTLE ROCK",
+      "purpose": "ART EDUCATION IMPROVEMENT"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

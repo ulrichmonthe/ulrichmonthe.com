@@ -48,6 +48,110 @@
     "singleton_cluster_share": 0.6296,
     "total_grant_records": 49
   },
+  "recipients_latest_year": [
+    {
+      "amount": 5500000.0,
+      "is_new": false,
+      "name": "SECOND HARVEST OF SILICON VALLEY",
+      "purpose": "CAPITAL CAMPAIGN/OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF CALIFORNIA SAN FRANCISCO FOUNDATION",
+      "purpose": "PARNASSUS CAMPUS AND OPERATIONS"
+    },
+    {
+      "amount": 5000000.0,
+      "is_new": true,
+      "name": "PRESIDENT & TRUSTEES OF COLBY COLLEGE",
+      "purpose": "RESIDENCE HALL/RESIDENCE LIFE"
+    },
+    {
+      "amount": 2500000.0,
+      "is_new": true,
+      "name": "REWILD",
+      "purpose": "GUAFO ISLAND PROJECT"
+    },
+    {
+      "amount": 2000000.0,
+      "is_new": false,
+      "name": "NATIONAL PHILANTHROPIC TRUST",
+      "purpose": "ICONIQ IMPACT OCEAN CO-LAB"
+    },
+    {
+      "amount": 1600000.0,
+      "is_new": true,
+      "name": "FOOD FOR EDUCATION FOUNDATION INC",
+      "purpose": "SCHOOL FEEDING PROGRAMS IN AFRICA"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "LAND TRUST OF SANTA CRUZ COUNTY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "HUMAN RIGHTS WATCH INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "RAINBOW WORLD FUND",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "AVINA AMERICAS INC",
+      "purpose": "MAPBIOMAS WORK ON CLIMATE"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "CLEAN SLATE INITIATIVE INC",
+      "purpose": "AUDACIOUS PROJECT"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "EVERY CURE INC",
+      "purpose": "AI PLATFORM FOR DRUG REPURPOSING"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "GREAT BARRIER REEF FOUNDATION USA INC",
+      "purpose": "SOLUTIONS FOR PROTECTING CORAL REEFS"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "KENYAN KIDS FOUNDATION",
+      "purpose": "TRANSCEND RUNNING ACADEMY"
+    },
+    {
+      "amount": 263000.0,
+      "is_new": true,
+      "name": "LIFESPAN EXTENSION ADVOCACY FOUNDATION INC",
+      "purpose": "RAPAMYCIN AND EXERCISE PERFORMANCE FOR LONGEVITY RESEARCH PROJECT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "NP2",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "INKOMOKO",
+      "purpose": "IMPROVE LIVES IN ETHIOPIA, KENYA AND SOUTH SUDAN"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

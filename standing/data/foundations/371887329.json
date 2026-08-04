@@ -48,6 +48,836 @@
     "singleton_cluster_share": 0.4847,
     "total_grant_records": 499
   },
+  "recipients_latest_year": [
+    {
+      "amount": 3035000.0,
+      "is_new": false,
+      "name": "RAVINIA FESTIVAL ASSOCIATION",
+      "purpose": "CSO PROGRAM SPONSORSHIP FOR MAXINE HUNTER/THE HUNTER PAVILION"
+    },
+    {
+      "amount": 635000.0,
+      "is_new": false,
+      "name": "NORTHWESTERN MEMORIAL FOUNDATION",
+      "purpose": "HUNTER SIMULATION AND EDUCATION CENTER"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "ERIE FAMILY HEALTH CENTER",
+      "purpose": "HEALTHREACH WAUKEGAN"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "METROSQUASH",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "GREATER CHICAGO FOOD DEPOSITORY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "NORTHERN ILLINOIS FOOD BANK",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "COLLEGE OF LAKE COUNTY FOUNDATION",
+      "purpose": "APPRENTICESHIPS PROGRAM"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "ENVIRONMENTAL LAW & POLICY CENTER MIDWEST",
+      "purpose": "WETLANDS PUBLIC EDUCATION CAMPAIGN"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "KIDS FIRST HEALTH CARE",
+      "purpose": "GENERAL SUPPORT/WESTMINSTER NEW CLINIC PROJECT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "LAKE COUNTY COMMUNITY FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "MANO A MANO FAMILY RESOURCE CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "NATIONAL FISH AND WILDLIFE FOUNDATION",
+      "purpose": "CHI-CAL RIVERS FUND"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "START EARLY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "KEEPING FAMILIES COVERED",
+      "purpose": "DOLLARS FOR A VAN"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "PLANNED PARENTHOOD OF ILLINOIS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "WINDWARD FUND",
+      "purpose": "DAYBREAK FUND"
+    },
+    {
+      "amount": 115000.0,
+      "is_new": true,
+      "name": "BOCA GRANDE DISASTER FUND",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ALLIANCE FOR THE GREAT LAKES",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BERNIE'S BOOKS - BOOK BANK DONATIONS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CHICAGO BOTANIC GARDEN",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ILLINOIS ENVIRONMENTAL COUNCIL EDUCATION",
+      "purpose": "CLEAN POWER LAKE COUNTY/GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "IMENTOR",
+      "purpose": "CHICAGO PROGRAM"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "NORTH LAWNDALE COLLEGE PREP HS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "RARE",
+      "purpose": "FISH FOREVER PROGRAMS IN HONDURAS AND GUATEMALA/CENTER FOR BEHAVIOR AND THE ENVIRONMENT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ROOM TO READ",
+      "purpose": "CAMBODIA PROGRAMS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BAY AREA DISCOVERY MUSEUM",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "LATINO POLICY FORUM",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "PARTNERSHIP FOR COLLEGE COMPLETION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "CHICAGOLAND WORKFORCE FUNDER ALLIANCE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "FOREFRONT",
+      "purpose": "FRESH TASTE: CHICAGO REGION FOOD SYSTEM FUND"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "GARFIELD PARK RITE TO WELLNESS COLLAB",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "READING POWER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "WAUKEGAN TO COLLEGE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": true,
+      "name": "CHICAGO FOUNDATION FOR WOMEN",
+      "purpose": "ILLINOIS REPRODUCTIVE JUSTICE EARLY CHILDHOOD FUNDERS COLLABORATIVE"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "NATURE CONSERVANCY",
+      "purpose": "ILLINOIS PROGRAMS"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "PARENTS AS TEACHERS",
+      "purpose": "WISCONSIN PROGRAMS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "ADVANCE ILLINOIS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "BRUSHWOOD CENTER AT RYERSON WOODS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "CHILDREN'S ADVOCACY AND FAMILY RESOURCES",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "MEALS ON WHEELS NORTHEASTERN ILLINOIS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "NORTH LAWNDALE EMPLOYMENT NETWORK",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "PADS LAKE COUNTY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "NORTH CHICAGO COMMUNITY PARTNERS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "THE FRIENDS OF HIGHWOOD PUBLIC LIBRARY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "TIPPING POINT",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "TRUST FOR PUBLIC LAND",
+      "purpose": "FOR CA, CO, IL PROGRAMS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "ROGER BALDWIN FDN OF THE ACLU OF ILLINOIS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "YWCA OF METROPOLITAN CHICAGO",
+      "purpose": "LAKE COUNTY EARLY CHILDHOOD PROGRAMS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "LAKE COUNTY REGIONAL OFFICE OF EDUCATION",
+      "purpose": "SCHULER SCHOLARS PROGRAM"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "NORTHERN ILLINOIS UNIVERSITY FOUNDATION",
+      "purpose": "EDUCATIONAL SYSTEMS CENTER"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "YOUTH BUILD LAKE COUNTY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "CONSERVING CAROLINA",
+      "purpose": "LEARNING GRANT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": true,
+      "name": "WASHINGTON NATIONAL CATHEDRAL PROTESTANT EPISOCOPAL CATHEDRAL FOUNDATION",
+      "purpose": "ORGAN REBUILD PROJECT"
+    },
+    {
+      "amount": 51500.0,
+      "is_new": true,
+      "name": "SHARE OUR SPARE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BRIDGES TO PROSPERITY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BUILD-ON",
+      "purpose": "CHICAGO PROGRAM"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "FRIENDS OF THE CHICAGO RIVER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "HOTCHKISS SCHOOL",
+      "purpose": "HUNTER-TONELLI SCHOLARSHIP"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "LAKE FOREST OPEN LANDS ASSOCIATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "LAKE FOREST-LAKE BLUFF HISTORICAL SOCIETY",
+      "purpose": "6020 MATCHING"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SAN FRANCISCO PARKS ALLIANCE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "HUNGER TASK FORCE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ILLINOIS ACTION FOR CHILDREN",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "LAKE COUNTY PARTNERSHIP FOR ECONOMIC DEV",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "WORKING IN THE SCHOOLS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "PROJECT HOPE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "THE BIKE FEDERATION OF WISCONSIN",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "WORLD CENTRAL KITCHEN",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "INGENUITY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "BELOVED ASHEVILLE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "CAROLE ROBERTSON CENTER FOR LEARNING",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "CHICAGO PUBLIC LIBRARY FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "HOMELESS PRENATAL PROGRAM",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "MCDOWELL LOCAL FOOD ADVISORY COUNCIL",
+      "purpose": "FOOTHILLS FOOD HUB"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "ONE MILLION DEGREES",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "OPENLANDS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "WEST SIDE UNITED RUSH UNIVERSITY MEDICAL CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "ACCESS REPRODUCTIVE JUSTICE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "MIDWEST ACCESS COALITION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "PLANNED PARENTHOOD OF WISCONSIN",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "COBALT FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "WESTMINSTER SCHOOL",
+      "purpose": "WILLIAMS WILL SOCIETY SCHOLARSHIP FUND"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "CONNECTLAKECOUNTY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "COLBY-SAWYER COLLEGE",
+      "purpose": "SCHOOL OF NURSING & HEALTH SCIENCES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LAKE FOREST ACADEMY",
+      "purpose": "SCHOLARSHIP PROGRAMS&TEACHER PROF. DEVELOPMENT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CHICAGO WOMEN IN TRADES",
+      "purpose": "LEARNING GRANT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LAKE FOREST COLLEGE",
+      "purpose": "HEALTH PROFESSIONS PROGRAM"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BLUE SPRUCE HABITAT FOR HUMANITY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "CHICAGO VOYAGERS",
+      "purpose": "LEARNING GRANT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "COOL LEARNING EXPERIENCE",
+      "purpose": "LEARNING GRANT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "EARTH ISLAND INSTITUTE",
+      "purpose": "NATURE IN THE CITY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "ENVIRONMENTAL LEARNING FOR KIDS",
+      "purpose": "LEARNING GRANT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "ILLINOIS NETWORK OF CHILD CARE RESOURCE",
+      "purpose": "CIVIC LEADERS FOR ILLINOIS' CHILDREN"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "REVOLUTION WORKSHOP",
+      "purpose": "LEARNING GRANT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "TEN STRANDS",
+      "purpose": "LEARNING GRANT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "THE CHICAGO FOOD POLICY ACTION COUNCIL",
+      "purpose": "LEARNING GRANT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "THE CONSERVATION FUND",
+      "purpose": "LEARNING GRANT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "THE FUNDERS NETWORK",
+      "purpose": "LEARNING GRANT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "VOLUNTEERS FOR OUTDOOR COLORADO",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "TABOR ACADEMY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "FOX CHASE CANCER CENTER",
+      "purpose": "GENERAL SUPPORT IN HONOR OF DR. DAVID LOREN"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "GICIA GASPARILLA ISLAND CONS & IMPR ASSOC",
+      "purpose": "MERCABO COVE PROJECT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "BOCA GRANDE HEALTH CLINIC FOUNDATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "FIRST PRESBYTERIAN CHURCH OF LAKE FOREST",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "THE GARDEN CONSERVANCY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "GORTON COMMUNITY CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ISLAND CHARTER SCHOOL",
+      "purpose": "GENERAL SUPPOER"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "COLORADO COALITION FOR THE HOMELESS",
+      "purpose": "GENERAL OPERATING"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "MOTE MARINE LABORATORY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "A THOUSAND SUMMERS (JOHN AUSTIN CHELEY)",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "ILLINOIS COMMUNITY OF DISPLACED IMMIGRANT",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "LAKE COUNTY TECH CAMPUS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "SHEDD AQUARIUM SOCIETY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "ART INSTITUTE OF CHICAGO",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "BOCA GRANDE WOMAN'S CLUB INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "CHICAGO SYMPHONY ORCHESTRA",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "JOHANN FUST COMMUNITY LIBRARY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "LAKE FOREST COUNTRY DAY SCHOOL",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "PLAY GROUP",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "BERKSHIRE SCHOOL",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "DELTA INSTITUTE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "HOBART AND WILLIAM SMITH COLLEGES",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "CHIEF AND CALLA BELL SCHOLARSHIP FUND",
+      "purpose": "CAMP MONDAMIN SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "FRIENDS OF BOCA GRANDE COMMUNITY CENTER",
+      "purpose": "ANNUAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "FRIENDS OF DUPONT FOREST",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "PISGAH AREA SORBA",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "PROJECT ALS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "THE BASIC FUND",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "THE WAY FORWARD FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "WINMAN TRAILS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "ANERA",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": true,
+      "name": "CHICAGO REFUGEE COALITON",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": true,
+      "name": "REFUGEE ONE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "SAFER FOUNDATION",
+      "purpose": "WOMEN'S JUSTICE INSTITUTE"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "THE PEOPLES FUNDRAISER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF CHICAGO",
+      "purpose": "CIVIC LEADERSHIP ACADEMY"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "OCCIDENTAL COLLEGE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": -1000.0,
+      "is_new": true,
+      "name": "WOMEN'S JUSTICE INSTITUTE",
+      "purpose": "GENERAL SUPPORT"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

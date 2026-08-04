@@ -50,6 +50,554 @@
     "singleton_cluster_share": 0.7943,
     "total_grant_records": 925
   },
+  "recipients_latest_year": [
+    {
+      "amount": 1013220.0,
+      "is_new": false,
+      "name": "JOHN MICHAEL KOHLER ARTS CENTER",
+      "purpose": "STELLA WAITZKIN 2021"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "LAKESHORE TECHNICAL COLLEGE",
+      "purpose": "SCHOLARSHIPS"
+    },
+    {
+      "amount": 178806.0,
+      "is_new": true,
+      "name": "MULVANE ART MUSEUM AT WASHBURN UNIVERSITY",
+      "purpose": "STELLA WAITZKIN 2021"
+    },
+    {
+      "amount": 120600.0,
+      "is_new": true,
+      "name": "VOLLAND FOUNDATION",
+      "purpose": "MEEKER & ANDERSON COLLECTION"
+    },
+    {
+      "amount": 110300.0,
+      "is_new": true,
+      "name": "VILLAGE OF MOUNT MORRIS",
+      "purpose": "MOUNT MORRIS FOUNTAIN"
+    },
+    {
+      "amount": 83701.0,
+      "is_new": true,
+      "name": "ADDISON GALLERY OF AM ART AT PHILLIPS ACADEMY",
+      "purpose": "BARBARA ROSSI COLLECTION"
+    },
+    {
+      "amount": 75790.0,
+      "is_new": false,
+      "name": "MILLER ART MUSEUM",
+      "purpose": "ART THRALL COLLECTION"
+    },
+    {
+      "amount": 73950.0,
+      "is_new": true,
+      "name": "ST MARY'S UNIVERSITY",
+      "purpose": "GUSTAVO FARES ART COLLECTION"
+    },
+    {
+      "amount": 56000.0,
+      "is_new": true,
+      "name": "MICHIGAN STATE UNIVERSITY",
+      "purpose": "HEIDI LASHER-OAKES COLLECTION"
+    },
+    {
+      "amount": 54683.0,
+      "is_new": false,
+      "name": "ROCKFORD ART MUSEUM",
+      "purpose": "GLEN C DAVIES ART COLLECTION"
+    },
+    {
+      "amount": 54100.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF WISCONSIN - WHITEWATER",
+      "purpose": "GUSTAVO FARES ART COLLECTION"
+    },
+    {
+      "amount": 51700.0,
+      "is_new": true,
+      "name": "GERBERHART ARCHIVES",
+      "purpose": "JOHN SCHACHT"
+    },
+    {
+      "amount": 48173.0,
+      "is_new": true,
+      "name": "HIGH MUSEUM OF ART",
+      "purpose": "STELLA WAITZKIN 2021"
+    },
+    {
+      "amount": 47151.0,
+      "is_new": true,
+      "name": "FAIRFIELD UNIVERSITY",
+      "purpose": "STELLA WAITZKIN 2021"
+    },
+    {
+      "amount": 40195.0,
+      "is_new": true,
+      "name": "KNOXVILLE MUSEUM OF ART",
+      "purpose": "STELLA WAITZKIN 2021"
+    },
+    {
+      "amount": 39625.0,
+      "is_new": false,
+      "name": "547 ARTS CENTER",
+      "purpose": "MEEKER & ANDERSON COLLECTION"
+    },
+    {
+      "amount": 37000.0,
+      "is_new": true,
+      "name": "CARLSBAD MUSEUM",
+      "purpose": "HO BARON SCULPTURES"
+    },
+    {
+      "amount": 33000.0,
+      "is_new": false,
+      "name": "ILLINOIS STATE MUSEUM",
+      "purpose": "PHYLLIS BRAMSON"
+    },
+    {
+      "amount": 32956.0,
+      "is_new": true,
+      "name": "MARTHA'S VINEYARD MUSEUM",
+      "purpose": "STELLA WAITZKIN 2021"
+    },
+    {
+      "amount": 31832.0,
+      "is_new": true,
+      "name": "FORT HAYES STATE UNIVERSITY",
+      "purpose": "MEEKER & ANDERSON COLLECTION"
+    },
+    {
+      "amount": 28000.0,
+      "is_new": false,
+      "name": "UW-MADISON - WISCONSIN INSTITUTE OF DISCOVERY",
+      "purpose": "MARIE CHRISTINE KOHLER FELLOWS"
+    },
+    {
+      "amount": 27000.0,
+      "is_new": false,
+      "name": "WADE HOUSE HISTORIC SITE",
+      "purpose": "HORSE TRANSPORTATION"
+    },
+    {
+      "amount": 27000.0,
+      "is_new": true,
+      "name": "VANDERBILT UNIVERSITY MUSEUM OF ART",
+      "purpose": "BARBARA ROSSI COLLECTION"
+    },
+    {
+      "amount": 26000.0,
+      "is_new": true,
+      "name": "STANLEY MUSEUM OF ART",
+      "purpose": "JOHN SCHACHT"
+    },
+    {
+      "amount": 25080.0,
+      "is_new": false,
+      "name": "RACINE ART MUSEUM",
+      "purpose": "PAUL SMITH COLLECTION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BELOIT COLLEGE",
+      "purpose": "INDEPENDENT COLLEGE GRANT"
+    },
+    {
+      "amount": 22300.0,
+      "is_new": true,
+      "name": "NORTHERN ILLINOIS UNIVERSITY ART MUSEUM",
+      "purpose": "BARBARA ROSSI COLLECTION"
+    },
+    {
+      "amount": 21355.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF SAINT MARY",
+      "purpose": "JOHN COLT PAINTINGS AND DRAWINGS"
+    },
+    {
+      "amount": 17328.0,
+      "is_new": true,
+      "name": "EDGEWOOD COLLEGE",
+      "purpose": "BARBARA ROSSI COLLECTION"
+    },
+    {
+      "amount": 14200.0,
+      "is_new": false,
+      "name": "RIPON COLLEGE",
+      "purpose": "GUSTAVO FARES ART COLLECTION"
+    },
+    {
+      "amount": 12550.0,
+      "is_new": true,
+      "name": "EASTERN ILLINOIS UNIVERSITY TARBLE ARTS CENTER",
+      "purpose": "BARBARA ROSSI COLLECTION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "BELLADONNA FILM PROJECT INC",
+      "purpose": "SHEBOYGAN FILM FESTIVAL"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "AMERICAN PLAYERS THEATRE OF WISCONSIN INC",
+      "purpose": "AMERICAN PLAYERS THEATRE'S ARTS EDUCATION PROGRAMMING IN WISCONSIN SCHOOLS"
+    },
+    {
+      "amount": 9978.0,
+      "is_new": true,
+      "name": "THE CENTER FOR BOOK ARTS",
+      "purpose": "STELLA WAITZKIN 2021"
+    },
+    {
+      "amount": 9438.0,
+      "is_new": true,
+      "name": "HOOD MUSEUM OF ART AT DARTMOUTH UNIVERSITY",
+      "purpose": "STELLA WAITZKIN CENTENNIAL"
+    },
+    {
+      "amount": 9400.0,
+      "is_new": false,
+      "name": "WISCONSIN HISTORICAL FOUNDATION",
+      "purpose": "WADE HOUSE CARRIAGE DRIVING CLINIC"
+    },
+    {
+      "amount": 7800.0,
+      "is_new": true,
+      "name": "COLBY COLLEGE MUSEUM OF ART",
+      "purpose": "BARBARA ROSSI COLLECTION"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "ABOVE & BEYOND CHILDREN'S MUSEUM",
+      "purpose": "DARE TO DREAM SUMMER CAMP"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "GIRL SCOUTS OF MANITOU COUNCIL",
+      "purpose": "ROBOTICS REVOLUTION PROGRAM"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "MEAD PUBLIC LIBRARY FOUNDATION",
+      "purpose": "READY, SET, PREK! PRESCHOOL READINESS TOOLKIT"
+    },
+    {
+      "amount": 6500.0,
+      "is_new": true,
+      "name": "HMONG MUTUAL ASSISTANCE ASSOCIATION",
+      "purpose": "FALL ACTIVATION 2024"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "BOOKWORM GARDENS",
+      "purpose": "EDUCATION STATION POP UP PROGRAMMING"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "BOYS & GIRLS CLUBS OF SHEBOYGAN COUNTY",
+      "purpose": "SUMMER 2025 OUT OF SCHOOL TIME AND LEARNING LOSS PREVENTION THROUGH STEAM"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "FAMILY RESOURCE CENTER OF SHEBOYGAN COUNTY",
+      "purpose": "BUILDING A THRIVING COMMUNITY THROUGH EDUCATION"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "BIG BROTHERS BIG SISTERS WI SHORELINE",
+      "purpose": "MENTOR U PILOT"
+    },
+    {
+      "amount": 5640.0,
+      "is_new": true,
+      "name": "HISTORIC INDIAN AGENCY HOUSE ASSOCIATION INC",
+      "purpose": "HEARTH AND HOME: EVOKING INSIGHTS IN THE EVERYDAY"
+    },
+    {
+      "amount": 5360.0,
+      "is_new": false,
+      "name": "WEIL CENTER FOUNDATION INC",
+      "purpose": "2025 WEILL CENTER ELEMENTARY SCHOOL FIELD TRIP PERFORMANCES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "LAKELAND UNIVERSITY",
+      "purpose": "STEPHANIE HOSKINS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "DARE TO DREAM THEATRE INC",
+      "purpose": "CLASSROOM CONNECTIONS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "HAMILTON WOOD TYPE & PRINTING MUSEUM",
+      "purpose": "BIWOC RESIDENCY"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "KIEL AREA YOUTH THEATRE",
+      "purpose": "2025 SUMMER SHOW"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "SUMMIT PLAYERS THEATRE",
+      "purpose": "SUMMIT PLAYERS THEATRE 2025 SUMMER TOUR"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "BOARD OF REGENTS OF THE UNIVERSITIES OF WISCONSIN DBA UW-GREEN BAY",
+      "purpose": "SOCIAL WORK & THE ARTS: A HANDS-ON LEARNING EXPERIENCE"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "EINSTEIN PROJECT",
+      "purpose": "MOBILE MAKERSPACE PROGRAMMING FOR RURAL WISCONSIN COMMUNITIES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "ETUDE SCHOOLS",
+      "purpose": "TED HAMM"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "PENINSULA SCHOOL OF ART",
+      "purpose": "CONNECTING THE DOTS: ART ACCESS FOR CHILDREN AND FAMILIES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "RISE UP CENTRAL WISCONSIN INC",
+      "purpose": "JACQUELYN TOLKSDORF"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "SHEBOYGAN COUNTY MUSEUM",
+      "purpose": "SCM- WATER/ WAYS SMITHSONIAN EXHIBIT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "THEATER FOR YOUNG AUDIENCES",
+      "purpose": "DIARY OF A WIMPY KID THE MUSICAL"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "TREEHOUSE THEATER",
+      "purpose": "SPONSORSHIP, SCHOLARSHIPS, AND WORKSHOP EDUCATORS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "WISCONSIN ACADEMY",
+      "purpose": "WI ACADEMY FELLOWS INDUCTION GALA"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "WISCONSIN ACADEMY OF SCIENCES ARTS & LETTERS",
+      "purpose": "BUILDING STRONG CONNECTIONS ACROSS WISCONSIN'S ARTS ORGANIZATIONS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "WISCONSIN HUMANITIES",
+      "purpose": "STAND UP TO HATE"
+    },
+    {
+      "amount": 4100.0,
+      "is_new": true,
+      "name": "PLYMOUTH HIGH SCHOOL",
+      "purpose": "GLOBAL CONNECTIONS PROJECT"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": false,
+      "name": "MUSEUM OF WISCONSIN ART",
+      "purpose": "SPRING BREAK WEEK"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": false,
+      "name": "PECATONICA EDUCATIONAL CHARITABLE FOUNDATION INC",
+      "purpose": "NICK & KATHERINE ENGELBERT MOSAIC KIOSK & SIDEWALK"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": false,
+      "name": "PLYMOUTH ART FOUNDATION INC",
+      "purpose": "CLUE THE MUSICAL - NEW THEATRE PROGRAM"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "RIVEREDGE NATURE CENTER",
+      "purpose": "RIVEREDGE'S YOUTH ENVIRONMENTAL EDUCATION ACCESS: SHEBOYGAN COUNTY"
+    },
+    {
+      "amount": 3750.0,
+      "is_new": false,
+      "name": "SOUTH BEND MUSEUM OF ART",
+      "purpose": "GLEN C DAVIES ART COLLECTION"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": true,
+      "name": "PINE HAVEN CHRISTIAN COMMUNITIES",
+      "purpose": "PINE HAVEN'S MUSIC & MEMORY PROGRAM"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": true,
+      "name": "SHEBOYGAN SENIOR COMMUNITY",
+      "purpose": "MUSIC & EVENTS PROGRAM"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "ASCEND SERVICES INC",
+      "purpose": "COLORS OF CONNECTION: EMPOWERING THROUGH ART"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "CREATE WISCONSIN",
+      "purpose": "GROWING WISCONSIN CREATIVELY"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "DOWN SYNDROME ASSOCIATION OF WISCONSIN",
+      "purpose": "TEEN HANG OUT CLUB"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "FAMILY CONNECTIONS",
+      "purpose": "CREATIVE PARENTING"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "SHELL LAKE ARTS CENTER",
+      "purpose": "REGIONAL PARTNERSHIP PROGRAM"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "FAIRFIELD UNIVERSITY ART MUSEUM",
+      "purpose": "BARBARA ROSSI COLLECTION"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "MENTAL HEALTH AMERICA LAKESHORE",
+      "purpose": "RESILIENT CLASSROOM PROJECT"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "WISCONSIN MARITIME MUSEUM",
+      "purpose": "3D PRINTED COLLECTIONS"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "FRIENDS OF LEDGE VIEW NATURE CENTER INC",
+      "purpose": "GUEST SPEAKER SERIES"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "UNITED WAY OF SHEBOYGAN COUNTY",
+      "purpose": "PROVIDING ACCESS TO HEALING (PATH) EDUCATOR APPRECIATION SOCIAL"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "SHEBOYGAN COUNTY LGBTQ ALLIANCE",
+      "purpose": "THE SHEBOYGAN COUNTY LGBTQ+ ALLIANCE: ASL INTERPRETATION AT PRIDE PICNIC"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF WISCONSIN-GREEN BAY FOUNDATION INC",
+      "purpose": "CHILDREN'S THEATRE PRODUCTION OF \"FANTASTIC MR. FOX\" AT BAYSHORE ARTS CENTER ON UW-GREEN BAY'S MARINETTE CAMPUS"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "BLACK AMERICAN COMMUNITY OUTREACH",
+      "purpose": "UNRESTRICTED CHARITABLE GRANT"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "ETUDE ELEMENTARY",
+      "purpose": "DISCOVERING WISCONSIN'S PAST AND PRESENT"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "BOYS & GIRLS CLUBS OF THE FOX VALLEY",
+      "purpose": "RESILIENCY STARTS HERE"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "SCIO - BRIDGEWAY & BEYOND",
+      "purpose": "COMMUNITY ARTS & WELLNESS"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "SHEBOYGAN SOUTH HIGH ART FOR YOUTH CLUB (SASD)",
+      "purpose": "SHS ART FOR YOUTH CLUB"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": false,
+      "name": "OPERA FOR THE YOUNG",
+      "purpose": "THE MAGIC FLUTE IN SHEBOYGAN COUNTY SCHOOLS"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": true,
+      "name": "WE EMPOWHER INC",
+      "purpose": "WOMEN'S EMPOWERMENT SERIES"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "GERMANTOWN COMMUNITY COALITION",
+      "purpose": "MAMA BEARS FILM SCREENING AND COMMUNITY PANEL"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "APPLICANTS ARE ASKED TO PROVIDE A WRITTEN REQUEST PER THE KOHLER FOUNDATION GRANT GUIDELINES, AVAILABLE ONLINE OR BY REQUEST (920-458-1972). APPLICANTS MUST DEFINE THE PROJECT, SPECIFY THE AMOUNT OF FUNDS NEEDED, HOW MANY PEOPLE WILL BE AFFECTED, TIMING, AND A BRIEF SUMMARY OF THE PROJECT. PROJECT MANAGER CREDENTIALS ARE REQUESTED. COMMON GRANT APPLICATION IS ACCEPTED.",

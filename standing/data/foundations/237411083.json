@@ -48,6 +48,872 @@
     "singleton_cluster_share": 0.3133,
     "total_grant_records": 629
   },
+  "recipients_latest_year": [
+    {
+      "amount": 5000000.0,
+      "is_new": false,
+      "name": "CHARTER SCHOOL GROWTH FUND",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000000.0,
+      "is_new": false,
+      "name": "EQUITABLE FACILITIES FUND",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 4150000.0,
+      "is_new": false,
+      "name": "AMERICAN ENTERPRISE INSTITUTE",
+      "purpose": "RESTRICTED - $4,000,000 YUVAL LEVIN, BEN & JENNA STOREY, AND OTHER WORK. UNRESTRICTED - $150,000"
+    },
+    {
+      "amount": 2000000.0,
+      "is_new": false,
+      "name": "ROCKEFELLER UNIVERSITY",
+      "purpose": "RESTRICTED - $2,000,000 CAPITAL CAMPAIGN"
+    },
+    {
+      "amount": 2000000.0,
+      "is_new": false,
+      "name": "VELA EDUCATION FUND",
+      "purpose": "RESTRICTED - $2,000,000 GRANT RECIPIENTS WHO FOCUS ON CORE LEARNING, STEM, CAREER & TECHNICAL EDUCATION, AND ECONOMICS & ENTREPRENEURSHIP"
+    },
+    {
+      "amount": 2000000.0,
+      "is_new": false,
+      "name": "KHAN ACADEMY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 1250000.0,
+      "is_new": false,
+      "name": "SUCCESS ACADEMY",
+      "purpose": "RESTRICTED - $1,250,000 MOONSHOT CAMPAIGN EXCLUDING BRICK AND MORTAR"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "FOUNDATION FOR INDIVIDUAL RIGHTS IN EDUCATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "BRADLEY IMPACT FUND",
+      "purpose": "RESTRICTED - $1,000,000 PHILANTHROPY ROUNDTABLE HIGHER ED IMPACT FUND"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "SILICON SCHOOLS FUND",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "UATX",
+      "purpose": "RESTRICTED - $1,000,000 SCHOLARSHIP FUND"
+    },
+    {
+      "amount": 750000.0,
+      "is_new": false,
+      "name": "BILL OF RIGHTS INSTITUTE",
+      "purpose": "RESTRICTED - $750,000 UNRESTRICTED, A250, BRI JR."
+    },
+    {
+      "amount": 750000.0,
+      "is_new": false,
+      "name": "NEW VENTURE FUND",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 700000.0,
+      "is_new": false,
+      "name": "STATE POLICY NETWORK",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 600000.0,
+      "is_new": false,
+      "name": "AMERICAN FEDERATION FOR CHILDREN",
+      "purpose": "RESTRICTED - $100,000 EDUCATION CAMPAIGN FOR FEDERAL TAX CREDIT. UNRESTRICTED - $500,000"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "3DE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "DREXEL FUND",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "GREAT HEARTS ACADEMIES",
+      "purpose": "RESTRICTED - $500,000 FOR ACADEMICALLY AT-RISK STUDENTS"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "PALMETTO PROMISE INSTITUTE",
+      "purpose": "RESTRICTED - $500,000 SC EMERGENCY SCHOLARSHIPS FOR LOW-INCOME STUDENTS"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "ATLAS NETWORK",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "FRICK COLLECTION",
+      "purpose": "RESTRICTED - $400,000 FRICK CAMPAIGN"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "AMERICAN EXCHANGE PROJECT",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "LIBERTAS INSTITUTE",
+      "purpose": "RESTRICTED - $400,000 CHILDREN'S ENTREPRENEUR MARKETS AND ESA IMPLEMENTATION"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "PHILANTHROPY ROUNDTABLE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "VMTS EDUCATION INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "NATIONAL CONSTITUTION CENTER",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 310000.0,
+      "is_new": false,
+      "name": "INSTITUTE FOR RESPONSIBLE CITIZENSHIP",
+      "purpose": "RESTRICTED - $60,000 SCHOLARS' SUMMER STIPENDS"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "NEW YORK HISTORICAL SOCIETY",
+      "purpose": "RESTRICTED - $300,000 NEW WING PROJECT"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "COMMONWEALTH FOUNDATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "GEORGIA CENTER FOR OPPORTUNITY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF FLORIDA FOUNDATION",
+      "purpose": "RESTRICCTED - $300,000 HAMILTON CENTER"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": true,
+      "name": "ON YOUR MARK EDUCATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "CHILDREN'S SCHOLARSHIP FUND",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "EL EDUCATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "MANHATTAN INSTITUE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "WEILL CORNELL MEDICAL COLLEGE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "YOUNG PEOPLE'S CHORUS",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "BUCKEYE INSTITUTE",
+      "purpose": "RESTRICTED - $250,000 GENERAL OPPS AND PARTNERSHIP WITH SPN'S CENTER FOR PRATICAL FEDERALISM"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "EMERGENT ORDER FOUNDATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "VERTEX PARTNERSHIP ACADEMIES",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "WILSON SHEEHAN LAB FOR ECONOMIC OPPORTUNITIES",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "FRANKLIN NEWS FOUNDATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "HETERODOX ACADEMY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "STUDENT SPONSOR PARTNERS",
+      "purpose": "RESTRICTED - $250,000 50 CURRY SCHOLARS"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "ECONOMIC POLICY INNOVATION CENTER",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "EXCELLNED",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "GEO ACADEMIES INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "BLACK PASTORS UNITED FOR EDUCATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "NATIONAL SUMMER SCHOOL INITIATIVE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "US CHAMBER OF COMMERCE FOUNDATION",
+      "purpose": "RESTRICTED - $250,000 CIVICS BEE"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "ALEXANDER HAMILTON SOCIETY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "INSTITUTE FOR JUSTICE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "LET GROW",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "FEDERALIST SOCIETY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "ADOPTION SHARE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "CATO INSTITUTE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "CHANGE SUMMER",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "CHILDREN'S SCHOLARSHIP FUND PHILADELPHIA",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "INSTITUTE FOR REFORMING GOVERNMENT",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "JOHN LOCKE FOUNDATION",
+      "purpose": "RESTRICTED - $200,000 ADVANCING EDUCATION PATHWAYS, JLF POLICY SUMMIT, AND AGRICULTURAL WORKFORCE SOLUTIONS"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "NATIONAL ALLIANCE FOR PUBLIC CHARTER SCHOOLS",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "SETON EDUCATION PARTNERS",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "MOVING PICTURE INSTITUTE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "ARRAY EDUCATION INC",
+      "purpose": "RESTRICTION - $200,000"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "CLEMSON UNIVERSITY FOUNDATION (CISC)",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "EDUCATION REFORM NOW",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "MAKE IT MOVEMENT",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "SPARTANBURG ACADEMIC MOVEMENT",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "DEFENSE OF FREEDOM INSTITUTE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "COMPETITIVE ENTERPRISE INSTITUTE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "HUDSON INSTITUTE",
+      "purpose": "RESTRICTED - $100,000 POLITICAL STUDIES PROGRAM"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "YEAR UP",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "COMPSCI HIGH",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "GOLDWATER INSTITUTE",
+      "purpose": "RESTRICTED - $150,000 AZ'S ESA EFFORTS"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "INSTITUTE FOR FAMILY STUDIES",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "MACKINAC CENTER",
+      "purpose": "RESTRICTED - $150,000 COMMUNITY ENGAGEMENT WORK"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "ILLINOIS POLICY INSTITUTE",
+      "purpose": "RESTRICTED - $150,000 CENTER FOR POVERTY SOLUTIONS"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "PELICAN INSTITUTE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "THE 74",
+      "purpose": "RESTRICTED - $150,000 FOUNDATION SKILLS RECOVERY PROJECT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "CALVIN COOLIDGE PRESIDENTIAL FOUNDATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "CENTER FOR THE RIGHTS OF ABUSED CHILDREN",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "CRISTO REY NY HIGH SCHOOL",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "COOPER HEWITT UNION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "NATIONAL REVIEW INSTITUTE",
+      "purpose": "RESTRICTED - $100,000 BURKE TO BUCKLEY PROGRAM"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "NEW YORK HALL OF SCIENCE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ZETA CHARTER SCHOOLS",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BEACON CENTER",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BETTER TOGETHER",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CARDINAL INSTITUTE",
+      "purpose": "RESTRICTED - $100,000 DIGNITY PROJECT AND HOPE SCHOLARSHIP IMPLEMENTATION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CRISTO REY PHILADELPHIA HIGH SCHOOL",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "NPOWER INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ONE AMERICA MOVEMENT",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "PACIFIC LEGAL FOUNDATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "PARTNERSHIP SCHOOLS",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ED CHOICE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "EMPOWER MISSISSIPPI",
+      "purpose": "RESTRICTED - $100,000 EMBARK AND GENERAL OPPS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "GENESYS WORKS",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "INVEST IN EDUCATION FOUNDATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "PROPEL AMERICA",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "THE FUND FOR AMERICAN STUDIES",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "UNCOMMON CONSTRUCTION",
+      "purpose": "RESTRICTED - $100,000 FOR THEIR EXPANSION EFFORTS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BLUE RIDGE CENTER",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "FIRING LINE WNET",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "FOUNDATION FOR AMERICAN INNOVATION INC",
+      "purpose": "RESTRICTED - $100,000 SCHOOLAHOOP"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "APPLETREE INSTITUTE FOR EDUCATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "IRA SOHN CONFERENCE FOUNDATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "DONORS TRUST INC",
+      "purpose": "RESTRICTED - $75,000 ALLIANCE FOR OPPORTUNITY"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "EMERGE FELLOWSHIP",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "FOUNDATION FOR ECONOMIC EDUCATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "NETWORK FOR TEACHING ENTREPRENEURSHIP",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "CALVIN COOLIDGE PRESIDENTIAL FUND",
+      "purpose": "RESTRICTED - $75,000 SHOLARSHIPS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "BIRCH WATHEN LENOX SCHOOL",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "LOVE YOUR SCHOOL",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "FURMAN FREE SPEECH ALLIANCE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "COUNCIL OF FOREIGN RELATIONS",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "INSTITUTE FOR HUMANE STUDIES",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ARCHBRIDGE INSTUTUTE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "GEORGIA PUBLIC POLICY FOUNDATION",
+      "purpose": "RESTRICTED - $50,000 HOUSING POLICY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "GREATSCHOOLS INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SUTHERLAND INSTITUTE",
+      "purpose": "RESTRICTED - $50,000 ALLIANCE FOR OPPORTUNITY WORK"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "YANKEE INSTITUTE",
+      "purpose": "RESTRICTED - $50,000 EDUCATIONAL CAMPAIGN ON OPPORTUNITY SCHOLARSHIPS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "CITY TUTOR DC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "STEP UP TUTORING",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 32421.0,
+      "is_new": false,
+      "name": "ALBERGUE FOUNDATION",
+      "purpose": "RESTRICTED - $4,421 DR CLIMBING PROJECT. RESTRICTED - $28,000 DR SUMMER CLIMBING PROJECT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "FROST VALLEY YMCA",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "GREENWOOD GENETIC CENTER FOUNDATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "FORDHAM INSTITUTE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "TALENT MARKET",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "THE READING LEAGUE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "ALABAMA POLICY INSTITUTE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "FRONTIER INSTITUTE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "LIBERTY STEAM CHARTER SCHOOL",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "OPEN TO DEBATE FOUNDATIONINTELLIGENCE SQUARED US",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "THE CITY REPORT",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "JOE MARTIN ALS FOUNDATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "REASON FOUNDATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "BARD HIGH SCHOOL EARLY COLLEGE",
+      "purpose": "RESTRICTED - $10,000 FOR BARD QUEENS CAMPUS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "EMPIRE CENTER",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "COMMON GOOD",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "FAMILY PROMISE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "FOUNDATION FOR FIGHTING BLINDNESS",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF VIRGINIA DARDEN SCHOOL ANNUAL FUND",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "CHALKBEATCIVIC NEWS COMPANY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "NEW CRITERION",
+      "purpose": "UNRESTRICTED"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

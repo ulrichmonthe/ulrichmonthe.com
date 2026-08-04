@@ -50,6 +50,14 @@
     "singleton_cluster_share": 0.0,
     "total_grant_records": 5
   },
+  "recipients_latest_year": [
+    {
+      "amount": 30767549.0,
+      "is_new": false,
+      "name": "SCHEDULE AVAILABLE UPON REQUEST",
+      "purpose": "SCHEDULE AVAILABLE UPON REQUEST"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "SEE WWW.CHNFOUNDATION.ORG",

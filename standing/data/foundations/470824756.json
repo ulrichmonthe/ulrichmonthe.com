@@ -35,6 +35,7 @@
     "singleton_cluster_share": 0.0,
     "total_grant_records": 5
   },
+  "recipients_latest_year": [],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

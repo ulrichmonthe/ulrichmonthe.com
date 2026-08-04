@@ -48,6 +48,1286 @@
     "singleton_cluster_share": 0.4087,
     "total_grant_records": 951
   },
+  "recipients_latest_year": [
+    {
+      "amount": 8726786.0,
+      "is_new": false,
+      "name": "NEW YORK UNIVERSITY",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 3275000.0,
+      "is_new": false,
+      "name": "GRADUATE CENTER - CITY UNIVERSITY OF NEW YORK",
+      "purpose": "ENDOWMENT SUPPORT"
+    },
+    {
+      "amount": 2818101.0,
+      "is_new": false,
+      "name": "NEW YORK ACADEMY OF SCIENCES",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 2050000.0,
+      "is_new": false,
+      "name": "PROSPECT PARK ALLIANCE",
+      "purpose": "ENDOWMENT SUPPORT"
+    },
+    {
+      "amount": 1555000.0,
+      "is_new": false,
+      "name": "CITY COLLEGE NEW YORK THE",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 1440000.0,
+      "is_new": false,
+      "name": "NEW YORK PUBLIC LIBRARY",
+      "purpose": "ENDOWMENT SUPPORT"
+    },
+    {
+      "amount": 1035000.0,
+      "is_new": false,
+      "name": "METROPOLITAN MUSEUM OF ART",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 1035000.0,
+      "is_new": true,
+      "name": "BARD GRADUATE CENTER",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 1007169.0,
+      "is_new": false,
+      "name": "WHITE LEVY PROGRAM FOR ARCHAEOLOGICAL PUBLICATIONS",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "FRIENDS OF THE ISRAEL ANTIQUITIES AUTHORITY",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 900000.0,
+      "is_new": false,
+      "name": "SMITHSONIAN NATIONAL MUSEUM OF ASIAN ART",
+      "purpose": "ENDOWMENT SUPPORT"
+    },
+    {
+      "amount": 648814.0,
+      "is_new": true,
+      "name": "BNT FUND",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 636156.0,
+      "is_new": false,
+      "name": "COMMITTEE TO PROTECT JOURNALISTS",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 625000.0,
+      "is_new": false,
+      "name": "IMMIGRANT JUSTICE CORPS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 600000.0,
+      "is_new": false,
+      "name": "NEW YORK PUBLIC RADIO",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 525000.0,
+      "is_new": false,
+      "name": "PUBLIC THEATER THE",
+      "purpose": "ENDOWMENT SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "BRENNAN CENTER FOR JUSTICE",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "MOUNT SINAI",
+      "purpose": "ENDOWMENT SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "ANNE FRANK HOUSE",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 413400.0,
+      "is_new": false,
+      "name": "NATIONAL SEPTEMBER 11 MEMORIAL & MUSEUM",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "ISRAEL NATURE AND HERITAGE FOUNDATION OF AMERICA",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 375000.0,
+      "is_new": false,
+      "name": "NEW YORK BOTANICAL GARDEN THE",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 325000.0,
+      "is_new": false,
+      "name": "LINCOLN CENTER FOR THE PERFORMING ARTS",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 285000.0,
+      "is_new": false,
+      "name": "JEWISH MUSEUM THE",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "NATURAL AREAS CONSERVANCY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "VANGUARD CHARITABLE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": false,
+      "name": "AMERICAN ARCHAEOLOGY ABROAD",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 214914.0,
+      "is_new": false,
+      "name": "NEW YORK PHILHARMONIC",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 210000.0,
+      "is_new": false,
+      "name": "BROOKLYN ACADEMY OF MUSIC",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "CITY THE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "ALIPH FOUNDATION",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 180000.0,
+      "is_new": true,
+      "name": "SHAHARIT",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 165000.0,
+      "is_new": false,
+      "name": "LOD ECONOMIC COMPANY",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 164333.0,
+      "is_new": true,
+      "name": "PUBLIC HOUSING COMMUNITY FUND",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 162500.0,
+      "is_new": false,
+      "name": "HARVARD MUSEUM OF THE ANCIENT NEAR EAST",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "CENTER FOR REPRODUCTIVE RIGHTS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "CITY PARKS FOUNDATION",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 139800.0,
+      "is_new": false,
+      "name": "KATHMANDU VALLEY PRESERVATION TRUST",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 130000.0,
+      "is_new": false,
+      "name": "BURLE MARX INSTITUTE",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "ACADEMIC ENGAGEMENT NETWORK",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "METROPOLITAN OPERA THE",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 122430.0,
+      "is_new": true,
+      "name": "BOTANIC GARDENS CONSERVATION INTERNATIONAL",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 115000.0,
+      "is_new": false,
+      "name": "AMERICAN FRIENDS OF LIBI",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "AMERICAN BIRD CONSERVANCY",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 103000.0,
+      "is_new": false,
+      "name": "MUSEUM OF THE CITY OF NEW YORK",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ARTNEW YORK",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "NEW YORK FOUNDATION FOR THE ARTS",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "SCIENCE PHILANTHROPY ALLIANCE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "WORKS & PROCESS INC",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "AURORA HUMANITARIAN INITIATIVE FOUNDATION INC",
+      "purpose": "ENDOWMENT SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "INDIESPACE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "PETRUS FUND OF YONKERS",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "NYC BIRD ALLIANCE",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "STATUE OF LIBERTY - ELLIS ISLAND FOUNDATION THE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "UJA-FEDERATION OF NEW YORK",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 96000.0,
+      "is_new": true,
+      "name": "PEN AMERICA",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 85640.0,
+      "is_new": false,
+      "name": "AMERICAN FRIENDS OF THE ISRAEL MUSEUM",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "ROCKEFELLER ARCHIVE CENTER",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 60000.0,
+      "is_new": true,
+      "name": "CENTER FOR PROFESSIONAL EDUCATION OF TEACHERS",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 56750.0,
+      "is_new": true,
+      "name": "COLLEGE OF THE ATLANTIC",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 55016.0,
+      "is_new": false,
+      "name": "MEHRANGARH MUSEUM TRUST",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "QUEENS PUBLIC LIBRARY",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 51000.0,
+      "is_new": false,
+      "name": "INSTITUTE OF FINE ARTS",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BROOKLYN BOTANIC GARDEN",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BROOKLYN MUSEUM",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BROOKLYN PUBLIC LIBRARY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CENTER FOR CURATORIAL LEADERSHIP",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MAINE HISTORICAL SOCIETY",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "NYU LANGONE HEALTH",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "PLANNED PARENTHOOD OF NEW YORK CITY INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ROUNDABOUT THEATRE COMPANY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "NYAAF",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "WOMEN'S FILM PRESERVATION FUND",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "JOHNS HOPKINS MEDICINE",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "HOLD ON TO YOUR MUSIC",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "LAW VS ANTISEMITISM PROJECT INC",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "NEW SCHOOL THE",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "REAGAN LIBRARY AND MUSEUM",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 44433.0,
+      "is_new": false,
+      "name": "AMERICANS FOR OXFORD INC",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "LAGUARDIA COMMUNITY COLLEGE",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "NEW YORK CITY BALLET",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 33000.0,
+      "is_new": false,
+      "name": "PHILANTHROPY NEW YORK",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "AMERICAN FRIENDS OF TEL AVIV UNIVERSITY",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "92ND STREET Y",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CENTER FOR JEWISH HISTORY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "INTERNATIONAL RESCUE COMMITTEE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "MANHATTAN THEATRE CLUB",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "MOUNT HOLYOKE COLLEGE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NEW 42ND STREET",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NEW YORK CITY CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NEW YORK THEATRE WORKSHOP",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PACKER COLLEGIATE INSTITUTE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PROPUBLICA",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "WRITERS ROOM THE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ATLANTIC THEATER COMPANY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BASIL TWIST'S TANDEM OTTER PRODUCTIONS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "IRISH REPERTORY THEATRE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SECOND STAGE THEATRE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SIGNATURE THEATRE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ST ANN'S WAREHOUSE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "THE CIVILIANS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "HILLEL INTERNATIONAL",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NATURE CONSERVANCY THE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "BRILAND AID",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "JAPAN SOCIETY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "MADISON SQUARE PARK CONSERVANCY",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "OPEN TO DEBATE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "SELBY GARDENS",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "TOWN OF LEWISBORO",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 18877.0,
+      "is_new": false,
+      "name": "LEWISBORO LAND TRUST",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "GARDEN CONSERVANCY THE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "AUTHORS GUILD FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "A BETTER BALANCE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "AMERICAN BALLET THEATRE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "AMERICAN MUSEUM OF NATURAL HISTORY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CAPE ELEUTHERA FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CARNEGIE HALL",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CHAMBER MUSIC SOCIETY OF LINCOLN CENTER THE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CYCLADIC ART FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "FILM SOCIETY OF LINCOLN CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "FOOTSTEPS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "FRICK COLLECTION THE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "FRIENDS OF ACADIA",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "HERE ARTS CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "LINCOLN CENTER THEATER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "MORGAN LIBRARY THE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "MUSEUM OF MODERN ART THE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ORPHEUS CHAMBER ORCHESTRA",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "PARK AVENUE ARMORY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "PING CHONG AND COMPANY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "PJ LIBRARY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "POETS HOUSE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "WAVE HILL INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "WHITNEY MUSEUM OF ART",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "WILDLIFE CONSERVATION SOCIETY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "YAFFED",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "YOUNG CONCERTS ARTISTS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ENTERTAINMENT COMMUNITY FUND",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "TENEMENT MUSEUM",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "BEDFORD PLAYHOUSE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "EN GARDE ARTS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "NEW YORK LANDMARKS CONSERVANCY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "SAG HARBOR SONG FESTIVAL",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "HISPANIC SOCIETY OF AMERICA THE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "AMERICAN SYMPHONY ORCHESTRA",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "NMAJH",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "NYC PARKS",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "ONEVOICE MOVEMENT",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "SHTETL",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "THE LAWYERING PROJECT",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 7000.0,
+      "is_new": true,
+      "name": "FORT TRYON PARK TRUST",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "ARCHAEOLOGICAL INSTITUTE OF AMERICA",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "ARCHIPELAGO BOOKS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "ARCHIVES OF AMERICAN ART SMITHSONIAN INSTITUTION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "ASIA SOCIETY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "ASSOCIATION OF ART MUSEUM CURATORS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "AUDUBON NEW YORK STATE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "BAHAMAS HOPE FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "CANDID",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "CENTRAL PARK CONSERVANCY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "CORNELL LABORATORY OF ORNITHOLOGY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "INTERNATIONAL FOUNDATION FOR ART RESEARCH",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "NATIONAL GALLERY OF ART THE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "NEUE GALERIE MUSEUM FOR GERMAN & AUSTRIAN ART",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "NEW YORKERS FOR PARKS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "ONE ELEUTHERA FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "SAFE HORIZON",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "SOCRATES SCULPTURE PARK",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "STORM KING ART CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "THIRTEEN",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "TRUST FOR PUBLIC LAND THE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "UNTERMYER GARDENS CONSERVANCY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "WIKIMEDIA FOUNDATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "YESHIVA UNIVERSITY MUSEUM",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "AMERICAN FRIENDS OF THE SHANGHAI MUSEUM",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "AMERICAN FRIENDS OF THE LOUVRE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "CULTURE FOR ONE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "COASTAL MAINE BOTANICAL GARDENS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "HENRY STREET SETTLEMENT",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "EDUCATORS FOR ELEUTHERA",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "FOUNDATION FINANCIAL OFFICERS GROUP INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "GOVERNORS ISLAND ALLIANCE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "HATZALAH MIDTOWN",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "LIVE TO TELL",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "NEW YORK HISTORICAL",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 4790.0,
+      "is_new": false,
+      "name": "NEW YORK PRESERVATION ARCHIVE PROJECT",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "GLOBAL FUND FOR WOMEN",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "LEUKEMIA & LYMPHOMA SOCIETY THE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "FRIENDS OF PS-IS 187",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "PLAYERS PRESERVATION FUND",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1560.0,
+      "is_new": true,
+      "name": "NNAF",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1067.0,
+      "is_new": false,
+      "name": "TEMENOS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "APPALACHIAN MOUNTAIN CLUB",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "AMERICAN HEART ASSOCIATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "BIDEAWEE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "THE TREVOR PROJECT",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "GIVEDIRECTLY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "CARE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "GHI UGANDA",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "LAMDA LEGAL",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "SAGE USA",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 750.0,
+      "is_new": false,
+      "name": "RAINFOREST TRUST",
+      "purpose": "PROJECT SUPPORT."
+    },
+    {
+      "amount": 750.0,
+      "is_new": true,
+      "name": "GRASSROOTS LEADERSHIP",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "OHIO STATE UNIVERSITY FOUNDATION THE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "THE ANDREW MCDONOUGH B FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "WALTER REED SOCIETY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "ALSACST JUDE CHILDREN'S HOSPITAL",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "MILLENNIUM FILM WORKSHOP",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "NEIGHBORS LINK",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "SANCTUARY FOR FAMILIES",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "WFUV",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 250.0,
+      "is_new": false,
+      "name": "UPTOWN STORIES",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 40.0,
+      "is_new": true,
+      "name": "CARAMOOR CENTER FOR MUSIC AND THE ARTS INC THE",
+      "purpose": "GENERAL SUPPORT"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

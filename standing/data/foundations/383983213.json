@@ -48,6 +48,3002 @@
     "singleton_cluster_share": 0.6579,
     "total_grant_records": 2324
   },
+  "recipients_latest_year": [
+    {
+      "amount": 20016000.0,
+      "is_new": false,
+      "name": "CHILDREN'S HEALTHCARE OF ATLANTA",
+      "purpose": "ARTHUR M. BLANK HOSPITAL"
+    },
+    {
+      "amount": 10000000.0,
+      "is_new": true,
+      "name": "UNITED STATES SOCCER FEDERATION INC",
+      "purpose": "ARTHUR M. BLANK U.S. SOCCER NATIONAL TRAINING"
+    },
+    {
+      "amount": 8034000.0,
+      "is_new": false,
+      "name": "SHEPHERD CENTER FOUNDATION INC",
+      "purpose": "FAMILY HOUSING TOWER"
+    },
+    {
+      "amount": 7000000.0,
+      "is_new": true,
+      "name": "THE ADVERTISING COUNCIL INC",
+      "purpose": "CHANGING THE NARRATIVE AROUND YOUTH MENTAL HEALTH"
+    },
+    {
+      "amount": 6708180.0,
+      "is_new": true,
+      "name": "BLUE MERIDIAN PARTNERS INC",
+      "purpose": "STRATEGY DEVELOPMENT"
+    },
+    {
+      "amount": 5902365.0,
+      "is_new": false,
+      "name": "LOCAL INITIATIVES SUPPORT CORPORATION",
+      "purpose": "GA100 FIELD PROGRAM FUND"
+    },
+    {
+      "amount": 5055100.0,
+      "is_new": false,
+      "name": "BABSON COLLEGE",
+      "purpose": "DOCUMENTARY FILM ACTIVATION"
+    },
+    {
+      "amount": 5011700.0,
+      "is_new": false,
+      "name": "GLOBAL IMPACT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000000.0,
+      "is_new": false,
+      "name": "4 RANGES COMMUNITY RECREATION FOUNDATION",
+      "purpose": "WELLNESS CENTER CAPITAL CAMPAIGN"
+    },
+    {
+      "amount": 5000000.0,
+      "is_new": false,
+      "name": "APF SUPPORT INC",
+      "purpose": "PUBLIC SAFETY TRAINING CENTER"
+    },
+    {
+      "amount": 4435000.0,
+      "is_new": false,
+      "name": "ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI",
+      "purpose": "MOBILE PROSTATE CANCER SCREENING UNIT"
+    },
+    {
+      "amount": 4000000.0,
+      "is_new": true,
+      "name": "NATIONAL CENTER FOR CIVIL AND HUMANRIGHTS INC",
+      "purpose": "VISION EXPANSION CAPITAL CAMPAIGN"
+    },
+    {
+      "amount": 4000000.0,
+      "is_new": true,
+      "name": "THE HENRY W GRADY HEALTH SYSTEM FOUNDATION INC",
+      "purpose": "THE POWER OF GRADY CAMPAIGN TO EMPOWER A"
+    },
+    {
+      "amount": 3400000.0,
+      "is_new": true,
+      "name": "OUTWARD BOUND INC",
+      "purpose": "ADVANCING EQUITY IN OUTDOOR EDUCATION"
+    },
+    {
+      "amount": 3000000.0,
+      "is_new": false,
+      "name": "UNITED STATES ENERGY FOUNDATION",
+      "purpose": "CLEAN ENERGY DEPLOYMENT IN THE SOUTHEAST AND"
+    },
+    {
+      "amount": 2798000.0,
+      "is_new": false,
+      "name": "MULTIPLIER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2750000.0,
+      "is_new": false,
+      "name": "WORLD CENTRAL KITCHEN INCORPORATED",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2600000.0,
+      "is_new": false,
+      "name": "THE COOPER INSTITUTE",
+      "purpose": "PRESERVE THE COOPER INSTITUTE MISSION AND LEGACY"
+    },
+    {
+      "amount": 2542307.0,
+      "is_new": false,
+      "name": "PGA TOUR FIRST TEE FOUNDATION INC",
+      "purpose": "FIRST TEE SCHOLARSHIP PROGRAM"
+    },
+    {
+      "amount": 2500000.0,
+      "is_new": false,
+      "name": "THE ATLANTA OPERA INC",
+      "purpose": "50TH ANNIVERSARY COMPREHENSIVE CAMPAIGN"
+    },
+    {
+      "amount": 2500000.0,
+      "is_new": false,
+      "name": "THE TRUST FOR PUBLIC LAND",
+      "purpose": "CONNECTING COMMUNITIES TO THEIR RIVER-A LEGACY"
+    },
+    {
+      "amount": 2357500.0,
+      "is_new": false,
+      "name": "WESTSIDE FUTURE FUND",
+      "purpose": "?OUR NEXT CHAPTER? 2023-2028 CAPITAL CAMPAIGN"
+    },
+    {
+      "amount": 2130000.0,
+      "is_new": false,
+      "name": "EMORY UNIVERSITY SCHOOL OF MEDICINE",
+      "purpose": "ENHANCING THE LIVES OF GEORGIA YOUTH THROUGH"
+    },
+    {
+      "amount": 2075000.0,
+      "is_new": true,
+      "name": "CONTINA IMPACT",
+      "purpose": "DEMOCRACY COMMUNICATIONS COLLABORATIVE"
+    },
+    {
+      "amount": 2010000.0,
+      "is_new": false,
+      "name": "SPELMAN COLLEGE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2000000.0,
+      "is_new": true,
+      "name": "HERMAN J RUSSELL CENTER FOR INNOVATION & ENTRP",
+      "purpose": "BEYOND INNOVATION CAMPAIGN & SCHOLARSHIPS"
+    },
+    {
+      "amount": 2000000.0,
+      "is_new": false,
+      "name": "THE UNIVERSITY OF TEXAS AT AUSTIN",
+      "purpose": "ARTHUR M. BLANK CENTER FOR STUTTERING EDUCATION"
+    },
+    {
+      "amount": 2000000.0,
+      "is_new": true,
+      "name": "WESTERN RESOURCE ADVOCATES",
+      "purpose": "WESTERN REGIONAL MARKET FORMATION"
+    },
+    {
+      "amount": 2000000.0,
+      "is_new": true,
+      "name": "YOUNG WOMEN CHRISTIAN ASSOCIATION OF GR ATLANTA",
+      "purpose": "REVITALIZATION OF THE PHILLIS WHEATLEY WESTSIDE"
+    },
+    {
+      "amount": 1750000.0,
+      "is_new": false,
+      "name": "FUGEES FAMILY INC",
+      "purpose": "CAPITAL CAMPAIGN"
+    },
+    {
+      "amount": 1720000.0,
+      "is_new": false,
+      "name": "JEWISH COMMUNITY FOUNDATION OF GREATER PHOENIX",
+      "purpose": "DONAR ADVISED FUND"
+    },
+    {
+      "amount": 1600000.0,
+      "is_new": true,
+      "name": "THE AVALON NETWORK INC",
+      "purpose": "PATHH PROGRAMMING AND AVALON OPERATIONS"
+    },
+    {
+      "amount": 1500000.0,
+      "is_new": true,
+      "name": "ALLIANCE FOR TRIBAL CLEAN ENERGY INC",
+      "purpose": "WESTERN TRIBAL CLEAN ENERGY"
+    },
+    {
+      "amount": 1500000.0,
+      "is_new": true,
+      "name": "FAIRVOTE",
+      "purpose": "SOCIALIZING REFORM TO BROADER AUDIENCES"
+    },
+    {
+      "amount": 1450000.0,
+      "is_new": false,
+      "name": "EMORY UNIVERSITY",
+      "purpose": "MOBILE PROSTATE CANCER SCREENING UNIT"
+    },
+    {
+      "amount": 1400000.0,
+      "is_new": false,
+      "name": "NATIONAL JEWISH HEALTH",
+      "purpose": "PEDIATRIC DAY PROGRAM AND PEDIATRIC CHARITY CARE"
+    },
+    {
+      "amount": 1300000.0,
+      "is_new": false,
+      "name": "GREATER ATLANTA CHAMBER FOUNDATION",
+      "purpose": "GEORGIA SKILLS & WORKFORCE DEVELOPMENT"
+    },
+    {
+      "amount": 1250000.0,
+      "is_new": true,
+      "name": "WINDWARD FUND",
+      "purpose": "POWERING COMMUNITIES"
+    },
+    {
+      "amount": 1200000.0,
+      "is_new": true,
+      "name": "THE NATURE CONSERVANCY IN MONTANA",
+      "purpose": "TNC-MONTANA GRASSLAND RESILIENCE PROGRAM"
+    },
+    {
+      "amount": 1172000.0,
+      "is_new": true,
+      "name": "WORLD RESOURCES INSTITUTE",
+      "purpose": "LEVERAGING COMPETITION IN NON-RTO REGIONS"
+    },
+    {
+      "amount": 1100000.0,
+      "is_new": false,
+      "name": "CAREERRISE INC",
+      "purpose": "WESTSIDE WORKS"
+    },
+    {
+      "amount": 1100000.0,
+      "is_new": false,
+      "name": "GEORGIA RESILIENCE AND OPPORTUNITY FUND INC",
+      "purpose": "IN HER HANDS INITIATIVE"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "ATLANTA-FULTON COUNTY ZOO INC",
+      "purpose": "CARE, CONNECT, CONSERVE CAMPAIGN"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "CATHOLIC RELIEF SERVICES",
+      "purpose": "EMPOWER - CARIBBEAN"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "PROTECT DEMOCRACY PROJECT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "UNITE AMERICA INSTITUTE INC",
+      "purpose": "GOOD GOVERNANCE"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "DELTA AIR TRANSPORT HERITAGE MUSEUM INC",
+      "purpose": "DELTA FLIGHT MUSEUM CAPITAL CAMPAIGN"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "NATIONAL PHILANTHROPIC TRUST",
+      "purpose": "\"\"SEE NO STRANGER, SEE NO ENEMY\"\" ACCELERATOR FUND"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "NOBIS WORKS INC",
+      "purpose": "CAPITAL CAMPAIGN"
+    },
+    {
+      "amount": 950000.0,
+      "is_new": false,
+      "name": "BOYS & GIRLS CLUBS OF METRO ATLANTA INC",
+      "purpose": "RISING TOGETHER CAMPAIGN"
+    },
+    {
+      "amount": 925000.0,
+      "is_new": false,
+      "name": "WORLD WILDLIFE FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 850000.0,
+      "is_new": false,
+      "name": "COMMUNITY FOUNDATION FOR GREATER ATLANTA",
+      "purpose": "2025 BELOVED BENEFIT"
+    },
+    {
+      "amount": 850000.0,
+      "is_new": false,
+      "name": "SOUTHERN ENVIRONMENTAL LAW CENTER",
+      "purpose": "CLEAN ENERGY IN THE SOUTH"
+    },
+    {
+      "amount": 800000.0,
+      "is_new": true,
+      "name": "NEW VENTURE FUND",
+      "purpose": "GOOD GOVERNANCE"
+    },
+    {
+      "amount": 750000.0,
+      "is_new": false,
+      "name": "THE CARTER CENTER INC",
+      "purpose": "MENTAL HEALTH PARITY: AWARENESS AND EXPANSION IN"
+    },
+    {
+      "amount": 750000.0,
+      "is_new": false,
+      "name": "NAMI NATIONAL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 750000.0,
+      "is_new": true,
+      "name": "ATLANTA BRAVES FOUNDATION INC",
+      "purpose": "HANK AARON ACADEMY CAPITAL CAMPAIGN"
+    },
+    {
+      "amount": 730000.0,
+      "is_new": true,
+      "name": "DEFENDING DEMOCRACY TOGETHER INSTITUTE",
+      "purpose": "LEADERSHIP DEVELOPMENT"
+    },
+    {
+      "amount": 700000.0,
+      "is_new": true,
+      "name": "MONTANA OFFICE OF PUBLIC INSTRUCTION",
+      "purpose": "MONTANA HERITAGE CENTER ENHANCEMENTS"
+    },
+    {
+      "amount": 700000.0,
+      "is_new": true,
+      "name": "REGULATORY ASSISTANCE PROJECT",
+      "purpose": "WESTERN CLEAN ENERGY TRANSITION AND SOUTHEAST"
+    },
+    {
+      "amount": 700000.0,
+      "is_new": true,
+      "name": "RESETTING THE TABLE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 690000.0,
+      "is_new": true,
+      "name": "ENVIRONMENTAL DEFENSE FUND INCORPORATED",
+      "purpose": "ACCELERATING POWER SECTOR DECARBONIZATION ACROSS"
+    },
+    {
+      "amount": 680000.0,
+      "is_new": false,
+      "name": "JEWISH FEDERATION OF GREATER ATLANTA",
+      "purpose": "COMMUNITY RELATIONS CONSULTANT"
+    },
+    {
+      "amount": 625000.0,
+      "is_new": true,
+      "name": "THE BRIDGESPAN GROUP INC",
+      "purpose": "DEVELOPMENT OF THE HAR INITIATIVE"
+    },
+    {
+      "amount": 600000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF GEORGIA FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT FOR THE FONTAINE CENTER"
+    },
+    {
+      "amount": 570000.0,
+      "is_new": false,
+      "name": "MARCUS JEWISH COMMUNITY CENTER OF ATLANTA INC",
+      "purpose": "CAPITAL CAMPAIGN"
+    },
+    {
+      "amount": 550000.0,
+      "is_new": false,
+      "name": "MONTANA TECHNOLOGY ENTERPRISE CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 525000.0,
+      "is_new": false,
+      "name": "TEAM RUBICON",
+      "purpose": "RELIEF AND RECOVERY FOR HURRICANES HELENE &"
+    },
+    {
+      "amount": 510000.0,
+      "is_new": false,
+      "name": "MOUNTAIN SHADOW ASSOCIATION",
+      "purpose": "KAALA'S VILLAGE FAMILY HEALING CENTER"
+    },
+    {
+      "amount": 505000.0,
+      "is_new": false,
+      "name": "BIG BROTHERS BIG SISTERS OF METRO ATLANTA INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "JEWISH FAMILY & CAREER SERVICES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "HOPELAB FOUNDATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "STORYCORPS INC",
+      "purpose": "ONE SMALL STEP (OSS) IN GEORGIA AND OSS NATIONAL"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "CREATIVE VISIONS FOUNDATION",
+      "purpose": "THE LOUIE CHANNEL"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "MENTAL HEALTH AMERICA INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "UNITED STATES HOLOCAUST MEMORIAL MUSEUM",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "ARIZONA JEWISH HISTORICAL SOCIETY",
+      "purpose": "HOLOCAUST EDUCATION CENTER"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "ATLANTA TECHNICAL COLLEGE FOUNDATION INC",
+      "purpose": "WESTSIDE ATLANTA HIGH GROWTH INDUSTRY PATHWAY"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "CONVERGENT IMPACT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "FUENTE LATINA INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "GROUNDSWELL INC",
+      "purpose": "SUPPORT ENERGY EFFICIENCY PROGRAMS"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "NEW POLITICS LEADERSHIP ACADEMY INC",
+      "purpose": "ANSWERING THE CALL LEADERSHIP TRAINING PROGRAM"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "ZERO TO THREE - NATIONAL CENTER FOR INFANTS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 486000.0,
+      "is_new": true,
+      "name": "CITY OF ATLANTA DEPT OF LABOR & EMPLOYMENT SVCS",
+      "purpose": "WORKSOURCE ATLANTA"
+    },
+    {
+      "amount": 465000.0,
+      "is_new": true,
+      "name": "ROCKY MOUNTAIN INSTITUTE",
+      "purpose": "CLEAN ENERGY DEPLOYMENT"
+    },
+    {
+      "amount": 450000.0,
+      "is_new": true,
+      "name": "MILLENNIAL ACTION PROJECT DBA FUTURE CAUCUS",
+      "purpose": "STRENGTHENING THE FUTURE CAUCUS NETWORK"
+    },
+    {
+      "amount": 405228.0,
+      "is_new": false,
+      "name": "HEALTHMPOWERS",
+      "purpose": "ENGAGE GEORGIA MIDDLE SCHOOL GIRLS"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF MONTANA FOUNDATION",
+      "purpose": "AMPLIFYING VOICES"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": true,
+      "name": "CENTER FOR COUNTERING DIGITAL HATE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": true,
+      "name": "LEGACY GLOBAL PROGRAMS",
+      "purpose": "EXPANSION OF MINDFULNESS IN SCHOOLS"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": true,
+      "name": "SIXPOINT INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 380000.0,
+      "is_new": false,
+      "name": "MEDAL OF HONOR FOUNDATION",
+      "purpose": "CHARACTER DEVELOPMENT PROGRAM"
+    },
+    {
+      "amount": 360000.0,
+      "is_new": true,
+      "name": "NORTH CAROLINA CLEAN ENERGY FUND",
+      "purpose": "BRIDGE LOAN PROGRAM PRE-DEVELOPMENT"
+    },
+    {
+      "amount": 353044.0,
+      "is_new": true,
+      "name": "GOODWILL OF NORTH GEORGIA INC",
+      "purpose": "WORKFORCE READINESS TRAINING"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "INSEPARABLE INC",
+      "purpose": "CONVENING AND FACILITATION"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": true,
+      "name": "CLIMATE CABINET EDUCATION",
+      "purpose": "BUILDING STATE CLIMATE CHAMPIONS"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": true,
+      "name": "DUCKS UNLIMITED INC - NATIONAL OFFICE",
+      "purpose": "SCALING CLIMATE SMART RANCHING PRACTICES AND"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": true,
+      "name": "GRIDLAB INC",
+      "purpose": "SOUTHEASTERN PATHWAYS TO A CLEAN ENERGY FUTURE"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": true,
+      "name": "KABOOM ATLANTA",
+      "purpose": "GEORGIA PLAYSPACE DEVELOPMENT"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": true,
+      "name": "PIEDMONT PARK CONSERVANCY INC",
+      "purpose": "35TH ANNIVERSARY APPEAL"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": true,
+      "name": "THE SEATTLE FOUNDATION",
+      "purpose": "MATERNAL MENTAL HEALTH EQUITY FUND"
+    },
+    {
+      "amount": 345000.0,
+      "is_new": true,
+      "name": "ATLANTA PUBLIC SCHOOLS",
+      "purpose": "MIDDLE AND HIGH SCHOOL SOCCER PROGRAM"
+    },
+    {
+      "amount": 333000.0,
+      "is_new": true,
+      "name": "VANDERBILT UNIVERSITY",
+      "purpose": "GOOD GOVERNANCE"
+    },
+    {
+      "amount": 330000.0,
+      "is_new": true,
+      "name": "DUKE UNIVERSITY",
+      "purpose": "THE NICHOLAS INSTITUTE'S POWER SECTOR"
+    },
+    {
+      "amount": 325000.0,
+      "is_new": false,
+      "name": "CHRIS 180 INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 325000.0,
+      "is_new": false,
+      "name": "LEADERSHIP MONTANA INC",
+      "purpose": "BUILDING CROSS-PARTISAN BRIDGES IN MONTANA"
+    },
+    {
+      "amount": 325000.0,
+      "is_new": true,
+      "name": "FOUNDATION FOR SOCIAL CONNECTION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 320000.0,
+      "is_new": true,
+      "name": "LAWYERS FOR GOOD GOVERNMENT",
+      "purpose": "SUPPORT FOR FEDERAL CLIMATE FUNDING"
+    },
+    {
+      "amount": 315000.0,
+      "is_new": false,
+      "name": "MINDFUL PHILANTHROPY INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "MEALS ON WHEELS ATLANTA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "COUNCIL ON CRIMINAL JUSTICE",
+      "purpose": "VETERANS JUSTICE PROJECT"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "MONTANA FREE PRESS",
+      "purpose": "GOOD GOVERNANCE"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": true,
+      "name": "ADVANCED ENERGY INSTITUTE",
+      "purpose": "ENERGY SYSTEM PROJECT SUPPORT"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": true,
+      "name": "CHILD MIND INSTITUTE INC",
+      "purpose": "STRENGTHENING YOUTH MENTAL HEALTH PROGRAMS IN THE"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": true,
+      "name": "NATIVE AMERICAN DEVELOPMENT CORPORATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": true,
+      "name": "PARADISE VALLEY FIREFIGHTERS ASSOCIATION",
+      "purpose": "WATER TRUCK REPLACEMENT"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": true,
+      "name": "WESTERN ENERGY FREEDOM ASSOCIATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 292000.0,
+      "is_new": true,
+      "name": "GEORGIA SECRETARY OF STATE",
+      "purpose": "GOOD GOVERNANCE"
+    },
+    {
+      "amount": 275000.0,
+      "is_new": true,
+      "name": "GEORGIA MOUNTAIN FOOD BANK INC",
+      "purpose": "FEEDING KIDS"
+    },
+    {
+      "amount": 260000.0,
+      "is_new": true,
+      "name": "UNITED SERVICE ORGANIZATIONS INC",
+      "purpose": "NAVAL SUPPORT CAMPAIGN FOR U.S. AIRCRAFT CARRIERS"
+    },
+    {
+      "amount": 254000.0,
+      "is_new": true,
+      "name": "OPERATION WARM INC",
+      "purpose": "GIRLS FLAG FOOTBALL SPORTS BRAS"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "CARE USA",
+      "purpose": "HUMANITARIAN SURGE FUND"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "KATES CLUB INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "SOCCER IN THE STREETS INC",
+      "purpose": "MARTA STATION MINI-PITCHES"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "TEMPLE BETH TIKVAH",
+      "purpose": "FACILITY NEEDS, CAPACITY BUILDING AND PROGRAM"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "BLACK SPORTS BUSINESS SYMPOSIUM FOUNDATION",
+      "purpose": "2024 BLACK SPORTS BUSINESS SYMPOSIUM"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "MOMENTUM ADVISORY COLLECTIVE",
+      "purpose": "WORKFORCE DEVELOPMENT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "ONE MIND INSTITUTE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "THDF II INC",
+      "purpose": "EMERGENCY FINANCIAL ASSISTANCE"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "THE MOREHOUSE SCHOOL OF MEDICINE INC",
+      "purpose": "WESTSIDE HEALTH COLLABORATIVE"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "URBAN SUSTAINABILITY DIRECTORS NETWORK",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "MISSION EDGE SAN DIEGO",
+      "purpose": "MOSAIC PERSUASION SUPPORT FUND PROJECT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "TEMPLE CHAI",
+      "purpose": "MOVING FORWARD TOGETHER CAPITAL CAMPAIGN"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "WOMENS PUBLIC LEADERSHIP NETWORK",
+      "purpose": "EXPANDING PUBLIC SERVICE LEADERSHIP PIPELINES IN"
+    },
+    {
+      "amount": 230000.0,
+      "is_new": true,
+      "name": "THE CONSERVATION FUND",
+      "purpose": "NORTHERN GREAT PLAINS GRASSLAND CONSERVATION FUND"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": false,
+      "name": "MONTANA COMMUNITY FOUNDATION",
+      "purpose": "MONTANA FUNDERS POOLED FUND"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": false,
+      "name": "ATLANTA JEWISH FILM SOCIETY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": false,
+      "name": "CENTER FOR EFFECTIVE PHILANTHROPY INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": false,
+      "name": "PROJECT HEALTHY MINDS CORPORATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 220000.0,
+      "is_new": true,
+      "name": "PRICKLY PEAR LAND TRUST",
+      "purpose": "AVALANCHE CULTURAL CONSERVATION EASEMENT"
+    },
+    {
+      "amount": 214000.0,
+      "is_new": true,
+      "name": "MONTANA HIGHER EDUCATION STUDENT ASSISTANCE CORP",
+      "purpose": "MONTANA WORK BASED LEARNING COLLABORATIVE"
+    },
+    {
+      "amount": 210000.0,
+      "is_new": true,
+      "name": "GRIDWORKS",
+      "purpose": "PATHWAYS STAKEHOLDER ENGAGEMENT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "BOYS & GIRLS CLUB OF LANIER INC",
+      "purpose": "FALCONS FITNESS ZONE NUTRITIONAL AND FITNESS"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "FCS URBAN MINISTRIES INC",
+      "purpose": "CARVER MARKET AND YOUTH NUTRITION EDUCATION SERIES"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "NANA GRANTS INC",
+      "purpose": "SCHOLARSHIPS AND CAPACITY EXPANSION"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "MONTANA LAND RELIANCE",
+      "purpose": "CONSERVING GRASSLANDS IN MONTANA'S GREAT PLAINS"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "THE WILLIAM BREMAN JEWISH HERITAGE MUSEUM",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "YALE UNIVERSITY",
+      "purpose": "THE SCIENCE OF HAPPINESS"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "RESILIENT GEORGIA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "CATALYST FOR CHANGE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "THE RURAL BEHAVIORAL HEALTH INSTITUTE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "HAROLD GRINSPOON FOUNDATION",
+      "purpose": "PJ LIBRARY OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "BARROW COMMUNITY FOUNDATION",
+      "purpose": "BARROW COMMUNITY CRISIS FUND"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "BEYOND DIFFERENCES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "LUCY BURNS INSTITUTE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "POINTS OF LIGHT FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "THE GENERAL HOSPITAL CORPORATION",
+      "purpose": "TACKLE ALS"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "THE GLEASON INITIATIVE FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "TRAUMA FREE WORLD",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "BLACK GIRLS SMILE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "CHRONICLE OF PHILANTHROPY INC",
+      "purpose": "THE COMMONS: HELPING PHILANTHROPY BRIDGE DIVIDES"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": true,
+      "name": "URBAN HEALTH INITIATIVE",
+      "purpose": "HEALTH EQUITY AND WELL-BEING COLLECTIVE"
+    },
+    {
+      "amount": 170000.0,
+      "is_new": false,
+      "name": "PGA FOUNDATION",
+      "purpose": "PGA JUNIOR LEAGUE AND OPPORTUNITY LEAGUE"
+    },
+    {
+      "amount": 170000.0,
+      "is_new": true,
+      "name": "RANCHERS STEWARDSHIP ALLIANCE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 165000.0,
+      "is_new": false,
+      "name": "GOOD SPORTS",
+      "purpose": "EQUIPMENT DONATIONS"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": true,
+      "name": "HEALTHY MOTHERS HEALTHY BABIES COALITION GEORGIA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "COMMUNITY HEALTH PARTNERS INC",
+      "purpose": "PARENT SUPPORT FROM CONCEPTION TO GRADUATION"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "TED FOUNDATION INC",
+      "purpose": "TED Next Conference 2024"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "THE WARRIOR ALLIANCE INC",
+      "purpose": "VETERANS LEGAL SERVICES NETWORK AND OPERATION"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "HELP CENTER INC",
+      "purpose": "CAPITAL CAMPAIGN"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "THE STEPHEN C ROSE LEGACY FUND",
+      "purpose": "SCALE PROGRAMMING AND PEER NETWORK"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "SUNRISE DAY CAMPS ASSOCIATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "ARIZONA STATE UNIVERSITY HILLEL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "GOODNESS WEB FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "GRANTMAKERS IN HEALTH",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "JORDAN MCNAIR FOUNDATION INC",
+      "purpose": "HEAT-RELATED SPORTS SAFETY INTERVENTIONS"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "CHAPMAN UNIVERSITY",
+      "purpose": "THE OR INITIATIVE"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "DOLLYWOOD FOUNDATION",
+      "purpose": "IMAGINATION LIBRARY FOR THE MT PROGRAM"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "HEALTHY MOTHERS HEALTHY BABIES MONTANA COALITION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "HILLELS OF GEORGIA INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "MENTAL HEALTH LEADERSHIP INITIATIVE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "PIIKANI LODGE HEALTH INSTITUTE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "UPPER SEVEN LAW",
+      "purpose": "PLANNING FOR MONTANA CONSTITUTION ROAD SHOW"
+    },
+    {
+      "amount": 145000.0,
+      "is_new": false,
+      "name": "RCX SPORTS FOUNDATION",
+      "purpose": "FALCONS FLAG CHAMPIONSHIP"
+    },
+    {
+      "amount": 133000.0,
+      "is_new": true,
+      "name": "PLENTY DOORS COMMUNITY DEVELOPMENT CORPORATION",
+      "purpose": "LAYING THE FINANCIAL FOUNDATION FOR FUTURE"
+    },
+    {
+      "amount": 129000.0,
+      "is_new": false,
+      "name": "LATIN AMERICAN ASSOCIATION INC",
+      "purpose": "MENTORING THROUGH SOCCER"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "LEVELING THE PLAYING FIELD INC",
+      "purpose": "METRO ATLANTA EXPANSION"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "AMERICAN HEART ASSOCIATION INC",
+      "purpose": "STRATEGIC COLLABORATION TO ADDRESS CPR READINESS"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "PADI AWARE FOUNDATION",
+      "purpose": "COMMUNITY CONSERVATION GRANTS PROGRAMS"
+    },
+    {
+      "amount": 120000.0,
+      "is_new": true,
+      "name": "VOTE SOLAR",
+      "purpose": "SOUTHEAST & INTERIOR WEST SOLAR FOR ALL"
+    },
+    {
+      "amount": 115000.0,
+      "is_new": false,
+      "name": "NATIONAL CENTER FOR FAMILY PHILANTHROPY",
+      "purpose": "2024 NATIONAL FORUM ON FAMILY PHILANTHROPY"
+    },
+    {
+      "amount": 115000.0,
+      "is_new": false,
+      "name": "REPAIR THE WORLD",
+      "purpose": "GENERAL OPERATING SUPPORT FOR THE ATLANTA"
+    },
+    {
+      "amount": 115000.0,
+      "is_new": true,
+      "name": "MOREHOUSE COLLEGE",
+      "purpose": "FOOTBALL PLAYER SAFETY"
+    },
+    {
+      "amount": 110920.0,
+      "is_new": false,
+      "name": "PHILANTHROPY SOUTHEAST",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": true,
+      "name": "BOYS & GIRLS CLUBS OF AMERICA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": true,
+      "name": "NORTH CAROLINA SUSTAINABLE ENERGY ASSOCIATION",
+      "purpose": "FUEL COST SHARING IN NORTH CAROLINA"
+    },
+    {
+      "amount": 107999.0,
+      "is_new": false,
+      "name": "HEART OF THE ROCKIES INITIATIVE",
+      "purpose": "KEEP IT CONNECTED AND GRASSLANDS CONSERVATION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "COMMUNITY FARMERS MARKETS",
+      "purpose": "WESTSIDE MARKET EXPANSION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "PHOENIX CHILDRENS HOSPITAL FOUNDATION",
+      "purpose": "THERAPEUTIC ARTS PROGRAM"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "GIRLS ON THE RUN GEORGIA",
+      "purpose": "GIRLS ON THE RUN AND HEART & SOLE PROGRAMMING"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "KYLE PEASE FOUNDATION INC",
+      "purpose": "KYLE PEASE KIDS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "MONTANA WILDERNESS ASSOCIATION DBA WILD MONTANA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "GEORGIA INTERSCHOLASTIC CYCLING LEAGUE",
+      "purpose": "ELEMENTARY SCHOOL YOUTH MOUNTAIN BIKE PROGRAM"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "HEARD MUSEUM",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "JEWISH AGENCY FOR ISRAEL",
+      "purpose": "OFEK MECHINOT-PRE-ARMY ACADEMIES"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "LUTZIE 43 FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "ACTION FOR HEALTHY KIDS INC",
+      "purpose": "GEORGIA SCHOOLS' HEALTH & WELLNESS SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "FJC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "GEORGIA RECREATION AND PARK ASSOCIATION INC",
+      "purpose": "GEORGIA RECREATIONAL SPORTS SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "IMPACTASSETS INC DONOR ADVISED FUND SAME HOUSE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "MOCKINGBIRD INCUBATOR",
+      "purpose": "CLIMATE MENTAL HEALTH NETWORK"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "NEW DEAL FORUM",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "VETERANS FOR ALL VOTERS",
+      "purpose": "VETERAN ELECTORAL REFORM EDUCATION IN MONTANA"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "VETERANS NAVIGATION NETWORK INC",
+      "purpose": "SUPPORT FOR VETERANS IN MONTANA"
+    },
+    {
+      "amount": 95000.0,
+      "is_new": true,
+      "name": "ARIZONA STATE UNI FOUNDATION FOR NEW AMERICAN UNI",
+      "purpose": "EDUCATIONAL PROGRAMS"
+    },
+    {
+      "amount": 94830.0,
+      "is_new": false,
+      "name": "BME NETWORKS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 89001.0,
+      "is_new": false,
+      "name": "GALLATIN VALLEY LAND TRUST",
+      "purpose": "CONSERVATION EASEMENT ACQUISITION AND PROJECT"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "ATLANTA LEGAL AID SOCIETY INC",
+      "purpose": "VETERANS LAW PROJECT"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "EAST VALLEY JEWISH COMMUNITY CENTER",
+      "purpose": "NEEDS-BASED PRESCHOOL SCHOLARSHIPS"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": true,
+      "name": "ATLANTA TRACK CLUB FOUNDATION INC",
+      "purpose": "KILOMETER KIDS YOUTH RUNNING PROGRAM"
+    },
+    {
+      "amount": 78000.0,
+      "is_new": true,
+      "name": "NORTHERN ARIZONA UNIVERSITY FOUNDATION",
+      "purpose": "HOLOCAUST EDUCATION PROGRAM COORDINATOR"
+    },
+    {
+      "amount": 77500.0,
+      "is_new": true,
+      "name": "BOYS & GIRLS CLUB OF THE NORTHERN CHEYENNE NATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 77000.0,
+      "is_new": false,
+      "name": "ATLANTA VOLUNTEER LAWYERS FOUNDATION INC",
+      "purpose": "STANDING WITH OUR NEIGHBORS PROGRAM SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "MUSICAL INSTRUMENT MUSEUM",
+      "purpose": "GUIDED FIELD TRIPS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "THE ATLANTA MUSIC PROJECT INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "MOVING IN THE SPIRIT INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "EMORY LAW VOLUNTEER CLINIC FOR VETERANS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "MONTANA CHAMBER FOUNDATION",
+      "purpose": "CROSS-PARTISAN BRIDGE BUILDING"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "THE TEMPLE",
+      "purpose": "JEWISH MUSICAL EXCELLENCE INITIATIVE"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "JEWISH COMMUNITY ASSOCIATION OF GREATER PHOENIX",
+      "purpose": "NEEDS-BASED CAMP SCHOLARSHIPS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "PHILANTHROPY NORTHWEST",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "RANDOM ACTS OF SILLINESS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "TIDES CENTER",
+      "purpose": "LISTEN4GOOD DATA SYSTEMS PROJECT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "AMERICAN FEDERATION OF LABOR & CO",
+      "purpose": "AFL Member-to-Member Communication"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "AMERICAN JUNIOR GOLF FOUNDATION INC",
+      "purpose": "LIBERTY NATIONAL ACHIEVING COMPETITIVE EXCELLENCE"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "COMMUNICATIONS NETWORK",
+      "purpose": "FACILITATOR SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "INTERFAITH AMERICA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "NORTHERN CHEYENNE FOOD PANTRY",
+      "purpose": "FEASIBILITY STUDY TO CONSTRUCT A NEW FACILITY"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "RURAL RESILIENCE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "STUYVESANT HIGH SCHOOL ALUMNI ASSOCIATION INC",
+      "purpose": "ACADEMIC ENRICHMENT FOR MARGINALIZED YOUTH"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "THE MUSEUM OF CONTEMPORARY ART OF GEORGIA INC",
+      "purpose": "THE WORKING ARTIST PROGRAM"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "TROUT UNLIMITED INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 66300.0,
+      "is_new": false,
+      "name": "FIRST STEP STAFFING",
+      "purpose": "CAPACITY BUILDING SUPPORT ON ATLANTA'S WESTSIDE"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "HIRE HEROES USA",
+      "purpose": "SUPPORTING GEORGIA?S WOMEN VETERANS"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": true,
+      "name": "CLARK ATLANTA UNIVERSITY INC",
+      "purpose": "FOOTBALL PLAYER SAFETY"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": true,
+      "name": "THE JEANNETTE RANKIN FOUNDATION",
+      "purpose": "EMPOWERING WOMEN THROUGH EDUCATION"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": true,
+      "name": "WINSHIP CANCER INSTITUTE OF EMORY UNI EMORY ADV",
+      "purpose": "COLLABORATION WITH ISRAEL"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "GREATER GALLATIN UNITED WAY INC",
+      "purpose": "THE RESILIENCE PROJECT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "KIDS & PROS INC",
+      "purpose": "2024 CAMPS, CLINICS AND FOOTBALL PROGRAMS"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "LEAD GUITAR",
+      "purpose": "PROGRAMS FOR UNDERSERVED SCHOOLS IN GEORGIA AND"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "ULTIMATE PEACE INC",
+      "purpose": "ULTIMATE PEACE PANELS AND CAMP SCHOLARSHIPS"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "BLACK COLLEGE FOOTBALL HALL OF FAME",
+      "purpose": "SCHOLARSHIP PROGRAM AND HOF CEREMONY"
+    },
+    {
+      "amount": 52500.0,
+      "is_new": false,
+      "name": "ASSOCIATION OF BLACK FOUNDATION EXECUTIVES INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ATLANTA BALLET INCORPORATED",
+      "purpose": "CENTRE FOR DANCE EDUCATION SCHOLARSHIPS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ENTERPRISE COMMUNITY PARTNERS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "GEORGIA ORGANICS INC",
+      "purpose": "FARM TO SCHOOL INNOVATION MINI-GRANT PROGRAM"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "HANDS ON ATLANTA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "JEWISH FAMILY & CHILDRENS SERVICE",
+      "purpose": "HOSPITAL CHAPLAINCY SERVICES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ATLANTA WOMENS FOUNDATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CONCRETE JUNGLE",
+      "purpose": "FARMS TO FAMILIES INITIATIVE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "GEORGIA INTERFAITH POWER & LIGHT INC",
+      "purpose": "RESILIENCE HUB PLANNING"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "HUMAN RESOURCE DEVELOPMENT COUNCIL OF DISTRICT IX",
+      "purpose": "CAPACITY BUILDING"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MAKE-A-WISH FOUNDATION OF GEORGIA INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ROCKEFELLER PHILANTHROPY ADVISORS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ADAPTIVE PERFORMANCE CENTER",
+      "purpose": "VETERANS PROGRAMMING IN MONTANA AND GENERAL"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BAMAH",
+      "purpose": "ATLANTA-BASED RESIDENCIES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BRAVEN INCORPORATED",
+      "purpose": "BRAVEN ATLANTA"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "FARE MEALS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "FEEDBACK LABS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "HOUSEPROUD ATLANTA INC",
+      "purpose": "HOUSING STABILITY FOR FEMALE VETERANS IN METRO"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "VALLEY BEIT MIDRASH",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "VALLEY OF THE SUN JEWISH COMMUNITY CENTER",
+      "purpose": "FINANCIAL ASSISTANCE FOR CHILDREN?S PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CITY SPRINGS THEATRE COMPANY",
+      "purpose": "PROGRAM ACCESS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "GEORGIA HIGH SCHOOL ASSOCIATION",
+      "purpose": "OFFICIATE GEORGIA DAY CHALLENGE GRANT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "PEF ISRAEL ENDOWMENT FUNDS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SER FAMILIA INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "BETTER BALLOT GEORGIA INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "BLACK COLLEGE GOLF COACHES ASSOCIATION FOUNDATION",
+      "purpose": "THE BLACK COLLEGES GOLF COACHES ALLIANCE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "BOZEMAN PUBLIC SCHOOLS FOUNDATION",
+      "purpose": "BOZEMAN READS EARLY LEARNING CENTER"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "CONTINA IMPACT FORMERLY POLICY IMPACT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "COOL GIRLS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "DOG TAG BUDDIES",
+      "purpose": "MONTANA VETERANS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "EAST CENTRAL GEORGIA CONSORTIUM",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "GEORGIA STATE SOCCER ASSOCIATION INC",
+      "purpose": "GA100 COACHING LICENSING"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "GEORGIA STATE UNIVERSITY FOUNDATION PROJECT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "GIRLS INCORPORATED OF GREATER ATLANTA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "JEWISH COMMUNITY RELATIONS COUNCIL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "L&J EMPOWERMENT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "LITTLE BIG HORN COLLEGE",
+      "purpose": "2024 SUMMER YOUTH PROGRAM VISION QUEST"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "MARIST SCHOOL",
+      "purpose": "BEARING WITNESS INSTITUTE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "MIND SHARE PARTNERS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "MONTANA YOUTH SOCCER ASSOCIATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "MONTPIRG LEADERSHIP FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "MOTHERHOOD BEYOND BARS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "ROCK HEALTH FOUNDATION",
+      "purpose": "YOUTH MENTAL HEALTH LANDSCAPE PROJECT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "SOUTHEASTERN EMPLOYMENT AND TRAINING ASSOCIATION",
+      "purpose": "SETA CONFERENCES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "SOUTHERN JEWISH RESOURCE NETWORK INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "THE CARNEGIE HALL CORPORATION",
+      "purpose": "THE LULLABY PROJECT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "TRAVELERS AID OF METROPOLITAN ATLANTA INC",
+      "purpose": "SUPPORTIVE SERVICES FOR VETERAN FAMILIES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "UNIQUE INDIVIDUAL RANCH INCORPORATED",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "WILLIAMS HOUSE INC",
+      "purpose": "CAPACITY BUILDING CAMPAIGN"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": true,
+      "name": "CLIMATE CONSERVATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": true,
+      "name": "COMPASSION INTERNATIONAL INC",
+      "purpose": "YOUTH SPORTS CAMPS AND CLINICS"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": true,
+      "name": "MONTANA JEWISH PROJECT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "MONTANA WATERSHED COORDINATION COUNCIL INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "WESTERN SUSTAINABILITY EXCHANGE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "LIVINGSTON FOOD PANTRY OF PARK COUNTY",
+      "purpose": "COUNSELING SUPPORT PROGRAM"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "ACTORS EXPRESS INC",
+      "purpose": "APPRENTICE COMPANY AND GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "ARIZONA CENTER FOR NATURE CONSERVATION",
+      "purpose": "PHOENIX ZOO - COMMUNITY CONNECTIONS"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "OUT OF HAND THEATER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "ROSIE'S HOUSE",
+      "purpose": "AFTERSCHOOL MUSIC AND LEADERSHIP PROGRAM FOR YOUTH"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "BEST BUDDIES INTERNATIONAL INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "FORT PECK COMMUNITY COLLEGE",
+      "purpose": "FIRST VOICES: FORT PECK"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "GEORGIA FOOTBALL HALL OF FAME INC",
+      "purpose": "2024 HIGH SCHOOL INDUCTION CEREMONY & FLAG"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "KENNESAW STATE UNIVERSITY RESEARCH & SERVICE FND",
+      "purpose": "TEACHER TRAINING INITIATIVE"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "PAGE TURNERS MAKE GREAT LEARNS INC",
+      "purpose": "CAREER LITERACY PROGRAM SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "CAMP SOUTHERN GROUND",
+      "purpose": "PROGRAMMING FOR GEORGIA VETERANS AND THEIR"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "PARK PRIDE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "TAHIRIH JUSTICE CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "CHASTAIN HORSE PARK LTD",
+      "purpose": "SCHOLARSHIPS FOR THE THERAPEUTIC RIDING PROGRAM"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "CHILDREN OF FALLEN PATRIOTS FOUNDATION",
+      "purpose": "GOLD STAR SCHOLARS IN GEORGIA"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "PHOENIX MULTISPORT INC",
+      "purpose": "GENERAL OPERATING SUPPORT IN MONTANA"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "ARTS CRITIC ATL INC DBA ARTSATL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "SOL RELIEF",
+      "purpose": "HURRICANE BERYL RECOVERY IN THE CARIBBEAN"
+    },
+    {
+      "amount": 34000.0,
+      "is_new": true,
+      "name": "POPLAR HIGH SCHOOL",
+      "purpose": "MONTANA GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "PARK COUNTY ENVIRONMENTAL COUNCIL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "COMMON GROUND PROJECT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "BIG SKY YOUTH EMPOWERMENT PROJECT INC",
+      "purpose": "YOUTH MENTAL HEALTH PROGRAM"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "PRODUCER PARTNERSHIP",
+      "purpose": "STORAGE CAPACITY FOR LOCAL FOOD DONATIONS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "YACHTAID GLOBAL",
+      "purpose": "EMERGENCY DISASTER RELIEF FUND"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "LATINO COMMUNITY FUND INC",
+      "purpose": "TWO-GEN SOCCER CAMP"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "MONTANA FRESHWATER PARTNERS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "MONTANA RAPTOR CONSERVATION CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "HELPGUIDEORG INTERNATIONAL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "HOPE",
+      "purpose": "HELPING OTHER PEOPLE BE EMPOWERED (H.O.P.E.)"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "ISRAEL ON CAMPUS COALITION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 27500.0,
+      "is_new": true,
+      "name": "JEFFERSON HIGH SCHOOL",
+      "purpose": "MONTANA GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 26000.0,
+      "is_new": true,
+      "name": "WOLF POINT HIGH SCHOOL",
+      "purpose": "MONTANA GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 25500.0,
+      "is_new": false,
+      "name": "NATIVE AMERICANS IN PHILANTHROPY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BOYS & GIRLS CLUBS OF ACADIANA INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CATALYST SPORTS INC",
+      "purpose": "VETERANS PROGRAMMING IN GEORGIA"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CREATING CONNECTED COMMUNITIES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CANCER SUPPORT COMMUNITY MONTANA",
+      "purpose": "TRANSFORMING RURAL AND FRONTIER CANCER CARE IN"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PHILANTHROPY ROUNDTABLE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "RADICAL HOPE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BEARINGS BIKE SHOP INC",
+      "purpose": "ELEMENTARY YOUTH MOUNTAIN BIKING PROGRAM"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NATIONAL COMMITTEE FOR RESPONSIVE PHILANTHROPY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "RENEWABLE NORTHWEST PROJECT",
+      "purpose": "WEST-WIDE GOVERNANCE PATHWAYS INITIATIVE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "YAD LAKASHISH - LIFELINE FOR THE OLD",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "9 11 DAY",
+      "purpose": "9/11 DAY IN ATLANTA"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "CIVICS UNPLUGGED INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "GEORGIA FOUNDATION FOR AGRICULTURE INC",
+      "purpose": "WEATHERED BUT STRONG: HURRICANE RELIEF FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "JOSEPH RAINEY CENTER PUBLIC POLICY INCORPORATED",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "LOUIS D BRANDEIS CENTER INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "MONTANA ASSOCIATION OF CONSERVATION DISTRICTS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "NATIONAL WILDLIFE FEDERATION",
+      "purpose": "AMERICA'S GRASSLAND CONFERENCE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "ROUNDUP HIGH SCHOOL",
+      "purpose": "MONTANA GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "SYRACUSE UNIVERSITY INSTITUTE FOR VETERANS",
+      "purpose": "V-WISE 2024 CONFERENCE PROGRAMMING IN ATLANTA"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "WORLD AFFAIRS COUNCIL OF MONTANA",
+      "purpose": "ECONOQUEST - EXPLORING GLOBAL ECONOMICS AND"
+    },
+    {
+      "amount": 22000.0,
+      "is_new": false,
+      "name": "MONTANA WILDERNESS SCHOOL",
+      "purpose": "WILDERNESS PROGRAM"
+    },
+    {
+      "amount": 22000.0,
+      "is_new": true,
+      "name": "THREE FORKS HIGH SCHOOL",
+      "purpose": "MONTANA GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "CHILDREN'S MUSEUM OF ATLANTA",
+      "purpose": "ACCESS IT! SUBSIDIZED ADMISSION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "TRUE COLORS THEATRE COMPANY",
+      "purpose": "NEXT NARRATIVE MONOLOGUE COMPETITION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "ASPEN-ABUSE SUPPORT & PREVENTION EDUCATION NETWORK",
+      "purpose": "QUEER STRAIGHT ALLIANCE"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "TERMINUS BALLET INC",
+      "purpose": "STUDENT SCHOLARSHIPS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "ABSAROKEE HIGH SCHOOL",
+      "purpose": "MONTANA GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "AMANI WOMEN CENTER INC",
+      "purpose": "SEWING ACADEMY"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "DAWSON COUNTY HIGH SCHOOL",
+      "purpose": "MONTANA GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "EAST HELENA HIGH SCHOOL",
+      "purpose": "MONTANA GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "FRAZER HIGH SCHOOL",
+      "purpose": "MONTANA GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "HAMILTON SCHOOL DISTRICT",
+      "purpose": "MONTANA GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "HARDIN HIGH SCHOOL",
+      "purpose": "MONTANA GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "INNOCENCE PROJECT INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "NATIONAL FOREST FOUNDATION",
+      "purpose": "MISSION MOUNTAIN YOUTH CREW"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "PAINT LOVE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 19000.0,
+      "is_new": false,
+      "name": "COUNCIL ON FOUNDATIONS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 19000.0,
+      "is_new": true,
+      "name": "HUNTLEY PROJECT HIGH SCHOOL",
+      "purpose": "MONTANA GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "LEAP YEAR",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "ONE MONTANA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "PACE ACADEMY",
+      "purpose": "PACE FUND ANNUAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "BRIDGER SKI FOUNDATION",
+      "purpose": "MENTAL HEALTH INITIATIVE"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "EAST LAKE FOUNDATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "HARPSWELL HERITAGE LAND TRUST",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "NATIONAL COUNCIL OF JEWISH WOMEN ATLANTA SECTION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "THRIVE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "CONVERGENCE CENTER FOR POLICY RESOLUTION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "LOCKWOOD HIGH SCHOOL",
+      "purpose": "MONTANA GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "PARK COUNTY HEALTH DEPARTMENT",
+      "purpose": "COMMUNITIES THAT CARE PREVENTION PROGRAM"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "CLARKSTON COMM HEALTH INC DBA MOSAIC HEALTH CENTRE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "EQUAL JUSTICE INITIATIVE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "HALL COUNTY BOARD OF EDUCATION",
+      "purpose": "GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "LIVINGSTON ICE SKATING ASSOCIATION INC",
+      "purpose": "ICE RINK GENERAL MANAGER"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "MEDIA IMPACT FUNDERS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "NEW HAMPSHIRE CHARITABLE FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "SW MONTANA VETERANS FOOD PANTRY & SERVICES",
+      "purpose": "VETERANS PROGRAMMING IN SOUTHWEST MONTANA"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "YELLOWSTONE SOCCER ASSOCIATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 14000.0,
+      "is_new": false,
+      "name": "THE SHANE LALANI CENTER FOR THE ARTS",
+      "purpose": "YOUTH EDUCATION PROGRAM"
+    },
+    {
+      "amount": 12900.0,
+      "is_new": true,
+      "name": "THE DALTON ACADEMY",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "WINDHORSE EQUINE LEARNING",
+      "purpose": "CAPITAL CAMPAIGN COORDINATION"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "BUTTE HIGH SCHOOL",
+      "purpose": "MONTANA GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "FLATHEAD HIGH SCHOOL",
+      "purpose": "MONTANA GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "GLACIER HIGH SCHOOL",
+      "purpose": "MONTANA GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": false,
+      "name": "MONTANA LEGAL SERVICES ASSOCIATION",
+      "purpose": "MONTANA FAMILY JUSTICE PROJECT"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": true,
+      "name": "THE FREE VERSE PROJECT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 11000.0,
+      "is_new": false,
+      "name": "DECATUR HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 11000.0,
+      "is_new": false,
+      "name": "PARK COUNTY COMMUNITY FOUNDATION",
+      "purpose": "LIVINGSTON RECREATION YOUTH FLAG FOOTBALL PROGRAM"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ATLANTA CIVIC CIRCLE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ATLANTA NEIGHBORHOOD DEVELOPMENT PARTNERSHIP INC",
+      "purpose": "COMMUNITY BUILDING ACTIVITIES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "ST MARYS EPISCOPAL SCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "IN THE CITY CAMP INC",
+      "purpose": "SCHOLARSHIP FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "LIVINGSTON HEALTHCARE",
+      "purpose": "LIVEWELL49 COALITION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "TAYLOR HOOTON FOUNDATION",
+      "purpose": "PERFORMANCE ENHANCING SUBSTANCES EDUCATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "SECKINGER HIGH SCHOOL",
+      "purpose": "ATHLETICS DEPARTMENT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ADAMAH INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "DAVE KRACHE FOUNDATION INC",
+      "purpose": "YOUTH SOCCER PARTICIPATION SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "ANTIOCH URBAN MINISTRIES INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "ELK RIVER ARTS AND LECTURES",
+      "purpose": "YOUTH PROGRAMS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "GEEARS THE GEORGIA EARLY EDUCATION ALLIANCE",
+      "purpose": "ELECTORAL ADVOCACY FOR YOUNG CHILDREN"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "GREATER IMPACT INC",
+      "purpose": "WOMEN'S SOBER LIVING HOME"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "HONOR FLIGHT INC",
+      "purpose": "ATLANTA JUNETEENTH HONOR FLIGHT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "MAINE COAST FISHERMENS ASSOCIATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "NAMI MARYLAND INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "READMONTANA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "THE REEF-WORLD FOUNDATION",
+      "purpose": "THE GREEN FINS INITIATIVE"
+    },
+    {
+      "amount": 9000.0,
+      "is_new": false,
+      "name": "ST IGNATIUS HIGH SCHOOL",
+      "purpose": "MONTANA GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": false,
+      "name": "BOWDON HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": false,
+      "name": "FANNIN COUNTY HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": true,
+      "name": "APALACHEE HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": true,
+      "name": "HAWKINSVILLE HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": true,
+      "name": "THOMAS COUNTY CENTRAL HIGH",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "LIVINGSTON YOUTH SOCCER ASSOCIATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "HBCU GREEN FUND",
+      "purpose": "ENVIRONMENTAL AWARENESS FOR WESTSIDE RESIDENTS"
+    },
+    {
+      "amount": 7000.0,
+      "is_new": false,
+      "name": "LANEY HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 7000.0,
+      "is_new": false,
+      "name": "VALDOSTA HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 7000.0,
+      "is_new": true,
+      "name": "HANCOCK CENTRAL HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 7000.0,
+      "is_new": true,
+      "name": "MCINTOSH HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 7000.0,
+      "is_new": true,
+      "name": "MORROW HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 7000.0,
+      "is_new": true,
+      "name": "TRI-CITIES HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "DOUGHERTY COMPREHENSIVE HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "AUSTIN HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "BREWBAKER TECHNOLOGY MAGNET HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "CARVER HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "CLARK-SHAW MAGNET SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "ELBERTA HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "ELLWOOD CHRISTIAN ACADEMY",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "ENTERPRISE HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "FOLEY HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "HAZEL GREEN HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "MARBURY HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "MONROE COUNTY HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "MONTANA PUBLIC HEALTH INSTITUTE",
+      "purpose": "MENTAL HEALTH INITIATIVE"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "MONTEVALLO HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "PELL CITY HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "PERCY L JULIAN HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "ROBERTSDALE HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "SPANISH FORT HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "TALLASSEE HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "WILCOX CENTRAL HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "NORTH FORSYTH HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "CLAXTON HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "SOUTH ATLANTA HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "ATLANTA HISTORICAL SOCIETY INC",
+      "purpose": "ATLANTA HISTORY CENTER EVENTS FOR VETERANS DAY"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "EAST JACKSON HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "LAFAYETTE HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "MEN S X MENTAL INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "ATL METRO RBI INC",
+      "purpose": "CHRISTMAS TOY, HEALTH AND WELLNESS DRIVE"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "GIVE US THE FLOOR",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "GLOBAL PLAY BRIGADE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "HISTORIC WESTSIDE CULTURAL ARTS COUNCIL",
+      "purpose": "16TH ANNUAL FESTIVAL OF LIGHTS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "MOUNTAIN BROOK HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "MURPHY HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "PARK COUNTY 4H",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "PUBLIC WORKS ALLIANCE",
+      "purpose": "LAY MENTAL HEALTH ADVOCATES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "ROSS INITIATIVE IN SPORTS FOR EQUALITY INC",
+      "purpose": "GOOD GOVERNANCE"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "SCHOOL OF LIBERAL STUDIES AT SAVANNAH HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "WARREN COUNTY HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": false,
+      "name": "GREENE COUNTY HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": false,
+      "name": "LUELLA HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": false,
+      "name": "PEACH COUNTY HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": false,
+      "name": "LAGRANGE HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": false,
+      "name": "MACON COUNTY HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": false,
+      "name": "JACKSON HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": false,
+      "name": "MONROE AREA HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "BRYAN COUNTY HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "DAVIDSON MAGNET SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "WOODVILLE-TOMPKINS TECHNICAL & CAREER HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "BRUNSWICK HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "GLYNN ACADEMY",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "EAST COWETA HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "PORTAL HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 2750.0,
+      "is_new": true,
+      "name": "PEAK GRANTMAKING",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "DISCOVERY HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "SAVANNAH ARTS ACADEMY",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "CENTRAL GWINNETT HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "LONG COUNTY HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "HOWARD HIGH SCHOOL",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "THUNDERHEART MEDIA INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": true,
+      "name": "ELITE SCHOLARS ACADEMY",
+      "purpose": "2024 GIRLS FLAG FOOTBALL"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "HOPA MOUNTAIN INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

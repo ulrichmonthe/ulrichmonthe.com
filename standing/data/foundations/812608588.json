@@ -48,6 +48,86 @@
     "singleton_cluster_share": 0.6471,
     "total_grant_records": 67
   },
+  "recipients_latest_year": [
+    {
+      "amount": 7150000.0,
+      "is_new": false,
+      "name": "VANGUARD CHARITABLE ENDOWMENT PROGRAM",
+      "purpose": "Contribution to The Ezrah Charitable DAF for charitable distributions."
+    },
+    {
+      "amount": 5290234.0,
+      "is_new": false,
+      "name": "ONE ACRE FUND US",
+      "purpose": "General support to One Acre Fund's mission to supply and support smallholder farmers."
+    },
+    {
+      "amount": 1107555.0,
+      "is_new": true,
+      "name": "THE RHODES TRUST",
+      "purpose": "Contribution to Rhodes Trust legal costs related to South African schools scholarships."
+    },
+    {
+      "amount": 1050000.0,
+      "is_new": false,
+      "name": "AMERICAN JEWISH WORLD SERVICE INC",
+      "purpose": "General support to American Jewish World Service's mission to build a more just and equitable world."
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "ROOT CAPITAL INC",
+      "purpose": "General support to Root Capital's work with small and growing agricultural businesses around the world"
+    },
+    {
+      "amount": 750000.0,
+      "is_new": false,
+      "name": "FRIENDS OF PARIVAAR",
+      "purpose": "General support for Parivaar's care for children in India who are highly vulnerable to exploitation, victimization and trafficking."
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "MYAGRO FARMS",
+      "purpose": "General support to myAgro's tech-enabled savings model that empowers smallholder farm families to grow their way out of hunger and poverty."
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "DIGITAL GREEN FOUNDATION",
+      "purpose": "General support to Digital Green's mission to create a world where farmers use technology and data to build prosperous communities."
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "PARTNERS IN FOOD SOLUTIONS",
+      "purpose": "General support to Partners in Food Solutions' mission to enable the transfer of knowledge and expertise to small and growing food companies in Africa."
+    },
+    {
+      "amount": 393724.0,
+      "is_new": false,
+      "name": "FOCUSING PHILANTHROPY",
+      "purpose": "Contribution to the collaboration with the Nick Kristof 2024 Holdiay Impact Initiative to raise funds for non-profits that are tackling global issues in health, literacy, and human rights."
+    },
+    {
+      "amount": 300000.0,
+      "is_new": true,
+      "name": "KEEP A CHILD ALIVE",
+      "purpose": "General support to Keep a Child Alive's mission to helping children reach their potential and live healthier, happier lives."
+    },
+    {
+      "amount": 171924.0,
+      "is_new": true,
+      "name": "TEAM4TECH FOUNDATION",
+      "purpose": "Contribution to Team4Tech's \"AI Skill-building for Community-Based Education NGOs in Africa\" project from 2024 to 2026."
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "CLIMATE ACTION FOR SMALLHOLDERS",
+      "purpose": "General support to CASH Coalition's mission to support and share knowledge and best practices with smallholder farmers."
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

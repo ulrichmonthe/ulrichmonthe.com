@@ -48,6 +48,20 @@
     "singleton_cluster_share": 0.7647,
     "total_grant_records": 221
   },
+  "recipients_latest_year": [
+    {
+      "amount": 28000000.0,
+      "is_new": false,
+      "name": "AMALGAMATED CHARITABLE FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 17100.0,
+      "is_new": true,
+      "name": "MCE SOCIAL CAPITAL",
+      "purpose": "GENERAL SUPPORT"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

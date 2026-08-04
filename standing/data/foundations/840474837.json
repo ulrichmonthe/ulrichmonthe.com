@@ -48,6 +48,1958 @@
     "singleton_cluster_share": 0.6569,
     "total_grant_records": 1714
   },
+  "recipients_latest_year": [
+    {
+      "amount": 20370000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF COLORADO FOUNDATION",
+      "purpose": "RESEARCH"
+    },
+    {
+      "amount": 2150000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF DENVER",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 935000.0,
+      "is_new": true,
+      "name": "WILLIAM J PALMER PARKS FOUNDATION I",
+      "purpose": "LAND PURCHASE"
+    },
+    {
+      "amount": 750000.0,
+      "is_new": true,
+      "name": "NORTH PARK FIRE RESCUE AUTHORITY",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 605000.0,
+      "is_new": false,
+      "name": "LYRA",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 525000.0,
+      "is_new": true,
+      "name": "RIO GRANDE HEADWATERS LAND TR A COL",
+      "purpose": "LAND PURCHASE"
+    },
+    {
+      "amount": 475000.0,
+      "is_new": false,
+      "name": "ROSE COMMUNITY FOUNDATION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "ROOTED",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "ELEVATION COMMUNITY LAND TRUST",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 344754.0,
+      "is_new": false,
+      "name": "NATIONAL FOREST FOUNDATION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 254333.0,
+      "is_new": false,
+      "name": "COLORADO STATE UNIVERSITY FOUNDATIO",
+      "purpose": "SCHOLARSHIPS/FELLOWSHIPS"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "WESTERN LANDOWNERS ALLIANCE",
+      "purpose": "OPERATING"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "COLORADO SCHOOLS FUND",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "DENVER CIVIC ARTS FOUNDATION",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "BICYCLE COLORADO",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "HIGH LINE CANAL CONSERVANCY",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 138000.0,
+      "is_new": false,
+      "name": "AMERICA SUCCEEDS",
+      "purpose": "OPERATING"
+    },
+    {
+      "amount": 130000.0,
+      "is_new": true,
+      "name": "PRESIDENT AND FELLOWS OF HARVARD CO",
+      "purpose": "SCHOLARSHIPS/FELLOWSHIPS"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "COLORADO COALITION OF LAND TRUSTS",
+      "purpose": "OPERATING"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "PUBLIC BROADCASTING OF COLORADO INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "NATIONAL FISH AND WILDLIFE FOUNDATI",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "MONTEZUMA LAND CONSERVANCY",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "COLORADO COLLEGE TH",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": false,
+      "name": "COMMUNITY BUILDERS",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "ROCKY MOUNTAIN PUBLIC MEDIA INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "MONTBELLO ORGANIZING COMMITTEE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "CHARTER FACILITY SOLUTIONS",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "TROUT UNLIMITED INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "PEAKS TO PEOPLE WATER FUND",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "WATER FOUNDATION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "FORT LEWIS COLLEGE FOUNDATION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "LEGACY INSTITUTE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "BOYS AND GIRLS CLUBS OF THE SAN LUI",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "ROCKY MOUNTAIN BUTTERFLY CONSORTIUM",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": true,
+      "name": "SUSTAINABLE DEVELOPMENT CODE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "CSULB 49ER FOUNDATION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "HADANOU COLLECTIVE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "BLUFF LAKE NATURE CENTER",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": true,
+      "name": "BOULDER COMMUNITY BROADCAST ASSOCIA",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": true,
+      "name": "STATE HISTORICAL SOCIETY OF COLORAD",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 58336.0,
+      "is_new": true,
+      "name": "MCA DENVER",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 55246.0,
+      "is_new": false,
+      "name": "URBAN LAND CONSERVANCY",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 54000.0,
+      "is_new": true,
+      "name": "WILDFLOWER MONTESSORI PUBLIC SCHOOL",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 50750.0,
+      "is_new": true,
+      "name": "UNITED STATES ENDOWMENT FORFORESTRY",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ANGEL CHARITY FOR CHILDREN INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ARTSPACE PROJECTS INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "BOYS AND GIRLS CLUBS OF CHAFFEE COU",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "COLORADO CHILDRENS CAMPAIGN INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "COLORADO OPEN LANDS",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ENTERPRISE COMMUNITY PARTNERS INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "FOOD BANK OF THE ROCKIES",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MOONSHOT EDVENTURES",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "TEACH FOR AMERICA INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "NATURE CONSERVANCY",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BARTON INSTITUTE FOR COMMUNITY ACTI",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "LONG BEACH ROTARY SCHOLARSHIP FOUND",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "UTE MOUNTAIN UTE TRIBAL GOVERNMENT",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ACTIVATE WORK INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ASPEN VALLEY LAND TRUST",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "DENVER CIVIC VENTURES INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "NATIONAL TRUST FOR LOCAL NEWS",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "50CAN INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "JUSTICE FOR THE PEOPLE LEGAL CENTER",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "THINK 360 ARTS FOR LEARNING INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "AMERICAS PROMISE-THE ALLIANCE FOR Y",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "CAFE MOMENTUM DENVER CORPORATION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "CENTER FOR EXCELLENCE IN EDUCATIONA",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "CITY OF AURORA",
+      "purpose": "REMODELING"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "CIVIC NEWS COMPANY",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "COLORADO SUN",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "DENVER HOUSING AUTHORITY",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "EL PASO COUNTY PARKS AND COMMUNITY",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "FUEL FARM",
+      "purpose": "BUILDING PURCHASE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "HABITAT FOR HUMANITY INTERNATIONAL",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "HOUSING EQUITY COALITION INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "NATIVE AMERICAN RIGHTS FUND",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "SOUTHERN PLAINS LAND TRUST",
+      "purpose": "LAND PURCHASE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "UNITED STATES CONFERENCE OF CATHOLI",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "WEECYCLE",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 49765.0,
+      "is_new": false,
+      "name": "ERIK HITE FOUNDATION INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 47000.0,
+      "is_new": false,
+      "name": "LA LUZ EDUCATION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "ISLAND CONSERVATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "LONG BEACH COMMUNITY FOUNDATION",
+      "purpose": "CHARITABLE GIVING CAMPAIGN"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": true,
+      "name": "CONFLUENCE CENTER OF COLORADO INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": true,
+      "name": "YOUNG MENS CHRISTIAN ASSOCIATION OF",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 42000.0,
+      "is_new": false,
+      "name": "DENVER DUMB FRIENDS LEAGUE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "BOYS AND GIRLS CLUBS OF METRO DENVE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "CENTER FOR COMMUNITY WEALTH BUILDIN",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "NATIONAL WILDLIFE FEDERATION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "PUEBLO CITY-COUNTY LIBRARY DISTRICT",
+      "purpose": "REMODELING"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "THE STEAD SCHOOL",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "TOWN OF HAYDEN",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "WILD BEAR NATURE CENTER",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "PRAIRIE CULTURAL COMMONS",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "BRIDGE HOUSE",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "BUILD PAGOSA INC",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "COLORADO NONPROFIT DEVELOPMENT CENT",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "DENVER RESCUE MISSION",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "FARMERS CONSERVATION ALLIANCE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "GREAT OUTDOORS FUND",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "LARIMER COUNTY DEPARTMENT OF NATURA",
+      "purpose": "LAND PURCHASE"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "PCS FOR PEOPLE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "RAINBOW DOME",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "RESILIENT COMMUNITIES RESILIENT FUT",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "ROOTS COLORADO",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "THE FRESHWATER TRUST",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "TOWN OF RICO",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "COLORADO SUCCEEDS",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "EAST DENVER COLFAX PARTNERSHIP INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "WEST COMMUNITY ECONOMIC DEVELOPMENT",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "METROPOLITAN STATE UNIVERSITY OF DE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "MUSLIM YOUTH FOR POSITIVE IMPACT",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "STARTUP COLORADO",
+      "purpose": "OPERATING"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "ALLIANCE FRANCAISE DE DENVER",
+      "purpose": "REMODELING"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "DIOCESE OF MEMPHIS ROMAN CATHOLIC C",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "EAST COLFAX COMMUNITY COLLECTIVE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "GARDEN OF THE GODS FOUNDATION",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "HARP FOUNDATION",
+      "purpose": "EQUIPMENT/FURNISHINGS"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "HISTORIC CHURCH CONSERVANCY OF FREM",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "LINCOLN COUNTY",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "MARILLAC CLINIC INC",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "TELLURIDE FOUNDATION",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "YAMPA BUILDING FOUNDATION",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 31250.0,
+      "is_new": false,
+      "name": "MAD IN AMERICA FOUNDATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 30333.0,
+      "is_new": true,
+      "name": "REGIS JESUIT HIGH SCHOOL",
+      "purpose": "SCHOLARSHIPS/FELLOWSHIPS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "COMMUNITY RESOURCE CENTER INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "GOODWILL OF COLORADO",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "PUNAHOU SCHOOL",
+      "purpose": "SCHOLARSHIPS/FELLOWSHIPS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "RANCHO LOS CERRITOS FOUNDATION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "YOUTHROOTS",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "THEODORE ROOSEVELT CONSERVATION PAR",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "ACCESS GALLERY",
+      "purpose": "LAND PURCHASE"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "ATLAS PREPARATORY SCHOOL INC",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "AURARIA HIGHER EDUCATION CENTER",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "CITY OF GRAND JUNCTION",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "COLLABORATIVE HEALING INITIATIVE WI",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "COLORADO MESA UNIVERSITY FOUNDATION",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "FOOTHILLS ART CENTER INC",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "JEWISH FAMILY SERVICE OF COLORADO I",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "KIOWA COUNTY HOSPITAL DISTRICT",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "LAND TRUST ALLIANCE INCORPORATED",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "LIFE INTER FAITH TEAM ON UNEMPLOYME",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "MONGOLIAN SCHOOL OF COLORADO",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "PINNACLE SCHOOL",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "REDLINE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "RUBY M SISSON MEMORIAL LIBRARY FOUN",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "SAN JUAN COUNTY HISTORICAL SOCIETY",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "SOCIETY OF METABOLIC HEALTH PRACTIT",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "TALL TALES RANCH",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "THE CONSERVATION FUND A NONPROFIT C",
+      "purpose": "LAND PURCHASE"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "TLC LEARNING CENTER INC",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "WEDONTWASTE INC",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "YOUTH SEEN",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 27000.0,
+      "is_new": false,
+      "name": "COLORADO HORSE RESCUE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "AQUARIUM OF THE PACIFIC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BORN FREE WILDLIFE REHABILITATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CATE SCHOOL",
+      "purpose": "SCHOLARSHIPS/FELLOWSHIPS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "COMMUNITY FOOD BANK",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "DANIEL R SAYRE MEMORIAL FOUNDATION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "DUEKER RANCH INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "HOPE CENTER INC",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "MI CASA RESOURCE CENTER",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PARKER SCHOOL",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ROCKY MOUNTAIN MICROFINANCE INSTITU",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "TREAD OF PIONEERS HISTORICAL COMMIS",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BETTER TOMORROW",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "STEAMBOAT READING INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ELEVATION ATHLETIC PERFORMANCE FOUN",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "GES COALITION INC",
+      "purpose": "LAND PURCHASE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PRECIOUS LAMB PRESCHOOL INC",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "REPORTERS COMMITTEE FOR FREEDOM OF",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BEN COLORADO INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "STRUGGLE OF LOVE FOUNDATION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "AMERICAN RED CROSS",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "COLORADO ASIAN CULTURE AND EDUCATIO",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "COLORADO ASIAN PACIFIC UNITED",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "COMMUNITY AGRICULTURE ALLIANCE INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "CORAZON DE TRINIDAD CREATIVE DISTRI",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "EXPONENTIAL IMPACT",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "FOUNDATION FOR BLACK ENTREPRENEURSH",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "FRIENDS OF LEVITT PAVILION DENVER",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "FRIENDS OF THE CHILDREN - COLORADO",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "GOLDEN BACKPACK PROGRAM INC",
+      "purpose": "BUILDING PURCHASE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "ITHAKA LAND INC",
+      "purpose": "EQUIPMENT/FURNISHINGS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "LONG BEACH BLAST - BETTER LEARNING",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "MARBLE CHARTER SCHOOL",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "MONTESSORI DEL MUNDO",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "OTHER SIDE ACADEMY",
+      "purpose": "REMODELING"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "STEAMBOAT FIRE FOUNDATION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "STREET FRATERNITY INC",
+      "purpose": "BUILDING PURCHASE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "THE DENVER HEALTH AND HOSPITALS FOU",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "THE NEW HORIZONS FOUNDATION INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "URBAN INSTITUTE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "VINDEKET",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 24000.0,
+      "is_new": true,
+      "name": "YAMPATIKA OUTDOOR AWARENESS ASSOCIA",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "AMERICAN RED CROSS OF HAWAII",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "ASSISTANCE LEAGUE OF LONG BEACH",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "CASA OF THE SEVENTH JUDICIAL DISTRI",
+      "purpose": "EQUIPMENT/FURNISHINGS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "HIGH COUNTRY NEWS",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "INNER CITY HEALTH CENTER",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "STEAMBOAT ART MUSEUM",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "STRINGS MUSIC FESTIVAL",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "WORLD WILDLIFE FUND INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "MONTE VISTA COMMUNITY FUND INC",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "YAMPA VALLEY COMMUNITY FOUNDATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "CHICANO HUMANITIES AND ARTS COUNCIL",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "COLORADO LATINO LEADERSHIP AND RESE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "COMMUNITY RADIO PROJECT",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "EAST END ARTS DISTRICT ASSOCIATION",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "GREENLATINOS",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "GRIEF CENTER OF SOUTHWEST COLORADO",
+      "purpose": "BUILDING PURCHASE"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "HOUSING COLORADO",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "INDEPENDENT ACADEMY CHARTER SCHOOL",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "MOUNTAIN TOTS PRESCHOOL",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "NATIONAL MINING HALL OF FAME AND MU",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "NATIONAL VETERANS HIRING ASSOCIATIO",
+      "purpose": "BUILDING PURCHASE"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "PRODIGY VENTURES INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "RESPITE CARE INC",
+      "purpose": "BUILDING PURCHASE"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "ROCKY MOUNTAIN COMMUNITY RADIO",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "RURAL JOURNALISM INSTITUTE OF THE S",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "SOPRIS SUN INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "SOUTHWEST ENERGY EFFICIENCY PROJECT",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "THE URBAN FARM",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "TOWN OF AVON",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "TOWN OF CRAIG",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "VAIL VALLEY FOUNDATION INC",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 17255.0,
+      "is_new": false,
+      "name": "HIGHLAND PARK HIGH SCHOOL PARENT TE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "LONG BEACH ROTARY CHARITABLE FOUNDA",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "OPERA STEAMBOAT",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "PENINSULA OPEN SPACE TRUST",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "ROUTT COUNTY SEARCH AND RESCUE INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "ABILITY CONNECTION COLORADO INC",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "CONSERVATION INVESTMENT GERMINATOR",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "FRESH START INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "KIM EQUINE PAVILION AND EDUCATION C",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "MAIN STREET LIVE LTD",
+      "purpose": "RENOVATION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "STEAMBOAT HEALTH & RECREATION ASSOC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "TONTO RIM SEARCH AND RESCUE SQUAD I",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "UTAH FILM CENTER DBA SALT LAKE CITY",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "VINTAGE THEATRE PRODUCTION INC",
+      "purpose": "CAPITAL FUND SUPPORT"
+    },
+    {
+      "amount": 14000.0,
+      "is_new": false,
+      "name": "LAPUENTE HOME INCORPORATED",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 14000.0,
+      "is_new": false,
+      "name": "TURPENTINE CREEK FOUNDATION INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 12704.0,
+      "is_new": false,
+      "name": "JUDIS HOUSE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 12432.0,
+      "is_new": false,
+      "name": "GRALAND COUNTRY DAY",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": false,
+      "name": "CAT SPRING VOLUNTEER FIRE DEPARTMEN",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": false,
+      "name": "CENTRAL FLORIDA ANIMAL RESERVE INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": false,
+      "name": "DOGS FOR LIFE INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": false,
+      "name": "PREVENT UNWANTED PETS",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": false,
+      "name": "SAVE THE CHIMPS INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": false,
+      "name": "BIRDS OF PREY FOUNDATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": false,
+      "name": "H O A INCORPORATED OF AUSTIN COUNTY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CHILD GUIDANCE CENTER INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "HAWAII PUBLIC RADIO",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "HAWAIIAN ISLANDS LAND TRUST",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "HEALING ARIZONA VETERANS",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "LONG BEACH BAR FOUNDATION INC",
+      "purpose": "SCHOLARSHIPS/FELLOWSHIPS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "WOMENSHELTER OF LONG BEACH",
+      "purpose": "ANNUAL CAMPAIGN SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "BOYS AND GIRLS CLUBS OF LONG BEACH",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "HIGHLAND PARK ISD EDUCATION FOUNDAT",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "MEALS ON WHEELS OF LONG BEACH INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "PRESBYTERIAN MO-RANCH ASSEMBLY",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "MUSICAL THEATRE WEST",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "REHABILITATION HOSPITAL OF THE PACI",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "ALEDO ISD EDUCATION FOUNDATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "CHURCH OF THE BRETHREN",
+      "purpose": "CONSTRUCTION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "CRIPPLE CREEK-VICTOR SCHOOL DISTRIC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "MONTEZUMA-CORTEZ SCHOOL DISTRICT RE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "MULTIPLIER",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "THE OUTDOOR CIRCLE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "VILAS SCHOOL DISTRICT RE-5",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "W I COOK FOUNDATION INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 9716.0,
+      "is_new": false,
+      "name": "CARSON ELEMENTARY SCHOOL",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 9716.0,
+      "is_new": true,
+      "name": "HILL CAMPUS OF ARTS AND SCIENCES",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 9432.0,
+      "is_new": false,
+      "name": "PILCHUCK GLASS SCHOOL",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 8255.0,
+      "is_new": false,
+      "name": "SALT AND LIGHT TOGETHER INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": false,
+      "name": "NORTH HAWAII HOSPICE INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": false,
+      "name": "TAHOE AREA MOUNTAIN BIKE ASSOCIATIO",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": false,
+      "name": "HAWAIIAN MISSION CHILDRENS SOCIETY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": true,
+      "name": "RONALD MCDONALD HOUSE CHARITIES OF",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "BISHOP MUSEUM",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "THE KOHALA CENTER INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "FRIENDS OF IOLANI PALACE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "COLORADO WATERSHED ASSEMBLY",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 7333.0,
+      "is_new": false,
+      "name": "AMERICAN FOREIGN POLICY COUNCIL",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 6755.0,
+      "is_new": true,
+      "name": "URBAN ROOTS GARDEN CLASSROOMS",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 6500.0,
+      "is_new": false,
+      "name": "AUSTIN COUNTY PEACE OFFICERS ASSOCI",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "WAKE FOREST UNIVERSITY",
+      "purpose": "SCHOLARSHIPS/FELLOWSHIPS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "FRIENDS OF THE FUTURE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "HAWAII COMMUNITY FOUNDATION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "HAWAII WILDLIFE CENTER",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "LA FIESTA DE LAS SEIS BANDERAS INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "MUSEUM OF GLASS",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "PRATT FINE ARTS CENTER",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "HAWAII PREPARATORY ACADEMY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "STANFORD UNIVERSITY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "STEP 2",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "LEMAN ACADEMY OF EXCELLENCE INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "STANFORD HEALTH CARE 227",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "STEP I INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 4500.0,
+      "is_new": false,
+      "name": "MOGOLLON SPORTING ASSOCIATION INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 4500.0,
+      "is_new": true,
+      "name": "RIM COUNTRY ROTARY CLUB FOUNDATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": false,
+      "name": "ST ANTHONY FOUNDATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": false,
+      "name": "TAHOE RIM TRAIL ASSOCIATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": false,
+      "name": "SHRINERS HOSPITALS FOR CHILDREN - H",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": false,
+      "name": "TRUCKEE DIRT UNION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 3750.0,
+      "is_new": false,
+      "name": "SPREADING THREADS CLOTHING BANK",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": false,
+      "name": "COLORADO ACADEMY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": false,
+      "name": "KENT DENVER COUNTRY DAY SCHOOL",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": false,
+      "name": "CORNUCOPIA INSTITUTE INCORPORATED",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "BIGGEST LITTLE TRAILS STEWARDSHIP I",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "QUEENS NORTH HAWAII COMMUNITY HOSP",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "LAMBERT-EATON LEMS FAMILY ASSOCIATI",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2765.0,
+      "is_new": true,
+      "name": "HILLSDALE COLLEGE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "KONA HISTORICAL SOCIETY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "SIERRA BUTTES TRAIL STEWARDSHIP",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF MINNESOTA FOUNDATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "AMERICAN BROWNSTONE INSTITUTE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "CIVILIZATION WORKS",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "PORTLAND CHILD ART STUDIO",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "PLANET WOMEN",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "ALOHA UNITED WAY INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "PANIOLO PRESERVATION SOCIETY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "POLYNESIAN VOYAGING SOCIETY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "MAKE-A-WISH FOUNDATION OF HAWAII IN",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "NAPILI KAI FOUNDATION",
+      "purpose": "UNRESTRICTED"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "CAPITAL GRANT APPLICANTS SHOULD USE THE COMMON GRANT APPLICATION AVAILABLE ON THE FOUNDATION'S WEBSITE: WWW.GATESFAMILYFOUNDATION.ORG. PLEASE REFERENCE OUR WEBSITE FOR MORE INFORMATION ABOUT OUR INITIATED GRANT MAKING.",

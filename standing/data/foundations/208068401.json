@@ -47,6 +47,164 @@
     "singleton_cluster_share": 0.7525,
     "total_grant_records": 249
   },
+  "recipients_latest_year": [
+    {
+      "amount": 1540000.0,
+      "is_new": false,
+      "name": "MEMORIAL SLOAN KETTERING CANCER CENTER",
+      "purpose": "PERSHING SQUARE SOHN PRIZE FOR YOUNG INVESTIGATORS IN CANCER RESEARCH"
+    },
+    {
+      "amount": 1122000.0,
+      "is_new": false,
+      "name": "NEW YORK UNIVERSITY",
+      "purpose": "THE MIND (MAXIMIZING INNOVATION IN NEUROSCIENCE DISCOVERY) PRIZE"
+    },
+    {
+      "amount": 1030000.0,
+      "is_new": false,
+      "name": "CORNELL UNIVERSITY",
+      "purpose": "SUPPORT FOR THE RESEARCH OF THE LYDEN LAB"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "THE BROAD INSTITUTE OF MIT AND HARVARD",
+      "purpose": "THE MIND (MAXIMIZING INNOVATION IN NEUROSCIENCE DISCOVERY) PRIZE"
+    },
+    {
+      "amount": 790000.0,
+      "is_new": false,
+      "name": "TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK",
+      "purpose": "THE MIND (MAXIMIZING INNOVATION IN NEUROSCIENCE DISCOVERY) PRIZE"
+    },
+    {
+      "amount": 650000.0,
+      "is_new": false,
+      "name": "YALE UNIVERSITY",
+      "purpose": "PERSHING SQUARE SOHN PRIZE FOR YOUNG INVESTIGATORS IN CANCER RESEARCH"
+    },
+    {
+      "amount": 630000.0,
+      "is_new": false,
+      "name": "ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI",
+      "purpose": "SUPPORT FOR THE RESEARCH PROJECT ENTITLED, REGULATION OF TUMOR IMMUNITY BY LYMPHATICS"
+    },
+    {
+      "amount": 550000.0,
+      "is_new": false,
+      "name": "THE ROCKEFELLER UNIVERSITY",
+      "purpose": "THE MIND (MAXIMIZING INNOVATION IN NEUROSCIENCE DISCOVERY) PRIZE"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "AMCHAI",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA SAN FRANCISCO",
+      "purpose": "THE MIND (MAXIMIZING INNOVATION IN NEUROSCIENCE DISCOVERY) PRIZE"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "COLD SPRING HARBOR LABORATORY",
+      "purpose": "THE MIND (MAXIMIZING INNOVATION IN NEUROSCIENCE DISCOVERY) PRIZE"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "ALBERT EINSTEIN COLLEGE OF MEDICINE",
+      "purpose": "PERSHING SQUARE SOHN PRIZE FOR YOUNG INVESTIGATORS IN CANCER RESEARCH"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "JOHNS HOPKINS UNIVERSITY",
+      "purpose": "THE MIND (MAXIMIZING INNOVATION IN NEUROSCIENCE DISCOVERY) PRIZE"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+      "purpose": "THE MIND (MAXIMIZING INNOVATION IN NEUROSCIENCE DISCOVERY) PRIZE"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "RUTGERS THE STATE UNIVERSITY OF NJ",
+      "purpose": "PERSHING SQUARE SOHN PRIZE FOR YOUNG INVESTIGATORS IN CANCER RESEARCH"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "CITIZENS ALLIANCE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "STANFORD UNIVERSITY",
+      "purpose": "THE MIND (MAXIMIZING INNOVATION IN NEUROSCIENCE DISCOVERY) PRIZE"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA (UNIVERSITY OF CALIFORNIA DAVIS",
+      "purpose": "PERSHING SQUARE SOHN PRIZE FOR YOUNG INVESTIGATORS IN CANCER RESEARCH"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "AMERICAN ALUMNI OF GLASGOW UNIVERSITY INC",
+      "purpose": "MCNAB CENTRE AT UNIVERSITY OF GLASGOW"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "LANKENAU INSTITUTE FOR MEDICAL RESEARCH (LIMR)",
+      "purpose": "RESEARCH PROJECT: DEVELOPING EDIBLE TRANSGENIC SPIRULINA EXPRESSING ANTI-INFLAMMATORY PROTEINS FOR ORAL THERAPY OF INFLAMMATORY GASTROINTESTINAL DISEASE"
+    },
+    {
+      "amount": 18000.0,
+      "is_new": true,
+      "name": "THE EDUCATION CULTURE AND NEIGHBORHOOD RENEWAL COMPANY",
+      "purpose": "GARDENICITY SEED TO FEED PROGRAM"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "METASTASIS RESEARCH SOCIETY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "THE GALIEN FOUNDATION",
+      "purpose": "GENERAL SUPPORT FOR THE 2024 PRIX GALIEN FORUM AND AWARDS CEREMONY"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "CHANCELLOR MASTERS & SCHOLARS OF THE UNIVERSITY OF OXFORD",
+      "purpose": "OXFORD SCHOLAR CONVENING"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "EYOL INC",
+      "purpose": "THE MIND (MAXIMIZING INNOVATION IN NEUROSCIENCE DISCOVERY) PRIZE"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "SOCIETY FOR NEUROSCIENCE",
+      "purpose": "SUPPORT FOR NEUROSCIENCE 2024 CONVENING"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

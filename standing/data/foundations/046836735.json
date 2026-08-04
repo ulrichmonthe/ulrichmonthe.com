@@ -48,6 +48,1130 @@
     "singleton_cluster_share": 0.3871,
     "total_grant_records": 886
   },
+  "recipients_latest_year": [
+    {
+      "amount": 3000000.0,
+      "is_new": false,
+      "name": "AMERICAN ISRAEL EDUCATION FOUNDATION",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 3000000.0,
+      "is_new": false,
+      "name": "YEAR UP INC",
+      "purpose": "YOUTH DEVELOPMENT"
+    },
+    {
+      "amount": 2997000.0,
+      "is_new": false,
+      "name": "COMMUNITY INITIATIVES",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 2675000.0,
+      "is_new": false,
+      "name": "THE JEWISH FEDERATIONS OF NORTH AMERICA INC",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 2500000.0,
+      "is_new": false,
+      "name": "THREAD INC",
+      "purpose": "YOUTH DEVELOPMENT"
+    },
+    {
+      "amount": 2200000.0,
+      "is_new": false,
+      "name": "HONEYMOON ISRAEL FOUNDATION INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 2049000.0,
+      "is_new": false,
+      "name": "MIND RESEARCH INSTITUTE INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 1861800.0,
+      "is_new": false,
+      "name": "COMBINED JEWISH PHILANTHROPIES OF GREATER BOSTON INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 1394900.0,
+      "is_new": false,
+      "name": "JEWISH FUNDERS NETWORK",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 1320000.0,
+      "is_new": false,
+      "name": "HILLEL THE FOUNDATION FOR JEWISH CAMPUS LIFE",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 997000.0,
+      "is_new": true,
+      "name": "GOOD NATION FOUNDATION",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 995000.0,
+      "is_new": false,
+      "name": "JEWISH VOCATIONAL SERVICE INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 900000.0,
+      "is_new": false,
+      "name": "YOUTH VILLAGES INC",
+      "purpose": "HEALTH & HUMAN SERVICES"
+    },
+    {
+      "amount": 854000.0,
+      "is_new": false,
+      "name": "FALL RIVER PUBLIC SCHOOLS",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 840250.0,
+      "is_new": false,
+      "name": "REVERE PUBLIC SCHOOLS",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 840000.0,
+      "is_new": false,
+      "name": "CHELSEA PUBLIC SCHOOLS",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 686000.0,
+      "is_new": false,
+      "name": "MOISHE HOUSE",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 666000.0,
+      "is_new": false,
+      "name": "PITTSFIELD PUBLIC SCHOOLS",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 660000.0,
+      "is_new": true,
+      "name": "BIG BROTHERS BIG SISTERS OF EASTERN MASSACHUSETTS INC",
+      "purpose": "YOUTH DEVELOPMENT"
+    },
+    {
+      "amount": 612000.0,
+      "is_new": false,
+      "name": "BUCK INSTITUTE FOR EDUCATION",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 569150.0,
+      "is_new": false,
+      "name": "WESTFIELD PUBLIC SCHOOLS",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "CHILDREN'S HOSPITAL CORPORATION",
+      "purpose": "HEALTH & HUMAN SERVICES"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "ITREK INC",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "JEWISH AGENCY FOR ISRAEL-NORTH AMERICAN COUNCIL",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "SHABBAT PROJECT INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "COLLECTIVE IMPACT INITIATIVE- THE PARTNERSHIP FOR A BREAKTHROUGH IN ARAB EM",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "ANTI-DEFAMATION LEAGUE",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": true,
+      "name": "REPAIR THE WORLD INC",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 334000.0,
+      "is_new": false,
+      "name": "FOUNDATION FOR DEFENSE OF DEMOCRACIES INC",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 333000.0,
+      "is_new": false,
+      "name": "ISRAEL-AMERICA ACADEMIC EXCHANGE",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 324000.0,
+      "is_new": true,
+      "name": "NATIONAL SCIENCE TEACHERS ASSOCIATION",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 306000.0,
+      "is_new": true,
+      "name": "MASSACHUSETTS DEPARTMENT OF ELEMENTARY AND SECONDARY EDUCATION",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "DESIGN PLATFORM",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "ISRAEL ON CAMPUS COALITION",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "SUMMER SEARCH",
+      "purpose": "YOUTH DEVELOPMENT"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "THE JEWISH INSTITUTE FOR NATIONAL SECURITY OF AMERICA",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "NATIONAL BLACK EMPOWERMENT COUNCIL INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 280000.0,
+      "is_new": true,
+      "name": "INSTITUTE FOR CURRICULUM SERVICES",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 266650.0,
+      "is_new": false,
+      "name": "RANDOLPH PUBLIC SCHOOLS",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 253750.0,
+      "is_new": false,
+      "name": "THE TOWN OF MILFORD",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "BOSTON MEDICAL CENTER CORPORATION",
+      "purpose": "HEALTH & HUMAN SERVICES"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "A WIDER BRIDGE",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "FJC - A FOUNDATION OF PHILANTHROPIC FUNDS",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "FOUNDATION FOR JEWISH CAMPING INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 236000.0,
+      "is_new": false,
+      "name": "TEMPLE SHIR TIKVA",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 228000.0,
+      "is_new": false,
+      "name": "INSTITUTE FOR CITIZENS & SCHOLARS",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 228000.0,
+      "is_new": true,
+      "name": "THE RAND CORPORATION",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": false,
+      "name": "THE FOUNDATION OF THE UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 201500.0,
+      "is_new": false,
+      "name": "BOSTON RENAISSANCE FOUNDATION INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "BETH ISRAEL DEACONESS MEDICAL CENTER INC",
+      "purpose": "HEALTH & HUMAN SERVICES"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "HAROLD GRINSPOON FOUNDATION",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "THE PORTLAND TRUST",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "BOARD OF JEWISH EDUCATION INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "NANTUCKET PROJECT ACADEMY INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "SONDUK EL YANABIA",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "THE ICENTER",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 177750.0,
+      "is_new": false,
+      "name": "CLINTON PUBLIC SCHOOLS",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "ISRAEL POLICY FORUM",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 165000.0,
+      "is_new": true,
+      "name": "CLAL-THE NATIONAL JEWISH CENTER FOR LEARNING AND LEADERSHIP INC",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 163000.0,
+      "is_new": true,
+      "name": "TOWN OF PLYMOUTH",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 155000.0,
+      "is_new": true,
+      "name": "MASSACHUSETTS BUSINESS ALLIANCE FOR EDUCATION INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 155000.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 153966.0,
+      "is_new": false,
+      "name": "LEICESTER PUBLIC SCHOOLS",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "IMPACTISRAEL INC",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "ROSIE'S PLACE INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "STEPPINGSTONE FOUNDATION INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "JEWISH COMMUNITY RELATIONS COUNCIL OF GREATER BOSTON INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "HILLEL FOUNDATION OF CAMBRIDGE INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "OLIM BEYAHAD",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 149000.0,
+      "is_new": true,
+      "name": "BROWN UNIVERSITY",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 136500.0,
+      "is_new": false,
+      "name": "HOOSAC VALLEY REGIONAL SCHOOL DISTRICT",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 128750.0,
+      "is_new": false,
+      "name": "WALTHAM PUBLIC SCHOOLS",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "HASOUB",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "POSTSECONDARY COMMISSION INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 109250.0,
+      "is_new": false,
+      "name": "QUABOAG REGIONAL SCHOOL DISTRICT",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 103100.0,
+      "is_new": false,
+      "name": "PROJECT LEAD THE WAY INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BROTHERS FOR LIFE",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "EVANS SCHOLARS FOUNDATION",
+      "purpose": "YOUTH DEVELOPMENT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "FACING HISTORY & OURSELVES INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "LEADING EDGE ALLIANCE INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "NANTUCKET GOLF CLUB FOUNDATION INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "THE GREATER BOSTON FOOD BANK INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "UNITED STATES HOLOCAUST MEMORIAL MUSEUM",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "BIRTHRIGHT ISRAEL FOUNDATION",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": true,
+      "name": "GALILA FOR A BETTER FUTURE (RA)",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 75400.0,
+      "is_new": true,
+      "name": "NATIONAL CENTER ON EDUCATION AND THE ECONOMY",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "RIAN IMMIGRANT CENTER INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "BEND THE ARC A JEWISH PARTNERSHIP FOR JUSTICE",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 66000.0,
+      "is_new": true,
+      "name": "TRUSTEES OF TUFTS COLLEGE",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 64000.0,
+      "is_new": true,
+      "name": "ICIVICS INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 62000.0,
+      "is_new": false,
+      "name": "NORTHWESTERN UNIVERSITY",
+      "purpose": "HEALTH & HUMAN SERVICES"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": true,
+      "name": "INTERFAITHFAMILYCOM INC (18 DOORS)",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BOSTON COLLEGIATE CHARTER SCHOOL FOUNDATION INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BRIGHAM AND WOMEN'S HOSPITAL INC",
+      "purpose": "HEALTH & HUMAN SERVICES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BROOKE SCHOOL FOUNDATION",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ISRAELI-AMERICAN COUNCIL",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "JEWISH FAMILY & CHILDRENS SERVICE",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MASSACHUSETTS GENERAL HOSPITAL",
+      "purpose": "HEALTH & HUMAN SERVICES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MASSACHUSETTS WONDERFUND INC",
+      "purpose": "HEALTH & HUMAN SERVICES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "PINE STREET INN INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SUCCESS ACADEMY CHARTER SCHOOLS INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "TEACH FOR AMERICA INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "TEAM IMPACT INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "UNION CAPITAL BOSTON INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "UP EDUCATION NETWORK INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "WASHINGTON INSTITUTE FOR NEAR EAST POLICY",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CAPE COD FOUNDATION INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "COMMUNITY FOUNDATION OF WESTERN MASSACHUSETTS",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ISRAEL INSTITUTE INC",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "JEWS OF COLOR INITIATIVE",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ALEXANDER TWILIGHT ACADEMY",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "IRGUN RABBANEI TZOHAR (RA)",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "ASSOCIATION OF GRADUATES OF THE UNITED STATES MILITARY ACADEMY",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "ATHLETES FOR ISRAEL INC",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "FOUNDATION FOR INDIVIDUAL RIGHTS AND EXPRESSION INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": true,
+      "name": "AMERICA-ISRAEL FRIENDSHIP LEAGUE INC",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 39000.0,
+      "is_new": false,
+      "name": "WORK-BASED LEARNING ALLIANCE INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 36000.0,
+      "is_new": false,
+      "name": "BOYS AND GIRLS CLUBS OF BOSTON INC",
+      "purpose": "YOUTH DEVELOPMENT"
+    },
+    {
+      "amount": 36000.0,
+      "is_new": false,
+      "name": "COMMUNITY SERVINGS INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 36000.0,
+      "is_new": false,
+      "name": "ESPLANADE ASSOCIATION INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 36000.0,
+      "is_new": false,
+      "name": "THE SHALEM FOUNDATION",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 36000.0,
+      "is_new": false,
+      "name": "FUENTE LATINA INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 34307.0,
+      "is_new": false,
+      "name": "PEMBROKE PUBLIC SCHOOLS",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 30184.0,
+      "is_new": false,
+      "name": "MILLBURY PUBLIC SCHOOLS",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "UNITED JEWISH APPEAL - FEDERATION OF JEWISH PHILANTHROPIES OF NEW YORK INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 26800.0,
+      "is_new": false,
+      "name": "PLANNED PARENTHOOD LEAGUE OF MASSACHUSETTS INC",
+      "purpose": "HEALTH & HUMAN SERVICES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ASSOCIATED JEWISH COMMUNITY FEDERATION OF BALTIMORE INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC",
+      "purpose": "HEALTH & HUMAN SERVICES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BUSINESS EXECUTIVES FOR NATIONAL SECURITY",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CATHOLIC SCHOOLS FOUNDATION INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "GILMAN SCHOOL INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "JEWISH COMMUNITY FOUNDATION OF SAN DIEGO",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "KIPP MASSACHUSETTS INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NANTUCKET COTTAGE HOSPITAL",
+      "purpose": "HEALTH & HUMAN SERVICES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NEW VENTURE FUND",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PREPARATORY FOUNDATION INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "YOUNG MENS CHRISTIAN ASSOCIATION OF GREATER BOSTON INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NEW ENGLAND AQUARIUM CORPORATION",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SOUTHCOAST COMMUNITY FOUNDATION INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "THE CALCULUS PROJECT INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "AMUTAT HAMOVILIM LEMADA AND TECHNOLOGY (RA)",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "MASSACHUSETTS FALLEN HEROES INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "TEACHERS COLLEGE COLUMBIA UNIVERSITY",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "THE 74 MEDIA INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "FATHERS UPLIFT INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "LEHRHAUS CENTER FOR JEWISH LIFE AND LEARNING INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "MATAN",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "OPENDOR MEDIA INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "RADICAL HOPE INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "LIFE AFTER HATE INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "MORE THAN WORDS INC",
+      "purpose": "YOUTH DEVELOPMENT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "ROCA INC",
+      "purpose": "YOUTH DEVELOPMENT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "LEVEL PLAYING FIELD LTD",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "TRYBAL GATHERINGS INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 18000.0,
+      "is_new": false,
+      "name": "HORIZONS FOR HOMELESS CHILDREN INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 18000.0,
+      "is_new": false,
+      "name": "NASHOBA LEARNING GROUP INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 18000.0,
+      "is_new": false,
+      "name": "EVERYTOWN FOR GUN SAFETY SUPPORT FUND INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 18000.0,
+      "is_new": true,
+      "name": "CHILD WELFARE INNOVATION INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 18000.0,
+      "is_new": true,
+      "name": "RASHI SCHOOL INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 17360.0,
+      "is_new": false,
+      "name": "TOWN OF SEEKONK",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 15900.0,
+      "is_new": false,
+      "name": "AYER SHIRLEY SCHOOL DISTRICT",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "UTEC INC",
+      "purpose": "YOUTH DEVELOPMENT"
+    },
+    {
+      "amount": 11880.0,
+      "is_new": false,
+      "name": "MONOMOY REGIONAL SCHOOL DISTRICT",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "AMERICAN FRIENDS OF JORDAN RIVER VILLAGE FOUNDATION",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "AMERICAN JEWISH JOINT DISTRIBUTION COMMITTEE INC",
+      "purpose": "GLOBAL"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "COACHING FOR CHANGE INC",
+      "purpose": "YOUTH DEVELOPMENT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "COMMUNITY FOUNDATION FOR NANTUCKET",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CRADLES TO CRAYONS INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "JEWISH COMMUNITY CENTERS OF GREATER BOSTON INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "NATIONAL ASSOCIATION FOR THE ADVANCEMENT OF COLORED PEOPLE",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "PROJECT ALS INC",
+      "purpose": "HEALTH & HUMAN SERVICES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "THE MISSION CONTINUES",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "JEWISH BIG BROTHER-SISTER ASSOCIATION OF BOSTON",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "KENS KREW INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "THOMAS B FORDHAM INSTITUTE",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "ECONOMIC MOBILITY PATHWAYS INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "STUDENT CLUBS OF HBS INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 8940.0,
+      "is_new": false,
+      "name": "BELLINGHAM PUBLIC SCHOOLS",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "SOUTH HADLEY PUBLIC SCHOOLS",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 6452.0,
+      "is_new": false,
+      "name": "PEABODY PUBLIC SCHOOLS",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 6029.0,
+      "is_new": false,
+      "name": "MILTON PUBLIC SCHOOLS",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "CYSTIC FIBROSIS FOUNDATION",
+      "purpose": "HEALTH & HUMAN SERVICES"
+    },
+    {
+      "amount": 4500.0,
+      "is_new": true,
+      "name": "TWO BIT CIRCUS FOUNDATION",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 3400.0,
+      "is_new": true,
+      "name": "LEADING EDUCATORS INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 2730.0,
+      "is_new": false,
+      "name": "TOWN OF UXBRIDGE PUBLIC SCHOOLS",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": true,
+      "name": "PLAYLAB EDUCATION INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "WHITE PLAINS HOSPITAL MEDICAL CENTER",
+      "purpose": "COMMUNITY"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

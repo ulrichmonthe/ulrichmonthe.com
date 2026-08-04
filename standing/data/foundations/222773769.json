@@ -48,6 +48,1238 @@
     "singleton_cluster_share": 0.3688,
     "total_grant_records": 910
   },
+  "recipients_latest_year": [
+    {
+      "amount": 2128280.0,
+      "is_new": false,
+      "name": "NEWPORT PUBLIC SCHOOLS",
+      "purpose": "THE NEW ROGERS HIGH SCHOOL"
+    },
+    {
+      "amount": 1545000.0,
+      "is_new": false,
+      "name": "PRESERVATION SOCIETY OF NEWPORT COUNTY",
+      "purpose": "RESTORE BREAKERS' TERRACE, LE FETE DU JARDIN EVENT, MAP STONE WALLS. UNRESTRICTED"
+    },
+    {
+      "amount": 1195000.0,
+      "is_new": false,
+      "name": "NEWPORT HOSPITAL FOUNDATION",
+      "purpose": "SUPPORT OF ADOLESCENT BEHAVORIAL UNIT AND UNRESTRICTED"
+    },
+    {
+      "amount": 1010000.0,
+      "is_new": false,
+      "name": "FRIENDS OF BOCA GRANDE COMMUNITY CENTER",
+      "purpose": "SUPPORT RENOVATIONS AND IMPROVEMENTS AND $10K UNRESTRICTED"
+    },
+    {
+      "amount": 365000.0,
+      "is_new": false,
+      "name": "NEWPORT HISTORICAL SOCIETY",
+      "purpose": "FOR DOCUMENTING THE LIVES OF AFRICANS, AFRICAN-AMERICANS AND INDIGENOUS PEOPLES IN COLONIAL NEWPORT AND TO SUPPORT THE NEWPORT SHOW"
+    },
+    {
+      "amount": 325000.0,
+      "is_new": true,
+      "name": "NEWPORT COUNTY YMCA",
+      "purpose": "SUPPLEMENTAL CAPITAL FOR CHILDCARE CENTER"
+    },
+    {
+      "amount": 299128.0,
+      "is_new": false,
+      "name": "NEWPORT COUNTY COMMUNITY MENTAL HEALTH CENTER",
+      "purpose": "PLANNING AND DESIGN OF NEW FACILITY, TRANSITIONS OF CARE"
+    },
+    {
+      "amount": 281500.0,
+      "is_new": false,
+      "name": "MIDDLETOWN PUBLIC SCHOOLS",
+      "purpose": "ESTABLISH A MULTI-LANGUAGE LEARNER COLLABORATIVE"
+    },
+    {
+      "amount": 275000.0,
+      "is_new": false,
+      "name": "GIRL SCOUTS OF SOUTHEASTERN NEW ENGLAND",
+      "purpose": "COMPLETION OF A MASTER PLAN FOR CAMP ROCKY FARM"
+    },
+    {
+      "amount": 252821.0,
+      "is_new": false,
+      "name": "EAST BAY COMMUNITY ACTION PROGRAM",
+      "purpose": "TO LAUNCH A BEHAVIORAL HEALTH COLLABORATION AND BABY STEPS EARLY CHILDHOOD LITERACY AND PARENT ENGAGEMENT PROGRAM"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "BUTLER HOSPITAL",
+      "purpose": "MEMORY AND AGING PROGRAM FACILITIES"
+    },
+    {
+      "amount": 199395.0,
+      "is_new": false,
+      "name": "RHODE ISLAND ASSOCIATION FOR INFANT MENTAL HEALTH",
+      "purpose": "COMMUNITY OF PRACTICE IN INFANT MENTAL HEALTH IN THE EARLY INTERVENTION SYSTEM"
+    },
+    {
+      "amount": 173900.0,
+      "is_new": true,
+      "name": "RHODE ISLAND ASSOCIATION FOR THE EDUCATION OF CHILDREN",
+      "purpose": "GATHERING, ANALYZING AND SHARING DATA ON CHILDREN'S NEEDS AND ACCESS IN NEWPORT COUNTY"
+    },
+    {
+      "amount": 172000.0,
+      "is_new": true,
+      "name": "IYRS SCHOOL OF TECHNOLOGY",
+      "purpose": "ANNUAL GIFTS, SUPPORT GALA, ANTIGUA SCHOLARSHIP FUND, WHARF DESIGN AND UNRESTRICTED"
+    },
+    {
+      "amount": 167500.0,
+      "is_new": false,
+      "name": "FABNEWPORT",
+      "purpose": "CONTINUED GROWTH OF NEWPORT EXPERIENCE"
+    },
+    {
+      "amount": 155000.0,
+      "is_new": false,
+      "name": "NAVAL WAR COLLEGE FOUNDATION",
+      "purpose": "SUPPORT SENTINEL OF THE SEA EVENT, ANNUAL FUNDS"
+    },
+    {
+      "amount": 155000.0,
+      "is_new": false,
+      "name": "WESLEYAN UNIVERSITY",
+      "purpose": "FILM CENTER CAMPAIGN AND FINANCIAL AID"
+    },
+    {
+      "amount": 155000.0,
+      "is_new": false,
+      "name": "EMMA PENDLETON BRADLEY HOSPITAL",
+      "purpose": "UPDATE PLAYGROUND AND CLIMBING STRUCTURE"
+    },
+    {
+      "amount": 147800.0,
+      "is_new": false,
+      "name": "ST COLUMBA - THE BERKELEY MEMORIAL CHAPEL",
+      "purpose": "ENDOWMENT FOR OPERATIONS"
+    },
+    {
+      "amount": 146400.0,
+      "is_new": false,
+      "name": "GROW SMART RHODE ISLAND",
+      "purpose": "GENERAL OPERATIONS AND NEW OPERATIONS MANAGER"
+    },
+    {
+      "amount": 145000.0,
+      "is_new": false,
+      "name": "TAFT SCHOOL",
+      "purpose": "ANNUAL FUND AND TO BENEFIT TAFT SCHOOL"
+    },
+    {
+      "amount": 142193.0,
+      "is_new": true,
+      "name": "NEWPORTFILM INC",
+      "purpose": "SUPPORT DEVELOPMENT OF OUTDOORS PROGRAM GUIDE, 2024 SUMMER BENEFIT, AND UNRESTRICTED"
+    },
+    {
+      "amount": 139415.0,
+      "is_new": true,
+      "name": "PORTSMOUTH SCHOOL DEPARTMENT",
+      "purpose": "PURCHASE AND INSTALLATION OF GREENHOUSE SUPPORT INCLUSIVE LEARNING CENTER"
+    },
+    {
+      "amount": 135000.0,
+      "is_new": false,
+      "name": "ST GEORGE'S SCHOOL",
+      "purpose": "FINANCIAL AID AND TEACHERS SALARIES"
+    },
+    {
+      "amount": 130322.0,
+      "is_new": false,
+      "name": "SALVE REGINA UNIVERSITY",
+      "purpose": "TO PILOT THE MCCAULEY COLLEGE PATHWAY PROGRAM"
+    },
+    {
+      "amount": 130000.0,
+      "is_new": false,
+      "name": "FRIENDS OF NEWPORT SKATEPARK",
+      "purpose": "SUPPORT STORMWATER ASSESSMENT AND DESIGN PLAN"
+    },
+    {
+      "amount": 124445.0,
+      "is_new": false,
+      "name": "NORMAN BIRD SANCTUARY TRUST",
+      "purpose": "THE CONSERVATION CREW AND UNRESTRICTED"
+    },
+    {
+      "amount": 122000.0,
+      "is_new": false,
+      "name": "RHODE ISLAND PUBLIC RADIO",
+      "purpose": "SUPPORT NEW DIGITAL PLATFORM AND UNRESTRICTED"
+    },
+    {
+      "amount": 120000.0,
+      "is_new": true,
+      "name": "THE FOUNDATION FOR INTEGRATED CARE",
+      "purpose": "PILOT INTERGRATED BEHAVORIAL HEALTH SERVICES"
+    },
+    {
+      "amount": 115000.0,
+      "is_new": false,
+      "name": "MILL REEF FUND",
+      "purpose": "SUPPORT ISLAND ACADEMY GIFT AND UNRESTRICTED"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "MARTIN LUTHER KING COMMUNITY CENTER INC",
+      "purpose": "GENERAL OPERATIONS AND UNRESTRICTED"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "NEWPORT COUNTY DEVELOPMENT COUNCIL",
+      "purpose": "CONTINUED SUPPORT OF CONNECT GREATER NEWPORT"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "CONEXION LATINA NEWPORT",
+      "purpose": "HISPANIC COMMUNITY ACCESS CENTER AND ASSOCIATED PROGRAMMING"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "RHODE ISLAND COALITION FOR CHILDREN AND FAMILIES EDUCATION FUND INC",
+      "purpose": "BUILD CAPACITY FOR BEHAVIORAL HEALTH SYSTEM"
+    },
+    {
+      "amount": 109000.0,
+      "is_new": false,
+      "name": "THROUGHLINE LEARNING",
+      "purpose": "INCREASING SCHOOL AND COMMUNITY ORGANIZATION AND HUMAN RESOURCE ASSESSMENT"
+    },
+    {
+      "amount": 105000.0,
+      "is_new": false,
+      "name": "ROBERT POTTER LEAGUE FOR ANIMALS INC",
+      "purpose": "GENERAL OPERATIONS, STRATEGIC PLAN AND A ONE-TIME GRANT TO ADDRESS RISING FOOD,SHELTER AND VETERINARY NEEDS ON AQUIDNECK ISLAND"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "STRATEGIC PREVENTION PARTNERSHIPS",
+      "purpose": "EXPANSION OF PROGRAMMING THROUGH THE NO WRONG DOOR SYSTEM OF CARE"
+    },
+    {
+      "amount": 96810.0,
+      "is_new": false,
+      "name": "NEWPORT ART MUSEUM",
+      "purpose": "CAPITAL IMPROVEMENTS, SUMMER BENEFIT AND UNRESTRICTED"
+    },
+    {
+      "amount": 94000.0,
+      "is_new": false,
+      "name": "COLLEGE UNBOUND",
+      "purpose": "FINANCIAL AID FOR MATRICULATING STUDENTS"
+    },
+    {
+      "amount": 78000.0,
+      "is_new": false,
+      "name": "INTERNATIONAL TENNIS HALL OF FAME",
+      "purpose": "TO SUPPORT AFTERSCHOOL AND SUMMER PROGRAMS"
+    },
+    {
+      "amount": 71149.0,
+      "is_new": false,
+      "name": "BATTLE OF RHODE ISLAND ASSCOIATION",
+      "purpose": "ARCHAEOLOGICAL WORK AT BUTTS HILL"
+    },
+    {
+      "amount": 71000.0,
+      "is_new": false,
+      "name": "RHODE ISLAND COMMUNITY FOUNDATION",
+      "purpose": "CAPACITY BUILDING COHORT/WORKSHOPS"
+    },
+    {
+      "amount": 69000.0,
+      "is_new": false,
+      "name": "BIKE NEWPORT",
+      "purpose": "SUPPORT RI 2.0 AND UNRESTRICTED"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "LUCY'S HEARTH",
+      "purpose": "GENERAL OPERATIONS 2024"
+    },
+    {
+      "amount": 62500.0,
+      "is_new": false,
+      "name": "GNOME INC",
+      "purpose": "SUPPORT PROGRAM EXPANSION"
+    },
+    {
+      "amount": 60770.0,
+      "is_new": true,
+      "name": "ALL SAINTS ACADEMY",
+      "purpose": "PERSONALIZING EDUCATION FOR THE 21ST CENTURY LEARNER"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "ACADEMY IN MANAYUNK INC",
+      "purpose": "UNRESTRICTED GIFT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "RHODE ISLAND COMMUNITY FOOD BANK",
+      "purpose": "GENERAL OPERATIONS, INNOVATION FUND AND ONE-TIME GRANT TO ADDRESS RISING FOOD AND TRANSPORTATION COSTS"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "SAVE THE BAY INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 57000.0,
+      "is_new": false,
+      "name": "BOYS CLUBS & GIRLS CLUBS OF NEWPORT COUNTY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 55074.0,
+      "is_new": true,
+      "name": "NEWPORT COMMUNITY SCHOOL",
+      "purpose": "GED ATTAINMENT AND ADULT LEARNERS CAREER PATHWAYS"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "ATLANTIC THEATRE COMPANY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "PHILLIPS ACADEMY ANDOVER",
+      "purpose": "ADDISON GALLERY-HEDDA STERN PURCHASE AND FINANCIAL AID"
+    },
+    {
+      "amount": 54000.0,
+      "is_new": false,
+      "name": "RHODE ISLAND KIDS COUNT",
+      "purpose": "GENERAL OPERATIONS AND TO SUSTAIN/IMPROVE SCHOOL BASED MENTAL HEALTH SUPPORT IN NEWPORT"
+    },
+    {
+      "amount": 50782.0,
+      "is_new": false,
+      "name": "THUNDERMIST HEALTH CENTER",
+      "purpose": "PILOT SCHOOL-BASED TELEHEALTH SERVICES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BOCA GRANDE HEALTH CLINIC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ECORI INC",
+      "purpose": "IMPROVE ORGANIZATIONAL SUSTAINABILITY"
+    },
+    {
+      "amount": 49487.0,
+      "is_new": true,
+      "name": "NEWPORT PRIDE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 48925.0,
+      "is_new": false,
+      "name": "NEWPORT PARTNERSHIPS FOR FAMILIES",
+      "purpose": "READING REAPS REWARDS AND STRATEGIC PLANNING AND TO COORDINATE MEMBER WORKING GROUPS"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "NEWPORT FESTIVALS FOUNDATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": true,
+      "name": "WEILL CORNELL MEDICINE",
+      "purpose": "DIVISION OF CHILD & ADOLESCENT PSYCHIATRY"
+    },
+    {
+      "amount": 41500.0,
+      "is_new": false,
+      "name": "GREATER GOOD CHARITIES",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 40580.0,
+      "is_new": true,
+      "name": "TURNING AROUND MINISTRIES INC",
+      "purpose": "TWO COHORTS TO PARTICIPATE IN A 14 WEEK LIFE SKILLS/JOB READINESS PROGRAM"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "MEALS ON WHEELS OF RI INC",
+      "purpose": "GENERAL OPERATIONS AND ORENEWED OPERATING SUPPORTT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "ST COLUMBA CHAPEL HISTORIC PRESERVATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 38941.0,
+      "is_new": false,
+      "name": "FOUR HEARTS FOUNDATION",
+      "purpose": "SUPPLEMENTAL CAPITAL FOR NEW TURNPIKE AVENUE PLAYGROUND"
+    },
+    {
+      "amount": 36259.0,
+      "is_new": false,
+      "name": "PRESERVE RHODE ISLAND",
+      "purpose": "AQUIDNECK STONE WALL INITIATIVE"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "BARNES FOUNDATION",
+      "purpose": "2024 EXHIBITION FUND AND UNRESTRICTED"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "NEWPORT TREE CONSERVANCY",
+      "purpose": "GENERAL OPERATING AND UNRESTRICTED"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "FRIENDS OF ISLAND CEMETERY",
+      "purpose": "SUPPORT FAREWELL PLANNING WORKSHOP AND UNRESTRICTED"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "WOMENS RESOURCE CENTER OF NEWPORT COUNTY",
+      "purpose": "COUNSELING PROGRAM"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "NEWPORT RESTORATION FOUNDATION",
+      "purpose": "18TH ANNUAL DORIS DUKE HISTORIC PRESERVATION AWARDS IN HONOR OF HOPE H VAN BEUREN"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "SAIL TO PREVAIL",
+      "purpose": "ADAPTIVE SAIL PROGRAM"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF VERMONT",
+      "purpose": "ANNUAL FUND AND TOWARDS DOCUMENTARY STORYTELLING"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "BOCA GRANDE UNITED METHODIST CHURCH",
+      "purpose": "BOCA GRANDE DISASTER FUND"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "ENTREPRENEURSHIP FOR ALL INC",
+      "purpose": "LAUNCH OF THE EFORALL RHODE ISLAND PROGRAM"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "DESIGNXRI",
+      "purpose": "NEWPORT LAUNCH AND DESIGN CATALYST"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "THE FOUNDATION FOR THE NEW ENGLAND MEDICAL INNOVATION",
+      "purpose": "DEVELOP RELATIONSHIPS AND NETWORKS"
+    },
+    {
+      "amount": 27500.0,
+      "is_new": false,
+      "name": "ST BERNARD'S SCHOOL",
+      "purpose": "ANNUAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BRYN MAWR HOSPITAL FOUNDATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "DUTCHESS LAND CONSERVANCY",
+      "purpose": "TOWARDS THE RALLY FARMS ENDOWMENT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "THE ISLAND SCHOOL",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "WORLD MONUMENT FUND",
+      "purpose": "PRESIDENT CIRCLE AND UNRESTRICTED"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "OVERBROOK SCHOOL FOR THE BLIND",
+      "purpose": "IN MEMORY OF NICOLAS LENTZ"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "SAIL 250 NEW YORK INC",
+      "purpose": "250TH ANNIVERSARY IN NYC"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "THE HOUSING HOTLINE",
+      "purpose": "HELP PROVIDE TEMPORARY HOUSING TO THOSE IN NEED"
+    },
+    {
+      "amount": 22300.0,
+      "is_new": false,
+      "name": "CHILD AND FAMILY SERVICES OF NEWPORT",
+      "purpose": "WORKFORCE RETENTION AND PIPELINE, BUILD NEWPORT COUNTY HEALTHCARE COLLABORATIVE'S CAPACITY TO ADDRESS THE WORKFORCE CRISIS."
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "ALLEN-CHASE FOUNDATION",
+      "purpose": "ANNUAL FUND"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "CENTRAL PARK CONSERVANCY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "GASPARILLA ISLAND CONSERVATION & IMPROVEMENT ASSOCIATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "PROTECT OUR WINTERS",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "SUNCOAST HUMANE SOCIETY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "THIRD SECTOR NEW ENGLAND INC",
+      "purpose": "GENERAL OPERATING"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "ELKHORN MARINE CONSERVANCY",
+      "purpose": "SUPPORT CORAL RESTORATION IN ANTIGUA"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "NIGHTINGALE BAMFORD SCHOOL",
+      "purpose": "ANNUAL FUND"
+    },
+    {
+      "amount": 17500.0,
+      "is_new": false,
+      "name": "TRUSTEES OF COLUMBIA",
+      "purpose": "ANNUAL FUND AND UNRESTRICTED"
+    },
+    {
+      "amount": 16000.0,
+      "is_new": false,
+      "name": "AMENITY AID",
+      "purpose": "ACCESS TO HYGIENE PRODUCTS IN COLLABORATION WITH NEWPORT'S COMMUNITY SUPPORT NETWORK"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "CHURCH COMMUNITY HOUSING CORPORATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "CHILDREN'S HOSPITAL OF PHILADELPHIA FOUNDATION",
+      "purpose": "UNRESTRICTED IN HONOR OF LILIANE HAUB"
+    },
+    {
+      "amount": 14500.0,
+      "is_new": true,
+      "name": "PROJECT UNDERCOVER INC",
+      "purpose": "SUPPORT EMERGENCY DIAPER NEEDS IN NEWPORT"
+    },
+    {
+      "amount": 13750.0,
+      "is_new": true,
+      "name": "SARGENT REHABILITATION CENTER",
+      "purpose": "SUPPORT STUDENT PARTICIPATION IN ACTIVITIES"
+    },
+    {
+      "amount": 12800.0,
+      "is_new": false,
+      "name": "GRANTMAKERS COUNCIL OF RHODE ISLAND",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "CONANICUT ISLAND SAILING FOUNDATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": true,
+      "name": "ISLAND ACADEMY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": false,
+      "name": "FORT ADAMS TRUST",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 11000.0,
+      "is_new": false,
+      "name": "INTERNATIONAL MEDICAL CORPS",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "564 PARK AVENUE PRESERVATION FOUNDATION",
+      "purpose": "UNRESTRICTED GIFT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ART & NEWPORT",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "BROOKS SCHOOL",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "JAMESTOWN ART CENTER",
+      "purpose": "UNRESTRICTED IN LUKE RANDALL'S MEMORY"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "POMFRET SCHOOL",
+      "purpose": "ANNUAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "VNS OF NEWPORT & BRISTOL COUNTIES",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "WREXHAM FOUNDATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "MUSEUM OF THE CITY OF NEW YORK",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "REDWOOD LIBRARY AND ATHENAEUM",
+      "purpose": "SUPPORT 2024 SUMMER PARTY"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "STUDIO MUSEUM IN HARLEM",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "TRINITY CHURCH",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "WOODS HOLE OCEANOGRAPHIC INSTITUTION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "MEMORIAL SLOAN KETTERING CANCER CENTER",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "MSRED ALUMNI ASTRAL DEVELOPMENT",
+      "purpose": "FOR THE ANNUAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "COMMON CAUSE EDUCATION FUND",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "INTERNATIONAL STUDIO AND CURATORIAL PROGRAM",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "OCEAN CONSERVANCY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "THIRD OPTION FOUNDATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "GREEN OCEANS",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "LEAGUE OF WOMAN VOTERS EDUCATION FUND",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "NEW YORK PRESBYTERIAN HOSPITAL",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "RHODE ISLAND COALITION FOR THE HOMELESS",
+      "purpose": "DEI CONSULTATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "SAINT MICHAEL'S COUNTY DAY SCHOOL",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "THE SAILING MUSEUM AND NATIONAL SAILING HALL OF FAME",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "WARRIOR SCHOLAR PROJECT",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "FUNDERS NETWORK FOR SMART GROWTH AND LIVABLE COMMUNITIES",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "YALE UNIVERSITY",
+      "purpose": "ANNUAL FUND"
+    },
+    {
+      "amount": 7200.0,
+      "is_new": false,
+      "name": "REACH OUT AND READ RHODE ISLAND",
+      "purpose": "SUPPORT LITERACY"
+    },
+    {
+      "amount": 6500.0,
+      "is_new": false,
+      "name": "GOWANUS CANAL CONSERVANCY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 6160.0,
+      "is_new": true,
+      "name": "ROSE ISLAND LIGHTHOUSE FOUNDATION",
+      "purpose": "SUPPORT FUND DEVELOPMENT CONSULTING"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "ART 21 INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "BOCA GRANDE WOMANS CLUB",
+      "purpose": "SCHOLARSHIPS AND BOCA GRANDE DISASTER FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "BROOKLYN RAIL INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "GLADNEY CENTER FOR ADOPTION",
+      "purpose": "SUPPORT GLADNEY FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "NEW YORK LANDMARKS CONSERVANCY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "NEWPORT MIDDLE PASSAGE & PORT MAKER PROJECT",
+      "purpose": "FOR EDUCATIONAL PROGRAMMING"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "NEWPORT PUBLIC LIBRARY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "PA SOCIETY-PREVENTION OF CRUELTY TO ANIMALS",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "PHILADELPHIA ORCHESTRA ASSOCIATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "PUPPIES BEHIND BARS",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "STAR KIDS SCHOLARSHIP PROGRAM",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "STUDIO INCAMMINATI",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "TOURO SYNAGOGUE FOUNDATION",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "WHYY INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "ARTS GOWANUS",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "COMMUNITY CLOTHES CHARITY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "MADISON SQUARE PARK CONSERVANCY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "MISSIONWOLF",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "PHILADELPHIA MUSEUM OF ART",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "RED HOOK INITIATIVE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "FRIENDS SEMINARY",
+      "purpose": "FINANCIAL AID"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "MYSTIC SEAPORT MUSEUM INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "PROSPECT PARK ALLIANCE INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "BEAM CENTER INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "COMMUNITY HELP IN PARK SLOPE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "FOOD BANK FOR NEW YORK CITY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "NATIONAL DANCE INSTITUTE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "NEW YORK SUN WORKS INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "BROOKLYN WORKFORCE INNOVATIONS-LEAP",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "KENYON COLLEGE",
+      "purpose": "ANNUAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "LAWRENCEVILLE SCHOOL",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "NARRAGANSETT COUNCIL - BOY SCOUTS OF AMERICA",
+      "purpose": "SUPPORT SCOUTING"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "SEMPER FI FUND",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "STREET SQUASH USA",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF RICHMOND",
+      "purpose": "JEPSON SCHOOL OF LEADERSHIP"
+    },
+    {
+      "amount": 4835.0,
+      "is_new": false,
+      "name": "HEIFER PROJECT INTERNATIONAL",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": false,
+      "name": "ROYAL PALM PLAYERS",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": false,
+      "name": "PENNSYLVANIA ACADEMY OF FINE ARTS",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": true,
+      "name": "RAILS TO TRAILS CONSERVANCY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "BLITHEWOLD",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "BRANDYWINE CONSERVANCY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "C THOMAS CLAGETT JR MEMORIAL CLINIC & REGATTA INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "FOOD FOR THE POOR INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "FRIENDS OF UPPER EAST SIDE HISTORIC DISTRICT INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "GARDEN CONSERVANCY",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "THE OLANA PARTNERSHIP",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "ACADEMY OF MUSIC OF PHILADELPHIA",
+      "purpose": "ACADEMY OF MUSIC RESTORATION AND UNRESTRICTED SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "AMERICAN PUBLIC MEDIA GROUP",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "WILDLIFE REHABILITATORS ASSOCIATION OF RI",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "CARY INSTITUTE FOR GLOBAL GOOD",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "MILLBROOK FIRE DEPARTMENT",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "NEWPORT COUNTY YANA CLUB",
+      "purpose": "BOARD TRAINING"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "WNYC-NEW YORK PUBLIC RADIO",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2250.0,
+      "is_new": false,
+      "name": "PEAK GRANTMAKING INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "ST ANDREWS EPISCOPAL CHURCH",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF RI FOUNDATION",
+      "purpose": "SUPPORT TOWER REPLACEMENT FUND"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "OPEN PATHS COUNSELING CENTER",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "UNDERDOG RESCUE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "CHARITABLE PARTNERSHIP FUND",
+      "purpose": "AUXART SUPPORT"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "FRIENDS OF MVYRADIO INC",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "NEWPORT LIVE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "WFMU-AURICLE COMMUNICATIONS",
+      "purpose": "SUPPORT FUNDRAISING MARATHON"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "WORLD CENTRAL KITCHEN",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "COUNCIL ON FOUNDATIONS",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "THE PHILANTHROPY ROUNDTABLE",
+      "purpose": "UNRESTRICTED"
+    },
+    {
+      "amount": -4500.0,
+      "is_new": false,
+      "name": "SOCIAL ENTERPRISE GREENHOUSE",
+      "purpose": "REFUND SUPPORT EMERGING ENTERPRISES"
+    },
+    {
+      "amount": -32076.0,
+      "is_new": true,
+      "name": "POLARIS MEP",
+      "purpose": "REFUND OF SUPPORT START UP OF ADVANCE MATERIALS INNOVATION CENTER"
+    },
+    {
+      "amount": -486500.0,
+      "is_new": false,
+      "name": "AQUIDNECK LAND TRUST",
+      "purpose": "OPERATING SUPPORT FOR 3 YEARS"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,
