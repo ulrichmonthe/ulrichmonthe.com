@@ -192,6 +192,28 @@
   .offer ul{list-style:none;margin-top:10px;display:flex;flex-direction:column;gap:8px;}
   .offer li{font-size:14px;color:var(--ink-soft);padding-left:20px;position:relative;}
   .offer li::before{content:"→";position:absolute;left:0;color:var(--accent-deep);font-family:'IBM Plex Mono',monospace;font-size:13px;}
+  .offer .cadence{font-family:'IBM Plex Mono',monospace;font-size:11.5px;line-height:1.7;color:var(--ink-soft);letter-spacing:.01em;margin-bottom:16px;}
+  .offer .cadence b{color:var(--ink);font-weight:600;}
+  .offer .gate{
+    margin-top:18px;background:var(--paper-deep);border-left:3px solid var(--accent);
+    border-radius:0 8px 8px 0;padding:14px 16px;
+  }
+  .offer .gate-label{
+    font-family:'IBM Plex Mono',monospace;font-size:10.5px;font-weight:600;letter-spacing:.12em;
+    text-transform:uppercase;color:var(--accent-deep);margin-bottom:6px;
+  }
+  .offer .gate p{font-size:14px;color:var(--ink);line-height:1.55;}
+  .offer .proof{
+    margin-top:16px;font-size:13px;line-height:1.55;
+  }
+  .offer .proof a{color:var(--accent-deep);text-decoration:none;font-weight:600;border-bottom:1px solid var(--line);}
+  .offer .proof a:hover{border-bottom-color:var(--accent);}
+  .offer .proof span{color:var(--ink-soft);display:block;font-weight:400;}
+  .offer .handoff{
+    margin-top:14px;padding-top:14px;border-top:1px dashed var(--line);
+    font-family:'IBM Plex Mono',monospace;font-size:11.5px;line-height:1.6;color:var(--ink-soft);
+  }
+  .offer .handoff b{color:var(--accent-deep);font-weight:600;}
   .offer .fit{margin-top:auto;padding-top:18px;font-size:13px;color:var(--ink-soft);font-style:italic;}
   .offer .fit b{font-style:normal;color:var(--ink);}
 
@@ -364,55 +386,75 @@
     <div class="wrap">
       <div class="sec-head">
         <span class="eyebrow">Services</span>
-        <h2>Three ways to work with me — each one earns the next.</h2>
-        <p>Start small. The sprint gives you a defensible answer in weeks. If the answer is "build," I can deliver the pilot. If the pilot works, I can embed until your team runs it without me.</p>
+        <h2>Three stages, three gates. Each one can stop the work.</h2>
+        <p>Start small. The sprint gives you a defensible answer in weeks — and often that answer is "don't build." If it is "build," the pilot ships under evaluation that can fail it. If the pilot holds, I embed until your team runs it without me. The gates are the product; anyone can write a roadmap.</p>
       </div>
       <div class="offers">
         <article class="offer">
           <span class="tag">01 · Start here</span>
           <h3>AI Strategy Sprint</h3>
           <div class="shape">2–4 weeks · fixed fee</div>
-          <p>A structured answer to "what should we do about AI?" that you can defend to your board and your funders. Every candidate idea passes through one gate: if your users can already get the answer from a general AI tool, we don't build it.</p>
+          <div class="cadence"><b>Wk 1</b> workflow interviews, not workshops<br><b>Wk 2</b> scoring every candidate against the gate<br><b>Wk 3</b> verdicts, roadmap, board memo</div>
+          <p>A structured answer to "what should we do about AI?" that you can defend to your board and your funders — including the parts where the answer is no.</p>
+          <div class="gate">
+            <div class="gate-label">We stop if</div>
+            <p>Your users can already get the answer from a general AI tool. Most candidate ideas die at this gate. That is the point of running it before you spend a budget.</p>
+          </div>
           <div class="walk">
             <div class="walk-label">You walk away with</div>
             <ul>
-              <li>Build / no-build verdicts on every candidate use case</li>
-              <li>Testable hypotheses for what survives the gate</li>
-              <li>A sequenced roadmap and a board-ready memo</li>
+              <li>A scored register of every candidate — verdict, reason, and what would change it</li>
+              <li>Testable hypotheses for what survives, each with its falsifying condition</li>
+              <li>A board memo that holds up when a trustee pushes back</li>
             </ul>
           </div>
+          <p class="proof"><a href="/live-projects/funder-standing/">See how I score and refuse →</a><span>Funder Standing publishes its gate criteria and shows what fails them.</span></p>
           <p class="fit"><b>For:</b> leadership teams facing an AI mandate they didn't ask for.</p>
+          <div class="handoff"><b>→ Feeds stage 02:</b> the top-ranked survivor becomes the pilot's scope.</div>
         </article>
 
         <article class="offer">
           <span class="tag">02 · Deliver</span>
           <h3>Responsible-AI Pilot</h3>
           <div class="shape">8–12 weeks · scoped engagement</div>
-          <p>A working generative-AI pilot with guardrails built in from day one — because your users are people who can't afford a fabricated answer. Governed, evaluated, and deployed under control before anything touches the public.</p>
+          <div class="cadence"><b>Wk 1–2</b> the eval suite, written before any code<br><b>Wk 3–8</b> build against it<br><b>Wk 9–12</b> adversarial review, then the release gate</div>
+          <p>A working generative-AI pilot with guardrails from day one — because your users are people who cannot afford a fabricated answer. The evaluation comes first and has the authority to stop the release.</p>
+          <div class="gate">
+            <div class="gate-label">Nothing ships unless</div>
+            <p>There is an eval suite that can fail it. If we cannot state what a wrong answer looks like, we do not deploy — we go back and define it.</p>
+          </div>
           <div class="walk">
             <div class="walk-label">You walk away with</div>
             <ul>
-              <li>Mandatory source citation on every answer</li>
-              <li>Bounded refusal outside validated scope</li>
-              <li>Automated LLM-as-judge eval gating before release</li>
+              <li>Source citation on every answer, traceable to the underlying record</li>
+              <li>Bounded refusal — the system says "not enough evidence" instead of guessing</li>
+              <li>An eval suite that gates the build, not a report written afterwards</li>
             </ul>
           </div>
+          <p class="proof"><a href="/foundations/">See bounded refusal running →</a><span>Funder Standing withholds a figure below an 85% match rate and names the condition that failed.</span></p>
           <p class="fit"><b>For:</b> orgs whose sprint said "build" — or who have a stalled AI project that needs governance.</p>
+          <div class="handoff"><b>→ Feeds stage 03:</b> the eval discipline is what gets transferred.</div>
         </article>
 
         <article class="offer">
           <span class="tag">03 · Embed</span>
           <h3>Fractional AI Product Lead</h3>
           <div class="shape">1–2 days/week · monthly retainer</div>
-          <p>Senior AI product leadership at a fraction of a full-time hire — for organizations that can't recruit this role at sector salaries. I run discovery on real workflows, train by role, and cultivate internal champions.</p>
+          <div class="cadence"><b>Mo 1</b> discovery on real workflows, by role<br><b>Mo 2–3</b> your staff run the evals, I review<br><b>Ongoing</b> a written review cadence, and my exit</div>
+          <p>Senior AI product leadership at a fraction of a full-time hire — for organizations that cannot recruit this role at sector salaries. The measure of success is how quickly I become unnecessary.</p>
+          <div class="gate">
+            <div class="gate-label">This ends when</div>
+            <p>Your team ships without me. I write the exit criteria into the engagement at the start. If a standing dependency is what you want, this is the wrong arrangement.</p>
+          </div>
           <div class="walk">
             <div class="walk-label">You walk away with</div>
             <ul>
               <li>An AI roadmap that survives contact with your teams</li>
-              <li>Staff who operate the systems independently</li>
-              <li>Governance and evaluation skills that stay in-house</li>
+              <li>Staff who run evals and releases without me in the room</li>
+              <li>A written review cadence your board can hold you to</li>
             </ul>
           </div>
+          <p class="proof"><a href="/live-projects/ai-policy-generator/">See what gets transferred →</a><span>The policy generator shows its rule trace: every clause, and why it was selected.</span></p>
           <p class="fit"><b>For:</b> foundations and nonprofits who need the capability, not a dependency.</p>
         </article>
       </div>
