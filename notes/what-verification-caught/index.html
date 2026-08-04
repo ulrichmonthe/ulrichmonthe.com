@@ -1,0 +1,259 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Four Bugs My Own Checks Caught — and One Still Open</title>
+<meta name="description" content="A working post-mortem from a live data product: four defects verification caught, why three were invisible in every aggregate, and the check still outstanding.">
+<link rel="canonical" href="https://ulrichmonthe.com/notes/what-verification-caught/">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<meta property="og:title" content="Four Bugs My Own Checks Caught — and One Still Open">
+<meta property="og:description" content="A post-mortem from a live data product: four defects verification caught, why three were invisible in every aggregate, and the check still outstanding.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://ulrichmonthe.com/notes/what-verification-caught/">
+<meta property="og:image" content="https://ulrichmonthe.com/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Instrument+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/styles/pages.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Four bugs my own checks caught — and one still open","description":"A post-mortem from a live data product: four defects verification caught, why three were invisible in every aggregate, and the check still outstanding.","author":{"@type":"Person","name":"Ulrich Monthe","url":"https://ulrichmonthe.com"},"datePublished":"2026-08-04","mainEntityOfPage":"https://ulrichmonthe.com/notes/what-verification-caught/"}</script>
+<style>
+  .bug { border-left: 3px solid var(--accent); background: var(--card); border-radius: 0 10px 10px 0; padding: 22px 26px; margin-top: 26px; }
+  .bug h3 { margin-top: 0; }
+  .bug .sev { font-family: var(--mono); font-size: 11px; letter-spacing: .1em; text-transform: uppercase; color: var(--accent-deep); font-weight: 600; margin-bottom: 8px; }
+  .bug .caught { font-family: var(--mono); font-size: 12.5px; color: var(--ink-soft); border-top: 1px solid var(--line); padding-top: 12px; margin-top: 16px; }
+  .bug .caught b { color: var(--ink); }
+  pre.code { background: #1c1a17; color: #e6ded0; border-radius: 8px; padding: 14px 16px; font-family: var(--mono); font-size: 12.5px; overflow-x: auto; margin: 14px 0; line-height: 1.6; }
+  .pull { font-family: var(--serif); font-size: 21px; line-height: 1.45; color: var(--ink); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); padding: 20px 0; margin: 28px 0; max-width: 60ch; }
+  .open { background: var(--paper-deep); border-radius: 10px; padding: 22px 26px; margin-top: 20px; }
+  .open h3 { margin-top: 0; }
+</style>
+</head>
+<body>
+<header>
+  <div class="nav">
+    <a class="brand" href="/"><span class="mark">UM</span> Ulrich Monthe</a>
+    <a class="tool" href="/live-projects/funder-standing/">Funder Standing →</a>
+  </div>
+</header>
+<main class="wrap">
+<div class="crumb"><a href="/live-projects/funder-standing/">Funder Standing</a> / Note</div>
+<h1>Four bugs my own checks caught — and one still open</h1>
+
+<p class="lede">
+  I build AI and data products for organizations where a wrong answer harms
+  someone. The way I argue for that work is by showing what my own verification
+  catches. Here is the full list from one product, including the defect that
+  would have inverted it while my most important test passed.
+</p>
+
+<div class="answer">
+  <strong>The product.</strong> <a href="/live-projects/funder-standing/">Funder Standing</a>
+  reads IRS Form 990-PF filings and reports how often a private foundation funds
+  an organization it has not funded before. It publishes 118 foundation pages
+  built from 594,053 indexed filings. Every figure is about a real, named
+  organization, which is what makes getting it right non-optional.
+</div>
+
+<h2>1. The defect that inverted the product while the test passed</h2>
+
+<div class="bug">
+  <div class="sev">Severity · would have shipped a product that was exactly backwards</div>
+  <h3>Entity resolution never said what a record was matched <em>against</em></h3>
+  <p>
+    Deciding whether this year's grantee is last year's grantee is a name-matching
+    problem — Form 990-PF records a recipient's name and address but no tax ID. My
+    specification said: exact normalised-name match, otherwise mark it unresolved
+    and exclude it. What it never said was what the record was being matched against.
+  </p>
+  <p>
+    Read it the obvious way — match against records from other years — and a
+    genuine <em>first-time</em> grantee matches nothing. It gets marked unresolved.
+    And then it is deleted by the very rule written to prevent bias.
+  </p>
+  <p>
+    Every true new grantee disappears. Every rate collapses toward zero. Every
+    foundation in the product reads as closed to new applicants. The tool would
+    have told nonprofits not to apply anywhere.
+  </p>
+  <p>
+    The reason this is worth writing about is what happened to the test. I had a
+    mandatory check asserting that an unresolvable record could not inflate the
+    new-grantee rate. Under the broken reading, that check <strong>passes
+    cleanly</strong> — corrupting a repeat grantee cannot raise a rate that is
+    already zero, and the match rate does drop as expected. Green light, inverted
+    product.
+  </p>
+  <p>
+    The fix was conceptual, not mechanical: resolution is a <em>clustering</em>
+    problem, not a lookup. A grantee appearing once forms a valid cluster of one.
+    "Unresolved" has to mean "cannot be assigned confidently", never "matched
+    nothing". And the test gained a second half asserting that a genuine
+    first-time grantee <em>is</em> counted — without which the first half is
+    decoration.
+  </p>
+  <div class="caught"><b>Caught by:</b> handing the specification to a reader with
+    no context and asking them to find what would stop them building it correctly.</div>
+</div>
+
+<p class="pull">
+  A test that checks one direction is not half a test. It is a test that reports
+  success while the product is upside down.
+</p>
+
+<h2>2. The three that were invisible in every aggregate</h2>
+
+<p>
+  The remaining defects share a property worth naming: none of them moved a
+  summary statistic in a direction that looked wrong. Two of them made the data
+  quality metric look <em>better</em>.
+</p>
+
+<div class="bug">
+  <div class="sev">Severity · would have made open foundations read as closed</div>
+  <h3>The similarity function merged a university with its own nursing school</h3>
+  <p>
+    A standard fuzzy-matching measure, token-set ratio, returns a perfect 100
+    whenever one name's words are a subset of the other's. So:
+  </p>
+  <pre class="code">UNIVERSITY OF MICHIGAN
+UNIVERSITY OF MICHIGAN SCHOOL OF NURSING     → 100
+
+BOYS &amp; GIRLS CLUB
+BOYS &amp; GIRLS CLUB OF DETROIT                 → 100</pre>
+  <p>
+    Same state, both clear any sensible threshold, and two distinct organizations
+    collapse into one. That suppresses the new-grantee count and makes an open
+    funder look closed.
+  </p>
+  <p>
+    <strong>No automated check could see it.</strong> Merging two records into one
+    <em>raises</em> the match rate, so the data-quality metric improves while the
+    output degrades. The fix blocks a merge whenever the extra words carry meaning,
+    and the design rule is now explicit: prefer a false split, which is visible
+    when you sample, over a false merge, which is not.
+  </p>
+  <div class="caught"><b>Caught by:</b> reading the documentation for the matching
+    function rather than trusting its name.</div>
+</div>
+
+<div class="bug">
+  <div class="sev">Severity · inflated rates for any funder with numbered grantees</div>
+  <h3>PS 128 and PS 129 are one character apart</h3>
+  <p>
+    Numbers are among the most distinguishing parts of an organization's name —
+    school districts, union locals, chapter numbers — and they are also nearly
+    identical as strings. Any character-similarity measure scores
+    <code>PS 128</code> against <code>PS 129</code> as almost the same thing.
+  </p>
+  <p>
+    A test fixture of a foundation that funds someone new every year scored 0.1
+    instead of the expected 0.8. The rotating grantees were merging with each
+    other. Differing numbers now always block a match.
+  </p>
+  <div class="caught"><b>Caught by:</b> a test written to assert a high-turnover
+    funder reads as high — the inverse of the failure in bug 1.</div>
+</div>
+
+<div class="bug">
+  <div class="sev">Severity · counted long-standing grantees as brand new</div>
+  <h3>A grantee moved from Washington DC to New York</h3>
+  <p>
+    African Parks Foundation of America appears under DC in some filing years and
+    NY in others. I required the state to match before treating two records as the
+    same organization, which split one five-year repeat grantee into two
+    entities — and counted it as new.
+  </p>
+  <p>
+    The match rate sat at 1.00 the entire time. Nothing in any summary would ever
+    have surfaced it. State corroboration is now scaled to the strength of the name
+    evidence: an exact name match survives a move, because organizations relocate;
+    a fuzzy match still needs the state to agree.
+  </p>
+  <div class="caught"><b>Caught by:</b> recomputing the same figures with a second,
+    deliberately simpler implementation and investigating a disagreement of one.</div>
+</div>
+
+<h2>A fourth, from reading the schema properly</h2>
+
+<p>
+  Not a bug that shipped, but the same lesson. The 990-PF return has an element
+  listing grants <em>approved for future payment</em> — sitting directly beside
+  the paid-grants element, with an identical internal structure. Counting it
+  invents grantee relationships that never received money.
+</p>
+<p>
+  In one foundation's filing that is 178 future-approved grants against the real
+  ones. Any parser written from the element names alone would have swallowed them
+  silently, and the totals would have looked plausible.
+</p>
+
+<h2>What I take from this</h2>
+
+<p>
+  <strong>Aggregates hide the errors that matter.</strong> Three of these four
+  moved no summary in a suspicious direction, and two improved the data-quality
+  metric. If your verification is a dashboard, you are checking the errors that
+  were already easy to see.
+</p>
+<p>
+  <strong>A checker that shares assumptions with the thing it checks proves
+  little.</strong> The relocation bug surfaced only because a second implementation
+  disagreed by one grantee. Independence is the property that did the work, not
+  rigour.
+</p>
+<p>
+  <strong>Ask what a passing test would look like if the product were broken.</strong>
+  That question, applied to my own mandatory check, is what exposed bug 1. It is
+  now the first thing I ask of any evaluation I design.
+</p>
+
+<h2 id="open">The check that is still open</h2>
+
+<div class="open">
+  <h3>Nobody has read the filings by eye.</h3>
+  <p>
+    A sample of the published foundations has been re-derived from the raw XML by
+    an independent implementation, and the two agree — six of six, with differences
+    of nought to two grantees, all explained by the deliberate differences between
+    the methods.
+  </p>
+  <p>
+    That is not the same as verification. Both implementations were written by one
+    person from one reading of what Part XV of the return means. If that reading is
+    wrong, they agree with each other and are both wrong. An independent
+    recomputation catches parser and logic bugs. It cannot catch a shared
+    misunderstanding.
+  </p>
+  <p>
+    So the foundation pages carry a <strong>preview</strong> label, and they will
+    keep it until a person opens a handful of returns and counts by hand. If you
+    find a figure about your own foundation that looks wrong,
+    <a href="mailto:umonthe1@gmail.com?subject=Funder%20Standing%20correction">write to me</a> —
+    I would rather hear it than keep publishing it.
+  </p>
+</div>
+
+<p style="margin-top:26px">
+  This is what I mean when I say evaluation before features. Not a principle —
+  a list of the specific things it caught, and an honest account of what it has
+  not caught yet.
+</p>
+
+<div class="links">
+  <a href="/live-projects/funder-standing/">See the product →</a>
+  <a href="/foundations/">The 118 foundation pages →</a>
+  <a href="/#services">How I work →</a>
+</div>
+
+<div class="asof">Published 4 August 2026 · Ulrich Monthe</div>
+</main>
+<footer>
+  <div class="wrap">
+    <span>© 2026 Ulrich Monthe</span>
+    <span><a href="/live-projects/">Live Projects</a> · <a href="/#contact">Get in touch</a></span>
+  </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,169 @@
+{
+  "agree": 6,
+  "checked": 6,
+  "flagged": 0,
+  "human_verified": false,
+  "method": "independent recomputation, separate parser",
+  "results": [
+    {
+      "delta": {
+        "new": 0,
+        "total": 0
+      },
+      "ein": "276377439",
+      "grant_lines_per_year": {
+        "2020": 9,
+        "2021": 8,
+        "2022": 5,
+        "2023": 6,
+        "2024": 5
+      },
+      "independent": {
+        "new": 0,
+        "total": 5
+      },
+      "latest_year": 2024,
+      "match_rate": 1.0,
+      "name": "Tansy Charitable Foundation",
+      "pipeline": {
+        "new": 0,
+        "total": 5
+      },
+      "slug": "tansy-charitable-foundation",
+      "within_tolerance": true
+    },
+    {
+      "delta": {
+        "new": -1,
+        "total": 0
+      },
+      "ein": "526220316",
+      "grant_lines_per_year": {
+        "2020": 47,
+        "2021": 53,
+        "2022": 65,
+        "2023": 41
+      },
+      "independent": {
+        "new": 5,
+        "total": 40
+      },
+      "latest_year": 2023,
+      "match_rate": 1.0,
+      "name": "Eugene B Casey Foundation",
+      "pipeline": {
+        "new": 4,
+        "total": 40
+      },
+      "slug": "eugene-b-casey-foundation",
+      "within_tolerance": true
+    },
+    {
+      "delta": {
+        "new": -1,
+        "total": -2
+      },
+      "ein": "742170127",
+      "grant_lines_per_year": {
+        "2020": 0,
+        "2021": 290,
+        "2022": 390,
+        "2023": 397,
+        "2024": 398
+      },
+      "independent": {
+        "new": 63,
+        "total": 349
+      },
+      "latest_year": 2024,
+      "match_rate": 0.8521086077411901,
+      "name": "The Cynthia & George Mitchell Foundation",
+      "pipeline": {
+        "new": 62,
+        "total": 347
+      },
+      "slug": "cynthia-george-mitchell-foundation",
+      "within_tolerance": true
+    },
+    {
+      "delta": {
+        "new": 0,
+        "total": 0
+      },
+      "ein": "956085895",
+      "grant_lines_per_year": {
+        "2020": 314,
+        "2021": 331,
+        "2022": 353,
+        "2023": 367,
+        "2024": 403
+      },
+      "independent": {
+        "new": 81,
+        "total": 327
+      },
+      "latest_year": 2024,
+      "match_rate": 1.0,
+      "name": "The Ralph M Parsons Foundation",
+      "pipeline": {
+        "new": 81,
+        "total": 327
+      },
+      "slug": "ralph-m-parsons-foundation",
+      "within_tolerance": true
+    },
+    {
+      "delta": {
+        "new": 0,
+        "total": -1
+      },
+      "ein": "955004033",
+      "grant_lines_per_year": {
+        "2020": 113,
+        "2021": 95,
+        "2022": 80,
+        "2023": 105,
+        "2024": 108
+      },
+      "independent": {
+        "new": 52,
+        "total": 99
+      },
+      "latest_year": 2024,
+      "match_rate": 1.0,
+      "name": "Unihealth Foundation",
+      "pipeline": {
+        "new": 52,
+        "total": 98
+      },
+      "slug": "unihealth-foundation",
+      "within_tolerance": true
+    },
+    {
+      "delta": {
+        "new": 0,
+        "total": 0
+      },
+      "ein": "208068401",
+      "grant_lines_per_year": {
+        "2021": 84,
+        "2022": 41,
+        "2023": 68,
+        "2024": 56
+      },
+      "independent": {
+        "new": 12,
+        "total": 26
+      },
+      "latest_year": 2024,
+      "match_rate": 1.0,
+      "name": "The Pershing Square Foundation",
+      "pipeline": {
+        "new": 12,
+        "total": 26
+      },
+      "slug": "pershing-square-foundation",
+      "within_tolerance": true
+    }
+  ]
+}
