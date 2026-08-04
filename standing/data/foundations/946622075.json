@@ -51,6 +51,20 @@
     "singleton_cluster_share": 0.8889,
     "total_grant_records": 16
   },
+  "recipients_latest_year": [
+    {
+      "amount": 8575000.0,
+      "is_new": true,
+      "name": "GRANTS APPROVED IN 2024",
+      "purpose": "GENERAL"
+    },
+    {
+      "amount": -8007500.0,
+      "is_new": false,
+      "name": "GRANTS APPROVED IN PRIOR YEARS",
+      "purpose": "GENERAL"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "SEE WEBSITE FOR APPLICATION GUIDELINES: WWW.SMITHCT.ORG",

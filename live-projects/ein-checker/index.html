@@ -128,6 +128,13 @@
     .gate-err { margin-top: 10px; font-family: var(--sans); font-size: 13px; color: #8c4634; }
 
     /* ---- Batch ---- */
+    .histbar { margin-top: 14px; font-size: 13.5px; color: var(--ink-soft); display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+    .histbar b { color: var(--ink); font-weight: 600; }
+    .histbar a { color: var(--accent-deep); text-decoration: none; border: 1px solid var(--rule); border-radius: 100px; padding: 3px 11px; background: var(--paper-raised); }
+    .histbar a:hover { border-color: var(--accent); }
+    .nudge { margin-top: 14px; background: var(--accent-soft); border-radius: 10px; padding: 13px 17px; font-size: 14.5px; color: var(--accent-deep); }
+    .nudge a { color: var(--accent-deep); font-weight: 600; }
+
     .batch-box { background: var(--paper-raised); border: 1px solid var(--rule); border-radius: 12px; padding: 28px 30px; }
     .batch-box textarea { width: 100%; min-height: 130px; font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
       font-size: 13.5px; padding: 14px; border: 1.5px solid var(--rule); border-radius: 10px;
@@ -291,11 +298,12 @@
         <button type="button" id="aud-self">This is my org</button>
       </div>
       <div id="result" aria-live="polite"></div>
+      <div class="histbar" id="histbar"></div>
     </div>
 
     <section id="batch">
       <h2>Check a whole portfolio</h2>
-      <div class="batch-box">
+      <div class="batch-box" id="batch">
         <p style="font-family: var(--sans); font-size: 15px; color: var(--ink-soft); margin-bottom: 14px; max-width: 62ch;">
           Vetting a grantee list? Paste up to 50 organization names or EINs —
           one per line, or a CSV — and get every verdict at once, sorted
@@ -504,7 +512,47 @@
     }
     function message(html) { result.innerHTML = '<div class="msg">' + html + '</div>'; }
 
+    // Session history. Five checks currently leave no trace, so the tool
+    // feels like a lookup rather than a workspace — and a portfolio user
+    // needs a workspace.
+    var HKEY = 'ein.history.v1';
+    function history() { try { return JSON.parse(localStorage.getItem(HKEY)) || []; } catch (e) { return []; } }
+    function remember(ein, name) {
+      var h = history().filter(function (x) { return x.ein !== ein; });
+      h.unshift({ ein: ein, name: name });
+      h = h.slice(0, 8);
+      try { localStorage.setItem(HKEY, JSON.stringify(h)); } catch (e) {}
+      renderHistory();
+    }
+    function renderHistory() {
+      var el = document.getElementById('histbar');
+      if (!el) return;
+      var h = history();
+      if (h.length < 2) { el.innerHTML = ''; return; }
+      el.innerHTML = '<b>This session:</b> ' + h.map(function (x) {
+        return '<a href="#" data-ein="' + esc(x.ein) + '">' + esc((x.name || x.ein).slice(0, 34)) + '</a>';
+      }).join(' ');
+      el.querySelectorAll('a').forEach(function (a) {
+        a.addEventListener('click', function (ev) { ev.preventDefault(); lookupEin(a.getAttribute('data-ein')); });
+      });
+      // The batch box is the qualification signal the whole conversion model
+      // rests on, and nothing surfaces it to someone checking one at a time.
+      if (h.length >= 3 && !document.getElementById('batchnudge')) {
+        var n = document.createElement('div');
+        n.id = 'batchnudge';
+        n.className = 'nudge';
+        n.innerHTML = 'That is ' + h.length + ' organizations one at a time. ' +
+          '<a href="#batch">Check a whole portfolio at once</a> — paste a list or upload a CSV.';
+        el.parentNode.insertBefore(n, el.nextSibling);
+      }
+    }
+
     function renderCard(card, conf) {
+      try {
+        var _n = (card && (card.name || (card.org && card.org.name))) || '';
+        var _e = (card && (card.ein || (card.org && card.org.ein))) || '';
+        if (_e) remember(String(_e), String(_n));
+      } catch (e) {}
       var tc = card.trust_card, org = card.organization;
       var flag = tc.overall_flag;
       var flagLabel = {green: 'Good standing', amber: 'Caveats found', red: 'Revoked'}[flag] || flag;
@@ -592,7 +640,24 @@
     }
 
     function fail(err) {
-      message('Something went wrong reaching the checker (' + esc(err) + '). Try again in a moment.');
+      // A dead end is the worst possible failure state for a tool someone is
+      // trusting with a verification decision. Offer a retry and a route.
+      var last = (input && input.value) ? input.value : '';
+      message('The checker could not be reached (' + esc(err) + ').' +
+        '<div style="margin-top:12px">' +
+        '<button class="act-retry" style="font:inherit;font-weight:600;color:var(--paper);background:var(--accent-deep);border:none;border-radius:8px;padding:8px 16px;cursor:pointer">Try again</button>' +
+        '</div>' +
+        '<div style="margin-top:14px;font-size:14.5px">' +
+        'If it stays down, the underlying facts are public: the IRS publishes ' +
+        '<a href="https://www.irs.gov/charities-non-profits/tax-exempt-organization-search" target="_blank" rel="noopener">Tax Exempt Organization Search</a>, ' +
+        'and revocations and Publication 78 status are covered in the ' +
+        '<a href="/guides/how-to-verify-a-nonprofit/">verification guide</a>. ' +
+        'This tool reconciles those three sources; it is not the only way to reach them.' +
+        '</div>');
+      var btn = result.querySelector('.act-retry');
+      if (btn) btn.addEventListener('click', function () {
+        if (last) { input.value = last; form.dispatchEvent(new Event('submit', {cancelable: true, bubbles: true})); }
+      });
     }
 
     function lookupEin(ein) {
@@ -932,6 +997,7 @@
     var deepQ = params.get('q');
     if (deepEin) { input.value = deepEin; run(deepEin); }
     else if (deepQ) { input.value = deepQ; run(deepQ); }
+    try { renderHistory(); } catch (e) {}
   })();
   </script>
 </body>

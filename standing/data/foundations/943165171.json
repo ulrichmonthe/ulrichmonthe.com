@@ -48,6 +48,704 @@
     "singleton_cluster_share": 0.4945,
     "total_grant_records": 781
   },
+  "recipients_latest_year": [
+    {
+      "amount": 29346141.0,
+      "is_new": false,
+      "name": "FIDELITY CHARITABLE GIFT FUND - TAUPO",
+      "purpose": "SEE STATEMENT 15"
+    },
+    {
+      "amount": 26000000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF WISCONSIN FOUNDATION",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 25000000.0,
+      "is_new": false,
+      "name": "FUND FOR WISCONSIN SCHOLARS",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 25000000.0,
+      "is_new": true,
+      "name": "MORGRIDGE INSTITUTE FOUNDATION",
+      "purpose": "MEDICAL"
+    },
+    {
+      "amount": 10000000.0,
+      "is_new": false,
+      "name": "ALVERNO COLLEGE",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 5000000.0,
+      "is_new": false,
+      "name": "AFRICAN LEADERSHIP FOUNDATION",
+      "purpose": "INTERNATIONAL"
+    },
+    {
+      "amount": 2403213.0,
+      "is_new": false,
+      "name": "MILWAUKEE PUBLIC SCHOOLS",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 1269784.0,
+      "is_new": false,
+      "name": "BOYS AND GIRLS CLUB OF GREATER MILWAUKEE",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 976085.0,
+      "is_new": false,
+      "name": "COVENANT HOUSE",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 813000.0,
+      "is_new": false,
+      "name": "BOOK TRUST",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 600000.0,
+      "is_new": false,
+      "name": "MILWAUKEE PUBLIC MUSEUM",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 579536.0,
+      "is_new": false,
+      "name": "CITY YEAR OF MILWAUKEE",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "MALAWI CHILDREN'S VILLAGE",
+      "purpose": "INTERNATIONAL"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "CITY YEAR",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "SUICIDE AWARENESS VOICES OF EDUCATION",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "TREE HOUSE CHILD AND FAMILY CENTER",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 101000.0,
+      "is_new": false,
+      "name": "SQUAM LAKES NATURAL SCIENCE CENTER",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BOYS AND GIRLS CLUB OF THE PENINSULA",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "GRANITE UNITED WAY",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "PENINSULA BRIDGE",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "PLYMOUTH ROTARY FOUNDATION",
+      "purpose": "INTERNATIONAL"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "CENTER FOR BLACK EXCELLENCE AND CULTURE",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "WISCONSIN YOUTH SYMPHONY ORCHESTRAS",
+      "purpose": "ART"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": true,
+      "name": "MAUI FOOD BANK",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SPEARE MEMORIAL HOSPITAL",
+      "purpose": "MEDICAL"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "AKSHAYA PATRA FOUNDATION",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "FOOD FOR THE POOR INC",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 33680.0,
+      "is_new": false,
+      "name": "MOUNT MARY UNIVERSITY",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BUSINESS EXECUTIVES FOR NATIONAL SECURITY",
+      "purpose": "GENERAL PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NEW HAMPSHIRE MUSIC FESTIVAL",
+      "purpose": "ART"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PLANNED PARENTHOOD OF NORTH NEW ENGLAND",
+      "purpose": "MEDICAL"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "RAVENSWOOD EDUCATION FOUNDATION",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "AMERICAN LEADERSHIP FORUM SILICON VALLEY",
+      "purpose": "GENERAL PURPOSES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "USO",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "HOMEFIRST SERVICES",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "RALEIGH RESCUE MISSION INCORPORATED",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "SQUAM LAKE LOON INITIATIVE",
+      "purpose": "CONSERVATION"
+    },
+    {
+      "amount": 21255.0,
+      "is_new": false,
+      "name": "UNITED SOUTH END SETTLEMENTS",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "NORTH TEXAS FOOD BANK",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "BRIDGE HOUSE HOMELESS SHELTER",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "FEEDING AMERICA",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "SQUAM LAKES ASSOCIATION",
+      "purpose": "CONSERVATION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "WOUNDED WARRIOR PROJECT INC",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ALAMEDA COUNTY COMMUNITY FOOD BANK",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "BILL WILSON CENTER",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CHARITY - WATER",
+      "purpose": "INTERNATIONAL"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CIRCLE PROGRAM",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "GREATER BOSTON FOOD BANK INC",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "FOOD BANK OF THE ROCKIES",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "SECOND HARVEST FOOD BANK OF MIDDLE TENNESSEE",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "RAVENSWOOD FAMILY HEALTH",
+      "purpose": "MEDICAL"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "CATHOLIC CHARITIES SANTA CLARA",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "FOODBANK OF SANTA BARBARA COUNTY",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "HABITAT FOR HUMANITY EAST BAY",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "MONTEREY BAY AQUARIUM FOUNDATION",
+      "purpose": "ANIMALS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "INTERNATIONAL RESCUE COMMITTEE",
+      "purpose": "INTERNATIONAL"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "RESURGE INTERNATIONAL",
+      "purpose": "INTERNATIONAL"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "VIDA VERDE NATURE EDUCATION",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "CENTRAL ASIA INSTITUTE",
+      "purpose": "INTERNATIONAL"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "JOBTRAIN",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "LINCOLN FAMILIES",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "SAVE THE CHILDREN",
+      "purpose": "INTERNATIONAL"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "ST VINCENT DE PAUL SAN MATEO",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "TECHNOSERVE",
+      "purpose": "INTERNATIONAL"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "PIVOTAL CONNECTIONS",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "WORLD NEIGHBORS INC",
+      "purpose": "INTERNATIONAL"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "EAST PALO ALTO KIDS",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "HARBOR CARE",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "MAYHEW",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "SQUAM LAKES CONSERVANCY",
+      "purpose": "CONSERVATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "ST ANTHONY PADUA",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "KQED",
+      "purpose": "ART"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "NEW HAMPSHIRE PUBLIC RADIO",
+      "purpose": "ART"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "SEMPERVIRENS",
+      "purpose": "CONSERVATION"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "APPALACHIAN MOUNTAIN CLUB",
+      "purpose": "CONSERVATION"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "CHALLENGED ATHLETES FOUNDATION",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "HANDSON BAY AREA",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "NEW HAMPSHIRE LAKES ASSOCIATION",
+      "purpose": "CONSERVATION"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "WORLD WILDLIFE FUND",
+      "purpose": "ANIMALS"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "YOSEMITE CONSERVANCY",
+      "purpose": "CONSERVATION"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "HABITAT FOR HUMANITY",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "HIGHER GROUND",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "MEALS ON WHEELS SAN FRANCISCO",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "PLYMOUTH AREA COMMUNITY CLOSET",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "SHINE TOGETHER",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "SOLAR COOKERS INTERNATIONAL",
+      "purpose": "INTERNATIONAL"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "PENINSULA HUMANE SOCIETY SPCA",
+      "purpose": "ANIMALS"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": false,
+      "name": "GUIDING EYES FOR THE BLIND",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": false,
+      "name": "AMERICAN INDIAN COLLEGE FUND",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": false,
+      "name": "GARDNER HEALTH SERVICES",
+      "purpose": "MEDICAL"
+    },
+    {
+      "amount": 1250.0,
+      "is_new": false,
+      "name": "LUCILE PACKARD FOUNDATION FOR CHILDREN'S HEALTH",
+      "purpose": "MEDICAL"
+    },
+    {
+      "amount": 1030.0,
+      "is_new": true,
+      "name": "USA WATER POLO",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "APPALACHIAN TRAIL CONSERVANCY",
+      "purpose": "CONSERVATION"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "AVENIDAS",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "ECUMENCAL HUNGER",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "MARINES MEMORIAL",
+      "purpose": "US AID"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "PACIFIC CREST TRAIL",
+      "purpose": "CONSERVATION"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "LIVING WITH WOLVES",
+      "purpose": "ANIMALS"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "PENINSULA OPEN SPACE TRUST",
+      "purpose": "CONSERVATION"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "NEW HAMPSHIRE HUMANE SOCIETY",
+      "purpose": "ANIMALS"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "CALIFORNIA ACADEMY OF SCIENCES",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "CALIFORNIA STATE PARKS",
+      "purpose": "CONSERVATION"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "EMBARCADERO MEDIA THE ALMANAC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "FILOLI",
+      "purpose": "CONSERVATION"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "POSITIVE COACHING",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "RAILS TO TRAILS",
+      "purpose": "CONSERVATION"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "SAN MATEO COUNTY PARKS AND REC",
+      "purpose": "CONSERVATION"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "INTERNATIONL CRANE FOUNDATION",
+      "purpose": "CONSERVATION"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "LAND TRUST ALLIANCE",
+      "purpose": "CONSERVATION"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "NATIONALS PARK CONSERVATION ASSOCIATION",
+      "purpose": "CONSERVATION"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "PEMI-BAKER LITERACY",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "NATURESERVE",
+      "purpose": "CONSERVATION"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "FRIENDS OF WISCONSIN SINGERS",
+      "purpose": "ART"
+    },
+    {
+      "amount": 354.0,
+      "is_new": true,
+      "name": "TAHOE FUND",
+      "purpose": "CONSERVATION"
+    },
+    {
+      "amount": 250.0,
+      "is_new": false,
+      "name": "BBB WISE GIVING",
+      "purpose": "GENERAL PURPOSES"
+    },
+    {
+      "amount": 10.0,
+      "is_new": false,
+      "name": "MARINE MAMMAL CENTER",
+      "purpose": "ANIMALS"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

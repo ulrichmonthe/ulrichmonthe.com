@@ -47,6 +47,632 @@
     "singleton_cluster_share": 0.4444,
     "total_grant_records": 538
   },
+  "recipients_latest_year": [
+    {
+      "amount": 2870000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - NUMBERSUSA EDUCATION & RESEARCH FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2600000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - FEDERATION FOR AMERICAN IMMIGRATION REFORM",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2300000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - IMMIGRATION REFORM LAW INSTITUTE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1975000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - CENTER FOR IMMIGRATION STUDIES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1750000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - ALLEGHENY LAND TRUST",
+      "purpose": "LAND CONSERVATION"
+    },
+    {
+      "amount": 1070000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - IMMIGRATION RESEARCH FUND",
+      "purpose": "2024 CONFERENCE"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "COLCOM FOUNDATION - OGLEBAY FOUNDATION",
+      "purpose": "AFRICAN LION HABITATS & BREEDING FACILITY"
+    },
+    {
+      "amount": 602825.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - WESTERN PENNSYLVANIA CONSERVANCY",
+      "purpose": "FLOWERS & PLANTERS PROJECT"
+    },
+    {
+      "amount": 550000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - NATIONAL AVIARY PITTSBURGH INC",
+      "purpose": "VETERINARY CARE AND ADVANCEMENT CENTER"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - INSTITUTE FOR SOUND PUBLIC POLICY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - PITTSBURGH DOWNTOWN PARTNERSHIP",
+      "purpose": "PARIS TO PITTSBURGH"
+    },
+    {
+      "amount": 340000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - PITTSBURGH PARKS CONSERVANCY",
+      "purpose": "CAPITAL PROJECT"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - SCENIC AMERICA",
+      "purpose": "PUBLIC EDUATION AND SYMPOSIUM"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - PENNSYLVANIA ENVIRONMENTAL COUNCIL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 220000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - SOUTHERN ALLEGHENIES MUSEUM OF ART",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - VETERANS PLACE OF WASHINGTON BOULEVARD INC",
+      "purpose": "WASHINGTON BOULEVARD CAMPUS CONSTRUCTION"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - PA CLEANWAYS OF ALLEGHENY COUNTY INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 180000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - MOUNTAIN WATERSHED ASSOCIATION",
+      "purpose": "RICHTER RUN LAND CONSERVATION PROJECT"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - PENNSYLVANIA RESOURCES COUNCIL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - WESTMORELAND LAND TRUST",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - SCENIC PITTSBURGH",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - PITTSBURGH TRUST FOR CULTURAL RESOURCES",
+      "purpose": "THREE RIVERS ARTS FESTIVAL"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - GROW PITTSBURGH",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - NATIONAL TROPICAL BOTANICAL GARDEN",
+      "purpose": "CONSERVATION PROGRAM"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - TREE PITTSBURGH",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 130000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - CARNEGIE INSTITUTE",
+      "purpose": "POWDERMILL AVIAN RESEARCH CENTER"
+    },
+    {
+      "amount": 128000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - WESTERN PENNSYLVANIA CONSERVANCY",
+      "purpose": "HANGING BASKETS PROJECT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - FRIENDS OF THE RIVERFRONT INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - REGIONAL TRAIL CORPORATION",
+      "purpose": "GREAT ALLEGHENY PASSAGE RESURFACE & RECONSTRUCTION PROJECT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - COMMUNITY FOUNDATION FOR THE ALLEGHENIES",
+      "purpose": "ZERO BRIDGE MAINTENANCE MODEL"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - ALLEGHENY CONFERENCE AND AFFILIATED ORGANIZATIONS",
+      "purpose": "NEXT IS NOW PROJECT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - HILLTOP URBAN FARM",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - KEEPING IDENTITIES SAFE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - STUDENT CONSERVATION ASSOCIATION INC",
+      "purpose": "CONSERVATION HIGH SCHOOL CREWS PROGRAM"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - ZOOLOGICAL SOCIETY OF PITTSBURGH",
+      "purpose": "ELEPHANT PADDOCK"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "COLCOM FOUNDATION - FRIENDS OF THE PITTSBURGH FISHER HOUSE INC",
+      "purpose": "HELPING HEROES HEAL CAPITAL CAMPAIGN"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - ALLEGHENY LAND TRUST",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 83541.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - SPORTS & EXHIBITION AUTHORITY OF PITTSBURGH & ALLEGHENY",
+      "purpose": "TTC MAINTENANCE"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - STREAM RESTORATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - WECONSERVEPA",
+      "purpose": "LAND CONSERVATION"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - NATIONAL AVIARY PITTSBURGH INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - NATURAL AREAS ASSOCIATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - CARNEGIE INSTITUTE",
+      "purpose": "POWDERMILL AVIAN RESEARCH CENTER"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - HISTORICAL SOCIETY OF WESTERN PENNSYLVANIA",
+      "purpose": "FORT PITT MUSEUM GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "COLCOM FOUNDATION - CORAOPOLIS COMMUNITY DEVELOPMENT CORPORATION",
+      "purpose": "CORAOPOLIS TRAIN STATION RESTORATION"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "LAUREL FOUNDATION - TRADE INSTITUTE OF PITTSBURGH",
+      "purpose": "CORE MASONRY PROGRAM"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - PITTSBURGH BALLET THEATRE",
+      "purpose": "ARTISTIC AND EDUCATIONAL PROGRAM"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - RIVERLIFE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 68000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - CONEMAUGH VALLEY CONSERVANCY INC",
+      "purpose": "BIRD VIEWING PAVILION"
+    },
+    {
+      "amount": 66000.0,
+      "is_new": true,
+      "name": "COLCOM FOUNDATION - ARMSTRONG CONSERVANCY INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - PITTSBURGH BOTANIC GARDEN",
+      "purpose": "MR. LONG LEG'S NEIGHBORHOOD"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - PROTECT PT",
+      "purpose": "ENVIRONMENTAL MONITORING AND PUBLIC EDUCATION"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - PITTSBURGH PARKS CONSERVANCY",
+      "purpose": "FLEET MAINTENANCE AND GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - CITIZENS COAL COUNCIL",
+      "purpose": "ENVIRONMENTAL AGENCY REFORM CAMPAIGN"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - HISTORICAL SOCIETY OF WESTERN PENNSYLVANIA",
+      "purpose": "A VERY MERRY PITTSBURGH & MEADOWCROFT ROCKSHELTER CAPITAL CAMPAIGN"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - HOLLOW OAK LAND TRUST INC",
+      "purpose": "CONSERVATION RANGERS PROGRAM"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - SEPTEMBER 11TH NATIONAL MEMORIAL TRAIL ALLIANCE",
+      "purpose": "DEVELOPMENT OF THE SEPTEMBER 11TH NATIONAL MEMORIAL TRAIL"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - US",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - GROUNDED STRATEGIES",
+      "purpose": "RESIDENCE RESOURCES PROGRAM"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - GROW PITTSBURGH",
+      "purpose": "WORKFORCE DEVELOPMENT AND FOOD ACCESS PROGRAM"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - LITERACY PITTSBURGH",
+      "purpose": "COLLEGE AND CAREER READINESS PROGRAM"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - THREE RIVERS WATERKEEPER",
+      "purpose": "THREE RIVERS AMBASSADOR PROGRAM"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - STUDENT CONSERVATION ASSOCIATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - LOYALHANNA WATERSHED ASSOCIATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": true,
+      "name": "LAUREL FOUNDATION - ANDREW CARNEGIE FREE LIBRARY & MUSIC HALL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - TOUCHSTONE CENTER FOR CRAFTS",
+      "purpose": "INTERNSHIP PROGRAM"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - FAIR SHAKE ENVIRONMENTAL LEGAL SERVICES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - SHINBIG INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - CHATHAM BAROQUE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 37500.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - REGIONAL TRAIL CORPORATION",
+      "purpose": "LANDSLIDE PREVENTION ON THE GREAT ALLEGHENY PASSAGE"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - BIDWELL TRAINING CENTER INC",
+      "purpose": "GOOGLE CHROMEBOOK PROGRAM"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - MOUNTAIN WATERSHED ASSOCIATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - PITTSBURGH MUSICAL THEATER",
+      "purpose": "EDUCATION AND OUTREACH"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "LAUREL FOUNDATION - PITTSBURGH INTERNATIONAL FOLK ARTS INSTITUTE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 27000.0,
+      "is_new": true,
+      "name": "COLCOM FOUNDATION - FOUNDATION FOR INDIVIDUAL RIGHTS AND EXPRESSION",
+      "purpose": "ENGAGEMENT AND MOBILIZATION PROGRAM"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - CIVIC LIGHT OPERA ASSOCIATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - PITTSBURGH ARTS & LECTURES",
+      "purpose": "2023-2024 TEN EVENINGS LECTURE SERIES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - PITTSBURGH COMMUNITY BROADCASTING CORPORATION",
+      "purpose": "ENVIRONMENTAL REPORTING FOR WESTERN PENNSYLVANIA"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - PITTSBURGH TRUST FOR CULTURAL RESOURCES",
+      "purpose": "THREE RIVERS ARTS FESTIVAL"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - WESTMORELAND CULTURAL TRUST",
+      "purpose": "LEAP PATRON MANAGEMENT SYSTEM"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - WESTMORELAND LAND TRUST",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - AUDUBON SOCIETY OF WESTERN PENNSYLVANIA INC",
+      "purpose": "BIRD TOWN - WESTERN PA"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - WASHINGTON SYMPHONY ORCHESTRA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "COLCOM FOUNDATION - RIVERWISE INC",
+      "purpose": "TRAIN DERAILMENT ENVIRONMENTAL ADVOCACY PROJECT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "LAUREL FOUNDATION - TOUCHSTONE CENTER FOR CRAFTS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - PENNSYLVANIA TROLLEY MUSEUM",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - PITTSBURGH CONCERT CHORALE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - GREAT ALLEGHENY PASSAGE CONSERVANCY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - THREE RIVERS WATERKEEPER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 17000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - WESTMORELAND SYMPHONY ORCHESTRA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - PITTSBURGH CAMERATA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - NEVILLE HOUSE ASSOCIATES INC",
+      "purpose": "WOODVILLE PORCH PRESERVATION PROJECT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - NEVILLE HOUSE ASSOCIATES INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - WOMEN FOR A HEALTHY ENVIRONMENT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "LAUREL FOUNDATION - MCCANDLESS-FRANKLIN PARK AMBULANCE AUTHORITY",
+      "purpose": "PERSONAL PROTECTIVE EQUIPMENT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "LAUREL FOUNDATION - RESONANCE WORKS",
+      "purpose": "THE LITTLE PRINCE"
+    },
+    {
+      "amount": 13447.0,
+      "is_new": true,
+      "name": "LAUREL FOUNDATION - ROSS-WEST VIEW EMERGENCY MEDICAL SERVICES AUTHORITY",
+      "purpose": "AED MACHINES"
+    },
+    {
+      "amount": 13000.0,
+      "is_new": true,
+      "name": "COLCOM FOUNDATION - WILD EXCELLENCE FILMS",
+      "purpose": "LEAD POISONING IN AMERICAS EAGLES DOCUMENTARY"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - KEYSTONE OAKS SCHOOL DISTRICT",
+      "purpose": "PROJECT SUCCEED"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - SOUTH PARK THEATRE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "LAUREL FOUNDATION - BRADFORD HOUSE HISTORICAL ASSOCIATION",
+      "purpose": "EDUCATIONAL PROGRAMMING"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "LAUREL FOUNDATION - PITTSBURGH FILMMAKERSPITTSBURGH CENTER FOR THE ARTS",
+      "purpose": "SUNDAY SERIES PROGRAM"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "LAUREL FOUNDATION - THE CHAMBER ORCHESTRA OF PITTSBURGH",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 9000.0,
+      "is_new": false,
+      "name": "COLCOM FOUNDATION - PHILANTHROPY ROUNDTABLE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "A LETTER OF INQUIRY (I.E., A REQUEST FOR AN INVITATION TO SUBMIT A FULL GRANT APPLICATION) SHOULD NOT EXCEED TWO PAGES AND MUST DESCRIBE THE ORGANIZATION, THE PROPOSED PROGRAM DESCRIPTION AND OBJECTIVE(S), AMOUNT REQUESTED, PROJECTED BUDGET, AND TIMELINE. THE FOUNDATION DISCOURAGES THE INCLUSION OF LENGTHY MATERIAL (NEWSLETTERS, VIDEO, ETC.) WITH A LETTER OF INQUIRY. A SEPARATE LETTER OF INQUIRY MUST BE SUBMITTED FOR EACH PROGRAM.",

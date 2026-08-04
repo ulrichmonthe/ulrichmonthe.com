@@ -50,6 +50,80 @@
     "singleton_cluster_share": 0.3158,
     "total_grant_records": 143
   },
+  "recipients_latest_year": [
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Lamar State College - Orange",
+      "purpose": "Scholarship administered by LSCO"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "Southeast Texas Food Bank Inc",
+      "purpose": "Food Backpack Program to provide weekend food for indigent children"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Orange Community Action Association",
+      "purpose": "Fund Meals on Wheels for Indegent"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Orange County Sheriff's Office",
+      "purpose": "Funds for the Blue Sana Program serving children in need during Christmas"
+    },
+    {
+      "amount": 9256.0,
+      "is_new": false,
+      "name": "Orange Lions Club Charity Carnival",
+      "purpose": "For maintenance of equipment used in charity carnival"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "Deweyville ISD",
+      "purpose": "To purchase clothing for indigent school children"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "Orange Co Comm Partners for Children",
+      "purpose": "Funds to stock Rainbow Room"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "Orangefield ISD",
+      "purpose": "To purchase clothing for indigent school children"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "West Orange - Cove CISD",
+      "purpose": "To purchase clothing for indigent school children"
+    },
+    {
+      "amount": 5967.0,
+      "is_new": false,
+      "name": "Vidor ISD",
+      "purpose": "To purchase clothing for indigent school children"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "Bridge City ISD",
+      "purpose": "To purchase clothing for indigent school children"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "Little Cypress - Mauriceville CISD",
+      "purpose": "To purchase clothing for indigent school children"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

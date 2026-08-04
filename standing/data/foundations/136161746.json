@@ -48,6 +48,674 @@
     "singleton_cluster_share": 0.8977,
     "total_grant_records": 730
   },
+  "recipients_latest_year": [
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "Children's Museum of Manhattan",
+      "purpose": "To support the restoration renovation of a landmark bldg to become the museums new home"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "Save the Children Federation",
+      "purpose": "To provide support for Early learning in Rural Areas"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": true,
+      "name": "New Museum",
+      "purpose": "To provide support for the capital expansion of the museum and service capacity"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": true,
+      "name": "Center for Disability Services Inc",
+      "purpose": "To support the Center Health Care clinic for patients with intellectual and development disabilities"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "The Carnegie Hall Corporation",
+      "purpose": "To support music education"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "National Park Foundation",
+      "purpose": "To support environmental education programs"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "Hunter College Foundation",
+      "purpose": "To support the Nursing Program"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "NY Pubic Library",
+      "purpose": "To support the new Center for Educators Schools"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "Crohns & Colitis Foundation",
+      "purpose": "To support early career researchers in inflammatory bowel disease"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "Exceptional Minds",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "Harvesters - The Community Food Network",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "Haven for Hope of Bexar County",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "Kitchens for Good",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "New World Symphony",
+      "purpose": "To support the New World Symphony Fellowship Program"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "New York Foundation for the Arts Inc",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "Oklahoma State University",
+      "purpose": "To support the Bachelor of Science Nursing program"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "White Plains Hospital Medical Center",
+      "purpose": "To support the Patient Navigation Program for Cancer Treatment"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "Family Gateway",
+      "purpose": "To support the Shelter and Overflow Hotel program for families with children facing homelessness"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "New York City Center",
+      "purpose": "To support arts education and community engagement programs"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "School of the Art Institute of Chicago",
+      "purpose": "To support the College Arts Access Program for high school students"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "Shasta Cascade Health Centers",
+      "purpose": "To provide general operating support"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "University Hospitals Health System",
+      "purpose": "To support the creation of a new Diabetes and Metabolic Care Center"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "University of Houston",
+      "purpose": "To support the College of Educations Reimagining Education capital campaign"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "University of Missouri Columbia",
+      "purpose": "To support the creation of a multiplatform One Newsroom in the School of Journalism"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": true,
+      "name": "Covenant House New Orleans",
+      "purpose": "To provide homeless youth with wraparound services to assist in transition to independent living"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": true,
+      "name": "Baylor Scott & White Healthcare",
+      "purpose": "To support a capital campaign for the renovation of the Medical Education Center"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": true,
+      "name": "Saint Louis Symphony Orchestra",
+      "purpose": "To support education programs"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "Artspace Projects Inc",
+      "purpose": "To support Pathways to support Native American arts and cultural organizations"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "Autry Museum of the American West",
+      "purpose": "To support expansion of the Autry After Hours program"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "Facing History & Ourselves Inc",
+      "purpose": "To support the Next generation Civics Initiative"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "Food Bank of Northern Nevada",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "Kansas City Repertory Theatre",
+      "purpose": "To support arts education and community engagement programs"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "Kaufman Music Center",
+      "purpose": "To support free and low cost arts education programs"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "Omaha Performing Arts",
+      "purpose": "To support education and community engagement programs"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "Sacramento Food Bank & Family Services",
+      "purpose": "To support the purchase of food for the Food Bank and Family Services program"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "Villanova University",
+      "purpose": "To support the Center for Engineering Education and Research expansion"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "Community Servings",
+      "purpose": "To support Food is Medicine medically tailored meals"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "Brooklyn Museum",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "Accion Opportunity Fund",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "Arts Midwest",
+      "purpose": "To support training, education programming and free online resources for artists art leaders"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "Childrens Hospital of Wisconsin Foundation Inc",
+      "purpose": "To support integration of mental and behavioral health services into primary and urgent care clinics"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "Cristo Rey Network",
+      "purpose": "To support professional development programs to retain the academic leaders and teaching faculty"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "Fountain House",
+      "purpose": "To support individuals living with Serious Mental Illness"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "Kauffman Center for the Performing Arts",
+      "purpose": "To support community arts through the Open Door program"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "Lenox Hill Neighborhood House",
+      "purpose": "To provide mental health services for older adults"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "Liberty Science Center",
+      "purpose": "To expand the STEM education program for high school students"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "Lutheran Family Services",
+      "purpose": "To support behavioral health services for adults and children"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "MedStar-Georgetown Medical Center",
+      "purpose": "To support the Perinatal Mental Health Intensive Outpatient Program"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "My Sister's Place",
+      "purpose": "To expand mental health services for survivors of domestic violence"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "Pine Street Inn",
+      "purpose": "To support expansion of Supportive Housing program"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "San Antonio Sports",
+      "purpose": "To support expansion of i play afterschool program"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "San Jose Museum of Art",
+      "purpose": "To support free arts education programs"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "The Huntington Lib Art Museum & Botanical Gardens",
+      "purpose": "To support education programs"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "The Institute for Family Health",
+      "purpose": "To support Fellowships in Addition Medicine"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "The Trust for Public Land",
+      "purpose": "To support the Community Schoolyards Initiative"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "The Trust for the National Mall",
+      "purpose": "To support the Education Exhibit in the new Lincoln Memorial Undercroft"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "University of Louisville Foundation Inc",
+      "purpose": "To provide scholarships in Nursing"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "University of Maryland Baltimore Foundation Inc",
+      "purpose": "To support the School Mental Health Program"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "University of Maryland Medical System Fdn",
+      "purpose": "To support the Professionals Ready for Opportunities in Healthcare Services program"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "Youth Villages",
+      "purpose": "To support the LifeSet program for youth transitioning out of foster care"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "After-School All-Stars",
+      "purpose": "To support after-school time educational programs"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "American Composers Orchestra",
+      "purpose": "To support EarShot professional development programs for early career composers"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "Ford's Theatre Society",
+      "purpose": "To support the expansion of history and education programs"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "Hetrick-Martin Institute Inc",
+      "purpose": "To provide mental health services"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "Hudson Link for Higher Education in Prison",
+      "purpose": "To provide general operating support"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "Mercy Medical Angels",
+      "purpose": "To provide emergency medical transportation"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "Way to Grow",
+      "purpose": "To support the home visiting model, Great by Eight"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "Pratt Institute",
+      "purpose": "To support Pratts Center for Art, Design, and Community Engagement and Precollege scholarships"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "Appalachian Mountain Community Health Center",
+      "purpose": "To expand free and low cost dental care for indigent patients"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "Center for Hope",
+      "purpose": "To provide crisis response violence intervention services for children victims of domestic abuse"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "Cleveland Institute of Art",
+      "purpose": "To provide scholarships for first generation and other students"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "Community Hospital of the Monterey Peninsula",
+      "purpose": "To support the expansion of the Clinical Advancement Program for nurses"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "Educacion para Nuestro Futuro Founded by Escuela Bolivia",
+      "purpose": "To support Emerging Leaders program"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "Exalt Youth",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "Lehigh University",
+      "purpose": "To provide scholarship support for first generation students with financial needs"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "Medical University Hospital Authority",
+      "purpose": "To provide nursing scholarships"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "Prospect Park Alliance",
+      "purpose": "To support capital improvements through its New Initiative program"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "Regional Food Bank of Northeastern New York",
+      "purpose": "To support the construction of a distribution center for the Food Bank"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "The National WWII Museum",
+      "purpose": "To support the teaching and learning programs for understanding the most impactful war in history"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "University of Chicago Medicine",
+      "purpose": "To support Pediatric Mobile Medical Unit"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "University of Cincinnati Foundation",
+      "purpose": "To provide scholarships for first generation students"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Community Music Center of Boston",
+      "purpose": "To support the acquisition and renovation of a permanent home"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Philadelphia Orchestra Association",
+      "purpose": "To support arts education programs"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Spectrum Youth & Family Services",
+      "purpose": "To support Drop-In Center for homeless and at risk youth"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "The Conversation",
+      "purpose": "To train weather researchers to engage with lay audiences"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "The Greater Boston Food Bank",
+      "purpose": "To support produce purchasing for the Food Bank"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Cincinnati Ballet",
+      "purpose": "To support dance education programs"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "NJ LEEP",
+      "purpose": "To support College Bound program"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "After School Matters",
+      "purpose": "To support a new youth center for teens"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Asian American Civic Association",
+      "purpose": "To support Adult Education/Workforce Development programs"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Back on My Feet",
+      "purpose": "To support expansion of walking and running programs to combat homelessness"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Black Ensemble Theater Corporation",
+      "purpose": "To support Educational Outreach programs"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Climb Wyoming",
+      "purpose": "To support job training programs"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Conservation Corps North Bay",
+      "purpose": "To support career pathway training program in Land Management"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "East Oakland Youth Development Center",
+      "purpose": "To support Project JOY to provide job opportunities for youth"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Faith Family Medical Center",
+      "purpose": "To provide general operating support"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "First Step Staffing Inc",
+      "purpose": "To support employment and retention services"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Getting Out and Staying Out",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Girls Write Now Inc",
+      "purpose": "To support the Girls Write Now Collaboratory"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Harlem Stage Inc",
+      "purpose": "To support the WaterWorks program for the development and presentation of artists"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Herbie Hancock Institute of Jazz",
+      "purpose": "To support the National Performing Arts High School Jazz program"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Metavivor Research and Support",
+      "purpose": "To support research for metastatic breast cancer"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "National Organization on Disability",
+      "purpose": "To support programs creating employment for people with disabilities"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Shakespeare & Company",
+      "purpose": "To support the Fall Festival of Shakespeare"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Spy Hop",
+      "purpose": "To support Digital Media Arts programming for young people"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "St Louis Shakespeare Festival",
+      "purpose": "To support community-centered programs and regional outreach"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Step Afrika USA Incorporated",
+      "purpose": "To support the Stepping into Schools education program"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "The Food Basket Inc",
+      "purpose": "To support Emergency Food program"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Warrior-Scholar Project",
+      "purpose": "To provide college preparation programs to service members and veterans"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Youth Speaks",
+      "purpose": "To support the Creative Youth Development and Arts in Education Program"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "The Atlanta Music Project Inc",
+      "purpose": "To support general operations"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "Applications are available on the Fdns website Hearstfdn.org",

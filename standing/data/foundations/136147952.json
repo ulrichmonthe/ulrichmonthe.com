@@ -48,6 +48,338 @@
     "singleton_cluster_share": 0.3458,
     "total_grant_records": 358
   },
+  "recipients_latest_year": [
+    {
+      "amount": 5191600.0,
+      "is_new": false,
+      "name": "PRESIDENT & FELLOWS OF MIDDLEBURY COLLEGE",
+      "purpose": "GENERAL OPERATING SUPPORT (CHARLOTTE JOHNSON FUND)"
+    },
+    {
+      "amount": 2770962.0,
+      "is_new": false,
+      "name": "STERLING COLLEGE",
+      "purpose": "ENHANCING STUDENT LEARNING AND EXPERIENCE THROUGH CAMPUS WELLNESS, STUDENT WELL-BEING AND MENTAL HEALTH INITIATIVES"
+    },
+    {
+      "amount": 2012375.0,
+      "is_new": false,
+      "name": "MEMORIAL SLOAN-KETTERING CANCER CENTER",
+      "purpose": "KIDD FAMILY ENDEAVOR INITIATIVE FOR BLADDER CANCER IMMUNOTHERAPY"
+    },
+    {
+      "amount": 1500000.0,
+      "is_new": false,
+      "name": "WILLIAM J BRENNAN JR CENTER FOR JUSTICE INC",
+      "purpose": "PROTECTING AGAINST PRESIDENTIAL ABUSES OF POWER"
+    },
+    {
+      "amount": 691202.0,
+      "is_new": false,
+      "name": "BRATISLAVA INTERNATIONAL SCHOOL OF LIBERAL ARTS",
+      "purpose": "ADVANCING LIBERAL ARTS EDUCATION IN EUROPE AND PROVIDING FUNDING FOR STIPENDS FOR FACULTY RESEARCH"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "PROTECT DEMOCRACY PROJECT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 450000.0,
+      "is_new": true,
+      "name": "JOHNSON OCONNOR RESEARCH FOUNDATION INC",
+      "purpose": "DIGITALIZATION OF APTITUDE TESTS"
+    },
+    {
+      "amount": 374000.0,
+      "is_new": true,
+      "name": "CAMPUS COMPACT",
+      "purpose": "LEADING TOGETHER TO CHAMPION AND EXPAND COLLEGE CIVIC LEARNING AND DEMOCRACY ENGAGEMENT"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "WELLS COLLEGE",
+      "purpose": "BRIDGING TO THE FUTURE, IN RECOGNITION OF JONATHAN GIBRALTER"
+    },
+    {
+      "amount": 300241.0,
+      "is_new": false,
+      "name": "INCOMMON NON-PROFIT CIVIL COMPANY",
+      "purpose": "KYKLOS 2.0 - URBAN SUSTAINABILITY AND CIRCULARITY LAB"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "HARVARD UNIVERSITY",
+      "purpose": "HPAIED GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 294000.0,
+      "is_new": false,
+      "name": "CENTER FOR INTERNATIONAL MANAGEMENT EDUCATION INC",
+      "purpose": "INCREASING COLLABORATION AND CATALYZING INVESTMENT FOR THE CONNECTICUT RIVER WATERSHED"
+    },
+    {
+      "amount": 277500.0,
+      "is_new": false,
+      "name": "BENNINGTON COLLEGE CORPORATION",
+      "purpose": "BEYOND PLASTICS"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "350 ORG",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "FREE SPEECH FOR PEOPLE INC",
+      "purpose": "MOVEMENT TO DEFEND OUR REPUBLIC AND CONSTITUTION"
+    },
+    {
+      "amount": 230000.0,
+      "is_new": false,
+      "name": "PEN AMERICAN CENTER INC",
+      "purpose": "FREEDOM OF EXPRESSION AND EDUCATION CAMPAIGN"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": false,
+      "name": "COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK TRUSTEES OF",
+      "purpose": "GLOBAL MIGRATION PROJECT"
+    },
+    {
+      "amount": 200150.0,
+      "is_new": false,
+      "name": "NEW ECONOMY COALITION INC",
+      "purpose": "SOLIDARITY ECONOMY FUNDING LIBRARY"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "VALUES UNITED",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "THE ALLIANCE FOR CLIMATE PROTECTION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 170000.0,
+      "is_new": false,
+      "name": "ECOLOGICAL CITIZENS PROJECT INC",
+      "purpose": "REGENERATIVE COMMUNITIES"
+    },
+    {
+      "amount": 170000.0,
+      "is_new": true,
+      "name": "FRANKLIN EDUCATION FORUM",
+      "purpose": "THE COURT OF HISTORY"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": true,
+      "name": "PREGNANCY JUSTICE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "NEW YORK PUBLIC RADIO",
+      "purpose": "THE BRIAN LEHRER SHOW"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "JUSTICE INNOVATION INC",
+      "purpose": "STRONG STARTS COURT INITIATIVE"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "COMMUNITY FUNDS INC",
+      "purpose": "FUND FOR THE NEWEST NEW YORKERS"
+    },
+    {
+      "amount": 120000.0,
+      "is_new": false,
+      "name": "BEDFORD 2030 INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "MAKE THE ROAD NEW YORK",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CENTER FOR LIBERAL ARTS AESTHETIC EDUCATION AND THE ENVIRONMENT GGMBH",
+      "purpose": "DEVELOPMENT OF NEW FORMS OF AESTHETIC EDUCATION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "NEW YORK FOUNDATION",
+      "purpose": "YOUTH ORGANIZING AND CULTURE CHANGE"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": false,
+      "name": "COMMUNITY-WORD PROJECT INC",
+      "purpose": "EVALUATION PROTOCOL DEVELOPMENT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "TADA THEATRE AND DANCE ALLIANCE INC",
+      "purpose": "RESIDENT YOUTH ENSEMBLE"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "NEW YORK SHAKESPEARE FESTIVAL",
+      "purpose": "PUBLIC WORKS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "REACH THE WORLD COMPANY",
+      "purpose": "IT PLATFORM"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "MISSION EDGE SAN DIEGO",
+      "purpose": "STL MUTUAL AID PROJECT"
+    },
+    {
+      "amount": 52789.0,
+      "is_new": false,
+      "name": "EUROPEAN COLLEGES OF LIBERAL ARTS AND SCIENCES",
+      "purpose": "PROPAGATING THE LIBERAL ARTS AND SCIENCES IN EUROPE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "YALE UNIVERSITY",
+      "purpose": "PROGRAM ON CLIMATE CHANGE COMMUNICATION"
+    },
+    {
+      "amount": 38000.0,
+      "is_new": false,
+      "name": "COUNCIL ON FOUNDATIONS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "NEW YORK CITY BALLET INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "THE AZRAQ EDUCATION AND COMMUNITY FUND INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "DE LA SALLE ACADEMY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "THE DAVID SHELDRICK WILDLIFE TRUST USA INC",
+      "purpose": "ORPHANS' PROJECT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "VIVIAN BEAUMONT THEATER INC",
+      "purpose": "OPEN STAGES PROGRAM"
+    },
+    {
+      "amount": 17350.0,
+      "is_new": false,
+      "name": "PHILANTHROPY NEW YORK INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "BROWN UNIVERSITY OF PROVIDENCE",
+      "purpose": "GENERAL OPERATING SUPPORT (CHARLOTTE JOHNSON FUND)"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "PHILLIPS ACADEMY",
+      "purpose": "GENERAL OPERATING SUPPORT (CHARLOTTE JOHNSON FUND)"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "TRINITY EPISCOPAL SCHOOLS CORPORATION",
+      "purpose": "GENERAL OPERATING SUPPORT (CHARLOTTE JOHNSON FUND)"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "TRUSTEES OF PRINCETON UNIVERSITY",
+      "purpose": "GENERAL OPERATING SUPPORT (CHARLOTTE JOHNSON FUND)"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "WASHINGTON & LEE UNIVERSITY",
+      "purpose": "GENERAL OPERATING SUPPORT (CHARLOTTE JOHNSON FUND)"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "WILLIAMS COLLEGE",
+      "purpose": "GENERAL OPERATING SUPPORT (CHARLOTTE JOHNSON FUND)"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "CANDID",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "NORTHERN ARIZONA UNIVERSITY FOUNDATION INC",
+      "purpose": "SCHOLARSHIP SUPPORT FOR TRIBAL NATION-BUILDING GRADUATE CERTIFICATE STUDENTS AND GRADUATE AND UNDERGRADUATE MARKETING AND RECRUITMENT"
+    },
+    {
+      "amount": 6457.0,
+      "is_new": false,
+      "name": "THE METROPOLITAN MUSEUM OF ART",
+      "purpose": "CORPORATE PATRON PROGRAM"
+    },
+    {
+      "amount": 4278.0,
+      "is_new": false,
+      "name": "GREAT LAKES COLLEGES ASSOCIATION INC",
+      "purpose": "GLOBAL LIBERAL ARTS ALLIANCE STRATEGIC INNOVATION FUND"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "FUND FOR PARK AVENUE NEW YORK INC",
+      "purpose": "HOLIDAY LIGHTING"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "INITIALLY A WRITTEN FORM WITH A BRIEF DESCRIPTION OF THE PROPOSAL. IF REQUESTED, AN INDEPTH PROPOSAL WITH FINANCIAL STATEMENTS.",

@@ -48,6 +48,248 @@
     "singleton_cluster_share": 0.45,
     "total_grant_records": 197
   },
+  "recipients_latest_year": [
+    {
+      "amount": 8139680.0,
+      "is_new": false,
+      "name": "The Peel Compton Foundation",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 2570120.0,
+      "is_new": true,
+      "name": "City of Bentonville",
+      "purpose": "to complete design work for a new Adult Recreation Center for the City of Bentonville"
+    },
+    {
+      "amount": 2569571.0,
+      "is_new": false,
+      "name": "Arkansas Public School Resource Center Inc",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 1932530.0,
+      "is_new": false,
+      "name": "Oklahoma Public School Resource Center Inc",
+      "purpose": "to support the Grantee's Growing Strong Leaders Cohort"
+    },
+    {
+      "amount": 1709134.0,
+      "is_new": false,
+      "name": "University of Arkansas Foundation Inc",
+      "purpose": "to support Grantee's Accelerate Student Achievement Program designed to support academic achievement, college completion, and post-graduation success among first-generation and Pell Grant-eligible students from the Arkansas Delta region"
+    },
+    {
+      "amount": 1700000.0,
+      "is_new": true,
+      "name": "Dove Schools",
+      "purpose": "Dove Schools of Tulsa Expansion"
+    },
+    {
+      "amount": 1661880.0,
+      "is_new": false,
+      "name": "Heartland Forward Inc",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 1483314.0,
+      "is_new": false,
+      "name": "Walton Family Foundation Inc",
+      "purpose": "TO SUPPORT COSTS ASSOCIATED WITH THE NWA LAND BANK FUND ACQUISITIONS."
+    },
+    {
+      "amount": 1440000.0,
+      "is_new": false,
+      "name": "Tulsa Community Foundation",
+      "purpose": "to support the 918 Fund, a program focusing on the creation of 15,000 quality school seats in the next 10 years"
+    },
+    {
+      "amount": 1320148.0,
+      "is_new": true,
+      "name": "TNTP Inc",
+      "purpose": "to support improved teacher practice and early literacy through high-touch teacher coaching in Phelps County, Missouri, as a pilot program for the Missouri Department of Elementary and Secondary Education to consider for expansion in other districts"
+    },
+    {
+      "amount": 1255663.0,
+      "is_new": false,
+      "name": "Bentonville Bella Vista Trailblazer's Association Inc",
+      "purpose": "to support the engineering design costs of the tunnel to reroute the Greenway trail under Hwy 102 near P Street"
+    },
+    {
+      "amount": 695000.0,
+      "is_new": true,
+      "name": "Phalen Leadership Academies Indiana Inc",
+      "purpose": "to provide financial support to Hogan Preparatory Academy to hire up to eight academic support staff to be deployed at all three campuses in Kansas City"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "Proud To Partner Leadership Academy Inc",
+      "purpose": "Proud To Partner Leadership Academy - Startup"
+    },
+    {
+      "amount": 488200.0,
+      "is_new": true,
+      "name": "Show Me KC Schools",
+      "purpose": "To design, support, and implement a common application system for [charter] schools in the St. Louis City boundaries"
+    },
+    {
+      "amount": 397500.0,
+      "is_new": false,
+      "name": "Harding Independence Charter District Inc",
+      "purpose": "Harding Independence Charter District Elementary Expansion"
+    },
+    {
+      "amount": 358125.0,
+      "is_new": true,
+      "name": "Arkansas State University System Foundation Inc",
+      "purpose": "to support the implementation and evaluation of the BehaviorHelp program"
+    },
+    {
+      "amount": 330000.0,
+      "is_new": true,
+      "name": "Advance Rural Education Foundation",
+      "purpose": "The Academy of Okmulgee expansion"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "Oklahoma Montessori Initiative",
+      "purpose": "Oklahoma Montessori Initiative Start-up"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "RISE STEAM Academy",
+      "purpose": "RISE STEAM Academy Start-up"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "Under the Canopy Inc",
+      "purpose": "Under the Canopy School Start-up"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "American Enterprise Institute for Public Policy Research",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 116720.0,
+      "is_new": true,
+      "name": "Social & Environmental Entrepreneurs Inc",
+      "purpose": "To serve as fiscal sponsor for Opportunities Exchange to pilot a business coaching program with early childhood providers aimed at streamlining costs to improve the quality and accessibility of early childhood education in Arkansas"
+    },
+    {
+      "amount": 98365.0,
+      "is_new": true,
+      "name": "Northwest Arkansas Community College Foundation Inc",
+      "purpose": "to pilot a new pathway for high school students interested in becoming early childhood educators"
+    },
+    {
+      "amount": 77121.0,
+      "is_new": false,
+      "name": "Watershed Conservation Resource Center",
+      "purpose": "to construct stream flow improvements and riparian restoration in the vicinity of the NW A Street low-water crossing"
+    },
+    {
+      "amount": 49500.0,
+      "is_new": true,
+      "name": "State of Oklahoma Office of Educational Quality and Accountability",
+      "purpose": "to support the costs associated with the Harvard Strategic Data Fellow"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "Cookson Hills Christian School Inc",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "Institute for Humane Studies",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 15500.0,
+      "is_new": false,
+      "name": "Centers for Youth and Families Inc",
+      "purpose": "to support the residential children's treatment program providing psychiatric help and educational services"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": false,
+      "name": "EXODUSLIFE",
+      "purpose": "to support educational and training programs to restore previously incarcerated men and women to their families and communities"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Cato Institute",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Heritage Foundation",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "Stanford University",
+      "purpose": "to support K-12 education reform through the Hoover Institution"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "Habitat for Humanity of Grayson County",
+      "purpose": "to build homes for families in need"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "Home Hospice of Grayson County",
+      "purpose": "to provide medical care for terminally ill, bereavement counseling, and social workers"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "Boys & Girls Club of Denison Inc",
+      "purpose": "for program scholarships to help with disadvantaged youth in need"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "City of Sherman",
+      "purpose": "to find new homes for stray animals and expenses related to the program"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "Texoma Family Shelter Inc",
+      "purpose": "to support homeless families by providing shelter and food"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Arkansas Childrens Foundation",
+      "purpose": "to support the vehicular heat stroke prevention campaign"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Texas A&M University-Kingsville",
+      "purpose": "to support the general operations of the Grantee's Caesar Kleberg Wildlife Research Institute"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Humane Society of Pulaski County",
+      "purpose": "to rescue, rehabilitate, provide veterinary care, spay/neuter, and find loving homes for Central Arkansas dogs and cats in need"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

@@ -48,6 +48,1106 @@
     "singleton_cluster_share": 0.3296,
     "total_grant_records": 794
   },
+  "recipients_latest_year": [
+    {
+      "amount": 2500500.0,
+      "is_new": true,
+      "name": "LIFELINE RECOVERY CENTER INC",
+      "purpose": "CAPITAL SUPPORT"
+    },
+    {
+      "amount": 1500000.0,
+      "is_new": false,
+      "name": "SECOND HARVEST FOOD BANK OF GREATER NO",
+      "purpose": "CAPITAL & PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 1300000.0,
+      "is_new": false,
+      "name": "GOD'S PIT CREW",
+      "purpose": "CAPITAL & PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "SUPPORT OUR AGING RELIGIOUS INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "MAYO CLINIC",
+      "purpose": "CAPITAL SUPPORT"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "CATHOLIC RELIEF SERVICES INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 770000.0,
+      "is_new": false,
+      "name": "REGIONAL FOOD BANK OF NORTHEAST FLORIDA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 750000.0,
+      "is_new": false,
+      "name": "SETON CATHOLIC SCHOOLS",
+      "purpose": "CAPITAL SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "GIFT OF ADOPTION",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "BAYOU COMMUNITY FOUNDATION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "ST AUGUSTINE UNIVERSITY PARISH",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "ALZHEIMER'S DRUG DISCOVERY FOUNDATION",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "HERE TOMORROW INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": true,
+      "name": "COMMUNITY FOUNDATION OF NORTH FLORIDA",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 280000.0,
+      "is_new": true,
+      "name": "FEEDING AMERICA",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 280000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF TEXAS FOUNDATION",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 250750.0,
+      "is_new": false,
+      "name": "PADUCAH INTERFAITH MINISTRY INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "DUBUQUE COUNTY HISTORICAL SOCIETY",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 242000.0,
+      "is_new": false,
+      "name": "ST MARY SCHOOL SYSTEM",
+      "purpose": "OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "THE HARRY TOMPSON CENTER",
+      "purpose": "CAPITAL SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "SEAMEN'S CHURCH INSTITUTE",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "THE GATEHOUSEPROJECTHANDUP",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 171000.0,
+      "is_new": false,
+      "name": "THE TOM COUGHLIN JAY FUND FOUNDATION INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 170000.0,
+      "is_new": false,
+      "name": "COMMUNITY MINISTRIES INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 161000.0,
+      "is_new": false,
+      "name": "LIVING LANDS & WATERS",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 155000.0,
+      "is_new": true,
+      "name": "ST CHARLES BORROMEO CHURCH",
+      "purpose": "OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "RIVERSIDE PRESBYTERIAN DAY SCHOOL INC",
+      "purpose": "CAPITAL SUPPORT"
+    },
+    {
+      "amount": 146000.0,
+      "is_new": false,
+      "name": "FAMILY SERVICE SOCIETY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 140000.0,
+      "is_new": false,
+      "name": "WOMEN AWARE DBA MERRYMAN HOUSE",
+      "purpose": "OPERATING SUPPORT"
+    },
+    {
+      "amount": 140000.0,
+      "is_new": false,
+      "name": "IM SULZBACHER CENTER FOR THE HOMELESS INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "CATHOLIC BISHOPS OF NORTHERN ALASKA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "DIVINE WORD MISSIONARIES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "HEAR WISCONSIN INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "MISSIONARY SOCIETY OF ST COLUMBAN",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "ROADS TO LIFE TANZANIA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "ST FRANCIS MISSION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "ST JOSEPH'S INDIAN SCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "ST PATRICK'S MISSIONARY SOCIETY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "ST THOMAS MORE CATHOLIC CHURCH",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "THE PIARIST SCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "WISCONSIN HISTORICAL FOUNDATION INC",
+      "purpose": "SUPPORT FOR STONEFIELD HISTORICAL SITE"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "XAVERIAN MISSIONARY FATHERS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "CLARETIAN MISSIONARIES-USA PROVINCE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "USA MIDWEST PROVINCE OF THE SOCIETY OF JESUS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 120000.0,
+      "is_new": false,
+      "name": "OSCAR CROSS BOYS & GIRLS CLUB INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 101000.0,
+      "is_new": false,
+      "name": "PADUCAH MCCRACKEN COUNTY SENIOR CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BEACHES EMERGENCY ASSISTANCE MINISTRY INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CHRISTIAN APPALACHIAN PROJECT",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CITY OF REFUGE INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "EL PASO COMMUNITY FOUNDATION",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BEACHES CHRISTIAN SERVICE CORPS INC DBA PABLO TOWERS",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CATHEDRAL PARISH SCHOOL",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CATHOLIC EDUCATION FOUNDATION",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "MILWAUKEE CATHOLIC HOME INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ANGELWOOD INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "HART FELT MINISTRIES INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "APPALACHIA SERVICE PROJECT INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "FIRST LIBERTY INSTITUTE",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "HAYWOOD CHRISTIAN MINISTRY INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 95250.0,
+      "is_new": false,
+      "name": "MERCY HEALTH FOUNDATION",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": true,
+      "name": "GRANT COUNTY CENTER ON AGING",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": true,
+      "name": "TIM TEBOW FOUNDATION INC",
+      "purpose": "OPERATING SUPPORT"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "BEACHES COUNCIL ON AGING INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 78000.0,
+      "is_new": false,
+      "name": "ST VINCENT DE PAUL BUDGET STORE (PADUCAH KY)",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "JESUITS USA CENTRAL & SOUTHERN PROVINCE",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "PADUCAH PUBLIC SCHOOLS FOUNDATION INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "THE GOOD SHEPHERD NATIVITY MISSION SCHOOL INC",
+      "purpose": "OPERATING SUPPORT"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "COVENANT HOUSE NEW ORLEANS",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 68000.0,
+      "is_new": false,
+      "name": "EASTERSEALS WEST KENTUCKY INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "AGAPE CHILD & FAMILY SERVICES",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "CATHOLIC CHARITIES OF EAST TENNESSEE",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": true,
+      "name": "CATHOLIC CHARITIES OF LOUISVILLE INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "CITY OF NEPTUNE BEACH",
+      "purpose": "PUBLIC PARKS/RECREATION"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "MARIAN WOODS INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "REBOOT RECOVERY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "COMMUNITY FOUNDATION OF WEST KENTUCKY INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "MOREHEAD GATEWAY HELPING HANDS",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "NEW ORLEANS MISSION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "FATHER MALONEY'S BOYS HAVEN INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50360.0,
+      "is_new": false,
+      "name": "IDOLS ASIDE MINISTRIES",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ASCENSION WISCONSIN FOUNDATION",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "COLLEGE POSSIBLE",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "HOPE CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "LIV WELL COMMUNITY HEALTH SERVICES",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MILWAUKEE HABITAT FOR HUMANITY",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "RIVER DISCOVERY CENTER",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ST COLETTA OF WISCONSIN",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "THE LUTHERAN HOME INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BAPTIST HEALTH FOUNDATION PADUCAH",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CATHOLIC CHARITIES BUREAU",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "OZANAM INN",
+      "purpose": "OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ST AUGUSTINE DIOCESAN COUNCIL SOCIETY OF ST VINCENT DE PAUL GROUP INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SUNRISE CHILDREN'S SERVICES INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "THE DIGDEEP RIGHT TO WATER PROJECT",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BEACHES AREA HISTORICAL SOCIETY",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "TOWNSHIP OF GLEN HAVEN WISCONSIN",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MERCY CHEFS",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 43000.0,
+      "is_new": false,
+      "name": "BENEDICTINE SISTERS OF ERIE INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "BETHLEHEM FARM INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "CATHOLIC CHURCH EXTENSION SOCIETY OF USA",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "FRANCISCAN PEACEMAKERS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "GRACE AT THE GREENLIGHT",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "HOTEL INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "MARSHALL COUNTY EXCEPTIONAL CENTER",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "OUR LADY OF PEACE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "PADUCAH DAY NURSERY INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "VILLAGE OF CASSVILLE",
+      "purpose": "PUBLIC SERVICE - LIBRARY OPERATIONS"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "BARREN HEIGHTS CHRISTIAN RETREAT CENTER INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "TRINITY RESCUE MISSION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 37000.0,
+      "is_new": false,
+      "name": "RESPITE VOLUNTEERS OF SHIAWASSEE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 36500.0,
+      "is_new": false,
+      "name": "HOPE UNLIMITED FAMILY CARE CENTER INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "CRISTO REY JESUIT HIGH SCHOOL",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "MINISTRY OF THE GOOD SHEPHERD",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "ST JOHN CENTER INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "SACRED HEART PARISH",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "ACTS HOUSING",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "BUT GOD MINISTRIES",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "DISMAS MINISTRY",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "FOLDS OF HONOR FOUNDATION",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "HAVEN OF HOPE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "SOUP FOR THE SOUL ORG INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "WI LUTHERAN CHILD & FAMILY SERVICES INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "NEW ORLEANS MEDICAL MISSION SERVICES INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "RAPE VICTIM SERVICES INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "THE POLICE FOUNDATION OF PADUCAH-MCCRACKEN COUNTY INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "COMMUNITY CLOTHES CLOSET INC",
+      "purpose": "OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "FEEDING AMERICA EASTERN WISCONSIN",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "GRANT COUNTY - ORCHARD MANOR",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LIFEHOUSE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "MARSHALL COUNTY COMMUNITY KITCHEN INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NATIONAL SHRINE OF OUR LADY OF PROMPT SUCCOR",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "OUR LADY'S INN",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PRINCE OF PEACE CENTER",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PROJECT CONCERN OF CUDAHY-STFRANCIS",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "RONALD MCDONALD HOUSE CHARITIES OF KENTUCKY",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "VICTORY THROUGH GRACE MINISTRIES",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ALLINA HEALTH FOUNDATION",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "DV8KITCHEN VOCATIONAL TRAINING FOUNDATION LLC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "THE MINISTRY OF CARING INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PRESBYTERIAN CHILDREN'S HOMES AND SERVICES",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "OUR LADY OF THE MOUNTAINS",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "VOLUNTEER LIFE SAVING CORPS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 21000.0,
+      "is_new": false,
+      "name": "BOLLES SCHOOL",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 21000.0,
+      "is_new": false,
+      "name": "MONTESSORI TRAINING CENTER OF MINNESOTA INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 21000.0,
+      "is_new": false,
+      "name": "MURRAY CALLOWAY NEED LINE ASSOCIATION",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "CARTERET HEALTHCARE FOUNDATION",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "NEW HAMPSHIRE CATHOLIC CHARITIES",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "PIARIST FATHERS - US & PUERTO RICO",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF THE CUMBERLANDS",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "OPERATION WARM",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "SUWANNEE COUNTY SHERIFF'S OFFICE",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "NEMOURS FOUNDATION",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "THIELEN FOUNDATION INC",
+      "purpose": "PROGRAM SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "CASSIDY'S CAUSE THERAPEUTIC RIDING ACADEMY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "CHURCH HEALTH",
+      "purpose": "OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "KIDWORKS COMMUNITY DEVELOPMENT CORPORATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "MACH ACADEMY INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "PRISON COMMUNITIES INTERNATIONAL INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 18500.0,
+      "is_new": false,
+      "name": "TISBEST PHILANTHROPY",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 18000.0,
+      "is_new": true,
+      "name": "CHILD WATCH COUNSELING AND ADVOCACY CENTER INC",
+      "purpose": "OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "INHEALTH COMMUNITY WELLNESS CLINIC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "HOPE INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "FEEDING AMERICA KENTUCKY'S HEARTLAND",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "HILDEGARD HOUSE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "CHWC INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "HELPING HANDS HEALTH AND WELLNESS CENTER",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "SON OF A SAINT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "SUA SPONTE FOUNDATION INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "FACIAL PAIN RESEARCH FOUNDATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "HOUSTON MARITIME MUSEUM",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "OPERATION VET-FIT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "RYAN CALLAHAN FOUNDATION",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "VICTIMS OF MILWAUKEE VIOLENCE BURIAL FUND",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "LONE OAK FIRST BAPTIST CHURCH",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "UNITED WAY OF PADUCAH-MCCRACKEN COUNTY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "BROADWAY UNITED METHODIST CHURCH",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "MISD FOUNDATION FOR EXCELLENCE INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 725.0,
+      "is_new": false,
+      "name": "WORLD VISION INC",
+      "purpose": "PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 600.0,
+      "is_new": false,
+      "name": "FELLOWSHIP OF CHRISTIAN ATHLETES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "BIKE4ALZ INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 300.0,
+      "is_new": false,
+      "name": "GREATER PADUCAH YOUNG LIFE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250.0,
+      "is_new": true,
+      "name": "HONORABLE ORDER OF KENTUCKY COLONELS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200.0,
+      "is_new": true,
+      "name": "MISSING BELLA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "FOR 2025 THE FOUNDATION HAS ENTERED INTO COMMITMENTS THAT HAVE CAUSED ALL OF ITS AVAILABLE GRANT FUNDS TO BE FULLY UTILIZED. SUBMIT REQUESTS FOR 2026 FUNDING ONLINE & INCLUDE IRS DETERMINATION LETTER. THE REQUIRED GRANT APPLICATION AND RELATED MATERIALS IS LISTED ON THE WEBSITE: WWW.ECKSTEINCHARITY.ORG",

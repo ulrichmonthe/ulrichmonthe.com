@@ -48,6 +48,668 @@
     "singleton_cluster_share": 0.5014,
     "total_grant_records": 960
   },
+  "recipients_latest_year": [
+    {
+      "amount": 38596217.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF MARYLAND COLLEGE PARK FOUNDATION INC",
+      "purpose": "CLARK DISTINGUISHED CHAIRS"
+    },
+    {
+      "amount": 14468599.0,
+      "is_new": false,
+      "name": "GEORGETOWN UNIVERSITY",
+      "purpose": "TECHNICAL ASSISTANCE FOR THE CENETER FOR CHLD AND HUMAN DEVELOPMENT"
+    },
+    {
+      "amount": 10000000.0,
+      "is_new": false,
+      "name": "JOHN F KENNEDY CENTER FOR THE PERFORMING ARTS",
+      "purpose": "ENDOW THE VICE PRESIDENT OF EDUCATION AND THE LAWRENCE C. NUSSDORF FUND FOR SOUND HEALTH"
+    },
+    {
+      "amount": 10000000.0,
+      "is_new": true,
+      "name": "TRUSTEES OF BOSTON COLLEGE",
+      "purpose": "CARROLL SCHOOL OF MANAGEMENT SCHOLARSHIP PROGRAM"
+    },
+    {
+      "amount": 9000000.0,
+      "is_new": false,
+      "name": "NORTH CAROLINA A&T STATE UNIVERSITY",
+      "purpose": "COLLEGE OF ENGINEERING TRANSFER STUDENT PATHWAYS AND A. JAMES CLARK LEGACY SCHOLARS COMPETITIVE FRESHMAN ENDOWMENT"
+    },
+    {
+      "amount": 8007500.0,
+      "is_new": false,
+      "name": "MEMORIAL SLOAN KETTERING CANCER CENTER",
+      "purpose": "SUPPORT FOR GLIOBLASTOMA RESEARCH"
+    },
+    {
+      "amount": 7750000.0,
+      "is_new": false,
+      "name": "MEDSTAR HEALTH INC",
+      "purpose": "SAFE BABIES, SAFE MOMS HEALTH INITIATIVE"
+    },
+    {
+      "amount": 5750000.0,
+      "is_new": false,
+      "name": "MARYLAND FOOD BANK INC",
+      "purpose": "GENERAL OPERATING SUPPORT OF FOOD SECUITY PROGRAMS"
+    },
+    {
+      "amount": 5642999.0,
+      "is_new": false,
+      "name": "SIBLEY MEMORIAL HOSPITAL FOUNDATION",
+      "purpose": "MATERNAL HEALTH ACCESS PROGRAM"
+    },
+    {
+      "amount": 4625000.0,
+      "is_new": true,
+      "name": "CHILDRENS NATIONAL HOSPITAL",
+      "purpose": "CLARK PARENT-CHILD NETWORK"
+    },
+    {
+      "amount": 4360000.0,
+      "is_new": true,
+      "name": "CATHOLIC CHARITIES OF THE ARCHDIOCESE OF WASHINGTON INC",
+      "purpose": "SUPPORT OF THE NEWCOMER NETWORK"
+    },
+    {
+      "amount": 4250000.0,
+      "is_new": false,
+      "name": "JOHNS HOPKINS UNIVERSITY",
+      "purpose": "CLARK SCHOLARS PROGRAM"
+    },
+    {
+      "amount": 4000000.0,
+      "is_new": false,
+      "name": "PENNSYLVANIA STATE UNIVERSITY",
+      "purpose": "CLARK SCHOLARS PROGRAM"
+    },
+    {
+      "amount": 3765000.0,
+      "is_new": false,
+      "name": "SUBURBAN HOSPITAL FOUNDATION INC",
+      "purpose": "CAPITAL CAMPAIGN"
+    },
+    {
+      "amount": 3750000.0,
+      "is_new": false,
+      "name": "DUKE UNIVERSITY",
+      "purpose": "CLARK SCHOLARS PROGRAM"
+    },
+    {
+      "amount": 3500000.0,
+      "is_new": true,
+      "name": "GEORGIA TECH FOUNDATION INC",
+      "purpose": "CLARK SCHOLARS PROGRAM"
+    },
+    {
+      "amount": 3000000.0,
+      "is_new": false,
+      "name": "VANDERBILT UNIVERSITY",
+      "purpose": "CLARK SCHOLARS PROGRAM"
+    },
+    {
+      "amount": 2500000.0,
+      "is_new": false,
+      "name": "SAMARITAN INNS INC",
+      "purpose": "GENERAL OPERATING SUPPORT OF HOUSING, TREATMENT AND RECOVERY SERVICES PROGRAMS"
+    },
+    {
+      "amount": 2500000.0,
+      "is_new": false,
+      "name": "TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA",
+      "purpose": "CLARK SCHOLARS PROGRAM"
+    },
+    {
+      "amount": 2200000.0,
+      "is_new": true,
+      "name": "WASHINGTON NATIONALS PHILANTHROPIES",
+      "purpose": "GENERAL OPERATING AND YOUTH PROGRAMMING SUPPORT"
+    },
+    {
+      "amount": 2000000.0,
+      "is_new": true,
+      "name": "JUNIOR TENNIS CHAMPIONS CENTER INC",
+      "purpose": "FACILITY EXPANSION"
+    },
+    {
+      "amount": 1786500.0,
+      "is_new": false,
+      "name": "THE TRUSTEES OF THE STEVENS INSTITUTE OF TECHNOLOGY",
+      "purpose": "CLARK SCHOLARS PROGRAM"
+    },
+    {
+      "amount": 1750000.0,
+      "is_new": false,
+      "name": "THE COMMIT FOUNDATION",
+      "purpose": "SUPPORT OF VETERANS TRANSITION PROGRAMS"
+    },
+    {
+      "amount": 1750000.0,
+      "is_new": true,
+      "name": "THE WASHINGTON SCHOOL FOR GIRLS",
+      "purpose": "STUDENT SCHOLARSHIPS AND NEW FACILITY CONSTRUCTION"
+    },
+    {
+      "amount": 1700000.0,
+      "is_new": false,
+      "name": "VIRGINIA TECH FOUNDATION INC",
+      "purpose": "CLARK SCHOLARS PROGRAM"
+    },
+    {
+      "amount": 1500000.0,
+      "is_new": false,
+      "name": "OPERATION HOMEFRONT INC",
+      "purpose": "SUPPORT FOR VETERANS TRANSITIONAL HOUSING PROGRAMS"
+    },
+    {
+      "amount": 1400000.0,
+      "is_new": false,
+      "name": "PGA TOUR FIRST TEE FOUNDATION INC",
+      "purpose": "FIRST TEE COLLEGE SCHOLARSHIP PROGRAM"
+    },
+    {
+      "amount": 1390000.0,
+      "is_new": false,
+      "name": "THE MISSION CONTINUES",
+      "purpose": "CAPACITY BUILDING SUPPORT FOR VETERANS PROGRAM"
+    },
+    {
+      "amount": 1355833.0,
+      "is_new": false,
+      "name": "TEAM RUBICON INC",
+      "purpose": "SUPPORT CAPACITY BUILDING AND STRATEGIC GROWTH OF THE TRADES ACADEMY"
+    },
+    {
+      "amount": 1250000.0,
+      "is_new": false,
+      "name": "HIRE HEROES USA",
+      "purpose": "MENTORING AND ONLINE TRAINING PROGRAMS"
+    },
+    {
+      "amount": 1242727.0,
+      "is_new": false,
+      "name": "WASHINGTON JESUIT ACADEMY",
+      "purpose": "CAPITAL CAMPAIGN SUPPORT"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "BISHOP MCNAMARA HIGH SCHOOL",
+      "purpose": "STUDENT SCHOLARSHIPS"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "COLLEGE TRACK",
+      "purpose": "FACILITY RENOVATIONS"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "THIRD OPTION FOUNDATION",
+      "purpose": "SUPPORT OF VETERANS PROGRAMS"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "NATIONAL LINKS TRUST",
+      "purpose": "FACILITY RENOVATIONS"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "TRAVIS MANION FOUNDATION",
+      "purpose": "CAPACITY BUILDING SUPPORT FOR VETERANS PROGRAM"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "DEMATHA CATHOLIC HIGH SCHOOL",
+      "purpose": "STUDENT SCHOLARSHIPS"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "ELIZABETH SETON HIGH SCHOOL",
+      "purpose": "STUDENT SCHOLARSHIPS"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "MOUNT ST MARY'S UNIVERSITY",
+      "purpose": "THIRD CENTURY SCHOLARS PROGRAM"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "THE FIRST TEE OF GREATER WASHINGTON",
+      "purpose": "FACILITY RENOVATIONS AND EXPANSION"
+    },
+    {
+      "amount": 900000.0,
+      "is_new": false,
+      "name": "DOG TAG INC",
+      "purpose": "DOG TAG FELLOWSHIP PROGRAM EXPANSION"
+    },
+    {
+      "amount": 750000.0,
+      "is_new": false,
+      "name": "HEAD STRONG PROJECT INC",
+      "purpose": "STRATEGIC GROWTH AND CAPACITY-BUILDING SUPPORT"
+    },
+    {
+      "amount": 750000.0,
+      "is_new": false,
+      "name": "OPERATION OPPORTUNITY FOUNDATION",
+      "purpose": "CAPACITY-BUILDING SUPPORT OF COLLEGE PREPARATORY PROGRAMS"
+    },
+    {
+      "amount": 750000.0,
+      "is_new": true,
+      "name": "VIRGINIA FOUNDATION FOR COMMUNITY COLLEGE EDUCATION",
+      "purpose": "A. JAMES CLARK TRANSFER PIPELINE PROGRAM"
+    },
+    {
+      "amount": 540000.0,
+      "is_new": false,
+      "name": "DC SCORES",
+      "purpose": "GENERAL OPERATING SUPPORT OF AFTER-SCHOOL PROGRAMS"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "GREATER DC DIAPER BANK",
+      "purpose": "GENERAL OPERATING SUPPORT OF BABY AND CAREGIVER PROGRAMS"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "EVANS SCHOLARS FOUNDATION",
+      "purpose": "STUDENT SCHOLARSHIPS"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "ARCHBISHOP CARROLL HIGH SCHOOL",
+      "purpose": "STUDENT SCHOLARSHIPS"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "FRIENDS OF EASTON VOLUNTEER FIRE DEPARTMENT INC",
+      "purpose": "SUPPORT THE CONSTRUCTION OF A NEW TRAINING FACILITY FOR FIRST RESPONDERS"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "SAN MIGUEL SCHOOL INC",
+      "purpose": "STUDENT SCHOLARSHIPS"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "ACADEMY OF THE HOLY CROSS INC",
+      "purpose": "STUDENT SCHOLARSHIPS"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "UNITED STATES SOCCER FOUNDATION INC",
+      "purpose": "DC MINI-PITCH INITIATIVE"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "WOMEN GIVING BACK INC",
+      "purpose": "FACILITY RENOVATIONS"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "ST ANN'S CENTER FOR CHILDREN YOUTH AND FAMILIES",
+      "purpose": "GENERAL OPERATING SUPPORT OF EDUCATION PROGRAMS"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": true,
+      "name": "DIGITAL PIONEERS ACADEMY PUBLIC CHARTER SCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT OF SCHOOL PROGRAMS"
+    },
+    {
+      "amount": 328531.0,
+      "is_new": true,
+      "name": "DISTRICT OF COLUMBIA COLLEGE ACCESS PROGRAM",
+      "purpose": "GEORGE MASON UNIVERSITY SCHOLARSHIP PROGRAM"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "FRESHFARM MARKETS INC",
+      "purpose": "GENERAL OPERATING AND CAPACITY-BUILDING SUPPORT OF FOOD SECURITY PROGRAMS"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": true,
+      "name": "ENGINEERING FOR US ALL INC",
+      "purpose": "GENERAL OPERATING SUPPORT OF ENGINEERING PROGRAMS"
+    },
+    {
+      "amount": 280000.0,
+      "is_new": false,
+      "name": "SPRINGBOARD COLLABORATIVE",
+      "purpose": "GENERAL OPERATING SUPPORT OF EDUCATION PROGRAMS"
+    },
+    {
+      "amount": 274843.0,
+      "is_new": false,
+      "name": "GEORGETOWN DAY SCHOOL INC",
+      "purpose": "DC PREP SCHOLARSHIPS"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "CHRIST CHILD SOCIETY",
+      "purpose": "SUPPORT FOR THE GIRLS ON THE RISE PROGRAM"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "GREATER WASHINGTON EDUCATIONAL TELECOMMUNICATIONS ASSOCIATION INC",
+      "purpose": "CAPITAL CAMPAIGN SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "FLAMBOYAN FOUNDATION INC",
+      "purpose": "SUPPORT OF THE CREATION YOUTH INVEST PARTNERS' IMPACT REPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "NATIONAL COLLEGE ATTAINMENT NETWORK",
+      "purpose": "GENERAL OPERATING SUPPORT OF FAFSA COMPLETION PROGRAMS"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "NATIONAL PRESBYTERIAN SCHOOL INC",
+      "purpose": "GENERAL OPERATING AND PLAYGROUND CONSTRUCTION SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "EUPHEMIA L HAYNES PUBLIC CHARTER SCHOOL INC",
+      "purpose": "SCHOOL GROWTH SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "URBAN INSTITUTE",
+      "purpose": "GENERAL OPERATING SUPPORT FOR THE DC EDUCATION RESEARCH COLLABORATIVE"
+    },
+    {
+      "amount": 170000.0,
+      "is_new": false,
+      "name": "NEW FUTURES",
+      "purpose": "SCALING EDUCATIONAL PROGRAM"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "MAMATOTO VILLAGE INC",
+      "purpose": "FACILITY RENOVATIONS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "STATESMEN COLLEGE PREPARATORY ACADEMY FOR BOYS PCS",
+      "purpose": "GENERAL OPERATING AND CAPACITY-BUILDING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BROOKLYN KINDERGARTEN SOCIETY",
+      "purpose": "SUPPORT OF SENSORY GYM STAFF"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "CENTER CITY PUBLIC CHARTER SCHOOLS",
+      "purpose": "SUPPORT FOR STEAM EDUCATION PROGRAMS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "CHILD JUSTICE INC",
+      "purpose": "GENERAL OPERATING SUPPORT OF CHILD LEGAL SERVICES"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "MOCO KIDSCO",
+      "purpose": "INVENTION SCHOLARS PROGRAM"
+    },
+    {
+      "amount": 88000.0,
+      "is_new": true,
+      "name": "SOCIETY OF ST VINCENT DE PAUL SAINTS PETER AND PAUL CONFERENCE I",
+      "purpose": "FACILITY RENOVATIONS"
+    },
+    {
+      "amount": 86382.0,
+      "is_new": false,
+      "name": "GEORGE MASON UNIVERSITY FOUNDATION INC",
+      "purpose": "DC CAP SCHOLARS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "FOOD & FRIENDS INC",
+      "purpose": "SUPPORT FOR FOOD SECURITY PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "DISTRICT OF COLUMBIA PUBLIC LIBRARY FOUNDATION INC",
+      "purpose": "SUPPORT FOR YOUTH LEADERSHIP PROGRAM"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "WOLF TRAP FOUNDATION FOR THE PERFORMING ARTS",
+      "purpose": "EARLY LEARNING THROUGH THE ARTS PROGRAM"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "FEDERAL CITY COUNCIL",
+      "purpose": "GENERAL OPERATING SUPPORT FOR CIVIC PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "POOR ROBERTS MISSION",
+      "purpose": "GENERAL OPEARTING SUPPORT OF FOOD SECURITY PROGRAMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "ST COLUMBA'S EPISCOPAL CHURCH AND NURSERY SCHOOL",
+      "purpose": "PLAYGROUND CONSTRUCTION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "UNITED WAY INDIAN RIVER COUNTY INC",
+      "purpose": "GENERAL OPERATING SUPPORT OF SOCIAL SERVICES PROGRAMS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ACADEMY ART MUSEUM INC",
+      "purpose": "GENERAL OPERATING SUPPORT OF ART PROGRAMS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "NATIONAL PARK TRUST INC",
+      "purpose": "GENERAL OPERATING SUPPORT OF YOUTH PROGRAMMING AT WASHINGTON JESUIT ACADEMY"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "ROBERTO CLEMENTE-SANTA ANA HEALTH CLINIC INC",
+      "purpose": "GENERAL OPERATING SUPPORT OF HEALTH CARE AND WELLNESS SERVICES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "SHRINERS HOSPITALS FOR CHILDREN",
+      "purpose": "GENERAL OPERATING SUPPORT OF PEDIATRIC HEALTH PROGRAMS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "DANA-FARBER INC",
+      "purpose": "GENERAL OPERATING SUPPORT OF CANCER RESEARCH PROGRAMS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "TASK FORCE CHANGE INC",
+      "purpose": "GENERAL OPERATING SUPPORT OF COMMUNITY FITNESS PROGRAMS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "THE ASSISTANCE FUND",
+      "purpose": "GENERAL OPERATING SUPPORT OF MEDICAL DEBT SUPPORT PROGRAMS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "HUMANIM INC",
+      "purpose": "GENERAL OPERATING SUPPORT OF WORKFORCE AND SOCIAL SERVICES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "WASHINGTON TENNIS & EDUCATION FOUNDATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT FOR AFTER-SCHOOL PROGRAMS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "CHESAPEAKE BAY OUTWARD BOUND SCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT OF YOUTH PROGRAMS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CONGRESSIONAL CHORUS",
+      "purpose": "GENERAL OPERATING SUPPORT OF MUSIC PROGRAMS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "WORLD CENTRAL KITCHEN INCORPORATED",
+      "purpose": "GENERAL OPERATING SUPPORT OF FOOD SECURITY PROGRAMS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "RECLAIM CHILDHOOD INC",
+      "purpose": "GENERAL OPERATING SUPPORT OF REFUGEE SUPPORT PROGRAMS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "JUBILEE JUMPSTART",
+      "purpose": "GENERAL OPERATING SUPPORT OF YOUTH PROGRAMS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "KINDNESS CLOSET",
+      "purpose": "GENERAL OPERATING SUPPORT OF FAMILY WELLNESS PROGRAMS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "MONTGOMERY HOSPICE INC",
+      "purpose": "GENERAL OPERATING SUPPORT FOR HOSPICE SERVICE PROGRAMS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "MYOTONIC DYSTROPHY FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT OF MYOTONIC DYSTROPHY SUPPORT PROGRAMS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "NORTHERN VIRGINIA CONSERVATION TRUST",
+      "purpose": "GENERAL OPERATING SUPPORT OF CONSERVATION PROGRAMS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "PLANNED PETHOOD INTERNATIONAL",
+      "purpose": "GENERAL OPERATING SUPPORT OF ANIMAL WELFARE PROGRAMS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "PROGRAM FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT MENTAL HEALTH PROGRAMS FOR MEMBERS OF THE MILITARY"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "RONALD MCDONALD HOUSE CHARITIES OF MARYLAND",
+      "purpose": "GENERAL OPERATING SUPPORT FOR HEALTH AND WELLNESS PROGRAMS FOR CHILDREN"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "SAVE THE CHILDREN FEDERATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT OF HEALTH AND WELLNESS PROGRAMS FOR CHILDREN IN UGANDA"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "THE ARC SOUTHERN MARYLAND",
+      "purpose": "GENERAL OPERATING SUPPORT OF PROGRAMS FOR INDIVIDUALS WITH INTELLECTUAL AND PHYSICAL DISABILITIES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "WE CAN RIDE INC",
+      "purpose": "GENERAL OPERATING SUPPORT OF MENTAL AND PHYSICAL HEALTH PROGRAMS"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "BOYS & GIRLS CLUBS OF GREATER WASHINGTON INC",
+      "purpose": "GENERAL OPERATING SUPPORT OF YOUTH PROGRAMS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "FLATHEAD WARMING CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT OF PROGRAMS FOR INDIVIDUALS EXPERIENCING HOMELESSNESS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "ALZHEIMER'S DISEASE AND RELATED DISORDERS ASSOCIATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT OF HEALTH PROGRAMS"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

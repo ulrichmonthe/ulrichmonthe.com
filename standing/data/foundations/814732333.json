@@ -48,6 +48,596 @@
     "singleton_cluster_share": 0.4091,
     "total_grant_records": 461
   },
+  "recipients_latest_year": [
+    {
+      "amount": 4550000.0,
+      "is_new": false,
+      "name": "ROBIN HOOD FOUNDATION",
+      "purpose": "SOCIAL SERVICES"
+    },
+    {
+      "amount": 2250000.0,
+      "is_new": false,
+      "name": "BOYS & GIRLS CLUBS OF MARTIN COUNTY INC",
+      "purpose": "COMMUNITY OUTREACH"
+    },
+    {
+      "amount": 2150000.0,
+      "is_new": false,
+      "name": "WILDLIFE CONSERVATION SOCIETY",
+      "purpose": "ENVIRONMENTAL PRESERVATION & WILDLIFE CONSERVATION"
+    },
+    {
+      "amount": 1867000.0,
+      "is_new": false,
+      "name": "BOYS' CLUB OF NEW YORK",
+      "purpose": "COMMUNITY OUTREACH"
+    },
+    {
+      "amount": 1110000.0,
+      "is_new": false,
+      "name": "COLD SPRING HARBOR LABORATORY",
+      "purpose": "BIOMEDICAL RESEARCH"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "MAVERICK CAPITAL FOUNDATION",
+      "purpose": "PHILANTHROPY, VOLUNTARISM, AND GRANTMAKING"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "JOHNS HOPKINS UNIVERSITY",
+      "purpose": "MEDICAL RESEARCH - NEUTROPHIL GRANT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "NORTHWELL HEALTH (GLEN COVE HOSPITAL)",
+      "purpose": "MEDICAL CENTER"
+    },
+    {
+      "amount": 104000.0,
+      "is_new": false,
+      "name": "UNIVERSITE LAVAL",
+      "purpose": "MEDICAL EDUCATION GRANT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ACUMEN FUND INC",
+      "purpose": "PROMOTION OF BUSINESS TO CREATE A GLOBAL COMMUNITY OF EMERGING LEADERS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ENVIRONMENTAL DEFENSE FUND",
+      "purpose": "ENVIRONMENTAL PRESERVATION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "NEW YORK-PRESBYTERIAN HOSPITAL",
+      "purpose": "MEDICAL CENTER"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "NPOWER",
+      "purpose": "LAUNCHING DIGITAL CAREERS FOR MILITARY VETERANS AND YOUNG ADULTS FROM UNDERSERVED COMMUNITIES"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "THE EVERGLADES FOUNDATION",
+      "purpose": "ENVIRONMENTAL PRESERVATION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "AMERICAN ACADEMY OF ACHIEVEMENT",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "COLBY COLLEGE",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "EPISCOPAL HIGH SCHOOL",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "HARLEM CHILDREN'S ZONE",
+      "purpose": "SOCIAL SERVICES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MEMORIAL SLOAN KETTERING CANCER CENTER",
+      "purpose": "CANCER RESEARCH"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "NORTH SHORE LAND ALLIANCE",
+      "purpose": "ENVIRONMENTAL PRESERVATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "THE NATURE CONSERVANCY",
+      "purpose": "LAND AND WATER CONSERVATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "COMMUNITY FOUNDATION FOR NANTUCKET",
+      "purpose": "COMMUNITY AND ECONOMIC DEVELOPMENT FOR THE NANTUCKET AREA"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "HOSPITAL FOR SPECIAL SURGERY",
+      "purpose": "BIOMEDICAL RESEARCH"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CDP NORTH AMERICA",
+      "purpose": "ENVIRONMENTAL PRESERVATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CERES",
+      "purpose": "ACCELERATING THE TRANSITION TO A CLEANER, MORE JUST, AND SUSTAINABLE ECONOMY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MASSACHUSETTS GENERAL HOSPITAL",
+      "purpose": "MEDICAL CENTER"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "UNITED RECOVERY FUND",
+      "purpose": "PROVIDE SUPPORT FOR PEOPLE AFFECTED BY SUBSTANCE USE DISORDER AND INCARCERATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "WORLD WILDLIFE FUND INC",
+      "purpose": "NATURAL RESOURCE AND WILDLIFE CONSERVATION AND PROTECTION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "VIRGINIA EPISCOPAL SCHOOL",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "THE BANNER LAKE CLUB",
+      "purpose": "COMMUNITY OUTREACH"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BOWDOIN COLLEGE",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CIA OFFICERS MEMORIAL FOUNDATION",
+      "purpose": "ASSIST SURVIVORS AND DEPENDENTS OF CIA OFFICERS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "COLLEGE TRACK",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "GLEN COVE BOYS AND GIRLS CLUB AT LINCOLN HOUSE",
+      "purpose": "COMMUNITY OUTREACH"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "GRENVILLE BAKER BOYS & GIRLS CLUB",
+      "purpose": "COMMUNITY OUTREACH"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NANTUCKET BOYS & GIRLS CLUB",
+      "purpose": "COMMUNITY OUTREACH"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NANTUCKET HISTORICAL ASSOCIATION",
+      "purpose": "ARTS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PARTNERSHIP TO END ADDICTION",
+      "purpose": "PROVIDING PERSONALIZED SUPPORT AND RESOURCES FOR FAMILIES IMPACTED BY ADDICTION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "TEACH FOR AMERICA",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "B ROBERT WILLIAMSON JR FOUNDATION",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "FDNY FOUNDATION",
+      "purpose": "FIRST RESPONDER SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "JUPITER MEDICAL CENTER FOUNDATION",
+      "purpose": "MEDICAL CENTER"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "CLEVELAND CLINIC MARTIN HEALTH",
+      "purpose": "PATIENT HEALTHCARE, RESEARCH, AND EDUCATION OF HEALTHCARE PROVIDERS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "COUNCIL FOR ECONOMIC EDUCATION",
+      "purpose": "SUPPORT ECONOMIC LITERACY AND FINANCIAL EDUCATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "EPISCOPAL CHARITIES",
+      "purpose": "COMMUNITY OUTREACH"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "NYU LANGONE HEALTH (FACES)",
+      "purpose": "EPILEPSY RESEARCH, PATIENT CARE, AND SUPPLEMENTARY PROGRAMS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "RESOLV PROVING GROUND",
+      "purpose": "PROVIDE EDUCATION, TRAINING, AND FACILITIES TO VETERANS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "SHATTERPROOF",
+      "purpose": "PROVIDE SUPPORT AND TREATMENT FOR PEOPLE IMPACTED BY ADDICTION AND SUBSTANCE ABUSE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "SUCCESS ACADEMY",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "THE AMERICAN REPERTORY THEATER",
+      "purpose": "ARTS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "THE CASSANDRA AWARD FOUNDATION",
+      "purpose": "CREATE AWARENESS FOR CREDIBLE WARNINGS"
+    },
+    {
+      "amount": 23600.0,
+      "is_new": true,
+      "name": "NAVY SEAL FOUNDATION",
+      "purpose": "SUPPORT FOR NAVAL SPECIAL WARFARE'S WARRIORS, VETERANS, AND FAMILIES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "THE UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ACADEMY CENTER OF THE ARTS",
+      "purpose": "PERFORMING ARTS SCHOOL"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "COMMON SENSE MEDIA",
+      "purpose": "PROVIDE UNBIASED INFORMATION, TRUSTED ADVICE, AND INNOVATIVE TOOLS TO HELP HARNESS THE POWER OF MEDIA AND TECHNOLOGY"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "GREEN VALE SCHOOL",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "HOBE SOUND COMMUNITY CHEST INC",
+      "purpose": "SOCIAL SERVICES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "JAMES B LEE JR SCHOLARSHIP FUND IN HONOR OF JOSEPH A MCBRIDE",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "JEFFERSON SCHOLARS FOUNDATION",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "JUPITER ISLAND MEDICAL CLINIC",
+      "purpose": "MEDICAL CENTER"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "NANTUCKET COTTAGE HOSPITAL FOUNDATION",
+      "purpose": "MEDICAL CENTER"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "NANTUCKET PRESERVATION TRUST",
+      "purpose": "ENVIRONMENTAL PRESERVATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "OLD WESTBURY GARDENS",
+      "purpose": "ENVIRONMENTAL PRESERVATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "PLANNED PARENTHOOD OF GREATER NEW YORK",
+      "purpose": "SOCIAL SERVICES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "SUSTAINABLE NANTUCKET (DBA NANTUCKET SUSTAINABLE DEVELOPMENT CORPORATION)",
+      "purpose": "AGRICULTURE, FOOD, NUTRITION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "BONE MARROW & CANCER FOUNDATION",
+      "purpose": "PROVIDE NECESSARY RESOURCES TO CANCER PATIENTS AND BONE MARROW/STEM CELL TRANSPLANT PATIENTS AND THEIR FAMILIES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "THE MUSEUM OF MODERN ART",
+      "purpose": "ARTS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "THE UNIVERSITY OF VIRGINIA",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "VIRGINIA ATHLETICS FOUNDATION",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "LYNCHBURG BEACON OF HOPE",
+      "purpose": "SOCIAL SERVICES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "LYNCHBURG CITY SCHOOLS EDUCATION FOUNDATION",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "WEST PALM GOLF COMMUNITY TRUST INC",
+      "purpose": "DEVELOP AND OPERATE A WORLD CLASS PUBLIC RECREATIONAL GOLF FACILITY IN THE WEST PALM BEACH COMMUNITY"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "AMC SCHWARZMAN ANIMAL MEDICAL CENTER",
+      "purpose": "VETERINARY MEDICINE, RESEARCH, AND EDUCATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "PENNY'S FLIGHT FOUNDATION",
+      "purpose": "NF MEDICAL RESEARCH"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "PRESERVATION LONG ISLAND",
+      "purpose": "ENVIRONMENTAL PRESERVATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "TETON YOUTH & FAMILY SERVICES",
+      "purpose": "SOCIAL SERVICES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "TRUST FOR PUBLIC LAND",
+      "purpose": "ENVIRONMENTAL PRESERVATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "ONE HORSE HOLLOW SCHOLARSHIP AND RELIEF FUND INC",
+      "purpose": "DISASTER RELIEF AND FINANCIAL SUPPORT FOR EDUCATION"
+    },
+    {
+      "amount": 7100.0,
+      "is_new": true,
+      "name": "BAPTIST HEALTH FOUNDATION",
+      "purpose": "CANCER RESEARCH"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "CENTRAL PARK CONSERVANCY",
+      "purpose": "ENVIRONMENTAL PRESERVATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "JACKSON HOLE LAND TRUST",
+      "purpose": "LAND RESOURCES CONSERVATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "JUPITER ISLAND GARDEN CLUB",
+      "purpose": "ENVIRONMENTAL PRESERVATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "NANTUCKET CONSERVATION FOUNDATION",
+      "purpose": "ENVIRONMENTAL PRESERVATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "NANTUCKET YACHT CLUB FOUNDATION",
+      "purpose": "SOCIAL SERVICES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "PLANNED PARENTHOOD OF SOUTH EAST AND NORTH FLORIDA",
+      "purpose": "SOCIAL SERVICES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "SWIM ACROSS AMERICA",
+      "purpose": "CANCER RESEARCH"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "EVANS SCHOLARS FOUNDATION",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "HOUSING NANTUCKET",
+      "purpose": "CREATE AFFORDABLE HOUSING SOLUTIONS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "SOCIETY FOR LEUKOCYTE BIOLOGY",
+      "purpose": "BIOMEDICAL RESEARCH"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "1000 FRIENDS OF FLORIDA",
+      "purpose": "ENVIRONMENTAL PRESERVATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "CHARLOTTE BALLET",
+      "purpose": "ARTS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "CYSTIC FIBROSIS FOUNDATION",
+      "purpose": "CYSTIC FIBROSIS RESEARCH AND TREATMENT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "MDI SEARCH AND RESCUE",
+      "purpose": "SEARCH AND RESCUE OPERATIONS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "NANTUCKET LAND & WATER COUNCIL",
+      "purpose": "ENVIRONMENTAL PRESERVATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "PIPING ROCK SCHOLARSHIP FUND",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "LONG ISLAND CADDIE SCHOLARSHIP FUND",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "NORTH COUNTRY GARDEN CLUB OF LONG ISLAND",
+      "purpose": "ENVIRONMENTAL PRESERVATION"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "HARLEM LACROSSE",
+      "purpose": "ACADEMIC INTERVENTION, LEADERSHIP TRAINING, AND LACROSSE INSTRUCTION"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

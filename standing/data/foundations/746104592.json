@@ -48,6 +48,1328 @@
     "singleton_cluster_share": 0.4774,
     "total_grant_records": 1098
   },
+  "recipients_latest_year": [
+    {
+      "amount": 1364779.0,
+      "is_new": false,
+      "name": "Austin Ed Fund",
+      "purpose": "Post-Secondary Pathways: Post-Secondary Access and Success"
+    },
+    {
+      "amount": 998032.0,
+      "is_new": false,
+      "name": "MINDPOP",
+      "purpose": "Early Childhood Development and Education: High-Quality Providers and Educators"
+    },
+    {
+      "amount": 752115.0,
+      "is_new": false,
+      "name": "CollegeSpring",
+      "purpose": "Post-Secondary Pathways: Post-Secondary Access and Success"
+    },
+    {
+      "amount": 717895.0,
+      "is_new": true,
+      "name": "The Bridgespan Group",
+      "purpose": "Post-Secondary Pathways: Post-Secondary Access and Success"
+    },
+    {
+      "amount": 703151.0,
+      "is_new": false,
+      "name": "Breakthrough Houston",
+      "purpose": "Post-Secondary Pathways: Post-Secondary Access and Success"
+    },
+    {
+      "amount": 497541.0,
+      "is_new": true,
+      "name": "The Center for First-generation Student Success DBA FirstGen Forward co NAS",
+      "purpose": "Post-Secondary Pathways: Post-Secondary Policies and Systems"
+    },
+    {
+      "amount": 417925.0,
+      "is_new": false,
+      "name": "Children's Museum Houston",
+      "purpose": "Early Childhood Development and Education: Supportive Caregivers"
+    },
+    {
+      "amount": 302000.0,
+      "is_new": false,
+      "name": "Greater Houston Community Foundation",
+      "purpose": "Quality Public K-12 Schools: Quality Schools and Models"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "Communities In Schools of Houston Inc",
+      "purpose": "Quality Public K-12 Schools: Student Supports"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "DiscoverU",
+      "purpose": "Post-Secondary Pathways: Post-Secondary Readiness"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "Texas Children's Hospital",
+      "purpose": "Early Childhood Development and Education: Supportive Caregivers"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "United Way for Greater Austin",
+      "purpose": "Early Childhood Development and Education: High-Capacity Sector"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "Neuhaus Education Center",
+      "purpose": "Quality Public K-12 Schools: Excellent Educators"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "Texans Care for Children",
+      "purpose": "Early Childhood Development and Education: High-Capacity Sector"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "The Woods Project",
+      "purpose": "Post-Secondary Pathways: Post-Secondary Readiness"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": false,
+      "name": "SEARCH Homeless Services",
+      "purpose": "Human Services: Stabilization and Empowerment"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "AVANCE - Austin",
+      "purpose": "Early Childhood Development and Education: Supportive Caregivers"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "National Wildlife Federation",
+      "purpose": "Conservation: Conservation/ Environmental Education"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "United Way of Greater Houston",
+      "purpose": "Other: Greater Houston Disaster Alliance: Severe Weather & Derecho Recovery Fund"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "Meadows Mental Health Policy Institute",
+      "purpose": "Early Childhood Development and Education: Supportive Caregivers"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "Texas 2036",
+      "purpose": "Aligned Cradle to Career Education System: Effective Tools, Policies, and Systems"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "UTHealth Houston",
+      "purpose": "Early Childhood Development and Education: High-Quality Providers and Educators"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "Brighter Bites",
+      "purpose": "Human Services: Stabilization and Empowerment"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": true,
+      "name": "Huntsville Independent School District",
+      "purpose": "Quality Public K-12 Schools: Excellent Educators"
+    },
+    {
+      "amount": 155516.0,
+      "is_new": false,
+      "name": "Planned Parenthood Gulf Coast Inc",
+      "purpose": "Human Services: Emotional Wellbeing"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "HYPE Freedom School Inc",
+      "purpose": "Quality Public K-12 Schools: Student Supports"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "Kids' Meals Inc",
+      "purpose": "Human Services: Stabilization and Empowerment"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "EPOG Academy",
+      "purpose": "Post-Secondary Pathways: Post-Secondary Access and Success"
+    },
+    {
+      "amount": 132500.0,
+      "is_new": false,
+      "name": "Target Hunger",
+      "purpose": "Human Services: Stabilization and Empowerment"
+    },
+    {
+      "amount": 129500.0,
+      "is_new": false,
+      "name": "Waterloo Greenway Conservancy",
+      "purpose": "Conservation: Connecting People to Nature"
+    },
+    {
+      "amount": 126000.0,
+      "is_new": false,
+      "name": "Camp Allen Camp & Conference Center",
+      "purpose": "Conservation: Conservation/ Environmental Education"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "AVANCE-Houston Inc",
+      "purpose": "Early Childhood Development and Education: Supportive Caregivers"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "New Hope Housing Inc",
+      "purpose": "Human Services: Stabilization and Empowerment"
+    },
+    {
+      "amount": 120000.0,
+      "is_new": false,
+      "name": "Literacy First",
+      "purpose": "Quality Public K-12 Schools: Student Supports"
+    },
+    {
+      "amount": 120000.0,
+      "is_new": true,
+      "name": "Families in Nature",
+      "purpose": "Conservation: Conservation/ Environmental Education"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": true,
+      "name": "Central Texas Food Bank Inc",
+      "purpose": "Human Services: Stabilization and Empowerment"
+    },
+    {
+      "amount": 105000.0,
+      "is_new": false,
+      "name": "Barton Springs Conservancy",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Ballet Austin Incorporated",
+      "purpose": "Arts: Student Education Programs"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Bayou Land Conservancy",
+      "purpose": "Conservation: Environmental Protection"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BookSpring",
+      "purpose": "Early Childhood Development and Education: Supportive Caregivers"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Boys and Girls Clubs of Greater Houston",
+      "purpose": "Quality Public K-12 Schools: Student Supports"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BridgeYear",
+      "purpose": "Post-Secondary Pathways: Post-Secondary Access and Success"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Buffalo Bayou Partnership",
+      "purpose": "Conservation: Connecting People to Nature"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "DePelchin Children's Center",
+      "purpose": "Human Services: Emotional Wellbeing"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "EMERGE Fellowship",
+      "purpose": "Post-Secondary Pathways: Post-Secondary Access and Success"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Foundation Communities Inc",
+      "purpose": "Human Services: Stabilization and Empowerment"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Houston Arboretum & Nature Center",
+      "purpose": "Conservation: Conservation/ Environmental Education"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "KIPP Texas Inc",
+      "purpose": "Early Childhood Development and Education: High-Quality Providers and Educators"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Literacy Now",
+      "purpose": "Quality Public K-12 Schools: Student Supports"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Menil Foundation Inc",
+      "purpose": "Arts: Public Arts and Culture Access"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Miller Theatre Advisory Board Inc",
+      "purpose": "Arts: Public Arts and Culture Access"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "OneGoal",
+      "purpose": "Post-Secondary Pathways: Post-Secondary Access and Success"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ProUnitas",
+      "purpose": "Quality Public K-12 Schools: Student Supports"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Texas Partnership for Out of School Time",
+      "purpose": "Quality Public K-12 Schools: Student Supports"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Travis Audubon Society Inc",
+      "purpose": "Conservation: Conservation/ Environmental Education"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Trees For Houston",
+      "purpose": "Conservation: Environmental Protection"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "University of Houston-Downtown",
+      "purpose": "Post-Secondary Pathways: Post-Secondary Readiness"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "YES Prep Public Schools Inc",
+      "purpose": "Quality Public K-12 Schools: Quality Schools and Models"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Any Baby Can Inc",
+      "purpose": "Early Childhood Development and Education: Supportive Caregivers"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Arts Connect Houston",
+      "purpose": "Arts: Student Education Programs"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Contemporary Austin Museum Inc",
+      "purpose": "Arts: Student Education Programs"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Prelude Music Foundation",
+      "purpose": "Arts: Student Education Programs"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Project Row Houses",
+      "purpose": "Arts: Public Arts and Culture Access"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ROCO",
+      "purpose": "Arts: Public Arts and Culture Access"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "The Children's Assessment Center Foundation",
+      "purpose": "Human Services: Emotional Wellbeing"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Summer House Institute",
+      "purpose": "Quality Public K-12 Schools: Excellent Educators"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Beacon The",
+      "purpose": "Human Services: Stabilization and Empowerment"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Blanton Museum of Art The University of Texas at Austin",
+      "purpose": "Arts: Student Education Programs"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Casa Mateo",
+      "purpose": "Other: Casa Mateos Founders Campaign"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Houston Education Research Consortium co Rice University",
+      "purpose": "Early Childhood Development and Education: High-Capacity Sector"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "National Association for Family Child Care",
+      "purpose": "Early Childhood Development and Education: High-Quality Providers and Educators"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "TEACH for Houston",
+      "purpose": "Quality Public K-12 Schools: Excellent Educators"
+    },
+    {
+      "amount": 84000.0,
+      "is_new": false,
+      "name": "Austin Theatre Alliance",
+      "purpose": "Arts: Student Education Programs"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "Museum of Fine Arts Houston Glassell School of Art",
+      "purpose": "Arts: Student Education Programs"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Boys & Girls Club of Walker County",
+      "purpose": "Quality Public K-12 Schools: Student Supports"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Chinese Community Center Inc",
+      "purpose": "Early Childhood Development and Education: High-Quality Providers and Educators"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Interfaith Ministries for Greater Houston",
+      "purpose": "Human Services: Stabilization and Empowerment"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Teach For America - Austin",
+      "purpose": "Quality Public K-12 Schools: Excellent Educators"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "FotoFest Inc",
+      "purpose": "Arts: Student Education Programs"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "Museum of Fine Arts Houston Bayou Bend Collection and Gardens",
+      "purpose": "Arts: Student Education Programs"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "Urban Roots",
+      "purpose": "Human Services: Stabilization and Empowerment"
+    },
+    {
+      "amount": 64250.0,
+      "is_new": true,
+      "name": "SERJobs",
+      "purpose": "Post-Secondary Pathways: Post-Secondary Readiness"
+    },
+    {
+      "amount": 60100.0,
+      "is_new": false,
+      "name": "Houston Grand Opera Association Inc",
+      "purpose": "Arts: Student Education Programs"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "Houston Ballet Foundation",
+      "purpose": "Arts: Student Education Programs"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "Improving Education Inc",
+      "purpose": "Early Childhood Development and Education: Supportive Caregivers"
+    },
+    {
+      "amount": 56846.0,
+      "is_new": true,
+      "name": "Sam Houston State University (SHSU)",
+      "purpose": "Human Services: Stabilization and Empowerment"
+    },
+    {
+      "amount": 56500.0,
+      "is_new": false,
+      "name": "Houston Area Women's Center",
+      "purpose": "Human Services: Stabilization and Empowerment"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "Houston Audubon Society",
+      "purpose": "Conservation: Conservation/ Environmental Education"
+    },
+    {
+      "amount": 54000.0,
+      "is_new": false,
+      "name": "Houston Symphony",
+      "purpose": "Arts: Student Education Programs"
+    },
+    {
+      "amount": 53000.0,
+      "is_new": false,
+      "name": "Houston Zoo",
+      "purpose": "Conservation: Conservation/ Environmental Education"
+    },
+    {
+      "amount": 51000.0,
+      "is_new": false,
+      "name": "Boy Scouts of America - Circle Ten Council",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Alley Theatre",
+      "purpose": "Arts: Student Education Programs"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "American Festival for the Arts",
+      "purpose": "Arts: Student Education Programs"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Creative Action",
+      "purpose": "Arts: Student Education Programs"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "First3Years",
+      "purpose": "Early Childhood Development and Education: High-Capacity Sector"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Houston Metropolitan Dance Center Inc",
+      "purpose": "Arts: Student Education Programs"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Houston Museum of Natural Science",
+      "purpose": "Quality Public K-12 Schools: Student Supports"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Latinos for Education",
+      "purpose": "Quality Public K-12 Schools: Excellent Educators"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "LifeWorks",
+      "purpose": "Human Services: Stabilization and Empowerment"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Memorial Assistance Ministries Inc",
+      "purpose": "Human Services: Stabilization and Empowerment"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Shoal Creek Conservancy",
+      "purpose": "Conservation: Environmental Protection"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Teach Plus Inc",
+      "purpose": "Quality Public K-12 Schools: Excellent Educators"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Wesley Community Center",
+      "purpose": "Early Childhood Development and Education: High-Quality Providers and Educators"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Westcave Outdoor Discovery Center",
+      "purpose": "Conservation: Conservation/ Environmental Education"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Writers in the Schools",
+      "purpose": "Arts: Student Education Programs"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "reMIND",
+      "purpose": "Human Services: Emotional Wellbeing"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Coalition for the Homeless of HoustonHarris County",
+      "purpose": "Human Services: Stabilization and Empowerment"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Emancipation Park Conservancy",
+      "purpose": "Conservation: Connecting People to Nature"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Family Houston",
+      "purpose": "Human Services: Emotional Wellbeing"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Houston Botanic Garden",
+      "purpose": "Conservation: Connecting People to Nature"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Jeremiah Program Austin",
+      "purpose": "Early Childhood Development and Education: High-Quality Providers and Educators"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Performing Arts Houston",
+      "purpose": "Arts: Public Arts and Culture Access"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BakerRipley",
+      "purpose": "Human Services: Stabilization and Empowerment"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Bayou City Waterkeeper",
+      "purpose": "Conservation: Environmental Protection"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Youth Justice Alliance",
+      "purpose": "Post-Secondary Pathways: Post-Secondary Access and Success"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "DACAMERA",
+      "purpose": "Arts: Student Education Programs"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "Ensemble Theatre The",
+      "purpose": "Arts: Student Education Programs"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "SAFE",
+      "purpose": "Human Services: Stabilization and Empowerment"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "Shield Ranch Foundation",
+      "purpose": "Conservation: Conservation/ Environmental Education"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "TeachingWorks co University of Michigan",
+      "purpose": "Quality Public K-12 Schools: Excellent Educators"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "Texas A&M University Health Science Center",
+      "purpose": "Quality Public K-12 Schools: Excellent Educators"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "Texas Cultural Trust",
+      "purpose": "Arts: Student Education Programs"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "Texas Health and Environment Alliance",
+      "purpose": "Conservation: Environmental Protection"
+    },
+    {
+      "amount": 47680.0,
+      "is_new": false,
+      "name": "Dartmouth College",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "Art League Houston",
+      "purpose": "Arts: Student Education Programs"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "Bridges To Life",
+      "purpose": "Human Services: Stabilization and Empowerment"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "ChildBuilders",
+      "purpose": "Human Services: Emotional Wellbeing"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "School Year Abroad Inc",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "LIFE Houston",
+      "purpose": "Human Services: Stabilization and Empowerment"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "Houston Youth Symphony",
+      "purpose": "Arts: Student Education Programs"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "Salvation Army The",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 30500.0,
+      "is_new": false,
+      "name": "Center for Reproductive Rights Inc",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "University of North Carolina at Wilmington",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "The Anderson Center for the Arts",
+      "purpose": "Arts: Public Arts and Culture Access"
+    },
+    {
+      "amount": 27000.0,
+      "is_new": false,
+      "name": "Howard University",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "A Time 2 Read Inc",
+      "purpose": "Quality Public K-12 Schools: Student Supports"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "St Mark's Episcopal School",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "One Simple Wish",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "Rice University",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 18000.0,
+      "is_new": false,
+      "name": "St John's School",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 17000.0,
+      "is_new": false,
+      "name": "ACLU Foundation of Texas",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Houston Food Bank",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Ronald McDonald House Charities of Central Texas Inc",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "The Neill-Cochran House Museum",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Interfaith Health Center",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Harmony House",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Houston Livestock Show and Rodeo",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Lakeshore Park Conservancy",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Ursuline Academy of Dallas Foundation Inc",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "American Civil Liberties Union Foundation Inc",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Common Cause Education Fund",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "The Highland Project",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Saddle Up Nashville",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "Boys and Girls Country of Houston Inc (BGC)",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "Knoxville Symphony Orchestra",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "University of North Carolina Chapel Hill Arts and Science Foundation",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": true,
+      "name": "Walker County Historical Commission",
+      "purpose": "Other: Address and repair plumbing issues"
+    },
+    {
+      "amount": 7822.0,
+      "is_new": false,
+      "name": "Community Foundation of Acadiana (CFA)",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "National Women's Law Center",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 7000.0,
+      "is_new": false,
+      "name": "The Lilith Fund",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 6500.0,
+      "is_new": false,
+      "name": "Transgender Law Center",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 6050.0,
+      "is_new": false,
+      "name": "Philanthropy Southwest",
+      "purpose": "Other: General operating, support, programs, and initiatives"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "Texas State University Development Foundation",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "Baylor University",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "Tallowood Baptist Church",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "Bayou City Blessings in a Backpack",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "DeafBlind Community of Texas",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "Easter Seals-Central Texas Inc",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "Helen Keller Services",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "350org",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Families Empowered",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "MD Anderson Cancer Center",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Manned Space Flight Education Foundation",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "National Center for Family Philanthropy Inc",
+      "purpose": "Other: General operating, support, programs, and initiatives"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Sea Shepherd Conservation Society",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "University of Arizona Foundation",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "University of Texas at Austin The McCombs School of Business",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Washington and Lee University",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Planned Parenthood of Greater Texas",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Transmit Receive Labs Inc",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "National Museum of African American History & Culture",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "North American Association for Environmental Education",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "PEN American Center Inc",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Peace Thru Culture Inc",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Southern Methodist University",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Texas Lyceum",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 4710.0,
+      "is_new": false,
+      "name": "United States Foundation for the Commemoration of the World Wars",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 4500.0,
+      "is_new": false,
+      "name": "Grantmakers for Education",
+      "purpose": "Other: General operating, support, programs, and initiatives"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "My Connect Community",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "Save the Children",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "Touch Base Center for the Deafblind",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "The Nature Conservancy",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "St Mark's Episcopal Church of Houston",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "The Blue Bird Circle",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "Houston Area Parkinson Society",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "Everytown for Gun Safety Support Fund",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "Environmental Defense Fund Incorporated",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "University of Puget Sound",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "Ex-Students' Assn Univ Texas",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "The First Tee of Greater Houston",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "Waterfront Botanical Gardens Inc",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "Sierra Club Foundation",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "Houston SPCA",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "Laity Lodge Youth Camp",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": false,
+      "name": "Northwestern University",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": true,
+      "name": "The University of Texas at Austin College of Education",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": true,
+      "name": "Tunnel to Towers Foundation",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 1160.0,
+      "is_new": false,
+      "name": "Stanford University",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 1160.0,
+      "is_new": false,
+      "name": "The Awty International School",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "Twelve Days of Christmas Inc",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "Brookwood Community The",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "Camp Nakanawa",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "East Tennessee Foundation",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "Jeri's House",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "Knoxville Museum of Art",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "Oak Ridge Art Center",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "Sequoyah Hills Presbyterian Church",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "Sight Hearing Encouragement Program",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "Society of the Sacred Heart United States - Canada Province Inc",
+      "purpose": "Designated Grant: General operating and support"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "The Humane Society of the United States",
+      "purpose": "Designated Grant: General operating and support"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "Organizations interested in applying for a Powell Foundation grant must submit an online pre-application form. If the pre-application is advanced, the organization will be invited to submit a full application via the Powell Foundation's online Grant Portal. The Powell Foundation Board of Directors makes all final decisions about grant requests during the Spring (May) and Fall (November) Board Meetings. Organizations approved for funding must sign and return a grant agreement for disbursement. Refer to the website for grant guidelines.",

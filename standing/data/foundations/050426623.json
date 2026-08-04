@@ -48,6 +48,584 @@
     "singleton_cluster_share": 0.5685,
     "total_grant_records": 389
   },
+  "recipients_latest_year": [
+    {
+      "amount": 6408253.0,
+      "is_new": false,
+      "name": "BROWN UNIVERSITY",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 4588876.0,
+      "is_new": false,
+      "name": "TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 1939729.0,
+      "is_new": false,
+      "name": "PRESIDENT AND FELLOWS OF HARVARD COLLEGE",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 1611313.0,
+      "is_new": true,
+      "name": "INTERMOUNTAIN FOUNDATION",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 1080129.0,
+      "is_new": false,
+      "name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 890940.0,
+      "is_new": false,
+      "name": "STANFORD UNIVERSITY",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 775000.0,
+      "is_new": false,
+      "name": "CHILDRENS HOSPITAL CORPORATION",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 621000.0,
+      "is_new": true,
+      "name": "SOUTH COUNTY HEALTH",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 500750.0,
+      "is_new": true,
+      "name": "NEW YORK STEM CELL FOUNDATION",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "PAN-MASSACHUSETTS CHALLENGE INCJIMMY FUND",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 308459.0,
+      "is_new": true,
+      "name": "CCRI FOUNDATION",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 281517.0,
+      "is_new": false,
+      "name": "THE REGENTS OF THE UNIVERSITY OF MICHIGAN",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 279995.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF CHICAGO",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "NATIONAL MULTIPLE SCLEROSIS SOCIETY",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 246404.0,
+      "is_new": true,
+      "name": "THE GENESIS CENTER",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "CROSSROADS RHODE ISLAND",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "TRUSTEES OF BOSTON UNIVERSITY",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "BAYLOR COLLEGE OF MEDICINE",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF WASHINGTON",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "BOARD OF REGENTS OF THE UNIVERSITY OF WISCONSIN SYSTEM",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "NEW YORK UNIVERSITY SCHOOL OF MEDICINE",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "SCRIPPS RESEARCH INSTITUTE",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "TRUSTEES OF PRINCETON UNIVERSITY",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "BRENTJENS CONSULTING LLC",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 115000.0,
+      "is_new": false,
+      "name": "JEWISH COMMUNITY DAY SCHOOL OF RI",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "JUNIOR ACHIEVEMENT OF RI",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "EMORY UNIVERSITY",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "PROVIDENCE PROMISE",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "THE MIRIAM HOSPITAL FOUNDATION",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "CYSTIC FIBROSIS & MULTIPLE SCLEROSIS FUND FDN",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "KIF1AORG",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 38500.0,
+      "is_new": false,
+      "name": "JEWISH ALLIANCE OF GREATER RI",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 38400.0,
+      "is_new": false,
+      "name": "COMMUNITY PREPARATORY SCHOOL",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "ELDER SERVICES OF WORCESTER AREA INC",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "ETHOS",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "HOLY FAMILY HOME FOR MOTHERS AND CHILDREN",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "MEALS ON WHEELS OF RI INC",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "PINE STREET INN",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "READ TO SUCCEED",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "ROSIE'S PLACE",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "THE GREATER BOSTON FOOD BANK INC",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "THE NEW HAMPSHIRE FOOD BANK",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "BOSTON HEALTHCARE FOR THE HOMELESS PROGRAM",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "RHODE ISLAND COMMUNITY FOOD BANK ASSOCIATION",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "MAE ORGANIZATION INC",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "JOHN CLARK SENIOR LIVING",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "FRAMINGHAM STATE UNIVERSITY FOUNDATION INC",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "SHERILL HOUSE INC",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "US NAVAL WAR COLLEGE FOUNDATION",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CLINIC FOR SPECIAL CHILDREN",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "TOCKWOTTON ON THE WATERFRONT",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "RHODE ISLAND HOSPITAL",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "WOOD RIVER HEALTH SERVICES INC",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BRYANT UNIVERSITY - UNIVERSITY ADVANCEMENT",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "COLLEGE VISIONS",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "HOPEHEALTH",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "VISITING NURSE SERVICES OF NEWPORT AND BRISTOL COUNTIES",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 23569.0,
+      "is_new": true,
+      "name": "NATIONAL ACADEMY FOUNDATION",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "ROSALIND FRANKLIN SOCIETY",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "SAN MIGUEL SCHOOL",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "DEGREGORIO FAMILY FOUNDATION",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "GERACI ZOO INC",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "SEVEN HILLS ASPIRE",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "UMASS MEMORIAL HEALTH",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "APPALACHIAN MOUNTAIN CLUB",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "MAYO CLINIC AZ",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "ROGERSON HOUSE",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "THE CARROLL CENTER FOR THE BLIND",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "MARC LUSTGARTEN PANCREATIC CANCER FOUNDATION",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "FISHER COLLEGE",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "A WISH COME TRUE INC",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "HOUSE OF HOPE COMMUNITY DEVELOPMENT CORPORATION",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "THE WILY NETWORK",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 14000.0,
+      "is_new": false,
+      "name": "RENSSELAER POLYTECHNIC INSTITUTE",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ALZHEIMER'S ASSOCIATION MANH CHAPTER",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "STAR KIDS SCHOLARSHIP PROGRAM",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "AVIAN CONSERVATION CENTER",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "EASTERN MENNONITE UNIVERSITY",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "KEEPERS OF THE WILD WILDLIFE RESCUE AND SANCTUARY",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "KPMG FOUNDATION",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "MURIEL C CHURCH SPRINGHILL FARM TRUST",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "THINKGENETIC FOUNDATION INC",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "RHODE ISLAND FOUNDATION",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "AMHERST COLLEGE",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "HARBORING HEARTS HOUSING FOUNDATION",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "PROVIDENCE COLLEGE",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "RHODE ISLANDERS SPONSORING EDUCATION",
+      "purpose": "DONATION - EDUCATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "SPOONFULS",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "TLC FOUNDATION",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "ST PETERS BY THE SEA CHURCH",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "FARA",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "SHRI SERVICE CORP",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": true,
+      "name": "LATINO POLICY INSTITUTE",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "ST JUDE CHILDRENS RESEARCH HOSPITAL",
+      "purpose": "DONATION"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "CHARITY NAVIGATOR",
+      "purpose": "DONATION"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "RESEARCH GRANT APPLICATION, GENERAL GRANT APPLICATION, DISTINGUISHED SCHOLARS APPLICATION. ALL SHOULD INCLUDE TITLE, SUMMARY, PRINCIPAL INVESTIGATOR OR NAME OF ORGANIZATION, AMOUNT REQUESTED, BUDGET AND BACKGROUND. APART FROM THE WARREN ALPERT DISTINGUISHED SCHOLARS FELLOWSHIP AND THE WARREN ALPERT FOUNDATION PRIZE, THERE ARE NO SUBMISSION DEADLINES FOR GRANT AWARDS.",

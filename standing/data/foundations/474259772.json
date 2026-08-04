@@ -48,6 +48,320 @@
     "singleton_cluster_share": 0.4079,
     "total_grant_records": 411
   },
+  "recipients_latest_year": [
+    {
+      "amount": 33863725.0,
+      "is_new": false,
+      "name": "Theodore Roosevelt Presidential Library Foundation",
+      "purpose": "To provide funding for library"
+    },
+    {
+      "amount": 33003484.0,
+      "is_new": false,
+      "name": "Conservation International Foundation",
+      "purpose": "To support Assessment and Strategy for Africa Work"
+    },
+    {
+      "amount": 14416078.0,
+      "is_new": false,
+      "name": "African Parks Foundation of America",
+      "purpose": "To support establishing a Conservation Academy"
+    },
+    {
+      "amount": 9328315.0,
+      "is_new": false,
+      "name": "Wildlife Conservation Society",
+      "purpose": "To support Africa Protected Areas Strategy Implementation"
+    },
+    {
+      "amount": 8000000.0,
+      "is_new": false,
+      "name": "Arizona State University Foundation for A New American University",
+      "purpose": "To support School of Conservation Futures and related programs"
+    },
+    {
+      "amount": 1550000.0,
+      "is_new": false,
+      "name": "Emory University",
+      "purpose": "To support Two-cohort Compassion Fellowships"
+    },
+    {
+      "amount": 1326207.0,
+      "is_new": false,
+      "name": "The Earthshot Prize",
+      "purpose": "To provide support for the Earthshot Prize, a global prize designed to scale environment and conservations solutions"
+    },
+    {
+      "amount": 900000.0,
+      "is_new": false,
+      "name": "Climate Leadership Council Inc",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 750000.0,
+      "is_new": false,
+      "name": "Tides Center",
+      "purpose": "Mosaic Project building collaboration within the environmental movement"
+    },
+    {
+      "amount": 657103.0,
+      "is_new": false,
+      "name": "Frankfurt Zoological Society - US Inc",
+      "purpose": "To support Africa Protected Areas Strategy Implementation"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "Western Stock Show Association",
+      "purpose": "To support National Western Stock Show through Honoring the Legacy Campaign"
+    },
+    {
+      "amount": 375000.0,
+      "is_new": false,
+      "name": "United States Olympic and Paralympic Foundation",
+      "purpose": "Multi-year cycling support"
+    },
+    {
+      "amount": 325000.0,
+      "is_new": false,
+      "name": "International Conservation Caucus Foundation",
+      "purpose": "To support educational activities focused on the importance of international conservation that benefits nature and people"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "Arizona Aerospace Foundation Inc",
+      "purpose": "To support Tucson Military Vehicle Museum"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "Diocesan Council for the Society of St Vincent de Paul Diocese Phoenix",
+      "purpose": "To support the urban farm at St. Vincent De Paul"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "Team Africa Rising Inc",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "Bridge2Rwanda Inc",
+      "purpose": "To support Expanding Conservation Agriculture Farming Method in Africa"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "USA Cycling Inc",
+      "purpose": "To support a three-year strategy to grow the sport of bike racing."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Phoenix Theatre Inc",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Aspen Music Festival and School",
+      "purpose": "To Support the annual fund in 2024"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "College of Wooster",
+      "purpose": "To Support the annual fund in 2024"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Columbia University",
+      "purpose": "To support the Columbia Law School Annual Fund in 2024"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Liberty Wildlife Inc",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "National Park Foundation",
+      "purpose": "To support general operations and needs of the Theodore Roosevelt National Park"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Phoenix Art Museum",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Salvation Army of NWA",
+      "purpose": "To support general operations in Benton and Washington Counties in Arkansas"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "The Nature Conservancy - Arizona",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "The Nature Conservancy - Arkansas",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "The Board of Trustees of The Leland Stanford Junior University",
+      "purpose": "To support the Hoover Institution's general operations"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Arizona Science Center",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Aspen Center for Environmental Studies",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Desert Botanical Garden",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "McPherson College",
+      "purpose": "To support the automotive restoration program in 2024, including shop initiatives and general support"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Valley of the Sun United Way",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Valley of the Sun Young Men's Christian Association",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Boys & Girls Clubs of the Valley Inc",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Conservation Council of Nations",
+      "purpose": "To support International Conference on the Miombo Forest Initiative"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "FOXG1 Research Inc",
+      "purpose": "To support Research and Therapeutic Programs"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Jones-Gordon Foundation",
+      "purpose": "To support the Jones-Gordon School's general operations"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "Boston Mountain Cyclists",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "Dawn Redwoods Charitable Trust",
+      "purpose": "To support a comprehensive assistance fund for those in need in the Sonoma County and San Francisco Area"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "Roaring Fork Mountain Bike Association - RFMBA",
+      "purpose": "To support Executive Director and trail work and programs"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Arkansas Community Foundation Inc",
+      "purpose": "Social Services Support"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "NourishPHX",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "Eastern Rio Blanco Metropolitan Recreation and Park District",
+      "purpose": "To support Meeker Trails Maintenance"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Aspen Valley Ski-Snowboard Club Inc",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Habitat for Humanity of Benton County Inc",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Theodore Roosevelt Association",
+      "purpose": "To support charitable programs perpetuating the legacy and ideals of President Theodore Roosevelt."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Miracle League of Arizona",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "Kukio Hoomana Fund",
+      "purpose": "To support general operations in delivering programs that foster a thriving, resilient Kukio Community"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "American Friends of the Bugatti Trust Inc",
+      "purpose": "To support general operations"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Northwest Organization for Animal Help",
+      "purpose": "To support general operations"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

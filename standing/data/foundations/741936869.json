@@ -48,6 +48,350 @@
     "singleton_cluster_share": 0.5033,
     "total_grant_records": 290
   },
+  "recipients_latest_year": [
+    {
+      "amount": 10000000.0,
+      "is_new": true,
+      "name": "UT Rio Grande Valley",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 6250000.0,
+      "is_new": false,
+      "name": "Driscoll Children's Hospital Development Foundation",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 1252469.0,
+      "is_new": true,
+      "name": "Moody Clinic (Brownsville Society for Crippled Children Incorporated)",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 700000.0,
+      "is_new": true,
+      "name": "Meadows Mental Health Policy Institute",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 445909.0,
+      "is_new": false,
+      "name": "City of Rio Hondo",
+      "purpose": "HONDO BOAT RAMP"
+    },
+    {
+      "amount": 399311.0,
+      "is_new": true,
+      "name": "Children's Bereavement Center of the Rio Grande Valley Inc",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 366159.0,
+      "is_new": false,
+      "name": "IDEA Public Schools",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 345056.0,
+      "is_new": false,
+      "name": "It's Time Texas",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "Plaza Amistad",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 260000.0,
+      "is_new": false,
+      "name": "Tropical Texas Behavioral Health",
+      "purpose": "Military Veterans Peer Centers (MVPC)"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "Harlingen Neighborhood Food Pantry",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 226200.0,
+      "is_new": false,
+      "name": "Harlingen CISD",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 211000.0,
+      "is_new": false,
+      "name": "Waco Foundation",
+      "purpose": "Texas Rural Funders Collaborative and fiscal sponsor for The Texas Census Institute"
+    },
+    {
+      "amount": 201448.0,
+      "is_new": true,
+      "name": "Connect Humanity",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 145976.0,
+      "is_new": true,
+      "name": "IDRA (Intercultural Development Research Association)",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 141000.0,
+      "is_new": false,
+      "name": "Culture of Life Ministries",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 133400.0,
+      "is_new": false,
+      "name": "Brownsville Wellness Coalition",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "Cameron County Public Health",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 103400.0,
+      "is_new": false,
+      "name": "Friendship of Women",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ARISE",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Buckner Children & Family Services",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "El Milagro Clinic",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Planned Parenthood South Texas",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "TX Children's Hospital",
+      "purpose": "Vannie Cook Children's Clinic"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "American Cancer Society Inc",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "CATCH Global Foundation",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "Big Heroes",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 56400.0,
+      "is_new": true,
+      "name": "South Texas Afghanistan Iraq Veterans Association",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "Dentists Who Care",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CAMP University",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Sight Savers America",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "The Salvation Army - McAllen",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "South Texas Juvenile Diabetes Association",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Su Casa De Esperanza",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Rio Grande State Center",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "Evident Change",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "Healthy Futures of Texas",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "Loaves & Fishes of the RGV",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "Proyecto Azteca",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "Sustainable Food Center",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 49952.0,
+      "is_new": false,
+      "name": "Good Samaritan Community Services",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 47693.0,
+      "is_new": true,
+      "name": "Rio Grande Valley Long Term Disaster Recovery",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 46785.0,
+      "is_new": true,
+      "name": "Capable Kids Foundation",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 45664.0,
+      "is_new": false,
+      "name": "Tip of Texas Family Outreach",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 42800.0,
+      "is_new": true,
+      "name": "Form Communities Inc",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 41422.0,
+      "is_new": true,
+      "name": "75 NURSING SCHOLARSHIPS RANGING FROM 250-2000",
+      "purpose": "NURSING SCHOLARSHIP"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "Child Abuse Education Program of South Texas",
+      "purpose": "21st Annual Forensic Science Conference"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "Epilepsy Foundation Central & South Texas",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "Boys & Girls Club of Los Fresnos",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Prevent Blindness Texas",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Texas Ramp Project",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 18193.0,
+      "is_new": true,
+      "name": "140 MAMMOGRAM ULTRASOUND PROSTHETIC VOUCHERS",
+      "purpose": "PROVIDE MAMMOGRAMS OR BREAST PROSTHETICS"
+    },
+    {
+      "amount": 11707.0,
+      "is_new": false,
+      "name": "HARPER HILL GLOBAL",
+      "purpose": "TRIUMPH OVER TRAUMA; SUPPLIES, TRAINING, MISC"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": true,
+      "name": "Shrink Box Inc",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 6400.0,
+      "is_new": false,
+      "name": "Family Crisis Center",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 6400.0,
+      "is_new": true,
+      "name": "Comfort House",
+      "purpose": "CHARITABLE"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "Austin Community Foundation",
+      "purpose": "CHARITABLE"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "APPLICATION FORM AVAILABLE ON VALLEY BAPTIST LEGACY FOUNDATION WEBSITE INCLUDE 501(C)(3) DETERMINATION, PROGRAM BUDGET, 2 PRIOR YEAR FINANCIAL STATEMENTS, CURRENT YEAR BUDGET, AUDIT, BUDGET NARRATIVE AND BOARD MEMBER LISTING, IF APPLICABLE.",

@@ -48,6 +48,1538 @@
     "singleton_cluster_share": 0.3956,
     "total_grant_records": 1414
   },
+  "recipients_latest_year": [
+    {
+      "amount": 1503000.0,
+      "is_new": false,
+      "name": "UMOM New Day Centers",
+      "purpose": "Capital and programmatic support to renovate 16 emergency shelter units for large families at risk of experiencing homelessness and to provide essential services to such families."
+    },
+    {
+      "amount": 1088340.0,
+      "is_new": false,
+      "name": "Friends of Indy Animals",
+      "purpose": "General operating support to protect and save Indy's most vulnerable animals."
+    },
+    {
+      "amount": 1050000.0,
+      "is_new": false,
+      "name": "American Journalism Project",
+      "purpose": "Support to build a new model for local news in Central Indiana that utilizes a community reporting model and acts as a trusted source of information resulting in a more informed and engaged public."
+    },
+    {
+      "amount": 854000.0,
+      "is_new": false,
+      "name": "The Nature Conservancy - Arizona",
+      "purpose": "Support to develop and implement a Verde River Watershed flow-monitoring plan to establish protocol for watershed condition improvement projects and assess agricultural and rural community sustaining flows projects."
+    },
+    {
+      "amount": 725769.0,
+      "is_new": false,
+      "name": "Arizona State University Foundation for New American University",
+      "purpose": "Support for the Nina Scholars program."
+    },
+    {
+      "amount": 600000.0,
+      "is_new": false,
+      "name": "Alliance for Companion Animals",
+      "purpose": "Provide no-cost spay/neuter and wellness services to approximately 6,800 animals through veterinary clinics, including mobile veterinary units, across Maricopa County."
+    },
+    {
+      "amount": 576500.0,
+      "is_new": false,
+      "name": "Society of St Vincent de Paul - Phoenix",
+      "purpose": "Capital support to create a 71-bed transitional housing community that would reduce the number of unhoused individuals while providing safe housing and wraparound services."
+    },
+    {
+      "amount": 501500.0,
+      "is_new": false,
+      "name": "White River Alliance aka Upper White River Watershed Alliance Inc",
+      "purpose": "Continued support to advance the Indiana Water Roadmap, improve the appreciation of the White River and facilitate solutions to challenges facing the watershed."
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "Indianapolis Zoo",
+      "purpose": "Support for the Global Center for Species Survival, which will serve as a headquarters connecting a team of conservation scientists to 10,000 scientists around the globe, and will provide an immersive visitor experience in a new exhibit space."
+    },
+    {
+      "amount": 485000.0,
+      "is_new": false,
+      "name": "Friends of the Verde River",
+      "purpose": "Support to provide oversight for construction of a stormwater control system at the site of a workforce housing development that will recharge groundwater by an estimated 360,000 gallons annually."
+    },
+    {
+      "amount": 475200.0,
+      "is_new": false,
+      "name": "The Nature Conservancy - Indiana",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 452914.0,
+      "is_new": false,
+      "name": "Maricopa County Community College District Foundation",
+      "purpose": "Support for the Nina Scholars program."
+    },
+    {
+      "amount": 450788.0,
+      "is_new": false,
+      "name": "Ivy Tech Foundation",
+      "purpose": "Support for the Nina Scholars program."
+    },
+    {
+      "amount": 367502.0,
+      "is_new": false,
+      "name": "Trustees of Indiana University",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 325000.0,
+      "is_new": true,
+      "name": "The Parks Alliance of Indianapolis aka Indianapolis Parks Foundation",
+      "purpose": "Support for design and engineering work for a new nature center to be built in Riverside Regional Park."
+    },
+    {
+      "amount": 300000.0,
+      "is_new": true,
+      "name": "National Center for State Courts",
+      "purpose": "Support to expand eviction diversion services to six additional township courts in Marion County."
+    },
+    {
+      "amount": 275000.0,
+      "is_new": false,
+      "name": "Desert Botanical Garden",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 265000.0,
+      "is_new": false,
+      "name": "Arizona Community Foundation",
+      "purpose": "Support for the Summer Youth Program Fund for organizations that provide academic enrichment, arts and recreational summer programs for children of low-income families."
+    },
+    {
+      "amount": 256500.0,
+      "is_new": true,
+      "name": "Pilgrim Rest Foundation",
+      "purpose": "Support for emergency assistance to individuals and families facing displacement."
+    },
+    {
+      "amount": 250200.0,
+      "is_new": false,
+      "name": "Indianapolis Art Center",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "Phoenix Zoo",
+      "purpose": "Capital support to build a medical center that will provide innovative care to the zoo's animals and serve as a hub for research and education."
+    },
+    {
+      "amount": 242400.0,
+      "is_new": false,
+      "name": "Conservation Law Center",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 225200.0,
+      "is_new": false,
+      "name": "Hoosier Environmental Council",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": false,
+      "name": "Gannett Company Inc dba Arizona Republic",
+      "purpose": "Continued support to provide in-depth reporting that focuses on Arizona's most pressing environmental issues."
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "FACE Low-Cost Animal Clinic",
+      "purpose": "Support over three years to provide spay/neuter surgeries, vaccinations and wellness services for 3,000 dogs and cats per year."
+    },
+    {
+      "amount": 163000.0,
+      "is_new": true,
+      "name": "Humane Society of Indianapolis aka Indy Humane",
+      "purpose": "Support for the downtown clinic, which provides pet owners low-cost and subsidized veterinary services, including low-cost spay/neuter surgeries."
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "A New Leaf",
+      "purpose": "Support to provide safe emergency housing, basic needs and support services for 90 families a year in Mesa and Surprise."
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "Save the Family Foundation of Arizona",
+      "purpose": "Support for housing and supportive services for up to 18 families on the verge of experiencing homelessness."
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "EmployIndy",
+      "purpose": "Support to create a regional apprenticeship hub that will expand the use of apprenticeships as a pathway into promising careers."
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "Regional Community Partners (on behalf Maricopa Association of Governments)",
+      "purpose": "Support to build capacity of local governments and tribal nations to develop and preserve affordable housing."
+    },
+    {
+      "amount": 140200.0,
+      "is_new": false,
+      "name": "Coburn Place Safe Haven",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 140000.0,
+      "is_new": false,
+      "name": "The Salvation Army Phoenix",
+      "purpose": "Support to provide flexible funds to help families experiencing homelessness transition into permanent housing."
+    },
+    {
+      "amount": 130000.0,
+      "is_new": false,
+      "name": "Indiana State Museum Foundation Inc",
+      "purpose": "Capital support to help redesign and construct the Ancient Seas gallery, which tells the story of Indiana's prehistoric environment."
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "Arizona's Children Association",
+      "purpose": "Support to provide services to kinship families including caregiver education and support, guardianship clinics, legal services and emergency support services."
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "Julian Center Inc",
+      "purpose": "General operating support to provide supportive services to domestic violence survivors."
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "Prosperity Indiana",
+      "purpose": "Support for the Hoosier Housing Needs Coalition to educate low-income residents, community-based organizations and other stakeholders to advance practices that will improve long-term housing outcomes."
+    },
+    {
+      "amount": 120000.0,
+      "is_new": false,
+      "name": "Arizona Food Bank Network",
+      "purpose": "Support to deliver fresh, healthy produce from vendors in Nogales, Arizona, to residents in Maricopa County who need it most."
+    },
+    {
+      "amount": 115000.0,
+      "is_new": false,
+      "name": "Indy Reads",
+      "purpose": "Support to hire two new full-time positions to engage more adult learners and improve literacy programs."
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "Arizona Friends of Foster Children Foundation",
+      "purpose": "Continued support for the Keys to Success program, providing career development, education services and housing navigation for youth transitioning out of the foster care system."
+    },
+    {
+      "amount": 106000.0,
+      "is_new": false,
+      "name": "Flanner House of Indianapolis",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 101000.0,
+      "is_new": false,
+      "name": "Indianapolis Cultural Trail",
+      "purpose": "Capital support to expand the Cultural Trail across the White River to connect neighborhoods on both sides of the river."
+    },
+    {
+      "amount": 100500.0,
+      "is_new": false,
+      "name": "Horizon House",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 100400.0,
+      "is_new": true,
+      "name": "Keys to Change - Previously Human Services Campus",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Altered Tails",
+      "purpose": "General operating support to provide accessible and affordable, high-quality spay and neuter surgeries to pet owners facing financial hardship."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Fresh Start Women's Foundation",
+      "purpose": "Support to expand wraparound services for underserved women participating in workforce education and training programs."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Indiana Chapter of the American Academy of Pediatrics",
+      "purpose": "Continued support to maintain a full-time program coordinator for the Reach Out and Read program to provide literacy intervention services during well-child pediatric visits."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Justa Center",
+      "purpose": "Support to identify and eliminate barriers to permanent housing for older adults experiencing homelessness."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "PACC911 - Phoenix Animal Care Coalition 911",
+      "purpose": "Support to provide medical treatment for abused, neglected and injured animals."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Foundation For Senior Living aka FSL",
+      "purpose": "Support for a program to effectively serve older adults by assessing immediate needs, removing barriers and creating a follow-up plan to ensure a high quality of life."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Grand Canyon Conservancy",
+      "purpose": "Support for a study to advance the understanding of flow paths, flow rates and water budgets of the aquifer system below the Kaibab Plateau on the north side of Grand Canyon National Park."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Be Nimble Foundation",
+      "purpose": "Support to train Black and Latino adults for careers in technology to enhance employability, career advancement and economic mobility."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Bethany Christian Services",
+      "purpose": "Support to provide in-home, skill-building training for parents who are at risk of having their children placed in the state's care."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Catholic Charities Community Services Inc",
+      "purpose": "Support to help Maricopa County clients transitioning to permanent affordable housing."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Equity1821",
+      "purpose": "Support for the Demystifying Underwriting program, which will work with 40 Black small business owners on financial literacy and underwriting."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Tanner Community Development Corporation",
+      "purpose": "Support to address transportation, cost-of-living factors, affordable housing and quality of life services to independent-living seniors."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "Wildfire Arizona formerly Arizona Community Action Association",
+      "purpose": "Support to create a community-based framework for eviction diversion programs in Maricopa County."
+    },
+    {
+      "amount": 97500.0,
+      "is_new": false,
+      "name": "IU Health Foundation",
+      "purpose": "Support for the Mosaic Center for Work, Life and Learning, which will help participants create clear, defined career pathways into jobs at IU Health and other area health care providers."
+    },
+    {
+      "amount": 90000.0,
+      "is_new": true,
+      "name": "Jobs for Arizona's Graduates",
+      "purpose": "Support to help Native American and other youth aged 16-24 years old living in Guadalupe and Tempe with career and college readiness opportunities."
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "FIDO",
+      "purpose": "General operating support to improve the quality of life for outside dogs."
+    },
+    {
+      "amount": 82000.0,
+      "is_new": false,
+      "name": "Duet Partners In Health & Aging",
+      "purpose": "Support to expand bilingual services for kinship families and grandparents who are raising their grandchildren."
+    },
+    {
+      "amount": 80400.0,
+      "is_new": false,
+      "name": "Friends of the White River",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 80200.0,
+      "is_new": false,
+      "name": "Groundwork Indy",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 80200.0,
+      "is_new": false,
+      "name": "Keep Indianapolis Beautiful",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "Midwestern University",
+      "purpose": "Support to provide vulnerable and underserved individuals with high quality vision care and eyeglasses at no cost."
+    },
+    {
+      "amount": 80000.0,
+      "is_new": true,
+      "name": "Nine 13",
+      "purpose": "Support for food insecurity logistics to ensure that food is quickly distributed to those who need it."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "100 Black Men of Indianapolis",
+      "purpose": "Create the Education and Career Planning Initiative, which would provide career-readiness curriculum for students who want to join the competitive workforce upon high school graduation."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Goodwill of Central and Southern Indiana",
+      "purpose": "Support to address the workforce needs of vulnerable people who hold high school diplomas and are under- and/or unemployed."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Native American Connections",
+      "purpose": "Support to expand services for youth experiencing homelessness at HomeBase Surprise."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "New Pathways for Youth",
+      "purpose": "Support to expand capacity to train staff and volunteers to facilitate programs serving at-risk youth."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Phoenix Herpetological Society",
+      "purpose": "Support to house critically endangered species of crocodilians."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Phoenix Public Library Foundation",
+      "purpose": "Support to provide essential college access, GED services and expanded higher education opportunities for underserved populations in Phoenix."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Sojourner Center",
+      "purpose": "General operating support to continue offering essential services to survivors of domestic violence."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Tempe Community Action Agency",
+      "purpose": "Support to help unsheltered adults return to permanent housing and to assist families who are on the verge of experiencing homelessness."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Valley Leadership Corporation",
+      "purpose": "Support to educate and build awareness for the development of more affordable housing throughout the Valley."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Arizona Opportunities Industrialization Center",
+      "purpose": "Continued support to help children in grades K through 8th receive language arts and STEM-based mentoring during the school year."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Family Promise of Greater Phoenix",
+      "purpose": "Support for families at Family Promise Village, an affordable housing project in Glendale."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Friendly House",
+      "purpose": "Support over two years for the grantee's general operating expenses."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Homeless Youth Connection",
+      "purpose": "Support to provide wraparound services to high school youth experiencing homelessness."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Maricopa County Animal Care and Control",
+      "purpose": "Support to create a foster program focused on large breed dogs."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Purdue Research Foundation",
+      "purpose": "Support to continue the shelter medicine and surgery program providing critical veterinary services at three nonprofit animal shelters in Indianapolis."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Valley of the Sun YMCA",
+      "purpose": "Expand YMCA's Outreach Program for All Seniors to two additional YMCA locations to help seniors remain safely at home."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Boys & Girls Clubs of Greater Scottsdale",
+      "purpose": "Support to match educationally at-risk youth with student mentors from Arizona State University to help youth improve in academics and grow their confidence."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Foundation for Blind Children",
+      "purpose": "Support to hire a research administrator who would create and publish peer-reviewed research to encourage broader adoption of programs that lead to independence and gainful employment for individuals who are blind or visually impaired."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Judah Ministries Inc",
+      "purpose": "Support to hire two new full-time positions to help individuals gain job credentials and certifications and remove barriers to employment."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Rehoboth Community Development Corporation",
+      "purpose": "Support to deliver out-of-school time activities to 150 youth living in two affordable housing units."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "YWCA Metropolitan Phoenix",
+      "purpose": "Support for a program that offers women and girls tools that foster financial sustainability, planning for college, career advancement and asset acquisition."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "Arizona Housing Coalition",
+      "purpose": "Support to build capacity to advocate for strong housing policies and practices to help address housing instability."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "CICOA Aging & In-Home Solutions Inc",
+      "purpose": "Support to help central Indiana older adults with home repairs and modifications to help them age in place."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "Elevate Phoenix",
+      "purpose": "Support to provide mentoring to high school students to support high school graduation, post-secondary education and workplace readiness."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "Foster Arizona",
+      "purpose": "Support to serve up to 100 unhoused youth who have experienced the foster care system with housing and supportive services."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "Indy Public Safety Foundation",
+      "purpose": "Support to help more domestic violence survivors exit dangerous situations."
+    },
+    {
+      "amount": 70000.0,
+      "is_new": true,
+      "name": "Big Brothers Big Sisters of Central Indiana",
+      "purpose": "Support to recruit more volunteers to help mentor low-income youth."
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "Arizona Association for Foster and Adoptive Parents",
+      "purpose": "Support to provide training, mentoring, counseling and family activities for foster, kinship and adoptive families whose children have been part of the state welfare system."
+    },
+    {
+      "amount": 67000.0,
+      "is_new": false,
+      "name": "Center for Victim and Human Rights",
+      "purpose": "Support to hire a new staff advocate who can help with protection order filings and with empowering survivors during the legal process."
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "Aster Aging",
+      "purpose": "Expand resource navigation services for East Valley seniors to access food, housing and eligible benefits helping them remain independent in their homes."
+    },
+    {
+      "amount": 61000.0,
+      "is_new": false,
+      "name": "Foster Success formerly - Indiana Connected By 25",
+      "purpose": "Support to help high school foster care youth successfully transition into college or work training programs."
+    },
+    {
+      "amount": 60250.0,
+      "is_new": true,
+      "name": "Neighborhood Christian Legal Clinic",
+      "purpose": "Support to expand eviction prevention services to help clients remain in their homes."
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "White Tank Mountains Conservancy",
+      "purpose": "Support to implement the Wildlife Linkage Concept plan to advance the protection of wildlife corridors in the far West Valley."
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "DREAM Alive",
+      "purpose": "Support to hire a new high school career pathway and workforce development manager who will help high school students enter into college or work training programs."
+    },
+    {
+      "amount": 60000.0,
+      "is_new": true,
+      "name": "Nourish PHX",
+      "purpose": "General operating support to continue providing food and clothing to individuals who are food insecure or experiencing homelessness."
+    },
+    {
+      "amount": 56000.0,
+      "is_new": false,
+      "name": "Southeast Community Services",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 56000.0,
+      "is_new": false,
+      "name": "TeenWorks Inc aka Pro 100 Inc",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "Chrysalis Shelter for Victims of Domestic Violence",
+      "purpose": "Provide general operating funding to safely house and support individuals and families surviving domestic violence."
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "Arizona Center for the Blind and Visually Impaired",
+      "purpose": "Support to hire a case manager who can provide wraparound services for adults who are visually impaired."
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "Saving Amy",
+      "purpose": "Support to hire a program and volunteer coordinator who can expand services for families who are transitioning out of homeless shelters or domestic violence shelters."
+    },
+    {
+      "amount": 55000.0,
+      "is_new": true,
+      "name": "Dysart Community Center",
+      "purpose": "General operating support to continue providing educational and developmental opportunities for children and adults in the West Valley."
+    },
+    {
+      "amount": 53000.0,
+      "is_new": false,
+      "name": "Banner Health Foundation",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 51034.0,
+      "is_new": false,
+      "name": "HVAF of Indiana Inc",
+      "purpose": "Support to assist veterans experiencing homelessness with workforce development skills and job placement and retention services."
+    },
+    {
+      "amount": 51000.0,
+      "is_new": false,
+      "name": "Rosie's Southside Animal Shelter",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 50100.0,
+      "is_new": true,
+      "name": "Corporation for Supportive Housing - Indianapolis",
+      "purpose": "Support to advance community support for supportive housing for homeless populations and develop advocacy leadership among those living in supportive housing."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Hamilton County Tourism",
+      "purpose": "Continued support to further solidify the White River as an essential regional amenity with many destination hubs where the community can enjoy its many features."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Indiana Blind Children's Foundation",
+      "purpose": "Support to conduct research that will best inform the co-location of the Indiana School for the Blind and Visually Impaired with the Indiana School for the Deaf."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Trust For Public Land",
+      "purpose": "Support to permanently protect and conserve the first 22 miles of the Upper Verde River for the benefit of the public."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Defenders of Children",
+      "purpose": "Support to build capacity around financial management and grant writing so that more low-income families could receive free legal assistance."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Starfish Initiative",
+      "purpose": "Support to recruit and train more volunteer mentors to provide one-on-one mentoring to high school students from low-income families."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Center for Leadership Development",
+      "purpose": "Support to help students select and prepare for the pathways they choose for traditional college or vocational routes to employment."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Greater Phoenix Leadership",
+      "purpose": "Support for start-up costs for Rio Reimagined, which will foster river restoration and urban redevelopment along the Rio Salado."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Local First Arizona Foundation",
+      "purpose": "Support to help businesses and nonprofits in the Verde Valley reduce water, energy, waste and transportation impacts."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Make Way for Books",
+      "purpose": "Support to reach 575 young children and their families with a bilingual, two-generation early literacy program."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Valleywise Health Foundation",
+      "purpose": "Support to launch the Raising a Reader program in Valleywise Health's eight Family Resource Centers across Maricopa County."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "91 Place",
+      "purpose": "Support to provide safe, stable shelter/housing and services for homeless and disconnected youth."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Brightlane Learning AKA School on Wheels",
+      "purpose": "Support to expand into additional high-needs schools to help address student learning loss resulting from the pandemic."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Diana Gregory Outreach Services",
+      "purpose": "Support to hire a program administrative assistant to expand programs to alleviate food insecurity among seniors."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Project Azul",
+      "purpose": "Support to help central Indiana residents obtain the training necessary to secure jobs above entry level and build their careers in the logistics and manufacturing industries."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Seed Spot",
+      "purpose": "Support to increase small business creation rates and access to early-stage capital among women and minorities in the Valley."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "Elaine",
+      "purpose": "Support to provide up to 9,000 no-cost rides for adults who are experiencing homelessness and/or are elderly or disabled."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "Eyes On Learning",
+      "purpose": "Support to enhance and expand vision screenings for school-aged children in Arizona."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "Home Repairs for Good formerly NeighborLink Indianapolis Foundation",
+      "purpose": "Support to help low-income adults become qualified contractors certified in specialized home remediation projects so that they can build marketable skills for successful long-term employment."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "Immigrant Welcome Center",
+      "purpose": "Support for the Pathways to Literacy program to provide English literacy classes to adults who hope to enroll in adult education programs to further their careers."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "Joy's House",
+      "purpose": "Support to expand an online community network where family and professional caregivers can gather to strengthen their caregiver skills and abilities through education, resource referrals, and peer support."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "Mid-States Minority Supplier Development Council",
+      "purpose": "Support to foster equitable economic access pathways for small, minority-owned/led Marion County businesses."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "Mother's Grace",
+      "purpose": "Support to provide financial assistance and emotional support to mothers experiencing emergency situations."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "The Salvation Army a Georgia Corporation",
+      "purpose": "To support disaster relief efforts related to Hurricanes Helene and Milton"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "House of Refuge",
+      "purpose": "Support to help homeless families achieve career and education goals."
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "Indy Neighborhood Cats",
+      "purpose": "General operating support to improve the quality of life for unowned neighborhood cats."
+    },
+    {
+      "amount": 45000.0,
+      "is_new": true,
+      "name": "Advocacy31nine DBA Arizona 127",
+      "purpose": "Support to enhance the educational success of 400 students affected by foster care, kinship care and adoption."
+    },
+    {
+      "amount": 44100.0,
+      "is_new": false,
+      "name": "Gleaners Food Bank of Indiana",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 42500.0,
+      "is_new": false,
+      "name": "Visually Impaired Preschool Services (VIPS Indiana)",
+      "purpose": "Support for general operating expenses."
+    },
+    {
+      "amount": 40720.0,
+      "is_new": false,
+      "name": "WFYI Public Media aka Metropolitan Indianapolis Public Broadcasting",
+      "purpose": "Provide support for on-air programming on the Indianapolis public radio station."
+    },
+    {
+      "amount": 40470.0,
+      "is_new": false,
+      "name": "Friends of Public Radio Arizona fbo HearArizona KJZZ",
+      "purpose": "Provide support for on-air programming on the Phoenix public radio station."
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "Indiana Diaper Bank",
+      "purpose": "Support to expand capacity to provide diapers, baby wipes and other baby supplies to more families experiencing poverty."
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "Instituto Lab",
+      "purpose": "Support to build capacity for 25 organizations in Maricopa County that assist with housing and education issues in under-resourced communities and communities of color."
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "Voices for CASA Children",
+      "purpose": "Support to recruit additional court-appointed special advocates to serve children who have been removed from their homes due to abuse and neglect."
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "Domestic Violence Network of Greater Indianapolis",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "Shepherd Community Center",
+      "purpose": "Support to help youth and adults develop education and career goals and find either new or better-paying jobs."
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "Advance Community",
+      "purpose": "Support to provide low-income families with six months of healthy food boxes."
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "Trinity Haven",
+      "purpose": "Support to help LGBTQ+ teens and young adults who are experiencing housing instability achieve their goals for education, employment, and emotional and social capital."
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "Foothills Caring Corps",
+      "purpose": "Support to provide 3,000 meals to homebound seniors choosing to age in place."
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "The Indy Learning Team",
+      "purpose": "Support for a program utilizing generative AI to provide targeted intervention around reading for 200 first and second grade students at School 54."
+    },
+    {
+      "amount": 32200.0,
+      "is_new": false,
+      "name": "The Salvation Army Indiana Division",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 31000.0,
+      "is_new": false,
+      "name": "Dayspring Center Inc",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 30200.0,
+      "is_new": false,
+      "name": "Society of St Vincent de Paul Council of Indianapolis",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "Fathers and Families Center",
+      "purpose": "Support for a workforce development manager to work with fathers to ensure their success as they secure certifications leading to careers in high-demand sectors, including employment in welding, logistics, forklifting, electronics, transportation, warehouse services and cyber security."
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "Midwest Food Bank Indiana Division",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "Community Assets",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 29100.0,
+      "is_new": false,
+      "name": "Wheeler Mission Ministries",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 28000.0,
+      "is_new": false,
+      "name": "United Way of Central Indiana",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Central Indiana Community Foundation aka CICF",
+      "purpose": "Support for the grantee's general operating expenses. Season for sharing."
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Catholic Charities Indianapolis - Holy Family Shelter",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Family Promise of Greater Indianapolis",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Our Sisters Our Brothers",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Rebuilding Together - Indianapolis",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Ross Foundation",
+      "purpose": "Support to expand a literacy program for children in grades three through 12 who read below grade level."
+    },
+    {
+      "amount": 21600.0,
+      "is_new": false,
+      "name": "Society of Environmental Journalists",
+      "purpose": "Publicize, implement and manage the 2024, 2025 and 2026 Nina Mason Pulliam Award for Outstanding Environmental Reporting."
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "Assistance League of Indianapolis",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "Teachers Treasures",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "Boost a Foster Family",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "Arte Mexicano En Indiana",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "Emprendedoras Latinas En Indiana",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 18000.0,
+      "is_new": false,
+      "name": "Zuri's Circle",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 17500.0,
+      "is_new": false,
+      "name": "St Mary's Food Bank Alliance",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 17000.0,
+      "is_new": true,
+      "name": "Hope's Crossing",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Assistance League of Phoenix Arizona",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Back To School Clothing Drive",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Marion County Commission on Youth",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "Deborah's Place",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "Haitian Association of Indiana Corp",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "Nova X-Stream",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 14000.0,
+      "is_new": true,
+      "name": "Genesis Eve House",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 13660.0,
+      "is_new": false,
+      "name": "Arizona Humane Society",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 13000.0,
+      "is_new": true,
+      "name": "Foster Your Future",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 11000.0,
+      "is_new": false,
+      "name": "Second Helpings",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Indianapolis-Marion County Public Library Foundation",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Guadalupe Community Action Program",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Native Health",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "Circles INDY - BRiCKS Alliance",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "Control Alt Delete",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "DAS Foundation",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "Free Press Indiana Inc",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "George Washington Hub Club",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "Greater Indianapolis Multi-Faith Alliance",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "IndyGo Foundation",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "International District Community Center",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "Lyn House",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "Stepping Up for Seniors",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "Tourism Tomorrow Inc",
+      "purpose": "Support to allow the Partners for the White River to attend River Network's Annual River Rally."
+    },
+    {
+      "amount": 9880.0,
+      "is_new": true,
+      "name": "Northern Arizona University Foundation - KNAU",
+      "purpose": "Provide support for on-air programming on the Phoenix public radio station."
+    },
+    {
+      "amount": 9000.0,
+      "is_new": false,
+      "name": "Southwest Human Development",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 8000.0,
+      "is_new": false,
+      "name": "Assistance League of East Valley Arizona",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 7000.0,
+      "is_new": false,
+      "name": "AZCEND",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 7000.0,
+      "is_new": false,
+      "name": "All Faith Community Services",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 7000.0,
+      "is_new": false,
+      "name": "Foothills Food Bank",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 7000.0,
+      "is_new": false,
+      "name": "OCJ Kids",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "Christamore House",
+      "purpose": "Support for the Christamore House Summer Camp for youth ages 4 to 14."
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "Community Alliance of the Far Eastside",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "Concord Neighborhood Center",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "Edna Martin Christian Center",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "Happy Hollow Children's Camp Inc",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "Hawthorne Social Service Association",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "MLK Center aka Martin Luther King Multi-Service Center Indianapolis",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "Mary Rigg Neighborhood Center",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "Brookside Community Development Corporation",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "Fay Biccard Glick Neighborhood Center at Crooked Creek",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "John H Boner Community Center aka John Boner Neighborhood Centers",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "Firefly Children and Family Alliance",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "La Plaza",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "Indiana Youth Group Inc",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "Mitchell Swaback Charities Inc DBA Harvest Compassion Center",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "Escala Foundation Inc",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "Latino Youth Collective of Indiana",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Camp To Belong Indiana",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Camptown",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "DirectEmployers Institute",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Hoosier State Press Association Foundation",
+      "purpose": "Publicize, implement and manage the 2024 and 2025 and 2026 Nina Mason Pulliam Environmental Journalism Awards."
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "St Richard's Episcopal School",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "The Villages of Indiana",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Freewheelin' Community Bikes",
+      "purpose": "Support for Summer Youth Program Fund programming."
+    },
+    {
+      "amount": 3328.0,
+      "is_new": false,
+      "name": "Children's Cancer Network",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "Hospice of the Valley",
+      "purpose": "Support for general operating expenses."
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "Oaks Academy",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "Arizona Volunteer Optometry Services for Humanity - VOSH",
+      "purpose": "Support for the grantee's general operating expenses."
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "Greenfield Central School Foundation",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "Hancock County Community Foundation",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "Ghosteater",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 1400.0,
+      "is_new": false,
+      "name": "Indiana Humanities Council",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 1100.0,
+      "is_new": false,
+      "name": "Indiana American Turkish Association aka IN-ATATURK",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "Child Advocates",
+      "purpose": "Support for general operating expenses."
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "Elevate Indianapolis",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "Washington Township Schools Foundation",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "Indianapolis Symphony Orchestra",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "Indianapolis Motor Speedway Foundation",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "The District Theatre Inc",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "Thunderbirds Charities",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 800.0,
+      "is_new": false,
+      "name": "Center for Global Impact",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 750.0,
+      "is_new": false,
+      "name": "PEAK Grantmaking",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "Bosma Visionary Opportunities Foundation Inc",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "Johnson County Community Foundation Inc",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 412.0,
+      "is_new": false,
+      "name": "Sycamore Land Trust Inc",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 400.0,
+      "is_new": false,
+      "name": "Indiana Wildlife Federation",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 400.0,
+      "is_new": false,
+      "name": "The daVinci Pursuit",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 400.0,
+      "is_new": false,
+      "name": "Friends of Belmont Beach",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 200.0,
+      "is_new": false,
+      "name": "Central Indiana Land Trust",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 200.0,
+      "is_new": false,
+      "name": "Conner Prairie",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 200.0,
+      "is_new": false,
+      "name": "Franklin College",
+      "purpose": "Employee Matching Gift Program"
+    },
+    {
+      "amount": 100.0,
+      "is_new": false,
+      "name": "Arizona Legal Women and Youth Services",
+      "purpose": "Employee Matching Gift Program"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "See attached",

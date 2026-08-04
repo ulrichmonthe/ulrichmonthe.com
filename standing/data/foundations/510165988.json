@@ -48,6 +48,1214 @@
     "singleton_cluster_share": 0.5727,
     "total_grant_records": 1051
   },
+  "recipients_latest_year": [
+    {
+      "amount": 700000.0,
+      "is_new": false,
+      "name": "NEWPORT HOSPITAL",
+      "purpose": "ADOLESCENT BEHAVIORAL HEALTH UNIT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "THE UNIVERSITY OF RHODE ISLAND FOUNDATION & ALUMNI ENGAGEMENT",
+      "purpose": "EQUIPMENT AND TECHNOLOGY FOR OCEANOGRAPHY, MOLECULAR BIOLOGY, AND NURSING DEPARTMENTS"
+    },
+    {
+      "amount": 472000.0,
+      "is_new": false,
+      "name": "YMCA OF GREATER PROVIDENCE",
+      "purpose": "2024 CAMPERSHIPS"
+    },
+    {
+      "amount": 424000.0,
+      "is_new": false,
+      "name": "GIRL SCOUTS OF SOUTHEASTERN NEW ENGLAND",
+      "purpose": "2024 CAMPERSHIPS"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "BUTLER HOSPITAL",
+      "purpose": "ARBORETUM ROOF REPAIR"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "RHODE ISLAND COLLEGE FOUNDATION",
+      "purpose": "EQUIPMENT AND FURNITURE FOR THE CYBER COMMAND CENTER"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "BLOCK ISLAND MEDICAL CENTER",
+      "purpose": "MEDICAL CENTER EXPANSION"
+    },
+    {
+      "amount": 386660.0,
+      "is_new": true,
+      "name": "OCEAN STATE LIBRARIES",
+      "purpose": "CYBERSECURITY UPGRADES, PEOPLE COUNTERS, TOUCH SCREEN MONITORS, AND WIFI PROJECT"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "COMMUNITY COLLEGE OF RHODE ISLAND FOUNDATION",
+      "purpose": "PATIENT CARE SIMULATION BAYS"
+    },
+    {
+      "amount": 348600.0,
+      "is_new": false,
+      "name": "SAVE THE BAY",
+      "purpose": "AQUARIUM BUILDOUT"
+    },
+    {
+      "amount": 302000.0,
+      "is_new": false,
+      "name": "YMCA OF PAWTUCKET",
+      "purpose": "2024 CAMPERSHIPS"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "COMMUNITY MUSICWORKS",
+      "purpose": "CONSTRUCTION OF COMMUNITY MUSICWORKS CENTER"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "KENT HOSPITAL",
+      "purpose": "EQUIPMENT PURCHASE FOR CARDIOVASCULAR MEDICAL CENTER"
+    },
+    {
+      "amount": 270750.0,
+      "is_new": false,
+      "name": "BOYS & GIRLS CLUBS OF NORTHERN RHODE ISLAND",
+      "purpose": "2024 CAMPERSHIPS"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "RHODE ISLAND PHILHARMONIC ORCHESTRA & MUSIC SCHOOL",
+      "purpose": "CARTER CENTER ELECTRICAL SERVICE AND LIFE SAFETY UPGRADES"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "AUDUBON SOCIETY OF RHODE ISLAND",
+      "purpose": "HVAC SYSTEM REPLACEMENT AT BRISTOL NATURE CENTER"
+    },
+    {
+      "amount": 222879.0,
+      "is_new": true,
+      "name": "CLINICA ESPERANZA",
+      "purpose": "BUILDING EXPANSION AND TECHNOLOGY UPGRADES"
+    },
+    {
+      "amount": 207820.0,
+      "is_new": false,
+      "name": "RHODE ISLAND COMMUNITY FOOD BANK",
+      "purpose": "KITCHEN EQUIPMENT"
+    },
+    {
+      "amount": 206545.0,
+      "is_new": false,
+      "name": "BROWN UNIVERSITY",
+      "purpose": "SUPPORT FOR THE CHAMPLIN SCHOLARS PROGRAM"
+    },
+    {
+      "amount": 205950.0,
+      "is_new": false,
+      "name": "COMMUNITY CARE ALLIANCE",
+      "purpose": "ROOF REPLACEMENTS"
+    },
+    {
+      "amount": 204900.0,
+      "is_new": false,
+      "name": "CODAC BEHAVIORAL HEALTHCARE",
+      "purpose": "MOBILE MEDICAL EXAM ROOM"
+    },
+    {
+      "amount": 204000.0,
+      "is_new": false,
+      "name": "NEWPORT COUNTY YMCA",
+      "purpose": "2024 CAMPERSHIPS"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "NEWPORT MENTAL HEALTH",
+      "purpose": "HVAC, FIRE PROTECTION, AND ELECTRICAL SYSTEMS"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "RHODE ISLAND BLOOD CENTER",
+      "purpose": "FREEZER MECHANICAL BLAST RETROFIT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "THRIVE BEHAVIORAL HEALTH",
+      "purpose": "HVAC SYSTEM"
+    },
+    {
+      "amount": 195827.0,
+      "is_new": true,
+      "name": "PLANNED PARENTHOOD OF SOUTHERN NEW ENGLAND",
+      "purpose": "HEALTH CENTER ROOF REPLACEMENT AND ULTRASOUND MACHINE PURCHASE"
+    },
+    {
+      "amount": 185000.0,
+      "is_new": false,
+      "name": "EAST PROVIDENCE PUBLIC LIBRARY",
+      "purpose": "WEAVER LIBRARY INTERIOR IMPROVEMENTS"
+    },
+    {
+      "amount": 180000.0,
+      "is_new": false,
+      "name": "PAWTUCKET PUBLIC LIBRARY",
+      "purpose": "REPOINTING THE CENTER PORTION OF THE SAYLES BUILDING"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "CAPE VERDEAN AMERICAN COMMUNITY DEVELOPMENT",
+      "purpose": "WINDOWS AND DOORS"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": true,
+      "name": "THE PROVIDENCE ATHENAEUM",
+      "purpose": "FIRE SUPPRESSION SYSTEM"
+    },
+    {
+      "amount": 172500.0,
+      "is_new": false,
+      "name": "TIDES FAMILY SERVICES",
+      "purpose": "RENOVATION PROJECTS AT 790 BROAD STREET"
+    },
+    {
+      "amount": 168000.0,
+      "is_new": false,
+      "name": "OCEAN COMMUNITY YMCA",
+      "purpose": "2024 CAMPERSHIPS"
+    },
+    {
+      "amount": 164850.0,
+      "is_new": false,
+      "name": "FAMILY SERVICE OF RHODE ISLAND",
+      "purpose": "MASONRY WORK AT 9 PLEASANT STREET"
+    },
+    {
+      "amount": 164547.0,
+      "is_new": false,
+      "name": "BOYS & GIRLS CLUBS OF WARWICK",
+      "purpose": "2024 CAMPERSHIPS"
+    },
+    {
+      "amount": 156871.0,
+      "is_new": false,
+      "name": "WESTERLY HOSPITAL FOUNDATION",
+      "purpose": "MAGNETIC RESONANCE IMAGING PATIENT MONITORING AND INFUSION SYSTEMS"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "THE PROVIDENCE CENTER",
+      "purpose": "RENOVATE FLOORING AT 530 NORTH MAIN STREET"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "AMERICAN RED CROSS OF RHODE ISLAND",
+      "purpose": "EMERGENCY RESPONSE VEHICLE PURCHASE"
+    },
+    {
+      "amount": 141140.0,
+      "is_new": false,
+      "name": "LUCY'S HEARTH",
+      "purpose": "SAFETY AND BATHROOM UPGRADES"
+    },
+    {
+      "amount": 140995.0,
+      "is_new": true,
+      "name": "CRANSTON PUBLIC LIBRARY",
+      "purpose": "BOILER REPLACEMENT AT THE WILLIAM HALL LIBRARY"
+    },
+    {
+      "amount": 140000.0,
+      "is_new": true,
+      "name": "MEALS ON WHEELS OF RHODE ISLAND",
+      "purpose": "ADA BATHROOM CONVERSIONS"
+    },
+    {
+      "amount": 132305.0,
+      "is_new": false,
+      "name": "NARRAGANSETT COUNCIL BOY SCOUTS OF AMERICA",
+      "purpose": "2024 CAMPERSHIPS"
+    },
+    {
+      "amount": 131080.0,
+      "is_new": false,
+      "name": "PACE ORGANIZATION OF RHODE ISLAND",
+      "purpose": "PHARMACY + SECURITY VESTIBULE"
+    },
+    {
+      "amount": 130280.0,
+      "is_new": true,
+      "name": "COVENTRY PUBLIC LIBRARY",
+      "purpose": "RESTROOM RENOVATIONS"
+    },
+    {
+      "amount": 128800.0,
+      "is_new": false,
+      "name": "PROGRESO LATINO",
+      "purpose": "SUPPLEMENTAL REQUEST - HVAC SYSTEM & ASPHALT REPLACEMENT"
+    },
+    {
+      "amount": 128210.0,
+      "is_new": false,
+      "name": "DAY ONE",
+      "purpose": "EXTERIOR REPOINTING AND PARKING LOT REPAVING"
+    },
+    {
+      "amount": 128000.0,
+      "is_new": true,
+      "name": "BLACKSTONE VALLEY COMMUNITY HEALTH CARE",
+      "purpose": "ROOF REPLACEMENT FOR 42 PARK PLACE"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "URBAN COLLABORATIVE",
+      "purpose": "FLOOD MITIGATION BUILDING ALTERATIONS"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "RHODE ISLAND PBS FOUNDATION",
+      "purpose": "HVAC UPGRADES"
+    },
+    {
+      "amount": 124216.0,
+      "is_new": false,
+      "name": "AMOS HOUSE",
+      "purpose": "DUMP TRUCK AND CARGO VAN"
+    },
+    {
+      "amount": 121652.0,
+      "is_new": false,
+      "name": "NEW ENGLAND INSTITUTE OF TECHNOLOGY",
+      "purpose": "EQUIPMENT AND TECHNOLOGY FOR MULTIPLE DEPARTMENTS"
+    },
+    {
+      "amount": 117919.0,
+      "is_new": false,
+      "name": "CROSSROADS RHODE ISLAND",
+      "purpose": "DOMESTIC VIOLENCE PROGRAM SAFE HOUSE REPAIRS"
+    },
+    {
+      "amount": 101035.0,
+      "is_new": false,
+      "name": "SOUTH COUNTY ART ASSOCIATION",
+      "purpose": "WATER DAMAGE REMEDIATION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CHILDREN'S FRIEND & SERVICE",
+      "purpose": "CLOUD-BASED FINANCIAL MANAGEMENT SYSTEM"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "FARM FRESH RHODE ISLAND",
+      "purpose": "REFRIGERATED TRUCK PURCHASE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "RHODE ISLAND ZOOLOGICAL SOCIETY",
+      "purpose": "SUPPLEMENTAL SUPPORT - EDUCATION CENTER ADVANCED UTILITY WORK"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "THE NATURE CONSERVANCY",
+      "purpose": "STEWARDSHIP OF FLAGSHIP PRESERVES: KING, CARTER AND TILLINGHAST"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ROGERS FREE LIBRARY",
+      "purpose": "CARPET REPLACEMENT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "TRI-COUNTY COMMUNITY ACTION AGENCY",
+      "purpose": "RENOVATIONS AT 7 WAVELAND STREET"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "BURRILLVILLE MIDDLE SCHOOL",
+      "purpose": "LIGHTING AND SOUND UPGRADES FOR MUSIC PROGRAM"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "JEWISH COLLABORATIVE SERVICES",
+      "purpose": "ENTRANCE ACCESSIBILITY UPGRADES"
+    },
+    {
+      "amount": 98998.0,
+      "is_new": false,
+      "name": "IN SIGHT",
+      "purpose": "BUILDING ACCESSIBILITY"
+    },
+    {
+      "amount": 98000.0,
+      "is_new": false,
+      "name": "CRANSTON LEAGUE FOR CRANSTON'S FUTURE",
+      "purpose": "INTERIOR GYMNASIUM RENOVATIONS"
+    },
+    {
+      "amount": 97260.0,
+      "is_new": false,
+      "name": "LINN HEALTH & REHABILITATION",
+      "purpose": "AIR CONDITIONING UPGRADES"
+    },
+    {
+      "amount": 95000.0,
+      "is_new": false,
+      "name": "SOUTHSIDE CULTURAL CENTER OF RHODE ISLAND",
+      "purpose": "PURCHASE AND INSTALL CONDENSER AND GENERATOR"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": false,
+      "name": "THE SAN MIGUEL SCHOOL",
+      "purpose": "HVAC, EQUIPMENT, TECHNOLOGY, AND FURNITURE"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": true,
+      "name": "JEWISH ALLIANCE OF GREATER RHODE ISLAND",
+      "purpose": "SECURITY AND ENERGY EFFICIENCY UPGRADES"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": true,
+      "name": "JOHN CLARKE SENIOR LIVING",
+      "purpose": "NURSE CALL SYSTEM"
+    },
+    {
+      "amount": 83305.0,
+      "is_new": true,
+      "name": "HOLY FAMILY HOME FOR MOTHERS & CHILDREN",
+      "purpose": "BUILDING REPAIRS AND A GENERATOR"
+    },
+    {
+      "amount": 80750.0,
+      "is_new": true,
+      "name": "BABCOCK SMITH HOUSE MUSEUM",
+      "purpose": "MANSION HOUSE ROOF REPLACEMENT"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "HIGHER GROUND INTERNATIONAL",
+      "purpose": "VEHICLE PURCHASE"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "WESTERLY LAND TRUST",
+      "purpose": "LAND ACQUISITION OF CHAMPLIN FARM"
+    },
+    {
+      "amount": 79400.0,
+      "is_new": true,
+      "name": "KICKEMUIT MIDDLE SCHOOL",
+      "purpose": "OUTDOOR LEARNING CENTER PAVILION AND SEATING"
+    },
+    {
+      "amount": 77736.0,
+      "is_new": false,
+      "name": "MCAULEY MINISTRIES",
+      "purpose": "AIR CONDITIONING SYSTEM AND MINI-SPLITS"
+    },
+    {
+      "amount": 75180.0,
+      "is_new": false,
+      "name": "CONNECTING FOR CHILDREN & FAMILIES",
+      "purpose": "AIR CONDITIONING SYSTEM"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "BLITHEWOLD MANSION GARDENS & ARBORETUM",
+      "purpose": "ROCK GARDEN WATER MITIGATION PRESERVATION"
+    },
+    {
+      "amount": 74768.0,
+      "is_new": false,
+      "name": "PRESERVATION SOCIETY OF NEWPORT COUNTY",
+      "purpose": "HUNTER HOUSE RESTORATION"
+    },
+    {
+      "amount": 74342.0,
+      "is_new": false,
+      "name": "WARWICK PUBLIC LIBRARY",
+      "purpose": "REPAIRS AND UPGRADES AT THE APPONAUG, CONIMICUT, AND NORWOOD BRANCHES"
+    },
+    {
+      "amount": 72000.0,
+      "is_new": false,
+      "name": "SAINT ANTOINE RESIDENCE",
+      "purpose": "HOSPITAL BEDS FOR LONG-TERM CARE UNIT"
+    },
+    {
+      "amount": 72000.0,
+      "is_new": false,
+      "name": "WOONASQUATUCKET RIVER WATERSHED COUNCIL",
+      "purpose": "VEHICLE PURCHASE"
+    },
+    {
+      "amount": 70397.0,
+      "is_new": false,
+      "name": "SAINT RAPHAEL ACADEMY",
+      "purpose": "THEATRE LIGHTING AND 3D PRINTERS"
+    },
+    {
+      "amount": 68500.0,
+      "is_new": false,
+      "name": "PORTSMOUTH FREE PUBLIC LIBRARY",
+      "purpose": "CARPET REPLACEMENT"
+    },
+    {
+      "amount": 65655.0,
+      "is_new": true,
+      "name": "NEWPORT HISTORICAL SOCIETY",
+      "purpose": "NEWPORT CENTER FOR BLACK HISTORY ELECTRICAL, SEWER, AND WATER RESTORATION"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "ST PATRICK ACADEMY",
+      "purpose": "INTERIOR PAINTING"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "COMMUNITY LIBRARIES OF PROVIDENCE",
+      "purpose": "ROOF REPAIRS FOR THE SOUTH PROVIDENCE LIBRARY"
+    },
+    {
+      "amount": 64500.0,
+      "is_new": false,
+      "name": "GEORGE HAIL LIBRARY",
+      "purpose": "PHASE II OF FLAT ROOF REPAIR"
+    },
+    {
+      "amount": 63448.0,
+      "is_new": true,
+      "name": "WESTERN HILLS MIDDLE SCHOOL",
+      "purpose": "CREATION OF A MULTI-USE RECORDING DESIGN STUDIO"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "BLACKSTONE VALLEY BOYS & GIRLS CLUB",
+      "purpose": "2024 CAMPERSHIPS"
+    },
+    {
+      "amount": 58000.0,
+      "is_new": false,
+      "name": "SOUTH COUNTY HISTORY CENTER",
+      "purpose": "HVAC IMPROVEMENTS AND WINDOW REPAIRS AT THE OLD WASHINGTON COUNTY JAIL"
+    },
+    {
+      "amount": 57715.0,
+      "is_new": false,
+      "name": "EAST PROVIDENCE HISTORICAL SOCIETY",
+      "purpose": "JOHN HUNT MUSEUM UPGRADES AND RENOVATIONS"
+    },
+    {
+      "amount": 57480.0,
+      "is_new": false,
+      "name": "HERRESHOFF MARINE MUSEUM",
+      "purpose": "AFTERSCHOOL PROGRAM VEHICLE"
+    },
+    {
+      "amount": 57342.0,
+      "is_new": false,
+      "name": "WEST ELMWOOD HOUSING DEVELOPMENT CORPORATION",
+      "purpose": "WORKSPACE RECONFIGURATION"
+    },
+    {
+      "amount": 56615.0,
+      "is_new": false,
+      "name": "BEACON CHARTER SCHOOLS",
+      "purpose": "VEHICLE PURCHASE"
+    },
+    {
+      "amount": 55670.0,
+      "is_new": true,
+      "name": "GARDEN TIME INC",
+      "purpose": "VEHICLE PURCHASE"
+    },
+    {
+      "amount": 54633.0,
+      "is_new": false,
+      "name": "RHODE ISLAND LEGAL SERVICES",
+      "purpose": "TECHNOLOGY AND OFFICE EQUIPMENT"
+    },
+    {
+      "amount": 54000.0,
+      "is_new": false,
+      "name": "WATERFIRE PROVIDENCE",
+      "purpose": "VEHICLE PURCHASE"
+    },
+    {
+      "amount": 53290.0,
+      "is_new": false,
+      "name": "HATTIE IDE CHAFFEE HOME",
+      "purpose": "WALK-IN REFRIGERATOR AND INSTALLATION"
+    },
+    {
+      "amount": 51572.0,
+      "is_new": false,
+      "name": "SOPHIA ACADEMY",
+      "purpose": "CREATION OF A STUDENT SUPPORT SERVICES HUB"
+    },
+    {
+      "amount": 50065.0,
+      "is_new": false,
+      "name": "MOTHER OF HOPE CAMP",
+      "purpose": "2024 CAMPERSHIPS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "THE SALVATION ARMY OF RHODE ISLAND",
+      "purpose": "ROOF REPLACEMENT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BEAUTIFUL DAY",
+      "purpose": "KITCHEN EQUIPMENT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "TIVERTON LIBRARY FOUNDATION",
+      "purpose": "ACCESSIBILITY IMPROVEMENTS FOR OUTDOOR PROGRAMMING"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "THE CHURCH OF THE REDEEMER",
+      "purpose": "PRESERVATION OF TOWER AND WEST FAADE"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "YOUNG VOICES",
+      "purpose": "VEHICLE PURCHASE"
+    },
+    {
+      "amount": 49978.0,
+      "is_new": false,
+      "name": "COCUMSCUSSOC ASSOCIATION - SMITH'S CASTLE",
+      "purpose": "EAST ELEVATION EXTERIOR RESTORATION"
+    },
+    {
+      "amount": 49900.0,
+      "is_new": true,
+      "name": "THE ELISHA PROJECT",
+      "purpose": "REFRIGERATED TRAILERS"
+    },
+    {
+      "amount": 49750.0,
+      "is_new": false,
+      "name": "CAMP RUGGLES",
+      "purpose": "2024 CAMPERSHIPS"
+    },
+    {
+      "amount": 48790.0,
+      "is_new": true,
+      "name": "FIRST BAPTIST CHURCH IN HOPE VALLEY",
+      "purpose": "SANCTUARY WALL RESTORATION"
+    },
+    {
+      "amount": 46500.0,
+      "is_new": false,
+      "name": "NEWPORT FESTIVALS FOUNDATION",
+      "purpose": "NEW DOORS FOR BUILDING 16"
+    },
+    {
+      "amount": 46275.0,
+      "is_new": false,
+      "name": "BIG BROTHERS BIG SISTERS OF RHODE ISLAND",
+      "purpose": "DONATION BINS AND DONATION CENTER LIGHTING"
+    },
+    {
+      "amount": 45010.0,
+      "is_new": false,
+      "name": "SPECIAL OLYMPICS RHODE ISLAND",
+      "purpose": "VEHICLE PURCHASE"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "TEATRO ECAS",
+      "purpose": "DEBT REDUCTION OF NUEVO TEATRO RENOVATION"
+    },
+    {
+      "amount": 44278.0,
+      "is_new": false,
+      "name": "HOPE ALZHEIMER'S CENTER",
+      "purpose": "SERVICE KITCHEN RENOVATION"
+    },
+    {
+      "amount": 44009.0,
+      "is_new": true,
+      "name": "15-MINUTE FIELD TRIPS",
+      "purpose": "VEHICLE PURCHASE AND LAPTOP"
+    },
+    {
+      "amount": 43115.0,
+      "is_new": false,
+      "name": "LANGWORTHY PUBLIC LIBRARY",
+      "purpose": "CONFERENCE ROOM RENOVATIONS AND LOWER-LEVEL WEATHERIZATION"
+    },
+    {
+      "amount": 41110.0,
+      "is_new": false,
+      "name": "WEST PLACE ANIMAL SANCTUARY",
+      "purpose": "BARN ADDITION, PHASE II"
+    },
+    {
+      "amount": 40940.0,
+      "is_new": true,
+      "name": "NEWPORT CLASSICAL",
+      "purpose": "ROOF REPAIRS"
+    },
+    {
+      "amount": 40778.0,
+      "is_new": false,
+      "name": "DOMESTIC VIOLENCE RESOURCE CENTER OF SOUTH COUNTY",
+      "purpose": "RENOVATIONS TO THE DROP-IN CENTER AND SHELTER"
+    },
+    {
+      "amount": 40623.0,
+      "is_new": false,
+      "name": "MYSTIC SEAPORT",
+      "purpose": "WIRELESS NETWORK INFRASTRUCTURE UPGRADE"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "THE SANDRA FEINSTEIN GAMM THEATRE",
+      "purpose": "LOBBY CARPETING AND TECHNOLOGY UPGRADES INCLUDING PRODUCTION AND A/V EQUIPMENT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "FRIENDS OF LITTLE COMPTON WELLNESS CENTER",
+      "purpose": "REPLACEMENT WINDOWS, GUTTERS AND TRIM, AND BUILDING REPAIRS"
+    },
+    {
+      "amount": 39000.0,
+      "is_new": false,
+      "name": "BOYS & GIRLS CLUB OF PAWTUCKET",
+      "purpose": "2024 CAMPERSHIPS"
+    },
+    {
+      "amount": 38777.0,
+      "is_new": true,
+      "name": "PROJECT WEBERRENEW",
+      "purpose": "VAN PURCHASE"
+    },
+    {
+      "amount": 35883.0,
+      "is_new": true,
+      "name": "ACCESSPOINT RI",
+      "purpose": "AC SYSTEM FOR GYMNASIUM AT DYER AVENUE"
+    },
+    {
+      "amount": 35580.0,
+      "is_new": true,
+      "name": "HOPE LIBRARY ASSOCIATION",
+      "purpose": "SEPTIC AND BUILDING REPAIRS"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "AIDS CARE OCEAN STATE",
+      "purpose": "PARKING LOT REPAVING"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "BUILDING FUTURES",
+      "purpose": "VEHICLE PURCHASE"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "IMPACT CENTER PROVIDENCE AG",
+      "purpose": "ROOF REPLACEMENT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "PAWTUXET BAPTIST CHURCH",
+      "purpose": "STEEPLE RESTORATION"
+    },
+    {
+      "amount": 34900.0,
+      "is_new": false,
+      "name": "HARMONY HILL SCHOOL",
+      "purpose": "HOT WATER HEATERS AND BOILER"
+    },
+    {
+      "amount": 33500.0,
+      "is_new": true,
+      "name": "BURRILLVILLE HISTORICAL & PRESERVATION SOCIETY",
+      "purpose": "BRIDGETON SCHOOL ROOF REPLACEMENT"
+    },
+    {
+      "amount": 33000.0,
+      "is_new": false,
+      "name": "BOYS & GIRLS CLUBS OF NEWPORT COUNTY",
+      "purpose": "2024 CAMPERSHIPS"
+    },
+    {
+      "amount": 31988.0,
+      "is_new": true,
+      "name": "HOPE HIGH SCHOOL",
+      "purpose": "FILM PRODUCTION AND MEDIA ARTS LAB"
+    },
+    {
+      "amount": 31195.0,
+      "is_new": false,
+      "name": "WARWICK POLICE ATHLETIC LEAGUE INC",
+      "purpose": "OFFICE REMODEL, REPLACEMENT WINDOWS, HVAC REPAIRS, AND OFFICE FURNITURE"
+    },
+    {
+      "amount": 31051.0,
+      "is_new": false,
+      "name": "RHODE ISLAND SCHOOL OF DESIGN",
+      "purpose": "ADMISSION DESK FOR CHACE LOBBY"
+    },
+    {
+      "amount": 30638.0,
+      "is_new": false,
+      "name": "RI WOMEN IN THE TRADES",
+      "purpose": "TRAILER, EQUIPMENT, AND TOOLS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "REFOCUS INC",
+      "purpose": "VEHICLE PURCHASE"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "ROSE ISLAND LIGHTHOUSE & FORT HAMILTON TRUST",
+      "purpose": "ROOF REPAIR"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "NEWMAN CONGREGATIONAL CHURCH UCC",
+      "purpose": "SANCTUARY REPLACEMENT WINDOWS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "TRINITY ACADEMY OF PERFORMING ARTS",
+      "purpose": "INTERCOM SYSTEM"
+    },
+    {
+      "amount": 29500.0,
+      "is_new": true,
+      "name": "BRISTOL HISTORICAL & PRESERVATION SOCIETY",
+      "purpose": "ASBESTOS REMOVAL AND FIRST FLOOR RESTORATION"
+    },
+    {
+      "amount": 29328.0,
+      "is_new": false,
+      "name": "GNOME SURF",
+      "purpose": "ADAPTIVE EQUIPMENT AND STORAGE"
+    },
+    {
+      "amount": 29000.0,
+      "is_new": true,
+      "name": "CALVARY UNITED METHODIST CHURCH",
+      "purpose": "REPAIR OF EXTERIOR LEAKS"
+    },
+    {
+      "amount": 28400.0,
+      "is_new": false,
+      "name": "NEWPORT COMMUNITY SCHOOL",
+      "purpose": "BUILDING UPGRADES TO ADULT LEARNING CENTER"
+    },
+    {
+      "amount": 27335.0,
+      "is_new": false,
+      "name": "CONTEMPORARY THEATER COMPANY",
+      "purpose": "NEW SEATING FOR THE THEATER AND PERFORMANCE PATIO"
+    },
+    {
+      "amount": 26710.0,
+      "is_new": true,
+      "name": "STAND UP FOR ANIMALS",
+      "purpose": "EQUIPMENT AND ANIMAL CLINIC RENOVATION"
+    },
+    {
+      "amount": 26100.0,
+      "is_new": true,
+      "name": "CHURCH OF THE HOLY SPIRIT",
+      "purpose": "STAIRWELL RESTORATION AND DRAINAGE REPAIRS"
+    },
+    {
+      "amount": 26000.0,
+      "is_new": true,
+      "name": "ONE NEIGHBORHOOD BUILDERS",
+      "purpose": "RETAINING WALL REPAIR FOR ADMINISTRATIVE OFFICE"
+    },
+    {
+      "amount": 25800.0,
+      "is_new": false,
+      "name": "COGGESHALL FARM MUSEUM",
+      "purpose": "TYSKA BARN IMPROVEMENTS"
+    },
+    {
+      "amount": 25790.0,
+      "is_new": false,
+      "name": "RENAISSANCE CITY THEATRE",
+      "purpose": "BASEMENT SEALING AND STAGE RIGGING"
+    },
+    {
+      "amount": 25425.0,
+      "is_new": false,
+      "name": "DOWNCITY DESIGN",
+      "purpose": "AUDIO/VISUAL EQUIPMENT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NORTH SMITHFIELD HERITAGE ASSOCIATION",
+      "purpose": "ELECTRICAL AND FIRE SAFETY UPGRADES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "CHRIST EPISCOPAL CHURCH",
+      "purpose": "FOUNDATION EXCAVATION INSPECTION AND RESTORATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "NEW BEGINNINGS INC",
+      "purpose": "BOILER REPLACEMENT"
+    },
+    {
+      "amount": 23812.0,
+      "is_new": false,
+      "name": "WICKFORD ART ASSOCIATION",
+      "purpose": "HVAC SYSTEM"
+    },
+    {
+      "amount": 22940.0,
+      "is_new": false,
+      "name": "NORMAN BIRD SANCTUARY",
+      "purpose": "FIRE ALARM PANEL"
+    },
+    {
+      "amount": 22500.0,
+      "is_new": true,
+      "name": "SOUTH COUNTY HABITAT FOR HUMANITY RHODE ISLAND",
+      "purpose": "BATHROOM ADDITION IN VOLUNTEER AND EDUCATION CENTER"
+    },
+    {
+      "amount": 22275.0,
+      "is_new": true,
+      "name": "KINGSTON CONGREGATIONAL CHURCH",
+      "purpose": "CHURCH AND STEEPLE PAINTING"
+    },
+    {
+      "amount": 20428.0,
+      "is_new": true,
+      "name": "CONEXIN LATINA NEWPORT",
+      "purpose": "CUBICLE CONSTRUCTION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "WOONSOCKET MIDDLE SCHOOL AT VILLA NOVA",
+      "purpose": "TECHNOLOGY FOR CAREER EXPLORATION PROGRAM"
+    },
+    {
+      "amount": 19428.0,
+      "is_new": true,
+      "name": "SOCIETY OF ST VINCENT DE PAUL RHODE ISLAND",
+      "purpose": "MOBILE RAPID RESPONSE UNIT"
+    },
+    {
+      "amount": 18240.0,
+      "is_new": true,
+      "name": "DAVINCI CENTER FOR COMMUNITY PROGRESS",
+      "purpose": "COMPUTER LAB UPGRADE"
+    },
+    {
+      "amount": 17980.0,
+      "is_new": false,
+      "name": "RIVERZEDGE ARTS",
+      "purpose": "TECHNOLOGY AND EQUIPMENT UPGRADE"
+    },
+    {
+      "amount": 17025.0,
+      "is_new": false,
+      "name": "NEWPORT ART MUSEUM & ART ASSOCIATION",
+      "purpose": "PARKING LOT REPAVING"
+    },
+    {
+      "amount": 16500.0,
+      "is_new": false,
+      "name": "BOYS & GIRLS CLUB OF EAST PROVIDENCE",
+      "purpose": "2024 CAMPERSHIPS"
+    },
+    {
+      "amount": 16300.0,
+      "is_new": false,
+      "name": "TOCKWOTTON ON THE WATERFRONT",
+      "purpose": "EXTERIOR DOORS"
+    },
+    {
+      "amount": 16000.0,
+      "is_new": true,
+      "name": "WILDLIFE REHABILITATORS ASSOCIATION OF RHODE ISLAND",
+      "purpose": "NEGATIVE PRESSURE WOUND THERAPY UNIT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "PAWTUCKET SOUP KITCHEN",
+      "purpose": "STOVE AND CONVECTION OVEN"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "SOUTH KINGSTOWN LAND TRUST",
+      "purpose": "VEHICLE PURCHASE"
+    },
+    {
+      "amount": 14693.0,
+      "is_new": false,
+      "name": "LIBRARIES OF FOSTER",
+      "purpose": "AEDS, BOOK RETURN, PANTRY AND STORYWALK EQUIPMENT"
+    },
+    {
+      "amount": 14550.0,
+      "is_new": true,
+      "name": "CORNERSTONE OF FAITH UNITED METHODIST CHURCH",
+      "purpose": "CHURCH PAINTING AND BELL TOWER RESTORATION"
+    },
+    {
+      "amount": 14388.0,
+      "is_new": true,
+      "name": "JAMESTOWN ARTS CENTER",
+      "purpose": "FACADE REPAIR AND RENOVATIONS"
+    },
+    {
+      "amount": 14000.0,
+      "is_new": false,
+      "name": "BOYS TOWN NEW ENGLAND",
+      "purpose": "BASKETBALL COURT LIGHTING"
+    },
+    {
+      "amount": 13970.0,
+      "is_new": false,
+      "name": "STEAMSHIP HISTORICAL SOCIETY OF AMERICA",
+      "purpose": "HVAC REPLACEMENT"
+    },
+    {
+      "amount": 13765.0,
+      "is_new": true,
+      "name": "WILLETT FREE LIBRARY",
+      "purpose": "SMOKE ALARM AND CARPET REPLACEMENT"
+    },
+    {
+      "amount": 13570.0,
+      "is_new": true,
+      "name": "YOUTH PRIDE RHODE ISLAND INC",
+      "purpose": "TECHNOLOGY AND EQUIPMENT"
+    },
+    {
+      "amount": 13000.0,
+      "is_new": false,
+      "name": "YWCA RHODE ISLAND",
+      "purpose": "2024 CAMPERSHIPS"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": true,
+      "name": "TAVERN HALL PRESERVATION SOCIETY",
+      "purpose": "ROOF REPLACEMENT"
+    },
+    {
+      "amount": 11830.0,
+      "is_new": true,
+      "name": "CHARIHO REGIONAL MIDDLE SCHOOL",
+      "purpose": "GROW TOWERS FOR SCIENCE CLASSES"
+    },
+    {
+      "amount": 11660.0,
+      "is_new": false,
+      "name": "HAMILTON HOUSE",
+      "purpose": "NORTH WALL EXTERIOR AND INTERIOR REPAIR"
+    },
+    {
+      "amount": 11326.0,
+      "is_new": true,
+      "name": "THE EMPOWERMENT FACTORY",
+      "purpose": "TECHNOLOGY AND EQUIPMENT"
+    },
+    {
+      "amount": 11028.0,
+      "is_new": true,
+      "name": "CONANICUT ISLAND SAILING FOUNDATION",
+      "purpose": "KAYAK EQUIPMENT AND SAFETY APPAREL"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "MAE ORGANIZATION INC",
+      "purpose": "BINS AND STORAGE FOR DONATION PROGRAM"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "OLD SLATER MILL ASSOCIATION",
+      "purpose": "THEATER PROJECTION EQUIPMENT"
+    },
+    {
+      "amount": 9745.0,
+      "is_new": true,
+      "name": "NARRAGANSETT BAY SYMPHONY COMMUNITY ORCHESTRA",
+      "purpose": "PERCUSSION EQUIPMENT"
+    },
+    {
+      "amount": 9670.0,
+      "is_new": true,
+      "name": "PROVIDENCE CHILDREN'S FILM FESTIVAL",
+      "purpose": "ANIMATION WORKSTATIONS AND LIGHTING"
+    },
+    {
+      "amount": 7990.0,
+      "is_new": true,
+      "name": "THE CHORUS OF EAST PROVIDENCE",
+      "purpose": "CONCERT SEATING"
+    },
+    {
+      "amount": 7736.0,
+      "is_new": false,
+      "name": "ANIMAL RESCUE RHODE ISLAND",
+      "purpose": "SHELTER EQUIPMENT"
+    },
+    {
+      "amount": 7430.0,
+      "is_new": true,
+      "name": "EXETER WEST GREENWICH JUNIOR HIGH SCHOOL",
+      "purpose": "COMPUTER SCIENCE LAB EQUIPMENT"
+    },
+    {
+      "amount": 7085.0,
+      "is_new": false,
+      "name": "DAVISVILLE FREE LIBRARY",
+      "purpose": "CONCRETE WALKWAY"
+    },
+    {
+      "amount": 7050.0,
+      "is_new": true,
+      "name": "RHODE ISLAND WIND ENSEMBLE",
+      "purpose": "TIMPANI PURCHASE"
+    },
+    {
+      "amount": 6890.0,
+      "is_new": true,
+      "name": "COMMUNITIES FOR PEOPLE",
+      "purpose": "TECHNOLOGY FOR YOUTH LIFE SKILL CLASSES"
+    },
+    {
+      "amount": 6625.0,
+      "is_new": true,
+      "name": "RHODE ISLAND CHILDREN'S DYSLEXIA CENTER",
+      "purpose": "PRINTER/COPY MACHINE"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "CAMP JORI",
+      "purpose": "2024 CAMPERSHIPS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "BLACKSTONE VALLEY PREP MAYORAL ACADEMY",
+      "purpose": "TRANSITIONAL LEARNING CENTER TECHNOLOGY"
+    },
+    {
+      "amount": 4999.0,
+      "is_new": false,
+      "name": "CLARK MEMORIAL LIBRARY",
+      "purpose": "COPY MACHINE"
+    },
+    {
+      "amount": 4500.0,
+      "is_new": false,
+      "name": "EPISCOPAL DIOCESE OF RHODE ISLAND",
+      "purpose": "2024 CAMPERSHIPS"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "RHODE ISLAND STATE POLICE MUSEUM AND EDUCATIONAL CENTER INC",
+      "purpose": "MANNEQUIN PURCHASE"
+    },
+    {
+      "amount": 3700.0,
+      "is_new": false,
+      "name": "TAP-IN BARRINGTON FOOD PANTRY",
+      "purpose": "REFRIGERATION/FREEZER"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "CAMP ALDERSGATE",
+      "purpose": "2024 CAMPERSHIPS"
+    },
+    {
+      "amount": 2892.0,
+      "is_new": true,
+      "name": "RHODE ISLAND COMPUTER MUSEUM",
+      "purpose": "CEILING PROJECTION SYSTEM"
+    },
+    {
+      "amount": 2232.0,
+      "is_new": false,
+      "name": "AMENITY AID",
+      "purpose": "OUTDOOR DONATION BINS"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "HTTPS://CHAMPLINFOUNDATION.ORG/WHAT-WE-FUND/",

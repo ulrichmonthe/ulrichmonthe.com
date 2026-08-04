@@ -1,0 +1,220 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Foundation Grant Histories</title>
+  <meta name="description" content="New-grantee rates for 118 US private foundations, computed from their own Form 990-PF filings. How often each funds an organization it has not funded before.">
+  <link rel="canonical" href="https://ulrichmonthe.com/foundations/">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <meta property="og:title" content="Foundation Grant Histories">
+  <meta property="og:description" content="New-grantee rates for 118 US private foundations, computed from their own Form 990-PF filings. How often each funds an organization it has not funded before.">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://ulrichmonthe.com/foundations/">
+  <meta property="og:image" content="https://ulrichmonthe.com/og-image.png">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"Foundation grant histories","url":"https://ulrichmonthe.com/foundations/","creator":{"@type":"Person","name":"Ulrich Monthe","url":"https://ulrichmonthe.com"}}</script>
+  <style>
+    :root {
+      --ink:#1c1a17; --ink-soft:#5b554c; --paper:#f5f1e8; --paper-raised:#fbf9f3;
+      --paper-deep:#ede7d9; --accent:#a8763e; --accent-deep:#8a5f30;
+      --accent-soft:#efe6d6; --rule:#e2dbcb; --green:#3d6b48; --red:#9a4a32;
+      --serif:"Newsreader","Iowan Old Style",Georgia,serif;
+      --sans:"Instrument Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+      --mono:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+    }
+    *{margin:0;padding:0;box-sizing:border-box}
+    body{font-family:var(--sans);background:var(--paper);color:var(--ink);line-height:1.65;font-size:16px;-webkit-font-smoothing:antialiased}
+    .wrap{max-width:820px;margin:0 auto;padding:0 24px}
+    nav{font-size:14px;display:flex;justify-content:space-between;align-items:center;padding:26px 0}
+    nav .mark{display:inline-flex;align-items:center;gap:11px;text-decoration:none;color:var(--ink)}
+    .mark-mono{font-family:var(--serif);font-size:17px;font-weight:600;color:var(--paper);background:var(--accent);width:31px;height:31px;border-radius:7px;display:inline-flex;align-items:center;justify-content:center}
+    .mark-name{font-family:var(--serif);font-size:20px;font-weight:500}
+    nav ul{display:flex;gap:24px;list-style:none}
+    nav ul a{color:var(--ink-soft);text-decoration:none}
+    .crumb{font-family:var(--mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-soft);padding-top:22px}
+    .crumb a{color:var(--accent-deep);text-decoration:none}
+    h1{font-family:var(--serif);font-size:clamp(28px,4.4vw,40px);font-weight:600;line-height:1.15;letter-spacing:-.015em;margin:12px 0 10px}
+    .sub{font-family:var(--mono);font-size:12.5px;color:var(--ink-soft);letter-spacing:.03em}
+    .band{display:inline-block;font-size:11.5px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;padding:5px 12px;border-radius:100px;margin-top:16px}
+    .band.reg{background:#e3ecdd;color:var(--green)}
+    .band.occ{background:var(--accent-soft);color:var(--accent-deep)}
+    .band.rare{background:#f2e0da;color:var(--red)}
+    .band.none{background:var(--paper-deep);color:var(--ink-soft)}
+    .lead{font-family:var(--serif);font-size:21px;line-height:1.5;margin:20px 0 8px;max-width:60ch}
+    .peer{font-size:15px;color:var(--ink-soft);max-width:62ch}
+    section{padding:34px 0 0}
+    h2{font-family:var(--serif);font-size:22px;font-weight:600;margin-bottom:12px}
+    p{color:var(--ink-soft);max-width:64ch}
+    p+p{margin-top:11px}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:18px 24px;margin:6px 0 4px}
+    .m-l{font-size:11.5px;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--ink-soft)}
+    .m-v{font-family:var(--mono);font-size:19px;margin-top:3px;font-variant-numeric:tabular-nums}
+    .m-n{font-size:13px;color:var(--ink-soft);margin-top:2px}
+    .tablewrap{overflow-x:auto}
+    table{width:100%;border-collapse:collapse;font-size:14.5px;margin-top:8px}
+    th{text-align:left;font-size:11.5px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:var(--ink-soft);border-bottom:1px solid var(--rule);padding:8px 10px 8px 0}
+    td{border-bottom:1px solid var(--rule);padding:9px 10px 9px 0;color:var(--ink-soft)}
+    td.n{font-family:var(--mono);text-align:right;color:var(--ink);font-variant-numeric:tabular-nums}
+    td.name{color:var(--ink)}
+    .newtag{font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--accent-deep);background:var(--accent-soft);padding:2px 8px;border-radius:100px;margin-left:8px}
+    .prov{font-family:var(--mono);font-size:12px;color:#9a927f;line-height:1.75;border-top:1px solid var(--rule);padding-top:14px;margin-top:26px}
+    .prov b{color:var(--ink-soft)}
+    .notice{background:var(--paper-deep);border-radius:10px;padding:18px 22px;margin-top:16px;font-size:15px;color:var(--ink-soft);max-width:66ch}
+    .notice b{color:var(--ink)}
+    .cta{margin:38px 0 8px;background:linear-gradient(155deg,#2a2218 0%,#1c1a17 100%);border-radius:12px;padding:30px 34px;color:var(--paper)}
+    .cta h3{font-family:var(--serif);font-size:21px;font-weight:600;margin-bottom:10px;color:var(--paper)}
+    .cta p{color:#d8d0c2;max-width:60ch;font-size:15.5px}
+    .cta a{color:var(--accent-soft)}
+    .links{display:flex;flex-wrap:wrap;gap:9px;margin-top:16px}
+    .links a{font-size:14px;text-decoration:none;border:1px solid var(--rule);border-radius:100px;padding:7px 15px;background:var(--paper-raised);color:var(--accent-deep)}
+    footer{margin-top:54px;border-top:1px solid var(--rule);padding:24px 0 46px;font-size:13.5px;color:var(--ink-soft);display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px}
+    footer a{color:var(--accent-deep);text-decoration:none}
+    @media(max-width:620px){.cta{padding:24px 20px}}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <nav>
+      <a class="mark" href="/" aria-label="Ulrich Monthe — home">
+        <span class="mark-mono">UM</span><span class="mark-name">Ulrich Monthe</span>
+      </a>
+      <ul><li><a href="/live-projects/">Live Projects</a></li><li><a href="/#contact">Contact</a></li></ul>
+    </nav>
+    <div class="crumb"><a href="/live-projects/funder-standing/">Funder Standing</a> / All foundations</div>
+
+    <h1>Foundation grant histories</h1>
+    <p class="lead">How often each of these 118 foundations funds an organization it has
+      not funded before, computed from their own Form 990-PF filings.</p>
+    <section><div class="tablewrap"><table><thead><tr>
+      <th>Foundation</th><th>State</th><th style="text-align:right">New / total</th>
+      <th style="text-align:right">Rate</th></tr></thead><tbody>
+      <tr><td class="name"><a href="/foundations/ainslie-foundation/" style="color:var(--accent-deep);text-decoration:none">Ainslie Foundation</a></td><td>TX</td><td class="n">22 / 98</td><td class="n">23.0%</td></tr>
+      <tr><td class="name"><a href="/foundations/arison-arts-foundation/" style="color:var(--accent-deep);text-decoration:none">Arison Arts Foundation</a></td><td>FL</td><td class="n">41 / 130</td><td class="n">38.6%</td></tr>
+      <tr><td class="name"><a href="/foundations/arnhold-foundation-inc/" style="color:var(--accent-deep);text-decoration:none">Arnhold Foundation Inc</a></td><td>NY</td><td class="n">38 / 233</td><td class="n">14.4%</td></tr>
+      <tr><td class="name"><a href="/foundations/barbara-brunckhorst-foundation/" style="color:var(--accent-deep);text-decoration:none">Barbara Brunckhorst Foundation</a></td><td>VA</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/beth-and-ravenel-curry-foundation/" style="color:var(--accent-deep);text-decoration:none">Beth And Ravenel Curry Foundation</a></td><td>PA</td><td class="n">19 / 144</td><td class="n">20.1%</td></tr>
+      <tr><td class="name"><a href="/foundations/blue-cross-blue-shield-of-florida-foundation/" style="color:var(--accent-deep);text-decoration:none">Blue Cross Blue Shield of Florida Foundation</a></td><td>FL</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/c-k-blandin-residuary-trust/" style="color:var(--accent-deep);text-decoration:none">C K Blandin Residuary Trust</a></td><td>MO</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/capital-group-companies-charitable/" style="color:var(--accent-deep);text-decoration:none">Capital Group Companies Charitable</a></td><td>CA</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/carson-family-charitable-trust/" style="color:var(--accent-deep);text-decoration:none">Carson Family Charitable Trust</a></td><td>NY</td><td class="n">12 / 120</td><td class="n">17.1%</td></tr>
+      <tr><td class="name"><a href="/foundations/charles-f-kettering-foundation/" style="color:var(--accent-deep);text-decoration:none">Charles F Kettering Foundation</a></td><td>OH</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/clark-charitable-foundation-inc/" style="color:var(--accent-deep);text-decoration:none">Clark Charitable Foundation Inc</a></td><td>MD</td><td class="n">45 / 110</td><td class="n">35.5%</td></tr>
+      <tr><td class="name"><a href="/foundations/claude-worthington-benedum-foundation/" style="color:var(--accent-deep);text-decoration:none">Claude Worthington Benedum Foundation</a></td><td>PA</td><td class="n">69 / 157</td><td class="n">42.4%</td></tr>
+      <tr><td class="name"><a href="/foundations/colcom-foundation/" style="color:var(--accent-deep);text-decoration:none">Colcom Foundation</a></td><td>PA</td><td class="n">16 / 104</td><td class="n">22.9%</td></tr>
+      <tr><td class="name"><a href="/foundations/craig-h-neilsen-foundation/" style="color:var(--accent-deep);text-decoration:none">Craig H Neilsen Foundation</a></td><td>CA</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/el-pomar-foundation/" style="color:var(--accent-deep);text-decoration:none">El Pomar Foundation</a></td><td>CO</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/endeavor-foundation-inc/" style="color:var(--accent-deep);text-decoration:none">Endeavor Foundation Inc</a></td><td>NY</td><td class="n">8 / 55</td><td class="n">17.5%</td></tr>
+      <tr><td class="name"><a href="/foundations/eugene-b-casey-foundation/" style="color:var(--accent-deep);text-decoration:none">Eugene B Casey Foundation</a></td><td>MD</td><td class="n">4 / 40</td><td class="n">21.8%</td></tr>
+      <tr><td class="name"><a href="/foundations/evelyn-and-walter-haas-jr-fund/" style="color:var(--accent-deep);text-decoration:none">Evelyn And Walter Haas Jr Fund</a></td><td>CA</td><td class="n">49 / 178</td><td class="n">26.0%</td></tr>
+      <tr><td class="name"><a href="/foundations/gary-and-mary-west-charitable-trust/" style="color:var(--accent-deep);text-decoration:none">Gary And Mary West Charitable Trust</a></td><td>CA</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/gates-family-foundation/" style="color:var(--accent-deep);text-decoration:none">Gates Family Foundation</a></td><td>CO</td><td class="n">157 / 325</td><td class="n">45.9%</td></tr>
+      <tr><td class="name"><a href="/foundations/genentech-patient-foundation/" style="color:var(--accent-deep);text-decoration:none">Genentech Patient Foundation</a></td><td>CA</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/greenacres-foundation-inc/" style="color:var(--accent-deep);text-decoration:none">Greenacres Foundation Inc</a></td><td>OH</td><td class="n">20 / 37</td><td class="n">36.1%</td></tr>
+      <tr><td class="name"><a href="/foundations/hn-and-frances-c-berger-foundation/" style="color:var(--accent-deep);text-decoration:none">HN and Frances C Berger Foundation</a></td><td>CA</td><td class="n">33 / 102</td><td class="n">32.4%</td></tr>
+      <tr><td class="name"><a href="/foundations/howard-g-buffett-foundation/" style="color:var(--accent-deep);text-decoration:none">Howard G Buffett Foundation</a></td><td>IL</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/humana-foundation-inc/" style="color:var(--accent-deep);text-decoration:none">Humana Foundation Inc</a></td><td>KY</td><td class="n">0 / 1</td><td class="n">80.5%</td></tr>
+      <tr><td class="name"><a href="/foundations/hunter-family-foundation/" style="color:var(--accent-deep);text-decoration:none">Hunter Family Foundation</a></td><td>IL</td><td class="n">50 / 138</td><td class="n">30.3%</td></tr>
+      <tr><td class="name"><a href="/foundations/i-am-mercy-foundation/" style="color:var(--accent-deep);text-decoration:none">I Am Mercy Foundation</a></td><td>PA</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/inasmuch-foundation/" style="color:var(--accent-deep);text-decoration:none">Inasmuch Foundation</a></td><td>OK</td><td class="n">31 / 139</td><td class="n">25.3%</td></tr>
+      <tr><td class="name"><a href="/foundations/iowa-west-foundation/" style="color:var(--accent-deep);text-decoration:none">Iowa West Foundation</a></td><td>IA</td><td class="n">31 / 96</td><td class="n">36.0%</td></tr>
+      <tr><td class="name"><a href="/foundations/j-willard-and-alice-s-marriott-foundation/" style="color:var(--accent-deep);text-decoration:none">J Willard and Alice S Marriott Foundation</a></td><td>MD</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/jtmf-foundation/" style="color:var(--accent-deep);text-decoration:none">JTMF Foundation</a></td><td>DE</td><td class="n">44 / 118</td><td class="n">54.4%</td></tr>
+      <tr><td class="name"><a href="/foundations/james-graham-brown-foundation-inc/" style="color:var(--accent-deep);text-decoration:none">James Graham Brown Foundation Inc</a></td><td>KY</td><td class="n">18 / 45</td><td class="n">39.6%</td></tr>
+      <tr><td class="name"><a href="/foundations/james-s-mcdonnell-foundation/" style="color:var(--accent-deep);text-decoration:none">James S Mcdonnell Foundation</a></td><td>MO</td><td class="n">43 / 46</td><td class="n">54.3%</td></tr>
+      <tr><td class="name"><a href="/foundations/jeff-and-marieke-rothschild-foundation/" style="color:var(--accent-deep);text-decoration:none">Jeff And Marieke Rothschild Foundation</a></td><td>CA</td><td class="n">9 / 17</td><td class="n">64.1%</td></tr>
+      <tr><td class="name"><a href="/foundations/john-m-belk-endowment/" style="color:var(--accent-deep);text-decoration:none">John M Belk Endowment</a></td><td>NC</td><td class="n">53 / 72</td><td class="n">72.3%</td></tr>
+      <tr><td class="name"><a href="/foundations/john-simon-guggenheim-memorial/" style="color:var(--accent-deep);text-decoration:none">John Simon Guggenheim Memorial</a></td><td>NY</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/joseph-and-vera-zilber-family/" style="color:var(--accent-deep);text-decoration:none">Joseph And Vera Zilber Family</a></td><td>WI</td><td class="n">43 / 154</td><td class="n">30.8%</td></tr>
+      <tr><td class="name"><a href="/foundations/joseph-b-whitehead-foundation/" style="color:var(--accent-deep);text-decoration:none">Joseph B Whitehead Foundation</a></td><td>GA</td><td class="n">18 / 40</td><td class="n">44.9%</td></tr>
+      <tr><td class="name"><a href="/foundations/kemper-and-leila-williams-foundation-in/" style="color:var(--accent-deep);text-decoration:none">Kemper And Leila Williams Foundation In</a></td><td>LA</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/kohler-foundation-inc/" style="color:var(--accent-deep);text-decoration:none">Kohler Foundation Inc</a></td><td>WI</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/leon-levy-foundation/" style="color:var(--accent-deep);text-decoration:none">Leon Levy Foundation</a></td><td>NY</td><td class="n">53 / 213</td><td class="n">28.7%</td></tr>
+      <tr><td class="name"><a href="/foundations/marty-and-dorothy-silverman-foundation/" style="color:var(--accent-deep);text-decoration:none">Marty And Dorothy Silverman Foundation</a></td><td>NY</td><td class="n">45 / 223</td><td class="n">17.5%</td></tr>
+      <tr><td class="name"><a href="/foundations/mathworks-foundation-inc/" style="color:var(--accent-deep);text-decoration:none">MathWorks Foundation Inc</a></td><td>MA</td><td class="n">6 / 11</td><td class="n">56.0%</td></tr>
+      <tr><td class="name"><a href="/foundations/may-and-stanley-smith-charitable-trust/" style="color:var(--accent-deep);text-decoration:none">May And Stanley Smith Charitable Trust</a></td><td>CA</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/mt-cuba-center-inc/" style="color:var(--accent-deep);text-decoration:none">Mt Cuba Center Inc</a></td><td>DE</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/musk-foundation/" style="color:var(--accent-deep);text-decoration:none">Musk Foundation</a></td><td>TX</td><td class="n">34 / 53</td><td class="n">59.1%</td></tr>
+      <tr><td class="name"><a href="/foundations/nelda-c-and-h-j-lutcher-stark-foundation/" style="color:var(--accent-deep);text-decoration:none">Nelda C and H J Lutcher Stark Foundation</a></td><td>TX</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/nina-mason-pulliam-charitable-trust/" style="color:var(--accent-deep);text-decoration:none">Nina Mason Pulliam Charitable Trust</a></td><td>IN</td><td class="n">69 / 255</td><td class="n">29.2%</td></tr>
+      <tr><td class="name"><a href="/foundations/novartis-patient-assistance/" style="color:var(--accent-deep);text-decoration:none">Novartis Patient Assistance</a></td><td>NJ</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/offutt-family-foundation/" style="color:var(--accent-deep);text-decoration:none">Offutt Family Foundation</a></td><td>ND</td><td class="n">84 / 107</td><td class="n">71.9%</td></tr>
+      <tr><td class="name"><a href="/foundations/omidyar-network-fund-inc/" style="color:var(--accent-deep);text-decoration:none">Omidyar Network Fund Inc</a></td><td>CA</td><td class="n">70 / 182</td><td class="n">41.6%</td></tr>
+      <tr><td class="name"><a href="/foundations/one8-foundation/" style="color:var(--accent-deep);text-decoration:none">One8 Foundation</a></td><td>MA</td><td class="n">47 / 187</td><td class="n">22.1%</td></tr>
+      <tr><td class="name"><a href="/foundations/park-foundation-inc/" style="color:var(--accent-deep);text-decoration:none">Park Foundation Inc</a></td><td>NY</td><td class="n">72 / 375</td><td class="n">18.2%</td></tr>
+      <tr><td class="name"><a href="/foundations/perelman-family-charitable-trust-i/" style="color:var(--accent-deep);text-decoration:none">Perelman Family Charitable Trust I</a></td><td>NY</td><td class="n">1 / 2</td><td class="n">60.0%</td></tr>
+      <tr><td class="name"><a href="/foundations/peter-kiewit-foundation/" style="color:var(--accent-deep);text-decoration:none">Peter Kiewit Foundation</a></td><td>NE</td><td class="n">13 / 78</td><td class="n">22.1%</td></tr>
+      <tr><td class="name"><a href="/foundations/price-philanthropies-foundation/" style="color:var(--accent-deep);text-decoration:none">Price Philanthropies Foundation</a></td><td>CA</td><td class="n">60 / 262</td><td class="n">22.0%</td></tr>
+      <tr><td class="name"><a href="/foundations/pritzker-foundation/" style="color:var(--accent-deep);text-decoration:none">Pritzker Foundation</a></td><td>IL</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/ray-kay-eckstein-charitable-trust/" style="color:var(--accent-deep);text-decoration:none">Ray &amp; Kay Eckstein Charitable Trust</a></td><td>KY</td><td class="n">32 / 183</td><td class="n">16.9%</td></tr>
+      <tr><td class="name"><a href="/foundations/richard-m-fairbanks-foundation-inc/" style="color:var(--accent-deep);text-decoration:none">Richard M Fairbanks Foundation Inc</a></td><td>IN</td><td class="n">39 / 110</td><td class="n">34.5%</td></tr>
+      <tr><td class="name"><a href="/foundations/russell-sage-foundation/" style="color:var(--accent-deep);text-decoration:none">Russell Sage Foundation</a></td><td>NY</td><td class="n">21 / 85</td><td class="n">26.0%</td></tr>
+      <tr><td class="name"><a href="/foundations/salesforce-foundation/" style="color:var(--accent-deep);text-decoration:none">Salesforce Foundation</a></td><td>CA</td><td class="n">12 / 22</td><td class="n">57.3%</td></tr>
+      <tr><td class="name"><a href="/foundations/scharbauer-foundation-inc/" style="color:var(--accent-deep);text-decoration:none">Scharbauer Foundation Inc</a></td><td>TX</td><td class="n">18 / 56</td><td class="n">31.2%</td></tr>
+      <tr><td class="name"><a href="/foundations/schoen-foundation/" style="color:var(--accent-deep);text-decoration:none">Schoen Foundation</a></td><td>FL</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/sorenson-legacy-foundation/" style="color:var(--accent-deep);text-decoration:none">Sorenson Legacy Foundation</a></td><td>UT</td><td class="n">23 / 266</td><td class="n">17.7%</td></tr>
+      <tr><td class="name"><a href="/foundations/tansy-charitable-foundation/" style="color:var(--accent-deep);text-decoration:none">Tansy Charitable Foundation</a></td><td>NY</td><td class="n">0 / 5</td><td class="n">6.2%</td></tr>
+      <tr><td class="name"><a href="/foundations/ted-arison-family-foundation-usa-inc/" style="color:var(--accent-deep);text-decoration:none">Ted Arison Family Foundation Usa Inc</a></td><td>FL</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/temple-hoyne-buell-foundation/" style="color:var(--accent-deep);text-decoration:none">Temple Hoyne Buell Foundation</a></td><td>CO</td><td class="n">97 / 396</td><td class="n">30.1%</td></tr>
+      <tr><td class="name"><a href="/foundations/andy-warhol-foundation-for-the/" style="color:var(--accent-deep);text-decoration:none">The Andy Warhol Foundation For The</a></td><td>NY</td><td class="n">69 / 183</td><td class="n">38.9%</td></tr>
+      <tr><td class="name"><a href="/foundations/arthur-m-blank-family-foundation/" style="color:var(--accent-deep);text-decoration:none">The Arthur M Blank Family Foundation</a></td><td>GA</td><td class="n">248 / 499</td><td class="n">52.6%</td></tr>
+      <tr><td class="name"><a href="/foundations/batchelor-foundation-inc/" style="color:var(--accent-deep);text-decoration:none">The Batchelor Foundation Inc</a></td><td>FL</td><td class="n">23 / 326</td><td class="n">10.9%</td></tr>
+      <tr><td class="name"><a href="/foundations/carl-angus-desantis-foundation-inc/" style="color:var(--accent-deep);text-decoration:none">The Carl Angus Desantis Foundation Inc</a></td><td>FL</td><td class="n">28 / 39</td><td class="n">75.8%</td></tr>
+      <tr><td class="name"><a href="/foundations/carmel-hill-fund/" style="color:var(--accent-deep);text-decoration:none">The Carmel Hill Fund</a></td><td>NY</td><td class="n">34 / 41</td><td class="n">72.4%</td></tr>
+      <tr><td class="name"><a href="/foundations/champlin-foundation/" style="color:var(--accent-deep);text-decoration:none">The Champlin Foundation</a></td><td>PA</td><td class="n">71 / 201</td><td class="n">36.1%</td></tr>
+      <tr><td class="name"><a href="/foundations/clark-foundation/" style="color:var(--accent-deep);text-decoration:none">The Clark Foundation</a></td><td>NY</td><td class="n">8 / 80</td><td class="n">8.8%</td></tr>
+      <tr><td class="name"><a href="/foundations/cynthia-george-mitchell-foundation/" style="color:var(--accent-deep);text-decoration:none">The Cynthia &amp; George Mitchell Foundation</a></td><td>TX</td><td class="n">62 / 347</td><td class="n">27.5%</td></tr>
+      <tr><td class="name"><a href="/foundations/donald-bren-foundation/" style="color:var(--accent-deep);text-decoration:none">The Donald Bren Foundation</a></td><td>CA</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/ezrah-charitable-trust/" style="color:var(--accent-deep);text-decoration:none">The Ezrah Charitable Trust</a></td><td>NC</td><td class="n">6 / 13</td><td class="n">34.2%</td></tr>
+      <tr><td class="name"><a href="/foundations/goizueta-foundation-inc/" style="color:var(--accent-deep);text-decoration:none">The Goizueta Foundation Inc</a></td><td>GA</td><td class="n">37 / 83</td><td class="n">45.2%</td></tr>
+      <tr><td class="name"><a href="/foundations/grace-and-mercy-foundation-inc/" style="color:var(--accent-deep);text-decoration:none">The Grace And Mercy Foundation Inc</a></td><td>NY</td><td class="n">15 / 71</td><td class="n">28.0%</td></tr>
+      <tr><td class="name"><a href="/foundations/hawks-foundation/" style="color:var(--accent-deep);text-decoration:none">The Hawks Foundation</a></td><td>NE</td><td class="n">42 / 136</td><td class="n">28.8%</td></tr>
+      <tr><td class="name"><a href="/foundations/hearst-foundation/" style="color:var(--accent-deep);text-decoration:none">The Hearst Foundation</a></td><td>NY</td><td class="n">101 / 111</td><td class="n">92.2%</td></tr>
+      <tr><td class="name"><a href="/foundations/keith-campbell-foundation/" style="color:var(--accent-deep);text-decoration:none">The Keith Campbell Foundation</a></td><td>MD</td><td class="n">136 / 361</td><td class="n">33.6%</td></tr>
+      <tr><td class="name"><a href="/foundations/legal-education-foundation/" style="color:var(--accent-deep);text-decoration:none">The Legal Education Foundation</a></td><td></td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/lemelson-foundation/" style="color:var(--accent-deep);text-decoration:none">The Lemelson Foundation</a></td><td>OR</td><td class="n">17 / 62</td><td class="n">34.4%</td></tr>
+      <tr><td class="name"><a href="/foundations/libra-foundation/" style="color:var(--accent-deep);text-decoration:none">The Libra Foundation</a></td><td>CA</td><td class="n">1 / 2</td><td class="n">36.4%</td></tr>
+      <tr><td class="name"><a href="/foundations/lozier-foundation/" style="color:var(--accent-deep);text-decoration:none">The Lozier Foundation</a></td><td>NE</td><td class="n">109 / 269</td><td class="n">39.3%</td></tr>
+      <tr><td class="name"><a href="/foundations/mcconnell-foundation/" style="color:var(--accent-deep);text-decoration:none">The McConnell Foundation</a></td><td>CA</td><td class="n">33 / 127</td><td class="n">28.2%</td></tr>
+      <tr><td class="name"><a href="/foundations/michael-and-lori-milken-family/" style="color:var(--accent-deep);text-decoration:none">The Michael And Lori Milken Family</a></td><td>CA</td><td class="n">30 / 86</td><td class="n">30.5%</td></tr>
+      <tr><td class="name"><a href="/foundations/moore-charitable-foundation-inc/" style="color:var(--accent-deep);text-decoration:none">The Moore Charitable Foundation Inc</a></td><td>NY</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/nathan-cummings-foundation-inc/" style="color:var(--accent-deep);text-decoration:none">The Nathan Cummings Foundation Inc</a></td><td>NY</td><td class="n">82 / 243</td><td class="n">29.8%</td></tr>
+      <tr><td class="name"><a href="/foundations/o-wayne-rollins-foundation/" style="color:var(--accent-deep);text-decoration:none">The O Wayne Rollins Foundation</a></td><td>GA</td><td class="n">15 / 29</td><td class="n">41.2%</td></tr>
+      <tr><td class="name"><a href="/foundations/pershing-square-foundation/" style="color:var(--accent-deep);text-decoration:none">The Pershing Square Foundation</a></td><td>NY</td><td class="n">12 / 26</td><td class="n">49.3%</td></tr>
+      <tr><td class="name"><a href="/foundations/powell-foundation/" style="color:var(--accent-deep);text-decoration:none">The Powell Foundation</a></td><td>TX</td><td class="n">59 / 220</td><td class="n">35.4%</td></tr>
+      <tr><td class="name"><a href="/foundations/ralph-m-parsons-foundation/" style="color:var(--accent-deep);text-decoration:none">The Ralph M Parsons Foundation</a></td><td>CA</td><td class="n">81 / 327</td><td class="n">31.4%</td></tr>
+      <tr><td class="name"><a href="/foundations/richard-h-driehaus-foundation/" style="color:var(--accent-deep);text-decoration:none">The Richard H Driehaus Foundation</a></td><td>IL</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/rob-walton-foundation/" style="color:var(--accent-deep);text-decoration:none">The Rob Walton Foundation</a></td><td>AR</td><td class="n">6 / 52</td><td class="n">18.4%</td></tr>
+      <tr><td class="name"><a href="/foundations/satterberg-foundation-inc/" style="color:var(--accent-deep);text-decoration:none">The Satterberg Foundation Inc</a></td><td>WA</td><td class="n">23 / 254</td><td class="n">18.0%</td></tr>
+      <tr><td class="name"><a href="/foundations/shanahan-family-charitable/" style="color:var(--accent-deep);text-decoration:none">The Shanahan Family Charitable</a></td><td>CA</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/skillman-foundation/" style="color:var(--accent-deep);text-decoration:none">The Skillman Foundation</a></td><td>MI</td><td class="n">131 / 309</td><td class="n">43.5%</td></tr>
+      <tr><td class="name"><a href="/foundations/stephen-renee-bisciotti-foundation/" style="color:var(--accent-deep);text-decoration:none">The Stephen &amp; Renee Bisciotti Foundation</a></td><td>MD</td><td class="n">21 / 64</td><td class="n">28.8%</td></tr>
+      <tr><td class="name"><a href="/foundations/terry-foundation/" style="color:var(--accent-deep);text-decoration:none">The Terry Foundation</a></td><td>TX</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/weill-family-foundation/" style="color:var(--accent-deep);text-decoration:none">The Weill Family Foundation</a></td><td>NY</td><td class="n">12 / 20</td><td class="n">51.2%</td></tr>
+      <tr><td class="name"><a href="/foundations/tll-temple-foundation/" style="color:var(--accent-deep);text-decoration:none">Tll Temple Foundation</a></td><td>TX</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/tosa-foundation/" style="color:var(--accent-deep);text-decoration:none">Tosa Foundation</a></td><td>CA</td><td class="n">29 / 116</td><td class="n">24.3%</td></tr>
+      <tr><td class="name"><a href="/foundations/town-branch-foundation/" style="color:var(--accent-deep);text-decoration:none">Town Branch Foundation</a></td><td>AR</td><td class="n">15 / 40</td><td class="n">35.7%</td></tr>
+      <tr><td class="name"><a href="/foundations/unihealth-foundation/" style="color:var(--accent-deep);text-decoration:none">Unihealth Foundation</a></td><td>CA</td><td class="n">52 / 98</td><td class="n">38.1%</td></tr>
+      <tr><td class="name"><a href="/foundations/valley-baptist-legacy-foundation/" style="color:var(--accent-deep);text-decoration:none">Valley Baptist Legacy Foundation</a></td><td>TX</td><td class="n">23 / 57</td><td class="n">36.9%</td></tr>
+      <tr><td class="name"><a href="/foundations/van-beuren-charitable-foundation-inc/" style="color:var(--accent-deep);text-decoration:none">Van Beuren Charitable Foundation Inc</a></td><td>NY</td><td class="n">48 / 205</td><td class="n">22.5%</td></tr>
+      <tr><td class="name"><a href="/foundations/virginia-g-piper-charitable-trust/" style="color:var(--accent-deep);text-decoration:none">Virginia G Piper Charitable Trust</a></td><td>AZ</td><td class="n">69 / 332</td><td class="n">19.8%</td></tr>
+      <tr><td class="name"><a href="/foundations/visa-foundation/" style="color:var(--accent-deep);text-decoration:none">Visa Foundation</a></td><td>CA</td><td class="n">31 / 61</td><td class="n">57.8%</td></tr>
+      <tr><td class="name"><a href="/foundations/wk-kellogg-foundation/" style="color:var(--accent-deep);text-decoration:none">WK Kellogg Foundation</a></td><td>MI</td><td class="n">344 / 1509</td><td class="n">24.4%</td></tr>
+      <tr><td class="name"><a href="/foundations/warren-alpert-foundation/" style="color:var(--accent-deep);text-decoration:none">Warren Alpert Foundation</a></td><td>RI</td><td class="n">39 / 96</td><td class="n">40.3%</td></tr>
+      <tr><td class="name"><a href="/foundations/willard-pat-walker-charitable-foundation-inc/" style="color:var(--accent-deep);text-decoration:none">Willard &amp; Pat Walker Charitable Foundation Inc</a></td><td>AR</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/william-n-pennington-foundation/" style="color:var(--accent-deep);text-decoration:none">William N Pennington Foundation</a></td><td>NV</td><td class="n">—</td><td class="n">—</td></tr>
+      <tr><td class="name"><a href="/foundations/william-t-grant-foundation-inc/" style="color:var(--accent-deep);text-decoration:none">William T Grant Foundation Inc</a></td><td>NY</td><td class="n">32 / 113</td><td class="n">31.3%</td></tr>
+      <tr><td class="name"><a href="/foundations/windgate-charitable-foundation-inc/" style="color:var(--accent-deep);text-decoration:none">Windgate Charitable Foundation Inc</a></td><td>AR</td><td class="n">28 / 215</td><td class="n">47.2%</td></tr>
+      <tr><td class="name"><a href="/foundations/windsong-trust/" style="color:var(--accent-deep);text-decoration:none">Windsong Trust</a></td><td>CA</td><td class="n">16 / 75</td><td class="n">22.7%</td></tr>
+      <tr><td class="name"><a href="/foundations/yawkey-foundation-ii/" style="color:var(--accent-deep);text-decoration:none">Yawkey Foundation Ii</a></td><td>MA</td><td class="n">31 / 159</td><td class="n">23.8%</td></tr>
+    </tbody></table></div></section>
+    <div class="links"><a href="/live-projects/funder-standing/">Screen a set of funders</a></div>
+    <footer>
+      <span>© 2026 Ulrich Monthe</span>
+      <span><a href="/live-projects/funder-standing/">Screen a set of funders</a> · <a href="/#contact">Get in touch</a></span>
+    </footer>
+  </div>
+</body>
+</html>

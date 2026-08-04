@@ -48,6 +48,278 @@
     "singleton_cluster_share": 0.5828,
     "total_grant_records": 333
   },
+  "recipients_latest_year": [
+    {
+      "amount": 1500000.0,
+      "is_new": true,
+      "name": "RITA JUNE FOUNDATION",
+      "purpose": "BEZOS ACADEMIES LOUISVILLE"
+    },
+    {
+      "amount": 1025000.0,
+      "is_new": true,
+      "name": "KENTUCKY DERBY MUSEUM",
+      "purpose": "\"THE GREATEST RACE\" 2025 FILM UPDATE AND LIGHTING ENHANCEMENT"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "KENTUCKY COUNCIL ON POSTSECONDARY EDUCATION",
+      "purpose": "DRIVING TRANSFORMATIONAL CHANGE FOR STUDENT SUCCESS"
+    },
+    {
+      "amount": 979303.0,
+      "is_new": false,
+      "name": "CENTRE COLLEGE",
+      "purpose": "2024 BROWN FELLOWS PROGRAM"
+    },
+    {
+      "amount": 880625.0,
+      "is_new": true,
+      "name": "FEDERATION OF APPALACHIAN HOUSING ENTERPRISES",
+      "purpose": "PATHWAY TO OPPORTUNITIES FOR RESILIENT EKY"
+    },
+    {
+      "amount": 755000.0,
+      "is_new": true,
+      "name": "LOUISVILLE FREE PUBLIC LIBRARY FOUNDATION",
+      "purpose": "RENOVATE AND MODERNIZE LIBRARIES"
+    },
+    {
+      "amount": 750000.0,
+      "is_new": false,
+      "name": "PARKS ALLIANCE OF LOUISVILLE",
+      "purpose": "ALBERTA O. JONES PARK AND BALLARD PARK PROJECTS"
+    },
+    {
+      "amount": 750000.0,
+      "is_new": true,
+      "name": "AMPED",
+      "purpose": "10-FOR 10 CAMPAIGN"
+    },
+    {
+      "amount": 586286.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF LOUISVILLE FOUNDATION",
+      "purpose": "HALE SCHOLARSHIP FUND"
+    },
+    {
+      "amount": 575000.0,
+      "is_new": false,
+      "name": "THE HOUSING PARTNERSHIP INC",
+      "purpose": "GATEWAY ON BROADWAY COMMUNITY SERVICE FACILITY"
+    },
+    {
+      "amount": 550000.0,
+      "is_new": false,
+      "name": "KENTUCKY COMMUNITY AND TECHNOLOGICAL COLLEGE SYSTEM FOUNDATION INC",
+      "purpose": "A HOME FOR HOPE AT ECTC"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "AMERICANA COMMUNITY CENTER",
+      "purpose": "HEALTHCARE EXCELLENCE INITIATIVE"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "YMCA OF GREATER LOUISVILLE",
+      "purpose": "RENOVATIONS TO CHESTNUT STREET YMCA"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "J B SPEED ART MUSEUM",
+      "purpose": "SPEED ART PARK"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "GOODWILL INDUSTRIES OF KENTUCKY INC",
+      "purpose": "GOODWILL OPPORTUNITY CAMPUS IN WEST LOUISVILLE"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "KENTUCKY EDUCATIONAL TELEVISION FOUNDATION",
+      "purpose": "EXPANSION OF NEW/LARGER STUDIO AND PRODUCTION SPACE"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "TEACH KENTUCKY INC",
+      "purpose": "PROGRAM SUPPORT"
+    },
+    {
+      "amount": 342750.0,
+      "is_new": false,
+      "name": "SIMMONS COLLEGE OF KENTUCKY",
+      "purpose": "ADVANCING SCKY WITH THE ADDITION OF KEY STAFFING POSITIONS"
+    },
+    {
+      "amount": 251100.0,
+      "is_new": false,
+      "name": "FOUNDATION FOR APPALACHIAN KENTUCKY INC",
+      "purpose": "BUILDING A RURAL DEVELOPMENT HUB THROUGH LOCALLY CONTROLLED PHILANTHROPY"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "DELTA FOUNDATION INC",
+      "purpose": "HEADQUARTERS BUILDING"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "RIVERSIDE FARNSLEY-MOREMAN LANDING INC",
+      "purpose": "RIVERSIDE VISITOR CENTER EXPANSION PROJECT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "ART CENTER OF THE BLUEGRASS",
+      "purpose": "CREATION OF THE GLASS MUSEUM"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "GIRL SCOUTS OF KENTUCKIANA INC",
+      "purpose": "PROGRAM SUPPORT"
+    },
+    {
+      "amount": 205000.0,
+      "is_new": false,
+      "name": "FAMILY & CHILDREN'S PLACE",
+      "purpose": "STRENGTHEN INTERNAL STAFF CAPACITY"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "CENTER FOR NONPROFIT EXCELLENCE",
+      "purpose": "STRENGTHENING THE IMPACT OF NONPROFITS"
+    },
+    {
+      "amount": 116318.0,
+      "is_new": false,
+      "name": "EVOLVE502",
+      "purpose": "STUDENT SUCCESS COACHES AND GENERAL OPERATIONS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "AMERICAN RED CROSS",
+      "purpose": "PROGRAM SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "GREATER LOUISVILLE FOUNDATION INC",
+      "purpose": "PROGRAM SUPPORT"
+    },
+    {
+      "amount": 64000.0,
+      "is_new": true,
+      "name": "LOUISVILLE DOWNTOWN DEVELOPMENT CORPORATION",
+      "purpose": "PROGRAM SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": true,
+      "name": "THE FOOD LITERACY PROJECT",
+      "purpose": "YOUTH GROWING COMMUNITY PROGRAM"
+    },
+    {
+      "amount": 54000.0,
+      "is_new": false,
+      "name": "DARE TO CARE INC",
+      "purpose": "PROGRAM SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SOWING SEEDS WITH FAITH",
+      "purpose": "PROGRAM SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "KENTUCKY YOUTH ADVOCATES",
+      "purpose": "BLOOM KENTUCKY INITIATIVE"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "COUNCIL ON FOUNDATIONS",
+      "purpose": "2024 PROGRAM SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "MAIN STREET PERRYVILLE",
+      "purpose": "PROGRAM SUPPORT"
+    },
+    {
+      "amount": 22420.0,
+      "is_new": false,
+      "name": "PHILANTHROPY SOUTHEAST",
+      "purpose": "2024 MEMBERSHIP RENEWAL"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "LOUISVILLE YOUTH PHILANTHROPY COUNCIL",
+      "purpose": "PROGRAM SUPPORT"
+    },
+    {
+      "amount": 10550.0,
+      "is_new": false,
+      "name": "GRANTMAKERS FOR EDUCATION",
+      "purpose": "2024 MEMBERSHIP DUES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "PHILANTHROPY ROUNDTABLE",
+      "purpose": "2024 ANNUAL MEMBERSHIP"
+    },
+    {
+      "amount": 9600.0,
+      "is_new": false,
+      "name": "LEADERSHIP LOUISVILLE FOUNDATION INC",
+      "purpose": "PROGRAM SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "BACKSIDE LEARNING CENTER",
+      "purpose": "PROGRAM SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "PRESBYTERIAN CHURCH (USA) FOUNDATION",
+      "purpose": "PROGRAM SUPPORT"
+    },
+    {
+      "amount": 1457.0,
+      "is_new": false,
+      "name": "LINCOLN FOUNDATION",
+      "purpose": "PROGRAM SUPPORT"
+    },
+    {
+      "amount": 600.0,
+      "is_new": true,
+      "name": "KENTUCKY NONPROFIT NETWORK INC",
+      "purpose": "PROGRAM SUPPORT"
+    },
+    {
+      "amount": 450.0,
+      "is_new": false,
+      "name": "COMMUNITY FOUNDATION OF LOUISVILLE",
+      "purpose": "2024 MEMBERSHIP"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "SEE \"FOR GRANTSEEKERS\" SECTION ON JGBF.ORG",

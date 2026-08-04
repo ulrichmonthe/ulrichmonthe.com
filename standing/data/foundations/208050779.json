@@ -48,6 +48,434 @@
     "singleton_cluster_share": 0.3793,
     "total_grant_records": 372
   },
+  "recipients_latest_year": [
+    {
+      "amount": 11932315.0,
+      "is_new": false,
+      "name": "CHRISTIAN COMMUNITY FOUNDATION",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "HOSANNA (DBA FAITH COMES BY HEARING)",
+      "purpose": "RELIGIOUS"
+    },
+    {
+      "amount": 700000.0,
+      "is_new": false,
+      "name": "PRISON FELLOWSHIP INTERNATIONAL",
+      "purpose": "HUMANITARIAN"
+    },
+    {
+      "amount": 450000.0,
+      "is_new": false,
+      "name": "YOUTH FOR CHRIST USA INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 401000.0,
+      "is_new": false,
+      "name": "LUIS PALAU ASSOCIATION",
+      "purpose": "RELIGIOUS"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "HOLY NAME MEDICAL CENTER FOUNDATION",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 315000.0,
+      "is_new": false,
+      "name": "BEACON CHRISTIAN COMMUNITY HEALTH CENTER",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 305000.0,
+      "is_new": false,
+      "name": "FELLOWSHIP OF CHRISTIAN ATHLETES",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 270000.0,
+      "is_new": false,
+      "name": "IN GRACE MISSION",
+      "purpose": "RELIGIOUS"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "MANHATTAN CHRISTIAN ACADEMY",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "NATIONAL PHILANTHROPIC TRUST",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": true,
+      "name": "NEW YORK CITY RELIEF INC",
+      "purpose": "HUMANITARIAN"
+    },
+    {
+      "amount": 210000.0,
+      "is_new": false,
+      "name": "WESTERN CAROLINA RESCUE MINISTRIES",
+      "purpose": "HUMANITARIAN"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "RISING TIDE CAPITAL",
+      "purpose": "ENTREPRENEURSHIP"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "CHRISTIAN HERALD ASSOCIATION (DBA THE BOWERY MISSION)",
+      "purpose": "HUMANITARIAN"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "THE SALVATION ARMY",
+      "purpose": "HUMANITARIAN"
+    },
+    {
+      "amount": 185000.0,
+      "is_new": false,
+      "name": "INHERITANCE OF HOPE",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "MANGO FUND INC",
+      "purpose": "ENTREPRENEURSHIP"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "UNION RESCUE MISSION",
+      "purpose": "HUMANITARIAN"
+    },
+    {
+      "amount": 165000.0,
+      "is_new": false,
+      "name": "THEOLOGY OF WORK PROJECT",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 155000.0,
+      "is_new": false,
+      "name": "THE NAVIGATORS",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "CITY SEMINARY OF NEW YORK",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "RESTORE NYC INC",
+      "purpose": "HUMANITARIAN"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "YOUNG LIFE",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "LAUSANNE COMMITTEE FOR WORLD EVANGELIZATION",
+      "purpose": "RELIGIOUS"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "EXODUS TRANSITIONAL COMMUNITY INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "NEW CANAAN SOCIETY INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "CHESTERTON HOUSE",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "INTERNATIONAL GENEROSITY FOUNDATION TRUST",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 115000.0,
+      "is_new": true,
+      "name": "CAMPUS CRUSADE FOR CHRIST",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "NURU INTERNATIONAL",
+      "purpose": "ENTREPRENEURSHIP"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "A ROCHA USA INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CARNEGIE HALL CORPORATION",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "HELPING UP MISSION INC",
+      "purpose": "HUMANITARIAN"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "THE CHILDREN'S AID SOCIETY",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "NORTH AMERICAN CHRISTIAN CONVENTION (DBA SPIRE NETWORK)",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 95000.0,
+      "is_new": false,
+      "name": "EL POZO DE VIDA",
+      "purpose": "HUMANITARIAN"
+    },
+    {
+      "amount": 95000.0,
+      "is_new": false,
+      "name": "NEHEMIAH COMMUNITY DEVELOPMENT CORP",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": false,
+      "name": "OPEN HANDS LEGAL SERVICES",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": true,
+      "name": "NATION BUILDERS INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "HAWAIIAN ISLANDS MINISTRIES INC",
+      "purpose": "RELIGIOUS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "THE KOREAN-AMERICAN FAMILY SERVICE CENTER INC",
+      "purpose": "HUMANITARIAN"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "THE POTTER'S HOUSE",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "RBC MINISTRIES(OUR DAILY BREAD)",
+      "purpose": "RELIGIOUS"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "NEW ASIA FOUNDATION FOR ED AND CULTURE",
+      "purpose": "HUMANITARIAN"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "AMBASSADORS FOR CHRIST INC",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 68000.0,
+      "is_new": false,
+      "name": "MILWAUKEE RESCUE MISSION",
+      "purpose": "HUMANITARIAN"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "INTERVARSITY CHRISTIAN FELLOWSHIP",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "USTA FOUNDATION",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "DOWNTOWN SOUP KITCHEN INC",
+      "purpose": "HUMANITARIAN"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "DENVER SEMINARY",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "ELIM CHRISTIAN SERVICES",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "INFINITY BIBLE CHURCH",
+      "purpose": "RELIGIOUS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MILITARY COMMUNITY YOUTH MINISTRIES",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CHICAGO HOPE ACADEMY",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "RESCUE MISSION OF SALT LAKE INC",
+      "purpose": "HUMANITARIAN"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "THE BIBLE SEMINARY",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "PATHWAY MINISTRIES INC",
+      "purpose": "HUMANITARIAN"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "FAMILY TOUCH INC",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "NOMI NETWORK INC",
+      "purpose": "HUMANITARIAN"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "CALVIN THEOLOGICAL SEMINARY",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "ZIMELE USA",
+      "purpose": "ENTREPRENEURSHIP"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "OTR LIVING WATER MINISTRY",
+      "purpose": "RELIGIOUS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "ASSOCIATION OF GOSPEL RESCUE MISSIONS (DBA CITYGATE NETWORK)",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "ASIAN WOMEN'S CHRISTIAN ASSOCIATION",
+      "purpose": "COMMUNITY"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "HILL HOUSE MINISTRIES",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "RIVER OF LIFE MISSION",
+      "purpose": "RELIGIOUS"
+    },
+    {
+      "amount": 9200.0,
+      "is_new": true,
+      "name": "THE FIELD SCHOOL",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 9000.0,
+      "is_new": true,
+      "name": "ASSOCIATION FOR BIBLICAL HIGHER EDUCATION",
+      "purpose": "EDUCATION"
+    },
+    {
+      "amount": 8500.0,
+      "is_new": true,
+      "name": "BLESSINGS CULTURAL MISSION FOUNDATION",
+      "purpose": "RELIGIOUS"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "LIMA CHRISTIAN SCHOOL",
+      "purpose": "EDUCATION"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

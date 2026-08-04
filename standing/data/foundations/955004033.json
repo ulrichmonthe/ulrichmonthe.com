@@ -48,6 +48,596 @@
     "singleton_cluster_share": 0.5473,
     "total_grant_records": 501
   },
+  "recipients_latest_year": [
+    {
+      "amount": 625350.0,
+      "is_new": false,
+      "name": "VIP COMMUNITY MENTAL HEALTH CENTER",
+      "purpose": "THE CENTER FOR FETAL ALCOHOL SPECTRUM DISORDER (FASD) RESEARCH AND TREATMENT"
+    },
+    {
+      "amount": 553391.0,
+      "is_new": false,
+      "name": "ST MARY MEDICAL CENTER",
+      "purpose": "BRIDGE BUILDERS TRANSFORMING LIVES THROUGH COMMUNITY HEALTH NAVIGATORS"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "SOUTHERN CALIFORNIA GRANTMAKERS",
+      "purpose": "IMPROVING VETERAN HEALTH THROUGH INCREASED PUBLIC ENGAGEMENT, EDUCATION, AND FUNDING"
+    },
+    {
+      "amount": 460000.0,
+      "is_new": false,
+      "name": "PROJECT ANGEL FOOD",
+      "purpose": "BUILDING COMMUNITY SUPPORTS AND HEALTH SERVICES"
+    },
+    {
+      "amount": 458001.0,
+      "is_new": false,
+      "name": "CASA COLINA HOSPITAL AND CENTERS FOR HEALTHCARE",
+      "purpose": "EMPOWERING COMMUNITY HEALTH THROUGH ENHANCED LIMB PRESERVATION AND EDUCATION"
+    },
+    {
+      "amount": 450000.0,
+      "is_new": true,
+      "name": "HOMEBOY INDUSTRIES",
+      "purpose": "BUILDING HOMEBOY INDUSTRIES' MENTAL HEALTH AND WELLNESS PROGRAM FOR JUSTICE SYSTEMS-IMPACTED PEOPLE"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": true,
+      "name": "MLK COMMUNITY HEALTH FOUNDATION",
+      "purpose": "MLK COMMUNITY HEALTHCARE STREET MEDICINE NURSE PRACTITIONER"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "JWCH INSTITUTE",
+      "purpose": "ENHANCED MEDICAL SERVICES AND HOUSING COLLABORATION"
+    },
+    {
+      "amount": 325000.0,
+      "is_new": true,
+      "name": "COMMUNITY CLINIC ASSOCIATION OF LOS ANGELES COUNTY",
+      "purpose": "HEALTH CENTER RECRUITMENT, RETENTION AND PROFESSIONAL DEVELOPMENT SUPPORT"
+    },
+    {
+      "amount": 325000.0,
+      "is_new": false,
+      "name": "KECK SCHOOL OF MEDICINE OF USC",
+      "purpose": "MEDICAL SCHOOL STUDENT COMMUNITY ENGAGEMENT FELLOWSHIP"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "BOYS & GIRLS CLUBS OF METRO LOS ANGELES",
+      "purpose": "CAPACITY BUILDING FOR YOUTH MENTAL HEALTH INITIATIVE"
+    },
+    {
+      "amount": 286275.0,
+      "is_new": false,
+      "name": "NATIONAL HEALTH CARE FOR THE HOMELESS COUNCIL INC",
+      "purpose": "BARR (BED AVAILABILITY REALTIME REPORT) DEMONSTRATION PROJECT AND TIPTT (TRAUMA-INFORMED PRACTICES TOOLKIT AND TRAINING IN LA COUNTY): A NIMRC PROPOSAL"
+    },
+    {
+      "amount": 260000.0,
+      "is_new": false,
+      "name": "LOMA LINDA UNIVERSITY",
+      "purpose": "MEDICAL HOME MODEL FOR FOSTER YOUTH"
+    },
+    {
+      "amount": 233108.0,
+      "is_new": false,
+      "name": "UNITED STATES VETERANS INITIATIVE",
+      "purpose": "CONNECTING HOMELESS AND AT-RISK VETERANS AT THE WEST LA VA CAMPUS TO HEALTH, WELLNESS AND SUPPORTIVE SERVICES"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "NEIGHBORHOOD HOUSING SERVICES OF LOS ANGELES COUNTY",
+      "purpose": "LOS ANGELES COUNTY WILDFIRES 2025 RECOVERY"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "WMMC CHARITABLE FOUNDATION",
+      "purpose": "AHWM MONTEBELLO HEALTHCARE ACCESS PROGRAM"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "CALIFORNIA HOSPITAL MEDICAL CENTER FOUNDATION",
+      "purpose": "EARLY INTERVENTION PILOT PROJECT FOR HIGH-RISK PREGNANCIES AND FAMILIES"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "THE BEACON HOUSE ASSOCIATION OF SAN PEDRO",
+      "purpose": "EXPANDING MENTAL HEALTH CLINICAL SERVICES"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "CEDARS-SINAI MEDICAL CENTER",
+      "purpose": "LGBTQ+ PROGRAM FOR GENDER NEUTRAL CANCER SCREENING"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "FOUNTAIN HOUSE INC",
+      "purpose": "HOLLYWOOD CLUBHOUSE PROGRAM DIRECTOR & PARTNERS IN CARE LAUNCH IN LA"
+    },
+    {
+      "amount": 199164.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF CALIFORNIA RIVERSIDE",
+      "purpose": "OPENING THE RIVERSIDE HULEN PLACE HOMELESS CLINIC (PRIMARY CARE AND MENTAL HEALTH SERVICES FOR HOMELESS AND LOW-INCOME COMMUNITIES IN THE CITY AND COUNTY OF RIVERSIDE)"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "UC DAVIS SCHOOL OF MEDICINE",
+      "purpose": "COLLABORATIVE DEVELOPMENT OF FEASIBLE, EFFECTIVE PHYSICIAN TRAINING IN SUPPORTING PATIENTS WITH INTELLECTUAL AND DEVELOPMENTAL DISABILITIES (IDD)"
+    },
+    {
+      "amount": 151500.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+      "purpose": "ESSENTIAL HEALTHCARE WORKFORCE TRAINING PROGRAM: ALLIED-HEALTH CERTIFIED NURSING ASSISTANT (CNA)/HOME HEALTH AIDE (HHA), MEDICAL ASSISTANT AND DENTAL ASSISTANT PIPELINE PROGRAMS"
+    },
+    {
+      "amount": 150045.0,
+      "is_new": false,
+      "name": "ST JOSEPH CENTER",
+      "purpose": "EXPANDING MEDICAL SERVICES TO IMPROVE HEALTH OUTCOMES FOR PEOPLE EXPERIENCING HOMELESSNESS IN WEST LA"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "RONALD MCDONALD HOUSE CHARITIES OF SOUTHERN CALIFORNIA",
+      "purpose": "WESTSIDE LOS ANGELES RONALD MCDONALD HOUSE SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "PROVIDENCE HEALTH & SERVICES FOUNDATION",
+      "purpose": "MENTAL HEALTH ASSESSMENT TEAMS (MHAT) IN THE SAN FERNANDO VALLEY"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "CALIFORNIA STATE UNIVERSITY NORTHRIDGE FOUNDATION",
+      "purpose": "TRAINING CALIFORNIA STUDENTS ON INTERNATIONAL WOMEN'S HEALTH"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "PATH",
+      "purpose": "MENTAL HEALTH SUPPORT IN PERMANENT SUPPORTIVE HOUSING ON SKID ROW"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "CONNIE RICE INSTITUTE FOR URBAN PEACE",
+      "purpose": "URBAN PEACE INSTITUTE / CROSSROADS HOSPITAL-BASED VIOLENCE INTERVENTION (HBVI) TRAINING"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "INNER CITY YOUTH ORCHESTRA OF LOS ANGELES INCORPORATED",
+      "purpose": "MUSIC - PROMOTING WELL-BEING IN AMERICAN YOUTH"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "LINC HOUSING CORPORATION",
+      "purpose": "ESTABLISHING NEW HEALTH & HOUSING SERVICES FOR PEOPLE WHO ARE UNHOUSED"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "PILIPINO WORKERS CENTER OF SOUTHERN",
+      "purpose": "THE HCI PROJECT: BUILDING HEALTHY COMMUNITIES BY STRENGTHENING THE HOME HEALTHCARE WORKFORCE"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "SANTA BARBARA COTTAGE HOSPITAL FOUNDATION",
+      "purpose": "THE DAVID R. CARPENTER PHILANTHROPY AWARD"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "THE CHILDREN'S CLINIC",
+      "purpose": "TCC FAMILY HEALTH CAPACITY BUILDING FOR CLINICAL EXPANSION"
+    },
+    {
+      "amount": 140730.0,
+      "is_new": false,
+      "name": "FRIENDS IN DEED",
+      "purpose": "ADDRESSING MENTAL HEALTH AND SUBSTANCE ABUSE BARRIERS TO PERMANENT HOUSING FOR THOSE EXPERIENCING HOMELESSNESS"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "THE REGENTS OF UNIVERSITY OF CALIFORNIA AT IRVINE",
+      "purpose": "PRIME -LGBTQ+: PROGRAM IN MEDICAL EDUCATION FOR LESBIAN, GAY, BISEXUAL, TRANSGENDER, QUEER + COMMUNITIES"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "UPWARD BOUND HOUSE",
+      "purpose": "THRIVING FAMILIES PROGRAM: ENDING THE CYCLE OF HEALTH AND HOUSING INSTABILITY AMONG BIPOC FAMILIES"
+    },
+    {
+      "amount": 120000.0,
+      "is_new": false,
+      "name": "UCSD SCHOOL OF MEDICINE",
+      "purpose": "MEDICAL STUDENT SCHOLARSHIP 2025-2026"
+    },
+    {
+      "amount": 115409.0,
+      "is_new": true,
+      "name": "ST JUDE MEMORIAL FOUNDATION",
+      "purpose": "BUILDING AN ENHANCED BEHAVIORAL HEALTH WORKFORCE THROUGH STUDENT LEARNING PARTNERSHIPS"
+    },
+    {
+      "amount": 110760.0,
+      "is_new": false,
+      "name": "ALZHEIMER'S GREATER LOS ANGELES",
+      "purpose": "HEALTHY HEART & BRAIN CONNECTIONS PROJECT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "COMMUNITY HEALTH INITIATIVE OF ORANGE COUNTY",
+      "purpose": "MEDICAL-MEDICARE ENROLLMENT AND HEALTH CARE NAVIGATION SERVICES"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ST JEANNE DE LESTONNAC FREE CLINIC",
+      "purpose": "CONNECTION TO CARE (C2C) ACCESS TO SPECIALTY CARE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "YMCA OF METROPOLITAN LOS ANGELES",
+      "purpose": "LOS ANGELES COUNTY WILDFIRES 2025 RELIEF"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "HOPE",
+      "purpose": "PHASE II: INNOVATING A RESIDENT- AND HEALTH-CENTERED APPROACH TO SUPPORTIVE HOUSING"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "YWCA OF SAN GABRIEL VALLEY",
+      "purpose": "LOS ANGELES COUNTY WILDFIRES 2025 RELIEF"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "3C COMMUNITY CLINIC",
+      "purpose": "MENTAL HEALTH INTERVENTION FOR LOS ANGELES (MHILA) PROJECT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "ANTI-RECIDIVISM COALITION",
+      "purpose": "LOS ANGELES COUNTY WILDFIRES 2025 RELIEF"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "DAY ONE",
+      "purpose": "LOS ANGELES COUNTY WILDFIRES 2025 RECOVERY"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "GIVE-MENTOR-LOVE FOUNDATION",
+      "purpose": "NEW GROUND WELLNESS PROGRAM"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "HARVEST HOME INC",
+      "purpose": "EXPANDED HEALTH EDUCATION & CASE MANAGEMENT FOR UNHOUSED PREGNANT WOMEN"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "HOPE CRISIS RESPONSE NETWORK INC - HCRN",
+      "purpose": "LOS ANGELES COUNTY WILDFIRES 2025 RECOVERY"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "LEADINGAGE CALIFORNIA FOUNDATION",
+      "purpose": "LOS ANGELES COUNTY WILDFIRES 2025 RECOVERY"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "MERCY HOUSING CALIFORNIA",
+      "purpose": "HOUSING AND HEALTH SUPPORTIVE SERVICES PROGRAM"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "PASADENA COMMUNITY FOUNDATION",
+      "purpose": "LOS ANGELES COUNTY WILDFIRES 2025 RELIEF"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "UCLA FIELDING SCHOOL OF PUBLIC HEALTH",
+      "purpose": "LOS ANGELES COUNTY WILDFIRES 2025 RECOVERY"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "HUNTINGTON MEMORIAL HOSPITAL",
+      "purpose": "HUNTINGTON HOSPITAL ANNUAL FUND"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "ST FRANCIS HIGH SCHOOL OF LA CANADA FLINTRIDGE",
+      "purpose": "MENTAL HEALTH & WELLNESS PROGRAM"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "WORKSITE WELLNESS LA",
+      "purpose": "HEALTHCARE AND SOCIAL SERVICE WORKFORCE WELLBEING PROGRAM: CREATING A CULTURE OF WELLNESS"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "UC RIVERSIDE SCHOOL OF MEDICINE",
+      "purpose": "MEDICAL STUDENT SCHOLARSHIP 2025-2026"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "purpose": "MEDICAL STUDENT SCHOLARSHIP 2025-2026"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "WESTERNU COLLEGE OF OSTEOPATHIC MEDICINE OF THE PACIFIC",
+      "purpose": "MEDICAL STUDENT SCHOLARSHIP 2025-2026"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "CHARLES DREW UNIVERSITY COLLEGE OF MEDICINE",
+      "purpose": "MEDICAL STUDENT SCHOLARSHIP 2025-2026"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": true,
+      "name": "UCLA FOUNDATION",
+      "purpose": "MEDICAL STUDENT SCHOLARSHIP 2025-2026"
+    },
+    {
+      "amount": 58457.0,
+      "is_new": true,
+      "name": "ST JOSEPH HOSPITAL OF ORANGE",
+      "purpose": "MATERNAL CHEMICAL DEPENDENCY PILOT PROGRAM"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "FIVE ACRES-THE BOYS & GIRLS AID SOCIETY OF LOS ANGELES COUNTY",
+      "purpose": "LOS ANGELES COUNTY WILDFIRES 2025 RELIEF"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "UNCOMMON GOOD",
+      "purpose": "UNIHEALTH SPECIALTY CARE FUND"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "VALLEY COMMUNITY HEALTHCARE",
+      "purpose": "RN PRACTICE TRANSFORMATION PROJECT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "PACIFIC CLINICS",
+      "purpose": "LOS ANGELES COUNTY WILDFIRES 2025 RELIEF"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "DIRECT RELIEF",
+      "purpose": "LOS ANGELES COUNTY WILDFIRES 2025 RELIEF"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "FOOTHILL FAMILY",
+      "purpose": "LOS ANGELES COUNTY WILDFIRES 2025 RELIEF"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "INTERNATIONAL MEDICAL CORPS",
+      "purpose": "LOS ANGELES COUNTY WILDFIRES 2025 RELIEF"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "NEIGHBORHOOD LEGAL SERVICES OF LOS ANGELES COUNTY",
+      "purpose": "LOS ANGELES COUNTY WILDFIRES 2025 RELIEF"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "PUBLIC COUNSEL",
+      "purpose": "LOS ANGELES COUNTY WILDFIRES 2025 RELIEF"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "INNER CITY LAW CENTER",
+      "purpose": "LOS ANGELES COUNTY WILDFIRES 2025 RELIEF"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "UNITED WAY OF GREATER LOS ANGELES",
+      "purpose": "WESTSIDE LOS ANGELES RONALD MCDONALD HOUSE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "HOLLYWOOD FOOD COALITION",
+      "purpose": "LOS ANGELES COUNTY WILDFIRES 2025 RELIEF"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CANCER SUPPORT COMMUNITY GREATER SAN GABRIEL VALLEY",
+      "purpose": "CANCER SUPPORT SERVICES - SUPPORT GROUPS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ALTAMED HEALTH SERVICES CORPORATION",
+      "purpose": "LOS ANGELES COUNTY WILDFIRES 2025 RELIEF"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF UTAH",
+      "purpose": "LASSONDE ENTREPRENEUR INSTITUTE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "AMANECER COMMUNITY COUNSELING SERVICE A NON-PROFIT CORPORATION",
+      "purpose": "LOS ANGELES COUNTY WILDFIRES 2025 RELIEF"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "AMIGOS DE LOS RIOS",
+      "purpose": "LOS ANGELES COUNTY WILDFIRES 2025 RELIEF"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "COALITION FOR HUMANE IMMIGRANT RIGHTS (CHIRLA)",
+      "purpose": "LOS ANGELES COUNTY WILDFIRES 2025 RELIEF"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "DIDI HIRSCH COMMUNITY MENTAL HEALTH SERVICES",
+      "purpose": "LOS ANGELES COUNTY WILDFIRES 2025 RELIEF"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "KOLLAB YOUTH",
+      "purpose": "KOLLAB YOUTH WORKFORCE TRAINING IN HEALTHCARE & STEM"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "LOS ANGELES REGIONAL FOOD BANK",
+      "purpose": "LOS ANGELES COUNTY WILDFIRES 2025 RELIEF"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "TIME FOR CHANGE FOUNDATION",
+      "purpose": "TRANSFORMING HEALTH RESOURCES INTO VITAL EQUITY (THRIVE) PROJECT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "VILLA ESPERANZA SERVICES",
+      "purpose": "LOS ANGELES COUNTY WILDFIRES 2025 RELIEF"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "WORLD CENTRAL KITCHEN INC",
+      "purpose": "LOS ANGELES COUNTY WILDFIRES 2025 RELIEF"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "YUCAIPA VALLEY ANIMAL PLACEMENT SOCIETY",
+      "purpose": "HEROES & HEARTS PET HEALTH PROGRAM"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "CHARLES R DREW UNIVERSITY OF MEDICINE & SCIENCE",
+      "purpose": "THANK YOU CONTRIBUTION - HOSTING AND PARTICIPATING IN BOARD MEETING"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF TEXAS FOUNDATION",
+      "purpose": "ENDOWED SCHOLARSHIP FOR ENGINEERING STUDENTS BASED ON MERIT AND NEED"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "USC CARUSO CATHOLIC CENTER",
+      "purpose": "COMMUNITY OUTREACH AND CAMPUS MINISTRY"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "SABAN COMMUNITY CLINIC",
+      "purpose": "THANK YOU CONTRIBUTION"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "CALIFORNIA BLACK WOMENS HEALTH PROJECT",
+      "purpose": "THANK YOU CONTRIBUTION"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "COMMUNITY INITIATIVES",
+      "purpose": "IHQC 2025 QUALITY IMPROVEMENT SUMMIT - 10TH ANNIVERSARY"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "UNIVERSITY CATHOLIC CENTER AUSTIN TEXAS",
+      "purpose": "COMMUNITY OUTREACH AND CAMPUS MINISTRY"
+    },
+    {
+      "amount": 680.0,
+      "is_new": true,
+      "name": "TRUSTEES OF BOSTON COLLEGE",
+      "purpose": "SUPPORT OF SCHOLARSHIP, RESEARCH, AND STUDENTS IN NEED."
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "VNA HEALTH",
+      "purpose": "SERENITY HOUSE"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "GRANT APPLICATION OUTLINE PROVIDED UPON SUBMISSION OF LETTER OF INQUIRY.",

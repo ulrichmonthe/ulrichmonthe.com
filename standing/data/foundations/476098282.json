@@ -48,6 +48,476 @@
     "singleton_cluster_share": 0.5423,
     "total_grant_records": 852
   },
+  "recipients_latest_year": [
+    {
+      "amount": 9403507.0,
+      "is_new": false,
+      "name": "University of Nebraska Foundation",
+      "purpose": "To provide four years of program support for Nebraska Statewide Workforce & Educational Reporting Systems (NSWERS)."
+    },
+    {
+      "amount": 5401000.0,
+      "is_new": false,
+      "name": "Omaha Discovery Trust",
+      "purpose": "To provide capital support for the construction of the Kiewit Discovery Center. (Luminarium)"
+    },
+    {
+      "amount": 2500000.0,
+      "is_new": false,
+      "name": "Community Information Trust",
+      "purpose": "To provide capital support for the new Omaha Central Public Library."
+    },
+    {
+      "amount": 735876.0,
+      "is_new": false,
+      "name": "Collective for Youth",
+      "purpose": "To provide three years of general operating support."
+    },
+    {
+      "amount": 600000.0,
+      "is_new": false,
+      "name": "Museum of Nebraska Art",
+      "purpose": "To provide additional capital support for the expansion, renovation, and restoration of the Museum of Nebraska Art."
+    },
+    {
+      "amount": 576000.0,
+      "is_new": false,
+      "name": "Boys & Girls Clubs of the Midlands Inc",
+      "purpose": "To provide capital support for a new Club facility in Carter Lake."
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "Omaha Performing Arts Society",
+      "purpose": "To provide capital support for the Holland Center 20th Anniversary Capital Improvement Project."
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "Joslyn Art Museum",
+      "purpose": "To provide support for the Evolve Joslyn capital campaign to support museum expansion and renovation."
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "City of Fremont",
+      "purpose": "To provide capital support for Keene Memorial Library Expansion Project."
+    },
+    {
+      "amount": 467971.0,
+      "is_new": false,
+      "name": "Metropolitan Community College Foundation",
+      "purpose": "To provide three years of program support for the Nebraska Math Readiness Project."
+    },
+    {
+      "amount": 450000.0,
+      "is_new": false,
+      "name": "Nebraska Game and Parks Foundation",
+      "purpose": "To provide capital support for the Nebraska Outdoor Venture Parks Project."
+    },
+    {
+      "amount": 404190.0,
+      "is_new": false,
+      "name": "Northeast Community College Foundation",
+      "purpose": "To provide three years of program support for the Nebraska Math Readiness Project."
+    },
+    {
+      "amount": 375000.0,
+      "is_new": true,
+      "name": "Bone Creek Art Museum",
+      "purpose": "To provide capital support for the Bone Creek Art Museum Expansion Project."
+    },
+    {
+      "amount": 326000.0,
+      "is_new": false,
+      "name": "Omaha by Design",
+      "purpose": "To provide three years of general operating support."
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "The Durham Museum",
+      "purpose": "To provide capital support for Omaha Union Station Preservation Phase III Roof Replacement Project."
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "Roam Share",
+      "purpose": "To provide three years of general operating support."
+    },
+    {
+      "amount": 300000.0,
+      "is_new": true,
+      "name": "Columbus Area Children's Museum Inc",
+      "purpose": "To provide capital support for the new Columbus Area Children's Museum."
+    },
+    {
+      "amount": 287500.0,
+      "is_new": false,
+      "name": "National Audubon Society Inc",
+      "purpose": "To provide capital support for Rowe Sanctuary Renovation and Expansion."
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "Nebraska Children and Families Foundation",
+      "purpose": "To provide three years of support for Beyond School Bells' core work & statewide expansion and enhancement."
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "Omaha Community Playhouse",
+      "purpose": "To provide capital support for HVAC system replacement and roof improvements."
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "Grand Island Children's Museum Inc",
+      "purpose": "To provide capital support for the \"Explore Possibilities and Inspire Creativity Capital Campaign\" for renovations and exhibits needed to establish EPIC Discovery Center."
+    },
+    {
+      "amount": 226000.0,
+      "is_new": false,
+      "name": "Completely KIDS",
+      "purpose": "To provide three years of general operating support."
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "Habitat for Humanity of Omaha",
+      "purpose": "To provide three years of general operating support."
+    },
+    {
+      "amount": 183000.0,
+      "is_new": false,
+      "name": "Central Community College Foundation Inc",
+      "purpose": "To provide three years of program support for the Nebraska Math Readiness Project."
+    },
+    {
+      "amount": 161000.0,
+      "is_new": false,
+      "name": "Kids Can Community Center",
+      "purpose": "To provide three years of support for out-of-school time programs."
+    },
+    {
+      "amount": 151000.0,
+      "is_new": false,
+      "name": "Girls Incorporated of Omaha",
+      "purpose": "To provide five years of general operating support."
+    },
+    {
+      "amount": 151000.0,
+      "is_new": false,
+      "name": "NorthStar Foundation",
+      "purpose": "To provide three years of general operating support."
+    },
+    {
+      "amount": 151000.0,
+      "is_new": false,
+      "name": "Spark",
+      "purpose": "To provide five years of general operating support."
+    },
+    {
+      "amount": 151000.0,
+      "is_new": false,
+      "name": "Omaha Municipal Land Bank",
+      "purpose": "To provide three years of general operating support."
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "Nebraska Community Foundation",
+      "purpose": "To provide three years of program support for the Nebraska Community Foundation Peer Learning Network."
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "Omaha Community Foundation",
+      "purpose": "To provide two years of program support for the Community Interest Funds."
+    },
+    {
+      "amount": 144000.0,
+      "is_new": false,
+      "name": "Southeast Community College Educational Foundation",
+      "purpose": "To support vocational scholarships for the 2024, 2025, and 2026 cohorts."
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "Susan La Flesche Picotte Center",
+      "purpose": "To provide capital support for the Dr. Susan La Flesche Picotte Center Restoration Project."
+    },
+    {
+      "amount": 120000.0,
+      "is_new": false,
+      "name": "Project Houseworks",
+      "purpose": "To provide capital support for the Home Affordability Program."
+    },
+    {
+      "amount": 101000.0,
+      "is_new": false,
+      "name": "Urban League of Nebraska",
+      "purpose": "To provide five years of general operating support."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Heartland Workforce Solutions Inc",
+      "purpose": "To provide three years of general operating support."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "City of Omaha",
+      "purpose": "To provide funding for the design and construction of the West Trail Connection to Cunningham Lake."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "RISE Academy",
+      "purpose": "To provide three years of support for the RISE Workforce Development Program."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "MECA Tri-Park Complex LLC",
+      "purpose": "To provide two years of program support for The RiverFront."
+    },
+    {
+      "amount": 95500.0,
+      "is_new": false,
+      "name": "Western Nebraska Community College Foundation",
+      "purpose": "To support vocational scholarships for the 2024, 2025, and 2026 cohorts."
+    },
+    {
+      "amount": 90000.0,
+      "is_new": false,
+      "name": "Iowa Western Community College Foundation",
+      "purpose": "To support vocational scholarships for the 2024, 2025, and 2026 cohorts."
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "Big Brothers Big Sisters of the Midlands",
+      "purpose": "To provide five years of general operating support."
+    },
+    {
+      "amount": 76300.0,
+      "is_new": false,
+      "name": "The Builder Foundation",
+      "purpose": "To provide capital support for setup costs to safely build homes on school grounds at five schools."
+    },
+    {
+      "amount": 76000.0,
+      "is_new": false,
+      "name": "Chicano Awareness Center Inc",
+      "purpose": "To provide three years of general operating support."
+    },
+    {
+      "amount": 76000.0,
+      "is_new": false,
+      "name": "Southside Redevelopment Corporation",
+      "purpose": "To provide three years of general operating support."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Kearney Area Community Foundation",
+      "purpose": "To provide capital support for relocation of Kearney Area Community Foundation offices including the buildout of the Community Collaboration Space."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "North Platte Community College Foundation",
+      "purpose": "To support vocational scholarships for the 2024, 2025, and 2026 cohorts."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Opera Omaha Inc",
+      "purpose": "To provide three years of general operating support."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "Nebraska City Veterans Memorial Building Project",
+      "purpose": "To provide capital support for renovation of the stage and auditorium in the Nebraska City Veterans Memorial Building."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "Rock County Growth Inc",
+      "purpose": "To provide capital support for the Rock County Community Center."
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "Hot Shops Art Foundation",
+      "purpose": "To provide capital support for elevator renovations."
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "International Council for Refugees and Immigrants Inc",
+      "purpose": "To provide two years of program support for the Amplify STEM Academy."
+    },
+    {
+      "amount": 51000.0,
+      "is_new": false,
+      "name": "Rabble Mill",
+      "purpose": "To provide five years of support for Omaha out of school time programming."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "100 Black Men of Omaha Inc",
+      "purpose": "To provide three years of general operating support."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Boy Scouts of America Mid-America Council",
+      "purpose": "To provide two years of support for the Invention Scouts and Career Exploring programs."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MENTOR Nebraska",
+      "purpose": "To provide three years of general operating support."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Nebraska 4-H Foundation",
+      "purpose": "To provide five years of support for STEM programming."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Nebraska Association of Skills USA",
+      "purpose": "To provide one year of support for SkillsUSA Nebraska programs."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Nebraska Enterprise Fund",
+      "purpose": "To provide three years of program support for Lending to SEDI Entrepreneurs."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Pottawattamie Arts Culture & Entertainment",
+      "purpose": "To provide three years of general operating support."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "Partnership 4 Kids",
+      "purpose": "To provide a one-time, unrestricted gift to Partnership 4 Kids."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "Phelps County Community Foundation Inc",
+      "purpose": "To provide capital support for the Midtown Sculpture Garden Project."
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "Post Playhouse Inc",
+      "purpose": "To provide capital support for acquisition and renovation of artist and staff housing."
+    },
+    {
+      "amount": 37500.0,
+      "is_new": false,
+      "name": "Greater Grand Island Community Foundation Inc",
+      "purpose": "To provide capacity building support for a transfer of wealth feasibility study."
+    },
+    {
+      "amount": 37500.0,
+      "is_new": true,
+      "name": "Hastings Community Foundation Inc",
+      "purpose": "To provide capital support for the Hastings Community Foundation relocation project."
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "Stuhr Museum Foundation",
+      "purpose": "To provide program support for strategic planning and an economic impact study."
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "Lincoln Children's Museum",
+      "purpose": "To provide capital support for the Here We Grow Agricultural Exhibit."
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "Simple Foundation",
+      "purpose": "To provide five years of general operating support."
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Civic Nebraska",
+      "purpose": "To provide two years of support for after-school programs in three Omaha Community Learning Centers."
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Holy Name Housing Corporation",
+      "purpose": "To provide three years of support for the housing support services program."
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Nonprofit Association of the Midlands",
+      "purpose": "To provide one year of general operating support."
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "The Teen Center",
+      "purpose": "To provide three years of general operating support for the Teen Center."
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "North 24th Street Business Improvement District Association",
+      "purpose": "To provide two years of general operating support."
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Developing Relationships Through Education and Mentoring Inc",
+      "purpose": "To provide five years of support for out of school programs."
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "ACE Mentor Program of Greater Omaha Inc",
+      "purpose": "To provide two years of general operating support for ACE Mentor Greater Omaha."
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "Girl Scouts Spirit of Nebraska",
+      "purpose": "To provide one year of support for Outreach STEM programming."
+    },
+    {
+      "amount": 16500.0,
+      "is_new": false,
+      "name": "Little Priest Tribal College",
+      "purpose": "To support vocational scholarships for the 2024, 2025, and 2026 cohorts."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "West Point Community Theatre",
+      "purpose": "To provide capital support for the West Point Community Theatre backstage renovation and expansion."
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

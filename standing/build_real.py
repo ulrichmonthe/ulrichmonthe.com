@@ -101,6 +101,33 @@ def build_one(args):
 
     latest = filings[-1]
     m = compute(records, CURRENT_YEAR)
+
+    # Recipient list for the latest compared year. "Who did they actually
+    # fund" is the most persuasive thing on a foundation page — people
+    # calibrate fit against organizations like themselves, not against a rate.
+    recips = []
+    ly = m.window.get("latest_eligible_year")
+    if ly is not None and m.metrics:
+        from resolve import resolve_filer
+        clusters, _ = resolve_filer([r for r in records if r.tax_year in m.window["years_present"]])
+        prior = set()
+        for y in [y for y in m.window["years_present"] if y < ly][-3:]:
+            for c in clusters:
+                if any(x.tax_year == y for x in c.members):
+                    prior.add(c.cluster_id)
+        agg = {}
+        for c in clusters:
+            mine = [x for x in c.members if x.tax_year == ly and not x.ambiguous]
+            if not mine:
+                continue
+            agg[c.cluster_id] = {
+                "name": mine[0].recipient_name_raw,
+                "amount": sum(x.amount or 0 for x in mine),
+                "purpose": mine[0].purpose or "",
+                "is_new": c.cluster_id not in prior,
+            }
+        recips = sorted(agg.values(), key=lambda r: -r["amount"])
+
     return {
         "ein": ein,
         "name": latest.name.title() if latest.name.isupper() else latest.name,
@@ -111,6 +138,7 @@ def build_one(args):
         "future_excluded": sum(f.future_grants_excluded for f in filings),
         "duplicate_filings_dropped": dupes,
         "years_filed": [f.tax_year for f in filings],
+        "recipients": recips,
         "m": m,
     }
 
@@ -193,6 +221,7 @@ def main() -> int:
                         "future_grants_excluded": b["future_excluded"],
                         "duplicate_filings_dropped": b["duplicate_filings_dropped"]},
             "metrics": m.metrics,
+            "recipients_latest_year": b["recipients"],
             "status_band": status_band(rate if m.publishable else None),
             "self_reported": {
                 "accepts_unsolicited": b["accepts_unsolicited"],

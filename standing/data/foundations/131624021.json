@@ -48,6 +48,686 @@
     "singleton_cluster_share": 0.4979,
     "total_grant_records": 734
   },
+  "recipients_latest_year": [
+    {
+      "amount": 604522.0,
+      "is_new": false,
+      "name": "THE URBAN INSTITUTE",
+      "purpose": "REDESIGNING THE CHILD TAX CREDIT TO REDUCE ECONOMIC INEQUALITY: CHANGES TO BENEFITS AND ADMINISTRATION"
+    },
+    {
+      "amount": 590402.0,
+      "is_new": false,
+      "name": "NEW YORK UNIVERSITY",
+      "purpose": "EXPLORING FAMILY CIVICS AS A LEVER FOR BUILDING POWER TO INFLUENCE EDUCATION AMONG YOUTH AND PARENTS OF COLOR"
+    },
+    {
+      "amount": 491586.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL",
+      "purpose": "IMPROVING THE USE OF RESEARCH EVIDENCE TO REDUCE CHILD AND YOUTH OPIOID-RELATED TRAUMA: DEVELOPING AND TESTING A REFLECTIVE DECISION ANALYSIS TOOL"
+    },
+    {
+      "amount": 480636.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF PITTSBURGH",
+      "purpose": "IMPROVING THE USE OF RESEARCH EVIDENCE IN MULTILINGUAL LEARNER POLICY AND PRACTICE: RESEARCH-PRACTICE PARTNERSHIP ENGAGEMENT WITH STATE EDUCATION AGENCY LEADERS"
+    },
+    {
+      "amount": 448150.0,
+      "is_new": false,
+      "name": "NORTHEASTERN UNIVERSITY",
+      "purpose": "COMMUNITY-DRIVEN, TECHNOLOGY-GUIDED SCHOOL REZONING TO REDUCE ECONOMIC SEGREGATION"
+    },
+    {
+      "amount": 438037.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF ILLINOIS CHICAGO",
+      "purpose": "INTERROGATING SUCCESSIVE SCHOOL DISCIPLINE REFORMS AS LEVERS FOR PROMOTING RACIAL EQUITY"
+    },
+    {
+      "amount": 429750.0,
+      "is_new": true,
+      "name": "SANTA CLARA UNIVERSITY",
+      "purpose": "STRENGTHENING A HOLISTIC, COMMUNITY-BASED PRE-COLLEGIATE AND COLLEGIATE SUPPORT SYSTEM TO ENHANCE COLLEGE MATRICULATION, PERSISTENCE, AND SUCCESS AMONG LATINX STUDENTS IN EAST SAN JOS, CALIFORNIA: PREPARING RACIALLY MINORITIZED STUDENTS FOR COLLEGE DURING UNCERTAIN TIMES"
+    },
+    {
+      "amount": 427305.0,
+      "is_new": false,
+      "name": "PENNSYLVANIA STATE UNIVERSITY",
+      "purpose": "STATE-LEVEL INTERRUPTED TIME SERIES OF THE FAMILY IMPACT SEMINARS: A NATIONAL INFRASTRUCTURE FOR IMPROVING THE USE OF RESEARCH EVIDENCE"
+    },
+    {
+      "amount": 410006.0,
+      "is_new": false,
+      "name": "PHILANTHROPY NEW YORK",
+      "purpose": "SCHOLARS RETREAT AND MEETING ON MENTORING AND CAREER DEVELOPMENT THROUGH FISCAL SPONSOR PHILANTHROPY NEW YORK"
+    },
+    {
+      "amount": 400219.0,
+      "is_new": false,
+      "name": "DREXEL UNIVERSITY",
+      "purpose": "THE PROMISE OF MARIJUANA LEGALIZATION TO REDUCE RACIAL DISPARITIES IN YOUTH LEGAL SYSTEM CONTACT IN NEW JERSEY"
+    },
+    {
+      "amount": 367519.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF VIRGINIA",
+      "purpose": "IMPROVING TEACHER-STUDENT RELATIONSHIPS TO HELP CLOSE THE RACIAL DISCIPLINE GAP FOR YOUNG STUDENTS"
+    },
+    {
+      "amount": 363700.0,
+      "is_new": false,
+      "name": "WILLIAM MARSH RICE UNIVERSITY",
+      "purpose": "BROKERING ACTIVITIES AND OUTCOMES AMONG EMBEDDED VERSUS INFORMAL LIAISONS IN EDUCATION RESEARCH-PRACTICE PARTNERSHIPS"
+    },
+    {
+      "amount": 360000.0,
+      "is_new": false,
+      "name": "NATIONAL SUMMER LEARNING ASSOCIATION",
+      "purpose": "INSTITUTIONAL CHALLENGE GRANT CONVENING 2024 AND REDUCING INEQUALITY CONVENING 2025"
+    },
+    {
+      "amount": 347679.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF NORTH CAROLINA AT GREENSBORO",
+      "purpose": "ONE TALK AT A TIME: A RACIAL-ETHNIC SOCIALIZATION INTERVENTION FOR DIVERSE FAMILIES TO REDUCE PSYCHOSOCIAL INEQUALITIES"
+    },
+    {
+      "amount": 324287.0,
+      "is_new": false,
+      "name": "FLORIDA STATE UNIVERSITY RESEARCH FOUNDATION",
+      "purpose": "UNIVERSITY RESEARCH PARTNERSHIPS TO REDUCE EDUCATIONAL DISPARITY IN COLLEGE TOWNS: BUILDING A MODEL IN TALLAHASSEE, FL"
+    },
+    {
+      "amount": 320447.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF TORONTO",
+      "purpose": "YOUTH IN RELATION TO RETURNED LAND"
+    },
+    {
+      "amount": 314116.0,
+      "is_new": false,
+      "name": "VANDERBILT UNIVERSITY",
+      "purpose": "RESEARCH-PRACTICE PARTNERSHIPS (RPPS) AND RACIAL EQUITY IN SCHOOL DISCIPLINE: AN EXPLORATION OF THE FUNCTIONING OF EQUITY-CENTERED RPPS AND THE USE OF RESEARCH EVIDENCE"
+    },
+    {
+      "amount": 309912.0,
+      "is_new": false,
+      "name": "TRUSTEES OF BOSTON UNIVERSITY",
+      "purpose": "A NETWORKED IMPROVEMENT COMMUNITY APPROACH TO EQUITABLE LITERACY IN URBAN SCHOOLS"
+    },
+    {
+      "amount": 305892.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF SOUTH FLORIDA",
+      "purpose": "UTILIZING DISCRETE EVENT SIMULATION (DES) TO IMPROVE THE USE AND RELEVANCE OF RESEARCH EVIDENCE TO INFORM SCHOOL MENTAL HEALTH SERVICES"
+    },
+    {
+      "amount": 304630.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF CALIFORNIA AT IRVINE",
+      "purpose": "MENTORING AND CAREER DEVELOPMENT: 2024 SANTAGATA AND FUENTES ACEVEDO"
+    },
+    {
+      "amount": 299266.0,
+      "is_new": false,
+      "name": "REGENTS OF THE UNIVERSITY OF COLORADO",
+      "purpose": "EMBEDDING RESEARCH INTO ORGANIZATIONAL ROUTINES TO DEEPEN THE USE OF EVIDENCE"
+    },
+    {
+      "amount": 298327.0,
+      "is_new": true,
+      "name": "EMORY UNIVERSITY",
+      "purpose": "UNDERSTANDING THE POTENTIAL OF YOUTH PARTICIPATORY ACTION RESEARCH TO IMPROVE AFRICAN AMERICAN YOUTH MENTAL HEALTH OUTCOMES"
+    },
+    {
+      "amount": 297816.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF ILLINOIS URBANA",
+      "purpose": "WHO BELONGS IN MAINSTREAM SCHOOLS? THE ROLE OF DISTRICT POLICY IN REDUCING INEQUITABLE TRANSFER TO ALTERNATIVE SCHOOLS"
+    },
+    {
+      "amount": 291946.0,
+      "is_new": false,
+      "name": "BROWN UNIVERSITY",
+      "purpose": "INCREASING TEACHER DIVERSITY, SUPPLY, AND RETENTION THROUGH GROW YOUR OWN PROGRAMS"
+    },
+    {
+      "amount": 276442.0,
+      "is_new": false,
+      "name": "THE UNIVERSITY OF CHICAGO",
+      "purpose": "FOSTERING BELONGING IN SCHOOL FOR BLACK AND LATINX STUDENTS: THE PATHWAY FROM TEACHERS PROFESSIONAL LEARNING ON ASSET-BASED PEDAGOGY TO STUDENTS SOCIAL-EMOTIONAL EXPERIENCES"
+    },
+    {
+      "amount": 275516.0,
+      "is_new": false,
+      "name": "JOHNS HOPKINS UNIVERSITY",
+      "purpose": "INSTITUTE IN CRITICAL QUANTITATIVE, COMPUTATIONAL, AND MIXED-METHODOLOGIES"
+    },
+    {
+      "amount": 264815.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF CALIFORNIA LOS ANGELES",
+      "purpose": "REDUCING SOCIOECONOMIC INEQUALITY IN PATHWAYS FROM COLLEGE TO WORK"
+    },
+    {
+      "amount": 261507.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF CALIFORNIA BERKELEY",
+      "purpose": "SECONDARY ANALYSES OF CALIFORNIA COMMUNITY OF PRACTICE MEETINGS PROMOTING THE USE OF RESEARCH EVIDENCE FROM INTERMEDIARY WEBSITES FOR SOCIAL AND EMOTIONAL LEARNING IN SCHOOLS"
+    },
+    {
+      "amount": 260777.0,
+      "is_new": false,
+      "name": "WASHINGTON UNIVERSITY IN ST LOUIS",
+      "purpose": "CULTURAL SOCIALIZATION: DEVELOPMENT AND VALIDATION OF AN AFROCENTRIC CULTURAL SOCIALIZATION SCALE FOR BLACK MALES"
+    },
+    {
+      "amount": 255365.0,
+      "is_new": false,
+      "name": "BOSTON COLLEGE",
+      "purpose": "THE IMPACT OF UPSTREAM PREVENTION OF HOMELESSNESS ON YOUTH EDUCATIONAL AND DEVELOPMENTAL OUTCOMES"
+    },
+    {
+      "amount": 230260.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF DELAWARE",
+      "purpose": "THE DELAWARE EARLY LITERACY RESEARCH-PRACTICE PARTNERSHIP: CATALYZING EDUCATIONAL EQUALITY"
+    },
+    {
+      "amount": 224231.0,
+      "is_new": false,
+      "name": "BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASKA FOR THE UNIVERSITY OF NEBRAS",
+      "purpose": "AN ONLINE FAMILY-BASED PROGRAM TO REDUCE INEQUITY AMONG SEXUAL AND GENDER MINORITY YOUTH OF COLOR"
+    },
+    {
+      "amount": 217120.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF CALIFORNIA",
+      "purpose": "YOUTH AND UNDERGRADUATE TRANSFORMATION TO HARNESS COMMUNITY CHANGE (YOUTH-C2)"
+    },
+    {
+      "amount": 215979.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+      "purpose": "REDUCING HARM FROM STRUCTURAL XENOPHOBIA FOR REPRODUCTIVE EQUITY"
+    },
+    {
+      "amount": 211588.0,
+      "is_new": false,
+      "name": "AMERICAN INSTITUTES FOR RESEARCH IN THE BEHAVIORAL SCIENCES",
+      "purpose": "A STUDY ON THE COREQUISITE MODEL IN THE KENTUCKY COMMUNITY AND TECHNICAL COLLEGE SYSTEM (KCTCS)"
+    },
+    {
+      "amount": 200615.0,
+      "is_new": false,
+      "name": "MDRC",
+      "purpose": "THE ROLE OF COMMUNITY COLLEGE INTERVENTIONS IN REDUCING RACIAL INEQUALITY IN STUDENTS ACADEMIC PROGRESS"
+    },
+    {
+      "amount": 199951.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF TEXAS AT AUSTIN",
+      "purpose": "MENTORING AND CAREER DEVELOPMENT 2024"
+    },
+    {
+      "amount": 197913.0,
+      "is_new": false,
+      "name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT IRVINE",
+      "purpose": "REDUCING INEQUALITIES IN OPPORTUNITIES TO LEARN MATHEMATICS THROUGH ADAPTIVE TEACHER PROFESSIONAL DEVELOPMENT"
+    },
+    {
+      "amount": 196802.0,
+      "is_new": true,
+      "name": "WAYNE STATE UNIVERSITY",
+      "purpose": "HOW DO MIXED-INCOME NEIGHBORHOOD INITIATIVES REDUCE EDUCATIONAL INEQUALITY FOR LOW-INCOME BLACK YOUTH?"
+    },
+    {
+      "amount": 192875.0,
+      "is_new": false,
+      "name": "THE PEW CHARITABLE TRUSTS",
+      "purpose": "TRANSFORMING EVIDENCE NETWORK"
+    },
+    {
+      "amount": 192101.0,
+      "is_new": true,
+      "name": "YALE UNIVERSITY",
+      "purpose": "WHAT DRIVES RACIAL/ETHNIC DISPARITIES IN SCHOOL DISCIPLINE? UNDERSTANDING MECHANISMS TO INFORM POLICY SOLUTIONS"
+    },
+    {
+      "amount": 167293.0,
+      "is_new": false,
+      "name": "THE REGENTS OF THE UNIVERSITY OF MINNESOTA",
+      "purpose": "CARPE DIEM (COURAGEOUS, ANTIRACIST, AND REFLECTIVE PARENTING EFFORTS: DEEPENING INTENTIONALITY WITH EACH MOMENT)"
+    },
+    {
+      "amount": 163290.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF CALIFORNIA SAN DIEGO",
+      "purpose": "WORKSHOP ON SCALING UP EFFECTIVE MODELS OF TUTORING TO REDUCE EDUCATIONAL INEQUALITY IN THE WAKE OF THE PANDEMIC"
+    },
+    {
+      "amount": 157871.0,
+      "is_new": false,
+      "name": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+      "purpose": "IMPROVING ACCESS & EQUITY IN PRIVATE SCHOLARSHIPS"
+    },
+    {
+      "amount": 151936.0,
+      "is_new": false,
+      "name": "CORNELL UNIVERSITY",
+      "purpose": "EFFECTS OF WORK AND FINANCIAL ASSISTANCE POLICIES ON CHILD OUTCOMES: LONG-TERM EVIDENCE FROM WELFARE REFORM EXPERIMENTS"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "NATIONAL PUBLIC RADIO",
+      "purpose": "IN SUPPORT OF NPRS COVERAGE OF CHILDREN, YOUTH AND FAMILIES"
+    },
+    {
+      "amount": 149999.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF CALIFORNIA DAVIS",
+      "purpose": "EFFECTIVENESS OF A MULTI-SYSTEM LEADERSHIP STRATEGY FOR USING EVIDENCE DURING SUSTAINMENT OF ASD INTERVENTIONS"
+    },
+    {
+      "amount": 147901.0,
+      "is_new": true,
+      "name": "KING'S COLLEGE LONDON",
+      "purpose": "GROWING AND SUSTAINING A URE METHODS REPOSITORY"
+    },
+    {
+      "amount": 144445.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF MICHIGAN",
+      "purpose": "FOCUS: MENTAL HEALTH: A STRESS AND WORKFORCE DEVELOPMENT INTERVENTION PROMOTING RACIAL AND ECONOMIC JUSTICE AMONG YOUTH"
+    },
+    {
+      "amount": 144445.0,
+      "is_new": false,
+      "name": "GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION INC",
+      "purpose": "REDUCING INEQUITIES IN POSTSECONDARY DEBT AND REPAYMENT THROUGH A MULTI-SECTOR RESEARCH-PRACTICE PARTNERSHIP"
+    },
+    {
+      "amount": 138951.0,
+      "is_new": false,
+      "name": "BANK STREET COLLEGE OF EDUCATION",
+      "purpose": "PUBLIC LEARNING FOR A MULTIRACIAL DEMOCRACY: A PROJECT TO CONSTRUCT A NEW NARRATIVE"
+    },
+    {
+      "amount": 129025.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF MARYLAND COLLEGE PARK",
+      "purpose": "WELCOMING CENTRAL AMERICAN NEWCOMER IMMIGRANT STUDENTS: A MIXED-METHODS STUDY OF SCHOOL-COMMUNITY PARTNERSHIPS TO REDUCE INEQUALITIES"
+    },
+    {
+      "amount": 124582.0,
+      "is_new": false,
+      "name": "BOSTON UNIVERSITY",
+      "purpose": "THE EFFECTS OF ALTERNATIVE STAFFING MODELS FOR INSTRUCTING STUDENTS WITH DISABILITIES"
+    },
+    {
+      "amount": 112212.0,
+      "is_new": true,
+      "name": "TULANE UNIVERSITY",
+      "purpose": "HOW STATE POLICY AFFECTS RACIAL/ETHNIC AND GENDER EQUITY IN ADVANCED COURSE-TAKING"
+    },
+    {
+      "amount": 112145.0,
+      "is_new": false,
+      "name": "BEHAVIORAL IDEAS LAB INC (DBA IDEAS42)",
+      "purpose": "CHILD POVERTY IMPACTS OF SAFETY NET RESPONSES TO COVID-19"
+    },
+    {
+      "amount": 111152.0,
+      "is_new": true,
+      "name": "ARIZONA STATE UNIVERSITY FOUNDATION",
+      "purpose": "CHANGED MINDSETS, CHANGED FUTURES? ENDURING EFFECTS OF TWO SOCIAL-PSYCHOLOGICAL INTERVENTIONS"
+    },
+    {
+      "amount": 110021.0,
+      "is_new": false,
+      "name": "CHILDREN'S HOSPITAL OF PHILADELPHIA",
+      "purpose": "DETECTING PREVENTABLE CHILDHOOD VISION LOSS AND BARRIERS TO CARE IN THE NAVAJO NATION TO REDUCE VISION HEALTH DISPARITIES"
+    },
+    {
+      "amount": 108332.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF TEXAS",
+      "purpose": "RESTORING JUSTICE AND REIMAGING RESEARCH: BUILDING COMMUNITY TO DISRUPT THE CYCLE OF VIOLENCE AND ENHANCE RESEARCH-PRACTICE PARTNERSHIPS"
+    },
+    {
+      "amount": 107894.0,
+      "is_new": false,
+      "name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT BERKELEY",
+      "purpose": "MENTORING AND CAREER DEVELOPMENT"
+    },
+    {
+      "amount": 106266.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF TENNESSEE",
+      "purpose": "USING IMPLEMENTATION SCIENCE TO REDUCE HEALTH DISPARITIES IN YOUTH & FAMILIES: A UNIVERSITY-FEDERALLY QUALIFIED HEALTH CENTER PARTNERSHIP"
+    },
+    {
+      "amount": 101983.0,
+      "is_new": false,
+      "name": "CLEMSON UNIVERSITY",
+      "purpose": "MENTORING AND CAREER DEVELOPMENT: 2024 JAMIL AND HOCHSTETTER"
+    },
+    {
+      "amount": 100330.0,
+      "is_new": false,
+      "name": "GEORGETOWN UNIVERSITY",
+      "purpose": "TOP-DOWN DISCIPLINE: THE EFFECTS OF CARCERAL IDEOLOGY ON LOW-INCOME AND RACIAL MINORITY STUDENTS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BIPARTISAN POLICY CENTER",
+      "purpose": "LEVERAGING A CRUCIAL WINDOW OF OPPORTUNITY TO EXPAND SUPPORT FOR WORKING FAMILIES AND CHILDREN"
+    },
+    {
+      "amount": 87113.0,
+      "is_new": false,
+      "name": "NORTHWESTERN UNIVERSITY",
+      "purpose": "CISINFORMED: MISINFORMATION AND THE MEDIA WAR ON TRANSGENDER YOUTH"
+    },
+    {
+      "amount": 81229.0,
+      "is_new": false,
+      "name": "HARVARD UNIVERSITY",
+      "purpose": "BUILDING HEALTHY FOUNDATIONS: CITY-WIDE MAPPING OF CHILDHOOD ASTHMA RATES FOR EARLY IDENTIFICATION OF DANGEROUS HOUSING"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "SOCIETY FOR RESEARCH IN CHILD DEVELOPMENT",
+      "purpose": "CHILD POLICY CONNECT"
+    },
+    {
+      "amount": 79364.0,
+      "is_new": false,
+      "name": "SYRACUSE UNIVERSITY",
+      "purpose": "SCHOOL VICTIMIZATION AND HATE CRIME EXPOSURE AMONG ASIAN STUDENTS: AN EVIDENCE BASE TO REDUCE WELL-BEING INEQUALITY"
+    },
+    {
+      "amount": 76670.0,
+      "is_new": false,
+      "name": "COMMUNITY RESOURCE EXCHANGE",
+      "purpose": "SUPPORT FOR YSCG GRANTEES"
+    },
+    {
+      "amount": 68266.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF CALIFORNIA MERCED",
+      "purpose": "ASSESSING THE EFFECTIVENESS OF SCHOOL DISTRICT SAFE-ZONE POLICIES IN NARROWING ACHIEVEMENT GAPS AMONG MINORITY STUDENTS: EVIDENCE FROM CALIFORNIA"
+    },
+    {
+      "amount": 62017.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF OREGON FOUNDATION",
+      "purpose": "MAPPING THE CIVICS EDUCATION LANDSCAPE: IDENTIFYING THE ROLE OF RESEARCH AND POLITICS IN EDUCATIONAL DECISION-MAKING"
+    },
+    {
+      "amount": 56179.0,
+      "is_new": false,
+      "name": "COLUMBIA UNIVERSITY",
+      "purpose": "EMBRACING TECHNOLOGY TO IMPROVE BLACK YOUTHS COPING WITH RACIAL DISCRIMINATION TO REDUCE PSYCHOSOCIAL INEQUALITIES"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "NORC AT THE UNIVERSITY OF CHICAGO",
+      "purpose": "MENTORING AND CAREER DEVELOPMENT"
+    },
+    {
+      "amount": 52000.0,
+      "is_new": false,
+      "name": "AMERICAN SOCIOLOGICAL ASSOCIATION",
+      "purpose": "SOCIOLOGY OF EDUCATION SECTIONS ONLINE MINI-CONFERENCE ON REPAIR: REVISITING OUR PAST AND RE-ENVISIONING OUR FUTURE."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "CALIFORNIA ASSOCIATION OF AFRICAN AMERICAN SUPERINTENDENTS AND ADMIN",
+      "purpose": "MEETING THE PROMISE OF BROWN: 70 YEARS LATER, WHAT HAVE WE LEARNED FROM THE LANDMARK SUPREME COURT RULING?"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "CHILDREN'S DEFENSE FUND",
+      "purpose": "UTILIZING RESEARCH EVIDENCE TO IMPROVE POLICYMAKING ON YOUTH MENTAL HEALTH IN SCHOOLS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "MGH INSTITUTE OF HEALTH PROFESSIONS",
+      "purpose": "IMPROVING THE USE OF RESEARCH EVIDENCE FOR TEACHING STUDENTS WITH LANGUAGE BASED LEARNING DISABILITIES"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "NORTH CAROLINA A&T STATE UNIVERSITY",
+      "purpose": "PLANNING GRANT TO DEVELOP AN INSTITUTIONAL CHALLENGE GRANT APPLICATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "THE RESEARCH FOUNDATION STATE UNIVERSITY OF NEW YORK",
+      "purpose": "COLLATERAL BENEFITS OF PRISON EDUCATION: A RANDOMIZED, FAMILY-LEVEL IMPACT EVALUATION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF COLORADO",
+      "purpose": "SUPPORTING HEALTH AND LEARNING FOR RESEARCH-PRACTICE PARTNERSHIPS"
+    },
+    {
+      "amount": 49885.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF ARIZONA",
+      "purpose": "REDUCING ADMINISTRATIVE BURDENS IN SPECIAL EDUCATION AND RE-IMAGINING ENGAGEMENT OF IM/MIGRANT MULTILINGUAL FAMILIES TO ENHANCE EQUITY FOR STUDENTS WITH DISABILITIES"
+    },
+    {
+      "amount": 49652.0,
+      "is_new": true,
+      "name": "GEORGE MASON UNIVERSITY",
+      "purpose": "SAFER STRONGER TOGETHER (SST) INITIATIVE"
+    },
+    {
+      "amount": 40975.0,
+      "is_new": false,
+      "name": "MICHIGAN STATE UNIVERSITY",
+      "purpose": "SIG FOR GRANTEES CONDUCTING RESEARCH ON RACE AND RACISM IN SCHOOLS"
+    },
+    {
+      "amount": 37000.0,
+      "is_new": false,
+      "name": "THE FORUM FOR YOUTH INVESTMENT",
+      "purpose": "BUILDING CAPACITY AND BRIDGING RESEARCH, POLICY AND PRACTICE"
+    },
+    {
+      "amount": 33999.0,
+      "is_new": false,
+      "name": "COUNCIL ON FOUNDATIONS",
+      "purpose": "2024 ANNUAL MEMBERSHIP"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "FUND FOR THE CITY OF NEW YORK INC",
+      "purpose": "UNLOCKING OPPORTUNITY: ENHANCING FUNDING FOR LEGAL SERVICES FOR IMMIGRANT YOUTH IN NYC THROUGH STRATEGIC FUNDRAISING PLANNING"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "INTEGRATENYC INC",
+      "purpose": "BUILDING LEADERSHIP AND FUNDRAISING CAPACITY FOR INTEGRATENYC"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "TEATRO SEA",
+      "purpose": "DIRECTOR OF DEVELOPMENT FOR TEATRO SEA"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "UPTOWN STORIES INC",
+      "purpose": "DEVELOPMENT ASSISTANT AND DEVELOPMENT DASHBOARD"
+    },
+    {
+      "amount": 28105.0,
+      "is_new": true,
+      "name": "CHILDREN'S INSTITUTE INC",
+      "purpose": "COACHING FOR EQUITY CENTERED SOCIAL AND EMOTIONAL LEARNING: A MEASUREMENT VALIDATION STUDY"
+    },
+    {
+      "amount": 27923.0,
+      "is_new": true,
+      "name": "INDIANA UNIVERSITY",
+      "purpose": "SCHOOL-TO-WORK (STW) TRANSITIONS OF NEWCOMER YOUTH: THE ROLE OF COMMUNITY-BASED ORGANIZATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "FIVER CHILDREN'S FOUNDATION INC",
+      "purpose": "CASE MANAGEMENT AND ONE-ON-ONE SUPPORT ENHANCEMENTS FOR FIVER YOUTH"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "FRESH YOUTH INITIATIVES",
+      "purpose": "LGBTQ+ INCLUSIVE YOUTH DEVELOPMENT TRAINING PROJECT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "FUTURES AND OPTIONS INC",
+      "purpose": "WORK-READINESS REFRESH: PREPARING NEW YORK CITYS YOUTH FOR THE NEW WORLD OF WORK"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "GARRISON INSTITUTE",
+      "purpose": "INDIGENOUS EDUCATION PRACTICES TO REDUCE INEQUALITY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "MERCY CENTER INC",
+      "purpose": "YOUTH PROGRAMS IN MOTT HAVEN - INCORPORATING SOCIO-EMOTIONAL LEARNING"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "SOUTH BRONX UNITED INC",
+      "purpose": "SBU ACADEMY: 6TH-9TH GRADE ACADEMIC CURRICULUM DEVELOPMENT"
+    },
+    {
+      "amount": 24470.0,
+      "is_new": false,
+      "name": "WINSTON-SALEM STATE UNIVERSITY",
+      "purpose": "CENTERING YOUTH VOICE IN AN INTERVENTION DEVELOPED TO REDUCE RACISM AND VIOLENCE THROUGH COLLABORATION WITH TEACHERS AND YOUTH"
+    },
+    {
+      "amount": 23875.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF TEXAS AT SAN ANTONIO",
+      "purpose": "CO-PRODUCING RESEARCH EVIDENCE TO INFORM STATE EDUCATION POLICY"
+    },
+    {
+      "amount": 21493.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF SOUTH CAROLINA",
+      "purpose": "ADDRESSING CONCEPTUAL AND PRAGMATIC CHALLENGES TO MEASURING USE OF RESEARCH EVIDENCE IN CHILDRENS MENTAL HEALTHCARE BY LEVERAGING CLINICAL DOCUMENTATION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "BROOKLYN BOATWORKS",
+      "purpose": "BROOKLYN BOATWORKS CONSTITUENT DATABASE"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "THE GARDINER FOUNDATION",
+      "purpose": "IMPROVING PROGRAM PLANNING CAPABILITIES FOR THE GARDINER FOUNDATION"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "TEACHERS & WRITERS COLLABORATIVE INC",
+      "purpose": "INCREASING FUNDRAISING CAPACITY"
+    },
+    {
+      "amount": 18100.0,
+      "is_new": true,
+      "name": "FIRST FOCUS ON CHILDREN",
+      "purpose": "LIFTING UP RESEARCH AND EVALUATION IN CHILD POLICY AND POLICYMAKING"
+    },
+    {
+      "amount": 17966.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF MEMPHIS",
+      "purpose": "APPLYING A CRITICAL LENS TO THE USE OF RESEARCH EVIDENCE IN STATE POLICYMAKING"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "PROJECT EVIDENT INC",
+      "purpose": "SUPPORT FOR THE BOOK \"NEXT GENERATION EVIDENCE: STRATEGIES FOR MORE EQUITABLE SOCIAL IMPACT\""
+    },
+    {
+      "amount": 14766.0,
+      "is_new": false,
+      "name": "DUKE UNIVERSITY",
+      "purpose": "LEVERAGING SECONDARY DATA TO EXPLORE THE USE OF IMPLEMENTATION RESEARCH IN POLICY-MAKING RELATED TO SCHOOL MEAL PROGRAMS DURING COVID-19"
+    },
+    {
+      "amount": 14177.0,
+      "is_new": false,
+      "name": "FORDHAM UNIVERSITY",
+      "purpose": "ADVANCING RACIAL EQUITY IN ILLINOIS THROUGH REFORMS TO DEVELOPMENTAL EDUCATION"
+    },
+    {
+      "amount": 11561.0,
+      "is_new": false,
+      "name": "TEXAS A&M UNIVERSITY",
+      "purpose": "CULTIVATING REFUGEE ACCESS TO HIGHER EDUCATION ACROSS MARYLAND, DISTRICT OF COLUMBIA, AND VIRGINIA"
+    },
+    {
+      "amount": 10364.0,
+      "is_new": false,
+      "name": "NATIONAL ACADEMIES OF SCIENCES ENGINEERING AND MEDICINE",
+      "purpose": "NASEM ENGAGED RESEARCH WORKSHOP"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "MARCY LAB INC",
+      "purpose": "SCALING AND SUSTAINING THE FUTURE OF THE MARCY LAB SCHOOL"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "THE ALEX HOUSE PROJECT",
+      "purpose": "TRAIN-THE-TRAINER 2.0"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "THE ARTHUR PROJECT",
+      "purpose": "GOTTA GROW-CAPACITY IT PROJECT"
+    },
+    {
+      "amount": 9597.0,
+      "is_new": true,
+      "name": "EAST CAROLINA UNIVERSITY",
+      "purpose": "DOES PERMANENT SUPPORTIVE HOUSING ADDRESS RACIAL INEQUALITIES IN CHILD WELFARE, EDUCATION, AND HOUSING? ASSESSING THE LONG-TERM IMPACTS ON HOMELESS FAMILIES WITH CHILDREN IN FOSTER CARE"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "APPLICATIONS MUST BE SUBMITTED THROUGH THE FOUNDATION'S ONLINE APPLICATION SYSTEM AT WTG.SMARTSIMPLE.COM",

@@ -48,6 +48,932 @@
     "singleton_cluster_share": 0.5262,
     "total_grant_records": 1362
   },
+  "recipients_latest_year": [
+    {
+      "amount": 3500000.0,
+      "is_new": false,
+      "name": "UWM FOUNDATION",
+      "purpose": "UWM ZILBER COLLEGE OF PUBLIC HEALTH"
+    },
+    {
+      "amount": 905000.0,
+      "is_new": false,
+      "name": "REVITALIZE MILWAUKEE",
+      "purpose": "HEALTHY HOMES FOR MILWAUKEE"
+    },
+    {
+      "amount": 880000.0,
+      "is_new": false,
+      "name": "VISITING NURSE ASSOCIATION OF WISCONSIN INC",
+      "purpose": "AURORA ZILBER FAMILY HOSPICE"
+    },
+    {
+      "amount": 725000.0,
+      "is_new": true,
+      "name": "COMMUNITY DEVELOPMENT ALLIANCE (CDA)",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 715500.0,
+      "is_new": false,
+      "name": "THE BRIDGE PROJECT",
+      "purpose": "MILWAUKEE CASH TRANSFER PROGRAM"
+    },
+    {
+      "amount": 600000.0,
+      "is_new": false,
+      "name": "COMMUNITY DEVELOPMENT ALLIANCE",
+      "purpose": "CDA KING PARK SCATTERED SITES MKE"
+    },
+    {
+      "amount": 520000.0,
+      "is_new": false,
+      "name": "LE JARDIN ACADEMY",
+      "purpose": "LET'S BUILD ON THIS CAMPAIGN"
+    },
+    {
+      "amount": 507500.0,
+      "is_new": false,
+      "name": "LAYTON BOULEVARD WEST NEIGHBORS INC DBA VIA CDC",
+      "purpose": "HOME IMROVEMENT MATCHING"
+    },
+    {
+      "amount": 475500.0,
+      "is_new": false,
+      "name": "GUEST HOUSE OF MILWAUKEE",
+      "purpose": "TO OVERCOME THE ROOT CAUSES OF HOMELESSNESS"
+    },
+    {
+      "amount": 468000.0,
+      "is_new": false,
+      "name": "HOUSING RESOURCES INC",
+      "purpose": "HOMEBUYER EDUCATION & COUNSELING"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": true,
+      "name": "SOJOURNER FOUNDATION",
+      "purpose": "HOPE IN ACTION"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "CASTLE MEDICAL CENTER DBA ADVENTIST HEALTH CASTLE",
+      "purpose": "HEALTH & WELLNESS"
+    },
+    {
+      "amount": 329000.0,
+      "is_new": false,
+      "name": "WALNUT WAY CONSERVATION CORP",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 287500.0,
+      "is_new": false,
+      "name": "MILWAUKEE HABITAT FOR HUMANITY",
+      "purpose": "HOME CONSTRUCTION AND REPAIRS"
+    },
+    {
+      "amount": 266667.0,
+      "is_new": true,
+      "name": "WISCONSIN WATCH",
+      "purpose": "NEWS THAT SERVES"
+    },
+    {
+      "amount": 255000.0,
+      "is_new": false,
+      "name": "PEARLS FOR TEEN GIRLS",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 248500.0,
+      "is_new": false,
+      "name": "LISC MILWAUKEE",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 245000.0,
+      "is_new": false,
+      "name": "NORTHWEST SIDE COMMUNITY DEVELOPMENT CORPORATION",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 243500.0,
+      "is_new": false,
+      "name": "JOURNEY HOUSE",
+      "purpose": "THRIVE FINANCIAL & BRIDGES CENTER"
+    },
+    {
+      "amount": 224300.0,
+      "is_new": false,
+      "name": "UNITED COMMUNITY CENTER",
+      "purpose": "NEIGHBORHOOD DEVELOPMENT PROGRAM"
+    },
+    {
+      "amount": 202500.0,
+      "is_new": false,
+      "name": "CLARKE SQARE NEIGHBORHOOD INITIATIVE",
+      "purpose": "COMMUNITY DEVELOPMENT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "HOSPICE HAWAII DBA NAVIAN HAWAII",
+      "purpose": "COMMUNITY PALLIATIVE CARE SERVICES"
+    },
+    {
+      "amount": 190500.0,
+      "is_new": false,
+      "name": "RUNNING REBELS COMMUNITY ORGANIZATION",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 188700.0,
+      "is_new": false,
+      "name": "DATA YOU CAN USE",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 187000.0,
+      "is_new": false,
+      "name": "ROOTED & RISING WASHINGTON PARK",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 182500.0,
+      "is_new": false,
+      "name": "LEGAL ACTION OF WISCONSIN",
+      "purpose": "ZNI HOUSING REPRESENTATION"
+    },
+    {
+      "amount": 177500.0,
+      "is_new": false,
+      "name": "AFRICAN AMERICAN LEADERSHIP ALLIANCE MILWAUKEE",
+      "purpose": "ORGANIZATIONAL DEVELOPMENT"
+    },
+    {
+      "amount": 168000.0,
+      "is_new": false,
+      "name": "ACTS HOUSING",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 167500.0,
+      "is_new": false,
+      "name": "MILWAUKEE COMMUNITY LAND TRUST LTD",
+      "purpose": "AFFORDABLE HOMEOWNERSHIP FOREVER"
+    },
+    {
+      "amount": 165500.0,
+      "is_new": false,
+      "name": "COMMUNITY ADVOCATES",
+      "purpose": "HOUSING ADVANCEMENT PROJECT"
+    },
+    {
+      "amount": 164000.0,
+      "is_new": false,
+      "name": "CATHEDRAL CENTER INC",
+      "purpose": "EMERGENCY SHELTER FOR WOMEN AND FAMILIES"
+    },
+    {
+      "amount": 159000.0,
+      "is_new": false,
+      "name": "PROJECT VISION HAWAII",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 157500.0,
+      "is_new": true,
+      "name": "THE LEADERSTRUST",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 157500.0,
+      "is_new": true,
+      "name": "WISCONSIN WOMEN'S BUSINESS INITIATIVE CORPORATION (WWBIC)",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "MILWAUKEE JOURNAL SENTINEL (UNDER GANNETT)",
+      "purpose": "NEIGHBORHOODS REPORTING INITIATIVE"
+    },
+    {
+      "amount": 122300.0,
+      "is_new": false,
+      "name": "MILWAUKEE CHRISTIAN CENTER",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 111500.0,
+      "is_new": false,
+      "name": "LEGAL AID SOCIETY OF MILWAUKEE",
+      "purpose": "COMMUNITY REDEVELOPMENT INITIATIVE"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "GREATER MILWAUKEE FOUNDATION",
+      "purpose": "COMMUNITY CONNECTIONS SMALL GRANTS PROGRAM"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "WALKER'S POINT YOUTH & FAMILY CENTER",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 109500.0,
+      "is_new": false,
+      "name": "RIVERWORKS DEVELOPMENT CORPORATION",
+      "purpose": "FINANCIAL CLINIC"
+    },
+    {
+      "amount": 108200.0,
+      "is_new": false,
+      "name": "NEU-LIFE COMMUNITY DEVELOPMENT",
+      "purpose": "CAPACITY BUILDING OPERATING SUPPORT"
+    },
+    {
+      "amount": 108000.0,
+      "is_new": true,
+      "name": "FOCUSING PHILANTHROPY",
+      "purpose": "INCREASING VISION CARE ACCESS"
+    },
+    {
+      "amount": 107500.0,
+      "is_new": true,
+      "name": "URBAN ECONOMIC DEVELOPMENT ASSOCIATION OF WISCONSIN (UEDA)",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 104187.0,
+      "is_new": false,
+      "name": "UNITED WAY OF GREATER MILWAUKEE & WAUKESHA COUNTY",
+      "purpose": "CAMPAIGN YEAR"
+    },
+    {
+      "amount": 102500.0,
+      "is_new": false,
+      "name": "FONDY FOOD CENTER",
+      "purpose": "SUPPORT FONDY STAFF & MISSION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "MILWAUKEE JEWISH FREE LOAN ASSOCIATION",
+      "purpose": "HOMEBUYER CREDIT IMPROVEMENT LOAN FUND"
+    },
+    {
+      "amount": 96500.0,
+      "is_new": false,
+      "name": "COMMUNITY WAREHOUSE",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 94000.0,
+      "is_new": false,
+      "name": "MAKE-A-WISH HAWAII",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 92500.0,
+      "is_new": false,
+      "name": "METROPOLITAN MILWAUKEE FAIR HOUSING COUNCIL",
+      "purpose": "FAIR LENDING PROGRAM"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "HO'OLA NA PUA",
+      "purpose": "CONTINUUM OF CARE TO END SEX TRAFFICKING"
+    },
+    {
+      "amount": 83500.0,
+      "is_new": false,
+      "name": "MILWAUKEE CENTER FOR INDEPENDENCE FOUNDATION",
+      "purpose": "LEVEL UP TRAINING"
+    },
+    {
+      "amount": 81158.0,
+      "is_new": false,
+      "name": "UNITED PERFORMING ARTS FUND",
+      "purpose": "UPAF MATCH"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "SAFE & SOUND",
+      "purpose": "EMPOWERING ECONOMIC DEVELOPMENT"
+    },
+    {
+      "amount": 77500.0,
+      "is_new": false,
+      "name": "SECUREFUTURES",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 72500.0,
+      "is_new": false,
+      "name": "YWCA SOUTHEAST WISCONSIN",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 69800.0,
+      "is_new": false,
+      "name": "PARTNERS IN CARE",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 68000.0,
+      "is_new": false,
+      "name": "METRO MILWAUKEE MEDIATION SERVICES",
+      "purpose": "HOUSING MEDIATION PROGRAMS"
+    },
+    {
+      "amount": 67500.0,
+      "is_new": false,
+      "name": "IHS THE INSTITUTE FOR HUMAN SERVICES",
+      "purpose": "HOMELESSNESS"
+    },
+    {
+      "amount": 67300.0,
+      "is_new": false,
+      "name": "KEY PROJECT",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 65500.0,
+      "is_new": false,
+      "name": "THE TABLE - ALICE'S GARDEN",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 61500.0,
+      "is_new": false,
+      "name": "META HOUSE",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 61500.0,
+      "is_new": false,
+      "name": "YWCA OF OAHU",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 59000.0,
+      "is_new": false,
+      "name": "FORWARD COMMUNITY INVESTMENTS",
+      "purpose": "ACCESS TO CAPITAL SUPPORT"
+    },
+    {
+      "amount": 57500.0,
+      "is_new": false,
+      "name": "PENFIELD CHILDRENS CENTER",
+      "purpose": "BEHAVIOR CLINIC"
+    },
+    {
+      "amount": 56500.0,
+      "is_new": false,
+      "name": "CAPUCHIN COMMUNITY SERVICES",
+      "purpose": "ST. BEN'S COMMUNITY MEAL"
+    },
+    {
+      "amount": 56500.0,
+      "is_new": false,
+      "name": "CROSS LUTHERAN CHURCH",
+      "purpose": "CROSS COMMUNITY PROGRAMS"
+    },
+    {
+      "amount": 56500.0,
+      "is_new": false,
+      "name": "JOBSWORK MKE INC",
+      "purpose": "TRANSFORMING LIVES THROUGH CAREERS"
+    },
+    {
+      "amount": 52500.0,
+      "is_new": false,
+      "name": "TRANSCENTER FOR YOUTH",
+      "purpose": "NEWLINE COMMUNITY CAF"
+    },
+    {
+      "amount": 52500.0,
+      "is_new": false,
+      "name": "EZEKIEL COMMUNITY DEVELOPMENT CORPORATION",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 52000.0,
+      "is_new": false,
+      "name": "SOUTHSIDE ORGANIZING COMMITTEE",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 47500.0,
+      "is_new": false,
+      "name": "THE REDRESS MOVEMENT",
+      "purpose": "MILWAUKEES REDRESS MOVEMENT"
+    },
+    {
+      "amount": 45500.0,
+      "is_new": false,
+      "name": "MENTAL HEALTH AMERICA OF HAWAII",
+      "purpose": "MENTAL HEALTH SUPPORT PROGRAMMING"
+    },
+    {
+      "amount": 42500.0,
+      "is_new": false,
+      "name": "COMMUNITY WATER SERVICES",
+      "purpose": "SAFE WATER FROM THE TAP"
+    },
+    {
+      "amount": 42500.0,
+      "is_new": false,
+      "name": "WAIKIKI HEALTH",
+      "purpose": "REDUCING HOMELESSNESS"
+    },
+    {
+      "amount": 37500.0,
+      "is_new": false,
+      "name": "WISCONSIN PHILANTHROPY NETWORK",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 37500.0,
+      "is_new": false,
+      "name": "HAWAI'I PEOPLE'S FUND",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "HALE KIPA",
+      "purpose": "YOUTH OUTREACH PROGRAM & SERVICES"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "HABILITAT INC",
+      "purpose": "E OLA HOU ANA: COMING BACK TO LIVE"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "LATINO ENTREPRENEURIAL NETWORK INCORPORATED",
+      "purpose": "B.E.S.T. HUB"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "RESIDENTIAL YOUTH SERVICES AND EMPOWERMENT (RYSE)",
+      "purpose": "EMERGENCY SHELTER & DROP IN SERVICES"
+    },
+    {
+      "amount": 32500.0,
+      "is_new": false,
+      "name": "KUKOLU ORGANIZATION",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 32500.0,
+      "is_new": false,
+      "name": "CESAR CHAVEZ DRIVE BID #38",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 32000.0,
+      "is_new": false,
+      "name": "FUNDER HUI",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 31400.0,
+      "is_new": false,
+      "name": "FRIENDSHIP INC",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "STREET ANGELS INC",
+      "purpose": "HOMELESS OUTREACH"
+    },
+    {
+      "amount": 29000.0,
+      "is_new": false,
+      "name": "WILD COMMUNITIES FOUNDATION",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 27500.0,
+      "is_new": false,
+      "name": "SERENITY INNS",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 27500.0,
+      "is_new": false,
+      "name": "PARENTS AND CHILDREN TOGETHER",
+      "purpose": "STRENGTHENING PACTS FISCAL CAPACITY"
+    },
+    {
+      "amount": 27500.0,
+      "is_new": false,
+      "name": "BLACK LEADERS ORGANIZING COMMUNITIES (BLOC)",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 27500.0,
+      "is_new": false,
+      "name": "AFRICAN AMERICAN ROUNDTABLE",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SMITHSONIAN INSTITUTION",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "WOMEN'S FUND OF HAWAII",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "HAWAII FOODBANK",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 22500.0,
+      "is_new": false,
+      "name": "LITERACY SERVICES OF WISCONSIN",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 22500.0,
+      "is_new": false,
+      "name": "HAWAI'I ALLIANCE OF NONPROFIT ORGANIZATION (HANO)",
+      "purpose": "STATE OF THE NONPROFIT SECTOR REPORT"
+    },
+    {
+      "amount": 20250.0,
+      "is_new": true,
+      "name": "KOKUA KALIHI VALLEY",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "MILWAUKEE FILM",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "MARQUETTE UNIVERSITY",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "PRODEO ACADEMY",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "HISTORIC MILWAUKEE",
+      "purpose": "DOORS OPEN MILWAUKEE 2025"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "HAWAII EDUCATION OF THE ARTS (HEARTS)",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "KINSHIP COMMUNITY FOOD CENTER",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "CITY THREAD",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "HOPE STREET MINISTRY",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF HAWAII FOUNDATION",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": false,
+      "name": "FREE RADIO HUSTISFORD",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "SOJOURNER FAMILY PEACE CENTER",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "YMCA OF METROPOLITAN MILWAUKEE",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "PARENTS AND CHILDREN TOGETHER (PACT)",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 7000.0,
+      "is_new": false,
+      "name": "DOMINICAN CENTER FOR WOMEN",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "RIVEREDGE NATURE CENTER",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "REAGAN HIGH SCHOOL ARTS PARTNERSHIP",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "MILWAUKEE YOUTH SYMPHONY ORCHESTRA INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "BETTER STEWARDS",
+      "purpose": "SINGLE PARENT HOUSING INITIATIVE"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "BRIDGE BUILDERS INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "JOHNSONS PARK NEIGHBORHOOD ASSOCIATION",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "PTA HAWAII CONGRESS (AIKAHI PTA)",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "ST AUGUSTINE PREPARATORY ACADEMY",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "ST MARCUS LUTHERAN SCHOOL",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": false,
+      "name": "PATH OF HUSTISFORD INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "WISCONSIN POLICY FORUM",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "COCOA POLICE FOUNDATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "HAWAII COMMUNITY FOUNDATION",
+      "purpose": "HOLIDAY GIVING 2024"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "SECUREFUTURES FOUNDATION",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "VISION TO LEARN",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "WISCONSIN VOICES",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "MILWAUKEE FOOD COUNCIL",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "SOLDIERS BEST FRIEND",
+      "purpose": "HOLIDAY GIVING 2024"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "ST ANN CENTER",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "MENOMONEE VALLEY PARTNERS",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "UNITEWI",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "SAFE CHILDREN COALITION INC",
+      "purpose": "HOLIDAY GIVING 2024"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "VILLAGE MKE INC",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "ALZHEIMER ASSOCIATION",
+      "purpose": "HOLIDAY GIVING 2024"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "BLACK CHILD DEVELOPMENT INSTITUTE WISCONSIN",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "BOYS & GIRLS CLUB OF GREATER MILWAUKEE",
+      "purpose": "HOLIDAY GIVING 2024"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "CARLIN C COPPIN PARENT TEACHER CLUB",
+      "purpose": "HOLIDAY GIVING 2024"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "HUNGER TASK FORCE",
+      "purpose": "HOLIDAY GIVING 2024"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "KINDNESS FOR KADEN",
+      "purpose": "HOLIDAY GIVING 2024"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "MATT GARCIA FOUNDATION",
+      "purpose": "HOLIDAY GIVING 2024"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "MAUI CANCER RESOURCES",
+      "purpose": "HOLIDAY GIVING 2024"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "MILWAUKEE RESCUE MISSION",
+      "purpose": "HOLIDAY GIVING 2024"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "NOURISHMKE (FORMERLY FRIEDENS COMMUNITY MINISTRIES)",
+      "purpose": "GRATITUDE GRANT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "OUTDOOR DREAM FOUNDATION",
+      "purpose": "HOLIDAY GIVING 2024"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "PANCREATIC CANCER ACTION NETWORK",
+      "purpose": "HOLIDAY GIVING 2024"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "SELAH FREEDOM",
+      "purpose": "HOLIDAY GIVING 2024"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "SUNSET HEIGHTS PTSO",
+      "purpose": "HOLIDAY GIVING 2024"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "SURFRIDER FOUNDATION-MAUI CHAPTER",
+      "purpose": "HOLIDAY GIVING 2024"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "TENDER HEART CHARITIES",
+      "purpose": "HOLIDAY GIVING 2024"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "UMOM NEW DAY CENTERS",
+      "purpose": "HOLIDAY GIVING 2024"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "THE SHERMAN PARK COMMUNITY ASSOCIATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "WOMENS CENTER OF BREVARD",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "THE GATHERING SOURCE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "ASSOCIATION OF FUNDRAISING PROFESSIONALS SOUTHEASTERN WISCONSIN CHAPTER",
+      "purpose": "GENERAL OPERATIONS"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "GRANTSEEKERS ARE ENCOURAGED TO CONTACT THE FOUNDATION AT INFO@ZILBERFAMILYFOUNDATION.ORG WITH A ONE-PAGE LETTER OF INQUIRY BEFORE PREPARING A PROPOSAL.",

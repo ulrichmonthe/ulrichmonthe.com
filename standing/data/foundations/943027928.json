@@ -48,6 +48,1622 @@
     "singleton_cluster_share": 0.4682,
     "total_grant_records": 1586
   },
+  "recipients_latest_year": [
+    {
+      "amount": 5799754.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF NEBRASKA FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2060000.0,
+      "is_new": true,
+      "name": "FRONT PORCH INVESTMENTS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2000000.0,
+      "is_new": false,
+      "name": "MENTAL HEALTH INNOVATION FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1740660.0,
+      "is_new": false,
+      "name": "WOMENS FUND OF GREATER OMAHA INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1563700.0,
+      "is_new": false,
+      "name": "BLACK POLICE OFFICERS ASSOCIATION OF OMAHA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1510000.0,
+      "is_new": false,
+      "name": "NEBRASKA METHODIST HOSPITAL FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1399690.0,
+      "is_new": false,
+      "name": "COLLEGE OF ST MARY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1250000.0,
+      "is_new": false,
+      "name": "YOUTH EMERGENCY SERVICES INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1006000.0,
+      "is_new": false,
+      "name": "HABITAT FOR HUMANITY OF OMAHA INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "COLLECTIVE FOR HOPE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "CHARLES E LAKIN HUMAN SERVICES CAMPUS FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 880000.0,
+      "is_new": false,
+      "name": "OMAHA COMMUNITY FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 840000.0,
+      "is_new": false,
+      "name": "MICAH HOUSE CORPORATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 750000.0,
+      "is_new": false,
+      "name": "CREIGHTON UNIVERSITY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 735000.0,
+      "is_new": false,
+      "name": "ONEWORLD COMMUNITY HEALTH CENTERS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 610000.0,
+      "is_new": false,
+      "name": "CHILD SAVING INSTITUTE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 600000.0,
+      "is_new": true,
+      "name": "HOPEWELL FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 550000.0,
+      "is_new": false,
+      "name": "HOLY NAME HOUSING CORPORATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 525387.0,
+      "is_new": false,
+      "name": "OMAHA PARKS FOUNDATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "KHAN ACADEMY INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "AMALGAMATED CHARITABLE FOUNDATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "FOODBANK FOR THE HEARTLAND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "SOUTHSIDE REDEVELOPMENT CORPORATION DBA CANOPY SOUTH",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 475000.0,
+      "is_new": false,
+      "name": "PROJECT HOUSEWORKS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 475000.0,
+      "is_new": false,
+      "name": "PHOENIX ACADEMY DAY SCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 460000.0,
+      "is_new": false,
+      "name": "BOYS & GIRLS CLUBS OF THE MIDLANDS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 450000.0,
+      "is_new": false,
+      "name": "WOMENS CENTER FOR ADVANCEMENT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 442290.0,
+      "is_new": false,
+      "name": "OMAHA SCHOOLS FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": true,
+      "name": "JUSTICE FOR OUR NEIGHBORS NEBRASKA DBA CENTER FOR IMMIGRANT & REFUGEE ADVAN",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 391000.0,
+      "is_new": false,
+      "name": "COUNCIL BLUFFS SCHOOLS FOUNDATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 385000.0,
+      "is_new": false,
+      "name": "COLLECTIVE FOR YOUTH",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 340000.0,
+      "is_new": true,
+      "name": "THE SALVATION ARMY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 322500.0,
+      "is_new": false,
+      "name": "EQUAL PLAY - INSPIRING CONFIDENCE FOR GIRLS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "LEGAL AID OF NEBRASKA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 285000.0,
+      "is_new": false,
+      "name": "BROWNELL TALBOT SCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 275000.0,
+      "is_new": false,
+      "name": "ACLU NEBRASKA FOUNDATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 275000.0,
+      "is_new": false,
+      "name": "RISE ACADEMY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 275000.0,
+      "is_new": false,
+      "name": "YMCA OF GREATER OMAHA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "HEART MINISTRY CENTER INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "HEARTLAND FAMILY SERVICE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "MADONNA SCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "YATES FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "HARBOR HOUSE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "FINANCIAL HOPE COLLABORATIVE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "PROJECT HARMONY-HAVEN FOR ABUSE RESPONSE MEMBERS SERVING OUR",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 240000.0,
+      "is_new": false,
+      "name": "CIVIC NEBRASKA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 226000.0,
+      "is_new": false,
+      "name": "GIRLS INCORPORATED OF OMAHA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": false,
+      "name": "CREIGHTON PREPARATORY SCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": false,
+      "name": "MERCY HIGH SCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 211000.0,
+      "is_new": false,
+      "name": "COLLEGE POSSIBLE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 202000.0,
+      "is_new": false,
+      "name": "PRAIRIE STEM",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "AVENUE SCHOLARS FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "CHILDRENS RESPITE CARE CENTER INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "FOSTER LOVE INCORPORATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "OMAHA DISCOVERY TRUST DBA KIEWIT LUMINARIUM",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 192000.0,
+      "is_new": true,
+      "name": "CHILDRENS HOSPITAL & MEDICAL CENTER FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 180000.0,
+      "is_new": false,
+      "name": "STAND FOR SCHOOLS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "INTERNATIONAL COUNCIL FOR REFUGEES AND IMMIGRANTS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 173000.0,
+      "is_new": false,
+      "name": "TOGETHER INC OF METROPOLITIAN OMAHA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "INCLUSIVE COMMUNITIES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "NEBRASKA APPLESEED CENTER FOR LAW IN THE PUBLIC INTEREST INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "RABBLE MILL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "AMERICAN NATIONAL RED CROSS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "METRO REVAMP COLLECTIVE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "NEBRASKA EARLY CHILDHOOD COLLABORATIVE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 148500.0,
+      "is_new": false,
+      "name": "MARIAN HIGH SCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 145000.0,
+      "is_new": false,
+      "name": "BIG BROTHERS BIG SISTERS OF THE MIDLANDS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 135000.0,
+      "is_new": false,
+      "name": "MENTOR NEBRASKA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 135000.0,
+      "is_new": true,
+      "name": "JUSTICE FOR OUR NEIGHBORS NEBRASKA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 133000.0,
+      "is_new": true,
+      "name": "CITY OF OMAHA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "EASTERN NEBRASKA COMMUNITY ACTION PARTNERSHIP",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "FAMILY HOUSING ADVISORY SERVICES INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "NEBRASKA CHILDREN AND FAMILIES FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "SPARK",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "THE SIMPLE FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "NEBRASKA YOUTH JUSTICE INITIATIVE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "CENTER FOR LEGAL IMMIGRATION ASSISTANCE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "NEBRASKA CENTER FOR WORKFORCE DEVELOPMENT AND EDUCATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "I BE BLACK GIRL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": true,
+      "name": "LUTHERAN FAMILY SERVICES OF NE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": true,
+      "name": "NEW VENTURE FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 105000.0,
+      "is_new": false,
+      "name": "COMPLETELY KIDS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 102000.0,
+      "is_new": true,
+      "name": "RED CLOUD INDIAN SCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "GIRL SCOUTS-SPIRIT OF NEBRASKA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "INTERCULTURAL SENIOR CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "MAYS FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "METROPOLITAN AREA CONTINUUM OF CARE FOR THE HOMELESS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "NEBRASKA CIVIC ENGAGEMENT TABLE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "OMAHA NORTH HIGH SCHOOL FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "STEPHEN CENTER INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "YOUTURN",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "POC COLLABORATIVE COMMUNITY RESOURCE CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "SEVENTY-FIVE NORTH REVITALIZATION CORPORATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "SMART GEN SOCIETY INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "HOLLAND CHILDRENS INSTITUTE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "GENERATION DIAMOND CORPORATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "NEBRASKA DOMESTIC VIOLENCE SEXUAL ASSAULT COALITION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": false,
+      "name": "SANTA MONICA INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "THE DURHAM MUSEUM",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "COMMUNITY ACTION OF NEBRASKA INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 84199.0,
+      "is_new": false,
+      "name": "OMAHA PERFORMING ARTS SOCIETY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 83500.0,
+      "is_new": true,
+      "name": "DANIEL J GROSS HIGH SCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 81700.0,
+      "is_new": false,
+      "name": "CASA FOR DOUGLAS COUNTY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 77000.0,
+      "is_new": false,
+      "name": "WESTSIDE COMMUNITY SCHOOLS FOUNDATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75787.0,
+      "is_new": true,
+      "name": "WORLD SPEAKS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "BANISTERS LEADERSHIP ACADEMY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "ECONOMIC EMPOWERMENT CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "HEARTLAND WORKFORCE SOLUTIONS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "NORTHSTAR FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "UNITED WAY OF THE MIDLANDS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "BLACK AND PINK INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "SHELTERING TREE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "CHRISTIAN HOME ASSOCIATION CHILDRENS SQUARE US A",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "COMMON CAUSE EDUCATION FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "JOSLYN CASTLE AND GARDEN",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 72000.0,
+      "is_new": true,
+      "name": "HEART OF A CHAMPION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "YOUTH CARE & BEYOND INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "NEBRASKA JOURNALISM TRUST",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": true,
+      "name": "D2 CENTER INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": true,
+      "name": "NEBRASKA DIAPER BANK",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "NEBRASKA ENTERPRISE FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 64000.0,
+      "is_new": false,
+      "name": "DUCHESNE ACADEMY OF THE SACRED HEART",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 62500.0,
+      "is_new": false,
+      "name": "BEMIS CENTER FOR CONTEMPORARY ARTS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 62500.0,
+      "is_new": false,
+      "name": "VOICES FOR CHILDREN IN NEBRASKA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "R E S P E C T 2",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "STUDENTS ATHLETES VALUES EDUCATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": true,
+      "name": "CHICANO AWARENESS CENTER INC DBA LATINO CENTER OF THE MIDLANDS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": true,
+      "name": "OMAHA SPORTS COMMISSION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": true,
+      "name": "OUTLINC INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": true,
+      "name": "WHY ARTS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": true,
+      "name": "NEW VISIONS HOMELESS SERVICES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "NONPROFIT ASSOCIATION OF THE MIDLANDS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "OMAHA CONSERVATORY OF MUSIC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": true,
+      "name": "OMAHA BRIDGES OUT OF POVERTY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 53000.0,
+      "is_new": true,
+      "name": "DOUGLAS COUNTY HEALTH CENTER FOUNDATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 52000.0,
+      "is_new": false,
+      "name": "CAROLES HOUSE OF HOPE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50465.0,
+      "is_new": false,
+      "name": "PARTNERS FOR LIVABLE OMAHA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "AUTISM ACTION PARTNERSHIP",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "FOOTBALL FOR THE WORLD FOUNDATION USA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MERCY HOUSING MIDWEST",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "OLLIE WEBB CENTER INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "OMAHA HOME FOR BOYS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CENTER FOR HOLISTIC DEVELOPMENT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "RESTORING DIGNITY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "EDUCATION RIGHTS COUNSEL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "INCLUSIVE HEALERS OF THE HEARTLAND INCORPORATED",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "OMAHA MUNICIPAL LAND BANK",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "RADIO TALKING BOOK SERVICE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ENGAGED INSIGHT FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "REACH OUT AND READ INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "BIKE UNION MENTORING PROJECT DBA ASTUTE COFFEE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "CONCORD MEDIATION CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "DEVELOPING RELATIONSHIPS THROUGH EDUCATION AND MENTORING INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "DOUGLAS COUNTY ATTORNEY'S OFFICE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "FATHER FLANAGANS BOYS HOME",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "FURNITURE PROJECT OMAHA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "INTERFAITH RESPONSE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "KINDAIR AT THE BENSON THEATRE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "MALONE COMMUNITY CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "NEBRASKA EXPRESSIVE ARTS THERAPY FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "NEBRASKA INDIAN CHILD WELFARE COALITION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "OEA AWARDS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "OOH DE LALLY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "PARTNERSHIP 4 HOPE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "REPUBLIC OF SOUTH SUDAN LEADERS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 48000.0,
+      "is_new": true,
+      "name": "BLACK STUDENT LEADERSHIP COUNCIL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 47500.0,
+      "is_new": true,
+      "name": "BRIGHTEN OUR FUTURE EARLY LEARNING CENTER INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "MALCOLM X MEMORIAL FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "YOUNG ENTREPRENEURS OF THE FUTURE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": true,
+      "name": "HOUSE OF BAH FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 44000.0,
+      "is_new": false,
+      "name": "JESUIT ACADEMY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "AFRICAN CULTURE CONNECTION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "METROPOLITAN COMMUNITY COLLEGE FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "OMAHA STREET SCHOOL INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "FUTURE SOCCER INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "SAVING GRACE PERISHABLE FOOD RESCUE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "INCOMMON HOUSING DEVELOPMENT CORPORATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "CENTERPOINTE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 39000.0,
+      "is_new": true,
+      "name": "RELATIONSHIP GOALS INC DBA THE RELATIONSHIP CORNER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 38400.0,
+      "is_new": true,
+      "name": "ADULT EDUCATION CENTER INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 37856.0,
+      "is_new": false,
+      "name": "INTERFAITH HEALTH SERVICE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 37856.0,
+      "is_new": false,
+      "name": "NEW LIFE FAMILY ALLIANCE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 37500.0,
+      "is_new": true,
+      "name": "LIFT UP SARPY COUNTY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "OMAHA CHILDRENS MUSEUM INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "LEARNING FOR ALL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "CENTRO LATINO OF IOWA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "GREAT PLAINS THEATRE COMMONS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 33500.0,
+      "is_new": true,
+      "name": "EVERY YOUTH CAN EXCEL INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "ANGELS AMONG US",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "MOSAIC COMMUNITY DEVELOPMENT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "RONALD MCDONALD HOUSE CHARITIES IN OMAHA INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "THE KEYS FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "WRIGHT TRACK",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "DIBS FOR KIDS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "BLACK MEN UNITED",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "FREEDOMTAINMENT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "THE TEEN CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "HOT SHOPS ART FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "NEBRASKA COALITION FOR LIFE SAVING CURES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "ONE OMAHA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "ECHO COLLECTIVE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 26873.0,
+      "is_new": false,
+      "name": "OMAHA COMMUNITY PLAYHOUSE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 26000.0,
+      "is_new": true,
+      "name": "FONTENELLE FOREST",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 26000.0,
+      "is_new": true,
+      "name": "MAC FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "HOUSE OF AFROS CAPES & CURLS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "FREMONT PUBLIC SCHOOLS FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "AMERICAN CONSTITUTION SOCIETY FOR LAW AND POLICY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "DREAMS V REALITY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "HEAL OMAHA AKA HEALTH EQUITY IN ACTION LEAGUE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "HERITAGE SERVICES DBA HERITAGE OMAHA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "IVYS LEAGUE YOUTH SPORTS ACADEMY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "LEDC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "MILKWORKS A NEBRASKA NONPROFIT CORPORATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "OMAHA WELCOMES THE STRANGER INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "OPERA OMAHA INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "THE KIM FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "THE WELLBEING PARTNERS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 22000.0,
+      "is_new": true,
+      "name": "SISTERS OF MERCY OF THE AMERICAS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "DOLLAR ENERGY FUND INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "GROW NEBRASKA INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "NEBRASKA MAINTENANCE ACADEMY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "YOUTH FOR GREATER GOOD",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "ST PHILIP NERI-BLESSED SACRAMENT OF THE SOCIETY OF ST VINCENT DE PAUL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "HEARTLAND BIKE SHARE DBA ROAM SHARE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "IOWA LEGAL AID",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 18000.0,
+      "is_new": true,
+      "name": "FOSTER CARE CLOSET",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "FILM STREAMS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "FINANCIAL BEGINNINGS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "3 SISTERS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "CITY OF OMAHA PUBLIC LIBRARY FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "MOMENTUM",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "NEBRASKA HOUSING DEVELOPERS ASSOCIATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "DEAR DIABETES INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "FREMONT AREA VETERANS COALITION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "NEBRASKA AFGHAN COMMUNITY CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "NORTH 24TH STREET BUSINESS IMPROVEMENT DISTRICT ASSOCIATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "OMAHA UNITY STARS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "THE CONNECTION HOMELESS SHELTER INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "THE JOY AMBITION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 14500.0,
+      "is_new": true,
+      "name": "PAPILLION COMMUNITY FOUNDATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 13750.0,
+      "is_new": false,
+      "name": "COMMUNITY ALLIANCE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 13000.0,
+      "is_new": true,
+      "name": "TETON SCIENCE SCHOOLS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": true,
+      "name": "ELKHORN PUBLIC SCHOOLS FOUNDATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "AT EASE USA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "THE LINKS FOUNDATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "PAPILLION LAVISTA SCHOOLS FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "GABBY KRAUSE FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "OMAHA THEATER COMPANY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "BALLET NEBRASKA DBA AMERICAN MIDWEST BALLET",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "IOWA JAG INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "TABLE GRACE MINISTRIES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": true,
+      "name": "ASHLAND GREENWOOD PUBLIC SCHOOLS FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "VOICE ADVOCACY CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "URBAN LEAGUE OF NEBRASKA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "IMMIGRANT LAW AND JUSTICE NETWORK",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "NEBRASKA STATE CHAMBER FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "OMAHA SKILLS CONNECTIONS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "PEAR TREE PERFORMING ARTS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "PHENOMENAL WOMAN ACADEMY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "SKILLS USA INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "METROPOLITAN SCIENCE & ENGINEERING FAIR INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "NEBRASKA ADAPTIVE SPORTS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "MIDLANDS COMMUNITY FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2400.0,
+      "is_new": true,
+      "name": "CHICANO AWARENESS CENTER INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2200.0,
+      "is_new": true,
+      "name": "CATHOLIC CHARITIES OF THE ARCHDIOCESE OF OMAHA INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "MILLARD PUBLIC SCHOOLS FOUNDATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "BELLEVUE PUBLIC SCHOOLS FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "RALSTON COMMUNITY SCHOOLS FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 450.0,
+      "is_new": false,
+      "name": "NELSON MANDELA ELEMENTARY SCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

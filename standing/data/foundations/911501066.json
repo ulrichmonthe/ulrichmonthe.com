@@ -48,6 +48,1532 @@
     "singleton_cluster_share": 0.4055,
     "total_grant_records": 1939
   },
+  "recipients_latest_year": [
+    {
+      "amount": 1660496.0,
+      "is_new": false,
+      "name": "LIBERTY HILL FOUNDATION",
+      "purpose": "TO SUPPORT THE LOS ANGELES NONPROFIT COMMUNITY NON CASH GRANT DATE: 04/30/2024 COST BASIS: 227,738 FMV: 896,360"
+    },
+    {
+      "amount": 1589902.0,
+      "is_new": false,
+      "name": "RAINIER VALLEY CORPS",
+      "purpose": "FS: COLLECTIVE JUSTICE, GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1468879.0,
+      "is_new": false,
+      "name": "SEE INC",
+      "purpose": "FS: KINDRED SOUTHERN HEALING JUSTICE COLLECTIVE"
+    },
+    {
+      "amount": 1263149.0,
+      "is_new": false,
+      "name": "SOCIAL JUSTICE FUND NW",
+      "purpose": "STOCK GRANT SUPPLEMENT, GENERAL SUPPORT"
+    },
+    {
+      "amount": 1255098.0,
+      "is_new": false,
+      "name": "BYRD BARR PLACE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1033231.0,
+      "is_new": true,
+      "name": "AMALGAMATED CHARITABLE FDN",
+      "purpose": "DECOLONIZING WEALTH PROJECT NON CASH GRANT DATE: 08/31/2024 COST BASIS: 324,763 FMV: 1,033,234"
+    },
+    {
+      "amount": 849019.0,
+      "is_new": false,
+      "name": "NCFP",
+      "purpose": "GENERAL OPERATING SUPPORT NON CASH GRANT DATE: 08/31/2024 COST BASIS: 270,621 FMV: 849,019"
+    },
+    {
+      "amount": 774902.0,
+      "is_new": false,
+      "name": "COMPASSPOINT NONPROFIT SERVICE",
+      "purpose": "GENERAL OPERATING SUPPORT NON CASH GRANT DATE: 08/31/2024 COST BASIS: 243,565 FMV: 774,902"
+    },
+    {
+      "amount": 514036.0,
+      "is_new": false,
+      "name": "CATALYST",
+      "purpose": "GENERAL OPERATING SUPPORT NON CASH GRANT DATE: 01/31/2024 COST BASIS: 76,659 FMV: 259,293"
+    },
+    {
+      "amount": 514036.0,
+      "is_new": false,
+      "name": "PHILANTHROPY NW",
+      "purpose": "GENERAL OPERATING SUPPORT NON CASH GRANT DATE: 01/31/2024 COST BASIS: 76,659 FMV: 259,293"
+    },
+    {
+      "amount": 509486.0,
+      "is_new": false,
+      "name": "SOUTHERN CA GRANTMAKERS",
+      "purpose": "GENERAL OPERATING SUPPORT NON CASH GRANT DATE: 08/31/2024 COST BASIS: 162,397 FMV: 509,486"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "RURAL DEVELOPMENT INITIATIVES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 440000.0,
+      "is_new": false,
+      "name": "SEATTLE INT'L FILM FESTIVAL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": true,
+      "name": "ALLIANCE FOR TRIBAL CLEAN ENERGY",
+      "purpose": "INDIGENOUS POWER & LIGHT FUND: WA STATE ACTIVITY"
+    },
+    {
+      "amount": 275000.0,
+      "is_new": false,
+      "name": "COMMUNITY PARTNERS",
+      "purpose": "FS: CHANGEIST GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 275000.0,
+      "is_new": false,
+      "name": "TIDES CENTER",
+      "purpose": "DETROIT ACTION EDUC. FUND - GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 265986.0,
+      "is_new": false,
+      "name": "NORTHERN CA GRANTMAKERS",
+      "purpose": "GENERAL OPERATING SUPPORT NON CASH GRANT DATE: 08/31/2024 COST BASIS: 84,782 FMV: 265,986"
+    },
+    {
+      "amount": 264663.0,
+      "is_new": false,
+      "name": "COMMON COUNSEL FDN",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 260500.0,
+      "is_new": false,
+      "name": "WA ENVIRONMENTAL COUNCIL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 258333.0,
+      "is_new": false,
+      "name": "EARTHJUSTICE",
+      "purpose": "GENERAL OPERATING SUPPORT NON CASH GRANT DATE: 08/31/2024 COST BASIS: 81,198 FMV: 258,333"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "GRIST",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "COMMUNITIES RISE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "AZ IMPACT FOR GOOD",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 235000.0,
+      "is_new": false,
+      "name": "PLANTING JUSTICE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 225500.0,
+      "is_new": false,
+      "name": "CLIMATE SOLUTIONS",
+      "purpose": "FISCAL SPONSOR: WA CLIMATE COMMUN. PROJECT, GENERAL SUPPORT"
+    },
+    {
+      "amount": 225500.0,
+      "is_new": false,
+      "name": "TRANSPORTATION CHOICES COALITION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 199470.0,
+      "is_new": false,
+      "name": "SEATTLE PUBLIC SCHOOLS",
+      "purpose": "ES SCHOOL LITERACY GRANT"
+    },
+    {
+      "amount": 185000.0,
+      "is_new": false,
+      "name": "CHARITABLE VENTURES OF ORANGE COUNTY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 180000.0,
+      "is_new": false,
+      "name": "PILLARS OF THE COMMUNITY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "SOMALI FAMILY SERVICES OF SAN DIEGO",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "ALLIANCE SAN DIEGO",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "AFRICAN COMMUNITY HOUSING & DEVELOPMENT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "AFRICATOWN COMMUNITY LAND TRUST",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "ALMA BACKYARD FARMS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "AMAH MUTSUN LAND TRUST",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "BLACK EDUCATION STRATEGY ROUNDTABLE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "BLACK ORGANIZING PROJECT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "CADRE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "CAUSA JUSTA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "CENTER ON POLICY INITIATIVES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "CENTRAL DISTRICT FORUM FOR ARTS & IDEAS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "CENTRAL WA JUSTICE FOR OUR NEIGHBORS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "CHILDREN'S ALLIANCE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "CHINESE PROGRESSIVE ASSOC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "CHINOOK INDIAN NATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "COLECTIVA LEGAL DEL PUEBLO",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "COLEMAN ADVOCATES FOR CHILDREN & YOUTH",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "ENVIRONMENTAL HEALTH COALITION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "FRONT & CENTERED",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "GLOBAL PERINATAL SERVICES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "GLOBAL TO LOCAL HEALTH INITIATIVE",
+      "purpose": "GENERAL OPERATING SUPPORT, FOOD INNOVATION NETWORK"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "KITCHENS FOR GOOD",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "LA ALLIANCE FOR A NEW ECONOMY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "LA RAZA CENTRO LEGAL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "LAVENDER RIGHTS PROJECT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "LOGAN HEIGHTS COMMUNITY DEV",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "MASON CO HOST",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "NILE SISTERS DEVELOPMENT INITIATIVE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "OPEN DOORS FOR MULTICULTURAL FAMILIES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "PARA LOS NINOS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "PARTNERSHIP FOR THE ADVANCEMENT OF NEW AMERICANS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "PEACE & JUSTICE ACTION LEAGUE OF SPOKANE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "POTLACH FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "REFUGEE CONNECTIONS SPOKANE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "SALISH SCHOOL SPOKANE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "SOMALI HEALTH BOARD",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "SOMOS MAYFAIR",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "THAI COMMUNITY DEVELOPMENT CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "THE SERVICE BOARD",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "THE VERA PROJECT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "TODEC LEGAL CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "TOTEM STAR",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "TRUST SOUTH LA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "WAREHOUSE WORKER RESOURCE CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "WING LUKE ASIAN MUSEUM",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "YOUNG WOMEN EMPOWERED",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "YOUNG WOMEN'S FREEDOM CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "CENTRAL COAST ALLIANCE FOR A SUSTAINABLE ECONOMY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "RAINIER BEACH ACTION COALITION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "UTOPIA WASHINGTON",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "WA BUS EDUCATION FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "AGRICULTURE & LAND-BASED TRAINING ASSOC (ALBA)",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "WA IMMIGRANT SOLIDARITY NETWORK",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "COLUMBIA RIVERKEEPER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "URBAN LEAGUE OF SAN DIEGO",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "ONE ARIZONA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "PODER IN ACTION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "PUENTE HUMAN RIGHTS MOVEMENT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "TIDES FOUNDATION",
+      "purpose": "TRANS JUSTICE FUNDING PROJECT SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "DETROIT JUSTICE CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "EQUITY & TRANSFORMATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "FREEDOM INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "GROUNDSWELL FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "HAWAII PEOPLES FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "JUBILEE JUSTICE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "SEVENTH GENERATION FUND FOR INDIGENOUS PEOPLES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "TRANSGENDER LAW CENTER",
+      "purpose": "FS: BLACK LGBTQIA+ MIGRANT PROJECT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "VOICE OF THE EXPERIENCED",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "GRASSROOTS GLOBAL JUSTICE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "INDIGENOUS PEOPLES POWER NETWORK",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "NEIGHBORHOOD FUNDERS GROUP",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "THE PROMISE OF JUSTICE INITIATIVE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "SOUTHERN VISION ALLIANCE",
+      "purpose": "DURHAM BEYOND POLICING"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "TAPROOT EARTH",
+      "purpose": "GULF SOUTH FOR A GREEN NEW DEAL"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "WE GOT US NOW",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "WOMEN WITH A VISION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "FAMILIES & FRIENDS OF LA'S INCARCERATED CHILDREN",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "JUSTICE FOR GREENWOOD FDN",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "SOCIAL GOOD FUND CO BLACK WOMEN IN STEM 20",
+      "purpose": "MARSHA P. JOHNSON INSTITUTE SUPPORT"
+    },
+    {
+      "amount": 130000.0,
+      "is_new": false,
+      "name": "NA'AH ILLAHEE FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "ACCE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "API CHAYA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "BIKE WORKS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "CALIFORNIANS FOR JUSTICE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "CENTER ON RACE POVERTY & THE ENVIRONMENT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "CHIEF SEATTLE CLUB",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "CLIMATE ACTION CAMPAIGN",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "COALITION FOR HUMANE IMMIGRANT RIGHTS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "COMMUNITIES FOR A BETTER ENVIRONMENT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "DENISE LOUIE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "DUWAMISH RIVER CLEANUP COALITION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "E AFRICAN COMMUNITY SERVICES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "ECONOMIC OPPORTUNITY INSTITUTE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "ECOSS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "ELLA BAKER CENTER FOR HUMAN RIGHTS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "ESPERANZA COMMUNITY HOUSING",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "ETHIOPIAN COMMUNITY IN SEATTLE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "FAIR WORK CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "FEEST",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "GARDEN-RAISED BOUNTY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "GOT GREEN",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "HEART OF LA YOUTH",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "HOUSE OF RUTH",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "INTERIM COMMUNITY DEVELOPMENT ASSOC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "JUST IN TIME FOR FOSTER YOUTH",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "LATINO COMMUNITY FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "LEADERSHIP COUNSEL FOR JUSTICE & ACCOUNTABILITY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "LEGAL VOICE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "LYDIA PLACE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "MOCKINGBIRD SOCIETY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "MONARCH SCHOOL PROJECT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "NEXT GENERATION SCHOLARS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "NW AFRICAN AMERICAN MUSEUM",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "NW EDUCATION ACCESS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "OCEAN DISCOVERY INSTITUTE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "ONEAMERICA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "POWERFUL VOICES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "PUGET SOUND SAGE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "RAINIER SCHOLARS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "RE SOURCES FOR SUSTAINABLE COMMUNITIES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "RECOVERY CAFE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "SE SEATTLE EDUCATION COALITION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "SKCCH",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "TACOMA COMMUNITY HOUSE",
+      "purpose": "THE REACH CENTER"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "TEAMCHILD",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "TECHNOLOGY ACCESS FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "TEEN FEED",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "URBAN LEAGUE OF METROPOLITAN SEATTLE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "VENTURES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "WATERSIDE WORKSHOPS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "WORKING PARTNERSHIP USA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "YES NATURE TO NEIGHBORHOODS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "YWCA OF OLYMPIA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "ASIAN PACIFIC ENVIRONMENTAL NETWORK (APEN)",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "LA TRUST FOR CHILDREN'S HEALTH",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "STRATEGIC CONCEPTS IN ORGANIZING (SCOPE)",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "SAJE (STRATEGIC ACTIONS FOR A JUST ECONOMY)",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "WA CAN EDUCATION & RESEARCH FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "WA FARMLAND TRUST",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "COMMUNITY WATER CENTER ACTION FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "LA BLACK WORKER CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "KANDELIA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "MID-CITY COMMUNITY ADVOCACY NETWORK",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "RECLAIM",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "UNITED INDIANS OF ALL TRIBES FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "CHOOSE 180 (COMMUNITY LEADERS ROUNDTABLE OF SEATTLE)",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100500.0,
+      "is_new": true,
+      "name": "HOUSING DEVELOPMENT CONSORTIUM",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100500.0,
+      "is_new": true,
+      "name": "RURAL PEOPLE'S PLATFORM",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "HABITAT FOR HUMANITY SEATTLE-KING CO",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "KINGMAKERS OF OAKLAND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ORCAS ISLAND COMMUNITY FOUNDATION",
+      "purpose": "FS: EARLY CHILDHOOD EDUCATION FOUNDATION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "RIGHT TO THE CITY ALLIANCE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "THE ASPEN INSTITUTE",
+      "purpose": "CENTER FOR NATIVE AMERICAN YOUTH"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "TREEHOUSE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ALIENTO EDUCATION FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ARIZONA CENTER FOR EMPOWERMENT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ARIZONA LATINO LEADERS IN EDUCATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BLACK PHOENIX ORGANIZING COLLECTIVE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CASA LATINA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CHAINLESS CHANGE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "COMMUNITY HEALTH WORKER COALITION FOR MIGRANTS & REFUGEES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "DINE CARE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "FREEFROM",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "LEAGUE OF CONSERVATION VOTERS EDUCATION FUND",
+      "purpose": "CHISPA ARIZONA"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "MIJENTE SUPPORT COMMITTEE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "RAINIER VALLEY FOOD BANK",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "REFRAME YOUTH ARTS CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "RURAL ARIZONA ENGAGEMENT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "TRANSQUEER PUEBLO",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "WA STATE COALITION AGAINST DV",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "RELEVANT ENGAGEMENT CONSULTING",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "EASTERN WOODLAND LACROSSE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "FAIR FIGHT INITIATIVE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "SOLIDAIRE NETWORK",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "SOUTHERN CONSERVATION PARTNERS",
+      "purpose": "EARTHSEED LAND COLLECTIVE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "ASIAN COUNSELING & REFERRAL SERVICE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "FEED SEVEN GENERATIONS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "SPARK NORTHWEST",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 95000.0,
+      "is_new": true,
+      "name": "INDEPENDENT FEATURE PROJECT",
+      "purpose": "FILM CALLED NINE PROJECT GRANT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "SHUNPIKE",
+      "purpose": "UNSPOKEN TRUTHS - GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "VIDIOTS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "KUOW",
+      "purpose": "ACTIVE YOUTH MEDIA SUPPORT"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "ADOPT MY BLOCK",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "CHILDREN OF THE SETTING SUN PRODUCTIONS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": true,
+      "name": "SAN JUAN ISLANDS CONSERVATION DISTRICT",
+      "purpose": "FS: NW INDIAN COLLEGE, GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ABOLISH PRIVATE PRISONS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ACTA NON VERBA URBAN FARM PROJECT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ARTSFUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BEST",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CALIFORNIA INDIAN ENVIRONMENTAL ALLIANCE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "EAST YARD ENVIRONMENTAL JUSTICE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "FREEDOM EDUCATION PROJECT OF PUGET SOUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "FUNHOUSE COMMONS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "GARMENT WORKER CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "GREENACTION FOR HEALTH & ENVIRONMENTAL JUSTICE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "HANFORD CHALLENGE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "HELPING LINK",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "LOPEZ COMMUNITY LAND TRUST",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SEATTLE FOUNDATION",
+      "purpose": "SUSTAINABLE COMMUNITY FUNDERS POOLED FUNDS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SEATTLE PARKS FOUNDATION",
+      "purpose": "COMMUNITY LAND CONSERVANCY"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "THE VILLAGE METHOD",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ZERO WASTE WASHINGTON",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "AREA AGENCY ON AGING REGION ONE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ARMS AROUND YOU",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BLACK MALE VOTER PROJECT EDUCATION FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "HIPHOPFORCHANGE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "LITERACY VOLUNTEERS OF MARICOPA COUNTY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "TEMPE COMMUNITY ACTION AGENCY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "TUBMAN CENTER FOR HEALTH & FREEDOM",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "PRO CHOICE WA FDN",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "IAPALA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "LOOK2JUSTICE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "PLANNED PARENTHOOD OF THE GREAT NORTHWEST",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "SEED",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "SV ARCHIVE DBA SCARECROW VIDEO",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "PUGET SOUND VOYAGING SOCIETY DBA COMMUNITY BOAT PROJECT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "KCRW FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "HUNGER ACTION LA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SAFE SAN JUANS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LOST SIERRA FOOD PROJECT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SOMALI BANTU ASSOC OF AMERICA (SBAOA)",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "COMMUNITY ALLIANCE FOR GLOBAL JUSTICE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "GREATER CHICAGO FOOD DEPOSITORY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "WA PHYSICIANS FOR SOCIAL RESPONSIBILITY",
+      "purpose": "HONORARIUM"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "APPLICATION INFORMATION IS AVAILABLE ON THE FOUNDATION'S WEBSITE: WWW.SATTERBERG.ORG",

@@ -102,6 +102,19 @@
     .act:hover { border-color: var(--accent); }
     .act[data-on="1"] { background: var(--accent-deep); border-color: var(--accent-deep); color: var(--paper); }
 
+    .headline-agg { background: var(--paper-deep); border-left: 3px solid var(--accent); border-radius: 0 8px 8px 0; padding: 16px 18px; margin-bottom: 16px; font-family: var(--serif); font-size: 17px; line-height: 1.55; color: var(--ink); }
+    .headline-agg b { font-weight: 600; }
+    .savednote { font-size: 13px; color: var(--ink-soft); margin-top: 10px; }
+    .pastebox { margin-top: 14px; }
+    .pastebox textarea { width: 100%; min-height: 76px; font-family: var(--sans); font-size: 14px; padding: 11px 13px; border: 1.5px solid var(--rule); border-radius: 10px; background: var(--paper-raised); color: var(--ink); resize: vertical; }
+    .pastebox textarea:focus { border-color: var(--accent); outline: none; }
+    .paste-row { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-top: 9px; }
+    .paste-msg { font-size: 13.5px; color: var(--ink-soft); }
+    details.paste > summary { cursor: pointer; font-size: 14px; color: var(--accent-deep); font-weight: 600; list-style: none; }
+    details.paste > summary::-webkit-details-marker { display: none; }
+    details.paste > summary::before { content: "＋ "; }
+    details.paste[open] > summary::before { content: "− "; }
+
     .screen { margin-top: 16px; border: 1px solid var(--rule); border-radius: 10px; background: var(--paper-raised); padding: 20px 22px; }
     .screen h3 { margin-top: 0; }
     .tablewrap { overflow-x: auto; }
@@ -204,6 +217,17 @@
         <button class="chip" data-f="rare" aria-pressed="false">Rarely</button>
         <button class="chip" data-f="none" aria-pressed="false">No comparison</button>
       </div>
+
+      <details class="paste">
+        <summary>Already have a list of funders? Paste it</summary>
+        <div class="pastebox">
+          <textarea id="pastein" placeholder="One per line — foundation names or EINs.&#10;Ford Foundation&#10;521951904"></textarea>
+          <div class="paste-row">
+            <button class="act" id="pastego">Add these to my screen</button>
+            <span class="paste-msg" id="pastemsg"></span>
+          </div>
+        </div>
+      </details>
 
       <div class="list" id="list"><div style="padding:20px" class="empty">Loading…</div></div>
 
@@ -405,7 +429,7 @@
       return DATA.foundations.filter(function (f) { return f.ein === e; })[0];
     }).filter(Boolean);
 
-    body.innerHTML = '<div class="tablewrap"><table class="scr"><thead><tr>' +
+    body.innerHTML = aggregate(picked) + '<div class="tablewrap"><table class="scr"><thead><tr>' +
       '<th>Foundation</th><th>New / total</th><th>Rate</th><th>Median grant</th>' +
       '<th>Unsolicited</th><th>Match</th><th>As of</th></tr></thead><tbody>' +
       picked.map(function (f) {
@@ -418,9 +442,19 @@
           '<td class="n">FY' + (f.latest_year || '—') + '</td></tr>';
       }).join('') + '</tbody></table></div>' +
       '<div style="margin-top:14px;display:flex;gap:10px;flex-wrap:wrap">' +
+      '<button class="act" id="copylink">Copy link to this screen</button>' +
       '<button class="act" id="csv">Export CSV</button>' +
       '<button class="act" id="printit">Print / save PDF</button>' +
-      '<button class="act" id="clear">Clear</button></div>';
+      '<button class="act" id="clear">Clear</button></div>' +
+      '<div class="savednote">This screen is saved on this device and lives in the address bar — ' +
+      'bookmark it, or send the link to whoever asks why a funder is not on the list.</div>';
+
+    document.getElementById('copylink').onclick = function () {
+      var btn = this, url = shareUrl();
+      var done = function () { btn.textContent = 'Link copied'; setTimeout(function () { btn.textContent = 'Copy link to this screen'; }, 2200); };
+      if (navigator.clipboard) navigator.clipboard.writeText(url).then(done, done);
+      else { window.prompt('Copy this link', url); }
+    };
 
     document.getElementById('csv').onclick = function () {
       var head = ['Foundation', 'State', 'New grantees', 'Total grantees', 'New-grantee rate',
@@ -449,7 +483,42 @@
     };
   }
 
-  function save() { try { localStorage.setItem(KEY, JSON.stringify(SEL)); } catch (e) {} }
+  function save() {
+    try { localStorage.setItem(KEY, JSON.stringify(SEL)); } catch (e) {}
+    syncUrl();
+  }
+
+  // A screen is public data screened client-side, so it is expressible as a
+  // link. That one property makes it the return path, the thing a development
+  // director sends to an ED, and how the tool travels — without asking the
+  // visitor for anything.
+  function syncUrl() {
+    var u = new URL(window.location.href);
+    if (SEL.length) u.searchParams.set('s', SEL.join(','));
+    else u.searchParams.delete('s');
+    history.replaceState(null, '', u.toString());
+  }
+
+  function shareUrl() {
+    var u = new URL(window.location.href);
+    u.searchParams.set('s', SEL.join(','));
+    return u.toString();
+  }
+
+  function aggregate(picked) {
+    var pub = picked.filter(function (f) { return f.publishable; });
+    if (!pub.length) return '';
+    var newG = 0, totG = 0;
+    pub.forEach(function (f) { newG += f.new_latest || 0; totG += f.total_latest || 0; });
+    // 15 hours is the low end of the commonly cited range for a foundation
+    // proposal. Labelled as an estimate on the page for that reason.
+    var hours = picked.length * 15;
+    return '<div class="headline-agg">These <b>' + picked.length + '</b> foundations funded <b>' +
+      totG + '</b> organizations in their most recent filed year. <b>' + newG +
+      '</b> of those were organizations they had not funded before. Applying to all ' +
+      picked.length + ' is roughly <b>' + hours + ' hours</b> of proposal work.' +
+      '<div class="savednote">Hours are an estimate at 15 per proposal — the low end of what grant professionals report. Counts are from the filings.</div></div>';
+  }
 
   list.addEventListener('click', function (e) {
     var add = e.target.closest('[data-add]');
@@ -478,6 +547,25 @@
     });
   });
 
+  document.getElementById('pastego').addEventListener('click', function () {
+    var raw = document.getElementById('pastein').value || '';
+    var msg = document.getElementById('pastemsg');
+    if (!DATA) return;
+    var lines = raw.split(/[\n,;]+/).map(function (x) { return x.trim(); }).filter(Boolean);
+    var hit = 0, miss = [];
+    lines.forEach(function (line) {
+      var key = line.toLowerCase().replace(/[^a-z0-9]/g, '');
+      var f = DATA.foundations.filter(function (x) {
+        return x.ein === line.replace(/\D/g, '') ||
+               x.name.toLowerCase().replace(/[^a-z0-9]/g, '').indexOf(key) > -1;
+      })[0];
+      if (f) { if (SEL.indexOf(f.ein) < 0) { SEL.push(f.ein); } hit++; }
+      else miss.push(line);
+    });
+    save(); render(); renderScreen();
+    msg.textContent = hit + ' matched' + (miss.length ? ' · not in this cohort: ' + miss.slice(0, 3).join(', ') + (miss.length > 3 ? '…' : '') : '');
+  });
+
   document.getElementById('q').addEventListener('input', function (e) {
     Q = e.target.value.trim().toLowerCase();
     render();
@@ -487,9 +575,14 @@
     .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(function (d) {
       DATA = d;
+      // A link beats whatever is on the device: someone arriving from a
+      // shared screen should see that screen, not their own.
+      var fromUrl = (new URL(window.location.href)).searchParams.get('s');
+      if (fromUrl) SEL = fromUrl.split(',').map(function (x) { return x.trim(); }).filter(Boolean);
       SEL = SEL.filter(function (e) {
         return d.foundations.some(function (f) { return f.ein === e; });
       });
+      save();
       document.getElementById('asof').textContent =
         d.count + ' foundations · IRS Form 990-PF · figures as of FY' +
         d.as_of_fiscal_year + ' · computed ' + d.generated;

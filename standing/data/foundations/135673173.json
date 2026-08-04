@@ -52,6 +52,14 @@
     "singleton_cluster_share": 1.0,
     "total_grant_records": 1393
   },
+  "recipients_latest_year": [
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "NEW YORK HISTORICAL SOCIETY",
+      "purpose": "EXHIBITION INSTALLMENT FEE"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "THE FOUNDATION HAS A STANDARD APPLICATION WHICH SPECIFIES THE MATERIAL THE APPLICANT SHOULD SUBMIT FOR HIS/HER FIELD.",

@@ -50,6 +50,26 @@
     "singleton_cluster_share": 0.625,
     "total_grant_records": 14
   },
+  "recipients_latest_year": [
+    {
+      "amount": 1500000.0,
+      "is_new": false,
+      "name": "THE CONSERVATION FUND",
+      "purpose": "CONSERVATION PROJECTS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "LONGWOOD GARDENS",
+      "purpose": "COORDINATION EFFORTS ON CONSERVATION PROJECTS"
+    },
+    {
+      "amount": 7641.0,
+      "is_new": false,
+      "name": "VARIOUS SPONSORSHIPS",
+      "purpose": "SPONSORSHIPS"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

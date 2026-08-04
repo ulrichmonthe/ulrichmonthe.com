@@ -51,6 +51,14 @@
     "singleton_cluster_share": 0.5,
     "total_grant_records": 4
   },
+  "recipients_latest_year": [
+    {
+      "amount": 25756751.0,
+      "is_new": true,
+      "name": "AMERICAN ONLINE GIVING FOUNDATION INC",
+      "purpose": "PROGRAM SUPPORT"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "N/A",

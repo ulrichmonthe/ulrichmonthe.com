@@ -48,6 +48,620 @@
     "singleton_cluster_share": 0.5393,
     "total_grant_records": 661
   },
+  "recipients_latest_year": [
+    {
+      "amount": 10700000.0,
+      "is_new": true,
+      "name": "Volunteers of America Michigan",
+      "purpose": "4.784 acre 5 story office building (APN 24-14-201-053)"
+    },
+    {
+      "amount": 800000.0,
+      "is_new": false,
+      "name": "Orlando Health Foundation",
+      "purpose": "Comprehensive Care Center at Orlando Health Arnold Palmer Hospital for Children"
+    },
+    {
+      "amount": 775000.0,
+      "is_new": false,
+      "name": "Palm Springs Air Museum",
+      "purpose": "the Auen Learning Center"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "Samaritan's Purse",
+      "purpose": "for critical medical care and necessary supplies-including food, water, hygiene kite, health clinics and an emergency field hospital caused by Hurricane Helene"
+    },
+    {
+      "amount": 325000.0,
+      "is_new": false,
+      "name": "The First Academy Inc",
+      "purpose": "to complete renovations to the track, scoreboard, lighting, and fencing"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "Cumberland College",
+      "purpose": "Scholarship Programs"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "Pacific Legal Foundation",
+      "purpose": "to support the expanding property rights litigation program in California"
+    },
+    {
+      "amount": 195000.0,
+      "is_new": false,
+      "name": "The Philanthropy Roundtable",
+      "purpose": "support to continue Roundtable's programs"
+    },
+    {
+      "amount": 170168.0,
+      "is_new": false,
+      "name": "Children First Leadership Academy",
+      "purpose": "5th, 6th, 7th, 8th Grade Expeditionary Learning Capstone Experience"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "St Jude Children's Research Hospital",
+      "purpose": "support for continued research"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "Friends of the Cultural Center Inc",
+      "purpose": "for the annual gala and educational programs"
+    },
+    {
+      "amount": 140000.0,
+      "is_new": false,
+      "name": "Desert Christian Academy",
+      "purpose": "capital improvements"
+    },
+    {
+      "amount": 120000.0,
+      "is_new": false,
+      "name": "Xavier College Preparatory High School",
+      "purpose": "to cover the cost of a dedicated wrestling mat2024 Pro-Am Charity Golf Event"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "USC Arcadia Hospital Foundation",
+      "purpose": "program support"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Living Desert Reserve",
+      "purpose": "2024 WildLights event and educational programs"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Desert Forum Inc",
+      "purpose": "Sponsorship of 2025 Speaker Series"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": false,
+      "name": "Boys & Girls Club of Cathedral City",
+      "purpose": "Matching Grant - for the 14th Annual Holiday Extravaganza"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "California Community Foundation",
+      "purpose": "for D1400: Mahnaz and David Newman Charitable Fund"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": true,
+      "name": "The District Attorney",
+      "purpose": "to help purchase Two Polaris Crew XP1000 Premium off-road vehicles and trailer"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "USC - School of Dramatic Arts",
+      "purpose": "to support the Sandy Reed Endowed Professional Development Fund"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "Camp Alandale",
+      "purpose": "to assist children attend summer camp"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "AFAF - American Friends of our Armed Forces",
+      "purpose": "Program support"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Alzheimers Coachella Valley",
+      "purpose": "to help maintain and expand services and programs"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Mama's House",
+      "purpose": "to help continue the work at the Hope Center"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": true,
+      "name": "ABC Recovery Center",
+      "purpose": "to assist in the Berger Learning Center"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "Coachella Valley Boxing Club",
+      "purpose": "to purchase supplies and equipment"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "Coronado Hospital Foundation",
+      "purpose": "to fund life-saving state-of-the art technology"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "Ronald McDonald House Loma Linda",
+      "purpose": "to support Temporary Housing and Family Support Services"
+    },
+    {
+      "amount": 38000.0,
+      "is_new": true,
+      "name": "Olive Crest",
+      "purpose": "operating expenses"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "Angel View Inc",
+      "purpose": "to help purchase a third van"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "Paws and Hearts",
+      "purpose": "general support to add more volunteer dog therapy teams to serve more seniors residing in long-term care facilities"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "The Fund for Partnership for Success",
+      "purpose": "program support"
+    },
+    {
+      "amount": 32500.0,
+      "is_new": true,
+      "name": "College of the Desert Foundation",
+      "purpose": "to support the renting books program to students"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "Saint Louis School",
+      "purpose": "scholarship programs"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "Variety Childrens Charities of the Desert Tent 66",
+      "purpose": "to support expenses for office space expansion"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "Make-A-Wish Foundation - Orange County and Inland Empire",
+      "purpose": "to support Wishes made in the Coachella Valley"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Desert Arc",
+      "purpose": "operating expenses"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Family YMCA of the Desert",
+      "purpose": "to support the Annual Sustaining Campaign to raise awareness and funds for meaningful programs"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Find Food Bank Inc",
+      "purpose": "to support the Telethon fundraising efforts on April 5, 2024"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Guide Dogs of the Desert",
+      "purpose": "to help provide a high-grade video monitoring system for the nursery"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Equestrian Order of the Holy Sepulchre of Jerusalem",
+      "purpose": "for continued support for the mission"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Read With Me Volunteer Programs",
+      "purpose": "to help honor and recognize over 600 Volunteers"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Braille Institute of America Inc",
+      "purpose": "to support the Optical Device program for Veterans and First Responders in the Coachella Valley"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "National PKU Alliance",
+      "purpose": "to support the NPKUA Patient Registry"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "Foundation for Palm Springs Unified School District",
+      "purpose": "Shoes for Students 2024-2025 school year"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "Hearts Everywhere Reaching Out For Children",
+      "purpose": "to support the 2024 Camp High Five summer camp"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "California State Sheriffs' Association",
+      "purpose": "130th Annual Conference Sponsorship"
+    },
+    {
+      "amount": 18700.0,
+      "is_new": false,
+      "name": "Middletown Rotary Charitable Trust",
+      "purpose": "to build, deliver and install 175 bio-sand filters plus M&E follow up"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Family Services of the DesertFood Now",
+      "purpose": "to bolster Food Now's initiatives aimed at ensuring food security for at-risk children and youth"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Fellowship of Christian Athletes",
+      "purpose": "youth outreach programsoperating expenses"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "Society of Financially Empowered Women",
+      "purpose": "2024 Annual summit"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "The First Tee of Coachella Valley",
+      "purpose": "to support East Valley programs"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Gathering Hope",
+      "purpose": "program support"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "International Theological Seminary",
+      "purpose": "to improve student housing"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "Mid-Pacific Institute",
+      "purpose": "operating expensesfor critical medical care and necessary"
+    },
+    {
+      "amount": 14478.0,
+      "is_new": true,
+      "name": "Palm Desert High School Sports Boosters - Boys Water Polo Team",
+      "purpose": "to help purchase a portable batting cage"
+    },
+    {
+      "amount": 14300.0,
+      "is_new": true,
+      "name": "Palm Canyon Theatre",
+      "purpose": "to help purchase two new \"Follow Spotlights\""
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Martha's Village & Kitchen",
+      "purpose": "to provide vital services to impoverished and homeless families"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Rancho Mirage Writer's Festival",
+      "purpose": "operating expenses"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "St Louis University High School",
+      "purpose": "to provide tuition relief"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "University of California San Francisco",
+      "purpose": "to help fund Dr. Amy Ho Chien breast cancer research"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Assistance League Coachella Valley",
+      "purpose": "for the expansion of the health component of Operation School Bell"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "Coachella Valley Foster Kids",
+      "purpose": "to help fund beds for sixty-six children in foster care in the Coachella Valley"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "Coronado Island Film Festival",
+      "purpose": "to supplement transportation expenses for seniors"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "Madison River Foundation",
+      "purpose": "to support conservation work of the Madison River watershed"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "Refuge Pregnancy Center",
+      "purpose": "to support the RPC's Prenatal Education Program"
+    },
+    {
+      "amount": 9000.0,
+      "is_new": false,
+      "name": "WLF - Women Leaders Forum of Coachella Valley",
+      "purpose": "to underwrite Fentanyl Education"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "Desert Ensemble Theatre Company Inc",
+      "purpose": "to obtain materials for a new shop in Cathedral City"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "Association of Fundraising Professionals - Desert Communities Chapter",
+      "purpose": "to support the annual National Philanthropy Day Awards in the Desert"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "Homeboy Industries",
+      "purpose": "to help with the Christmas Carnival Event"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "Nickerson-Rossi Dance",
+      "purpose": "program support"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "Northeast Texas Community College",
+      "purpose": "scholarship program"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "Street Life Project",
+      "purpose": "operating expenses"
+    },
+    {
+      "amount": 7000.0,
+      "is_new": false,
+      "name": "Africa 6000 International",
+      "purpose": "2024 Pro-Am Charity Golf Event"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "AIDS Assistance Program",
+      "purpose": "program support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Healthnetwork Foundation",
+      "purpose": "operating expenses2024 WildLights event and educational"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Live 180",
+      "purpose": "program support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Palm Springs Friends of Philharmonic",
+      "purpose": "operating expenses"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Parade Charities Inc",
+      "purpose": "for the Kid's Zone at the Annual Golf Cart Parade"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Saint Louise House",
+      "purpose": "Property Improvements"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "The Bianca Rae Foundation",
+      "purpose": "2024 Rae oh Hope Retreat"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Leadership Brainery",
+      "purpose": "operating expenses"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Orangewood Foundation",
+      "purpose": "for scholarships, housing needs, resources for foster youth"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Champs Heart Inc",
+      "purpose": "to support the Denim & Diamonds \"Gallop\" sponsorship"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Riverside County Office of Economic Development",
+      "purpose": "2024 Coachella Valley Business Conference"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "The Butterfly Mission",
+      "purpose": "for your Refresh Fest, in June"
+    },
+    {
+      "amount": 4200.0,
+      "is_new": true,
+      "name": "Shadow Hills Knights Athletic Booster Club",
+      "purpose": "to help purchase 5 tackling dummies"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": false,
+      "name": "Palm Springs Theatre Sports",
+      "purpose": "to support the 15th annual \"It Happens to Boys\" Conference"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "Plethos Productions",
+      "purpose": "operating expensesClub"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": true,
+      "name": "Knight of Columbus Council",
+      "purpose": "Platinum Sponsorship for 2024 Golf Tournament"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "Hocker Productions",
+      "purpose": "program support"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "Seiden - Juku",
+      "purpose": "operating expenses"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "Wounded Warrior Project Inc",
+      "purpose": "program support for La Quinta California area"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "Destiny Church",
+      "purpose": "to help feed families in need"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "Big Brothers Big Sisters of the Desert",
+      "purpose": "operating expenses"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "CSUSB - Philanthropic Foundation",
+      "purpose": "operating expenses"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "Desert Best Friend's Closet",
+      "purpose": "operating expenses"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "Sacred Heart Church",
+      "purpose": "operating expenses"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "Saint Kateri Tekakwitha Catholic Community",
+      "purpose": "Diocesan Development Fund"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "St Frances Xavier Cabrini Catholic Church",
+      "purpose": "Diocesan Development Fund"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "Bernardo Elementary School PTA",
+      "purpose": "program support"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "Sjogren's Foundation",
+      "purpose": "operating expenses"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

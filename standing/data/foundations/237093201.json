@@ -48,6 +48,1466 @@
     "singleton_cluster_share": 0.4862,
     "total_grant_records": 1464
   },
+  "recipients_latest_year": [
+    {
+      "amount": 932500.0,
+      "is_new": false,
+      "name": "NEW ISRAEL FUND",
+      "purpose": "STANDING TOGETHER"
+    },
+    {
+      "amount": 455000.0,
+      "is_new": false,
+      "name": "SOCIAL GOOD FUND",
+      "purpose": "FRIENDS OF SAN QUENTIN NEWS"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "TIDES FOUNDATION",
+      "purpose": "NEW YORK RENEWS EDUCATION FUND"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "BEND THE ARC A JEWISH PARTNERSHIP FOR JUSTICE",
+      "purpose": "JEWISH SOCIAL JUSTICE ROUNDTABLE"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "INSTITUTE FOR LOCAL SELF-RELIANCE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "PANORAMA GLOBAL",
+      "purpose": "HYPHEN PARTNERSHIPS' INITIATIVE FOR INCLUSIVE ENTREPRENEURSHIP"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": false,
+      "name": "REGENTS OF THE UNIVERSITY OF COLORADO",
+      "purpose": "FIRST PEOPLES WORLDWIDE"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "EMERALD CITIES COLLABORATIVE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "MAJORITY ACTION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "THE SOLUTIONS PROJECT INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "THE CLIMATE JUSTICE ALLIANCE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "PARTNERSHIP FOR SOUTHERN EQUITY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "MINNEAPOLIS FOUNDATION",
+      "purpose": "GROUNDBREAK COALITION"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "THE CHISHOLM LEGACY PROJECT",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 185000.0,
+      "is_new": false,
+      "name": "AMERICAN ECONOMIC LIBERTIES PROJECT",
+      "purpose": "ANTI-MONOPOLY SUMMIT 2024"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "UNITED FOR RESPECT EDUCATION FUND",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "NEW JERSEY INSTITUTE FOR SOCIAL JUSTICE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "FINANCIAL SERVICES STAKEHOLDER PROJECT",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": true,
+      "name": "FAIR COUNT INC",
+      "purpose": "DEFENDING AMERICAN VALUES COALITION"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": true,
+      "name": "INITIATIVE FOR MEDICINES ACCESS & KNOWLEDGE (I-MAK) INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "ASHOKA",
+      "purpose": "SOUTHERN SOLUTIONS FOR THE GOOD OF ALL"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "AUBURN THEOLOGICAL SEMINARY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "JOBS TO MOVE AMERICA",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "KENTUCKY COALITION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "PROTEUS FUND INC",
+      "purpose": "REFRAME"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "THE CENTER FOR MEDIA JUSTICE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "TIDES CENTER",
+      "purpose": "VC INCLUDE"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "UPROSE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "POLICYLINK",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "LOCAL PROGRESS POLICY INSTITUTE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "AMALGAMATED CHARITABLE FOUNDATION INC",
+      "purpose": "COMMUNITIES FIRST"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "AMERICANS FOR FINANCIAL REFORM EDUCATION FUND",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 148750.0,
+      "is_new": false,
+      "name": "ROANOKE ECONOMIC DEVELOPMENT INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 137500.0,
+      "is_new": false,
+      "name": "COMMON FUTURE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 137500.0,
+      "is_new": false,
+      "name": "ADVANCEMENT PROJECT EDUCATION FUND",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 130000.0,
+      "is_new": false,
+      "name": "HOMEWORLD COLLECTIVE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 130000.0,
+      "is_new": true,
+      "name": "NATIONAL LEAGUE OF CITIES INSTITUTE INC",
+      "purpose": "SOUTHERN CITIES ECONOMIC INCLUSION INITIATIVE"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "CENTER FOR POLITICAL ACCOUNTABILITY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "SOCIAL AND ENVIRONMENTAL ENTREPRENEURS INC",
+      "purpose": "2024-2025 FUNDERS FOR JUSTICE MEMBERSHIP"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "T'RUAH",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "THE ROOSEVELT INSTITUTE",
+      "purpose": "ADVANCING A CLIMATE & CORPORATE POWER AGENDA"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "POWERSWITCH ACTION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "LIBERATION IN A GENERATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 115000.0,
+      "is_new": true,
+      "name": "ANTI-RECIDIVISM COALITION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "HIGHLANDER RESEARCH & EDUCATION CENTER INC",
+      "purpose": "2024-2025 GRANTMAKERS FOR SOUTHERN PROGRESS ANNUAL MEMBERSHIP"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "MOVEMENT STRATEGY CENTER",
+      "purpose": "FULL SPECTRUM LABS & THE ADASINA PROGRAM"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "350 SEATTLE",
+      "purpose": "STOP THE MONEY PIPELINE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BOREALIS PHILANTHROPY",
+      "purpose": "BLACK-LED MOVEMENT FUND"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CENTER FOR ECONOMIC DEMOCRACY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "FIRELIGHT MEDIA INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "JEWS FOR RACIAL AND ECONOMIC JUSTICE COMMUNITY INC",
+      "purpose": "JEWISH BRIDGE PROJECT'S A WORLD WITHOUT ANTISEMITISM: A VISION FOR BELONGING, COLLECTIVE LIBERATION, & JEWISH SAFETY"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "JEWS UNITED FOR JUSTICE INC",
+      "purpose": "COLLABORATIVE FOR JEWISH ORGANIZING"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "JOLT INITIATIVE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "LIVING CITIES INC THE NATIONAL COMMUNITY DEVELOPMENT INITIATIVE",
+      "purpose": "ACTIVEST"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "MIJENTE SUPPORT COMMITTEE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "NEO PHILANTHROPY INC",
+      "purpose": "NEW JEWISH PHILANTHROPY PROJECT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "PEOPLE'S ACTION INSTITUTE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "PROJECT SOUTH INSTITUTION FOR THE ELIMINATION OF POVERTY & GENOCIDE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "SOUTHERNERS ON NEW GROUND",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "THE CENTER FOR CULTURAL POWER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "THE PRAXIS PROJECT INC",
+      "purpose": "FREE HEARTS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "AFRICAN AMERICAN ALLIANCE OF CDFI CEOS",
+      "purpose": "GREENHOUSE GAS REDUCTION FUND: COMMUNITY BUILDERS OF COLOR COALITION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ALIGN THE ALLIANCE FOR A GREATER NEW YORK",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CENTER FOR HEIRS' PROPERTY PRESERVATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "POSSIBILITY LABS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "DEMOCRACY AT WORK INSTITUTE",
+      "purpose": "GUILDED"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ECHOING GREEN INC",
+      "purpose": "SIGNAL FUND"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "NAMATI INC",
+      "purpose": "US ENVIRONMENTAL JUSTICE PROGRAM"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "SOUL FIRE FARM INSTITUTE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "BLACK GIRL VENTURES FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "CHANGE LABS INC",
+      "purpose": "KINSHIP LENDING - A CULTURALLY RESPONSIVE LENDING PROGRAM DEPLOYMENT OF THE FEDERAL SSBCI FUNDS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "CIVIC NATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "COMMONWEALTH VENTURES MANAGEMENT LLC",
+      "purpose": "COMMONWEALTH FELLOWSHIP"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "CONGRESS HEIGHTS COMMUNITY TRAINING & DEVELOPMENT CORPORATION",
+      "purpose": "THE BLACKBONE PROJECT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "CONSTITUTIONAL ACCOUNTABILITY CENTER",
+      "purpose": "ECONOMIC JUSTICE PROJECT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "DOGWOOD ALLIANCE INC",
+      "purpose": "ESTABLISHING COMMUNITY FORESTS IN ENVIRONMENTAL JUSTICE COMMUNITIES IMPACTED BY INDUSTRIAL LOGGING"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "GOOD PROJECTS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "GREEN AMERICA",
+      "purpose": "REGENERATIVE AGRICULTURE PROGRAM"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "GRIST MAGAZINE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "NATIONAL YOUNG FARMERS COALITION",
+      "purpose": "LAND, CAPITAL, AND MARKET ACCESS FOR YOUNG AND BIPOC FARMERS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "NEW YORK CITY ENVIRONMENTAL JUSTICE ALLIANCE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "PHILADELPHIA GREEN CAPITAL CORP",
+      "purpose": "PA SOLAR FOR ALL - SOLAR LEASE FINANCING PILOT PROGRAM"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "PRESENCING INSTITUTE INC",
+      "purpose": "ACCELERATOR FOR A REGENERATIVE AND INCLUSIVE ECONOMY"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "PROJECT EQUITY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "ROCKY MOUNTAIN INSTITUTE",
+      "purpose": "CULTIVATING BRIGHTFIELDS IN MARGINALIZED COMMUNITIES"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "THE CREATIVE LADDER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "WAREHOUSE WORKER RESOURCE CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 91250.0,
+      "is_new": true,
+      "name": "NWI FOOD COUNCIL",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "ACTION CENTER ON RACE AND THE ECONOMY INSTITUTE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "CENTER FOR RURAL STRATEGIES",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "COMMUNITY INITIATIVES",
+      "purpose": "RENAISSANCE JOURNALISM"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "GREENLATINOS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "MOMENTUM COMMUNITY INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "NETWORK EDUCATION PROGRAM",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "ROCKEFELLER PHILANTHROPY ADVISORS INC",
+      "purpose": "POP CULTURE COLLABORATIVE FUND"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "ASSOCIATION FOR THE PROMOTION OF JEWISH SECULARISM",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "ATLANTA WEALTH BUILDING INITIATIVE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "EKVNV YEFOLECVLKE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "THE CENTER FOR CULTURAL INNOVATION",
+      "purpose": "AMBITIOUS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "THE PEOPLE'S JUSTICE COUNCIL",
+      "purpose": "POWER 4 SOUTHERN PEOPLE NOT SOUTHERN COMPANY CAMPAIGN"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "BLACK ORGANIZING FOR LEADERSHIP & DIGNITY INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "BLACKSTAR PROJECTS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "LEADERSHIP CONFERENCE EDUCATION FUND INC",
+      "purpose": "AND I STILL VOTE CAMPAIGN"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "OIKOS INSTITUTE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 58750.0,
+      "is_new": true,
+      "name": "NORTH CAROLINA HOUSING COALITION INC",
+      "purpose": "PROPERTY TAX JUSTICE IN NORTH CAROLINA"
+    },
+    {
+      "amount": 51000.0,
+      "is_new": true,
+      "name": "PALMETTO PROJECT INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ASIAN AMERICAN WRITERS' WORKSHOP INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CHINESE PROGRESSIVE ASSOCIATION",
+      "purpose": "THE BLACK FUTURES LAB"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "JOIN FOR JUSTICE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "NEW VENTURE FUND",
+      "purpose": "COMMUNITY FOR JUST SCHOOLS FUND"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BLACK BELT JUSTICE CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "GLOBAL IMPACT INVESTING NETWORK INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "THE HUMAN IMMUNOME PROJECT",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "THE FAITH MATTERS NETWORK COLLABORATIVE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BLACK INNOVATION ALLIANCE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "THE CENTER FOR CIVIC ALTERNATIVES",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "ALASKA CONSERVATION FOUNDATION",
+      "purpose": "ALASKA MINING IMPACTS NETWORK"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "CALIFORNIA HERITAGE INDIGENOUS RESEARCH PROJECT",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "CAPITAL B NEWS INC",
+      "purpose": "THE BLACK POLITICAL POWER TOUR"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "CO-OPERATE WNC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "LA VOICE",
+      "purpose": "MUSLIM POWER BUILDING PROJECT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "SPRING STREET CLIMATE FUND INC",
+      "purpose": "SHUT THE FOSSILS UP"
+    },
+    {
+      "amount": 46500.0,
+      "is_new": false,
+      "name": "MISSION INVESTORS EXCHANGE INC",
+      "purpose": "2024 MEMBERSHIP DUES"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": true,
+      "name": "NATIONAL MEDICAL FELLOWSHIPS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 42500.0,
+      "is_new": true,
+      "name": "REALIZE IMPACT",
+      "purpose": "JUST FUTURES PBC"
+    },
+    {
+      "amount": 42500.0,
+      "is_new": true,
+      "name": "TRANSFORM FINANCE INC",
+      "purpose": "GROWING EXPERTISE ON EMPLOYEE OWNERSHIP FOR CAPITAL PROVIDERS"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "NATIONAL COALITION BUILDING INSTITUTE",
+      "purpose": "TAKING ON ANTISEMITISM ON COLLEGE CAMPUSES: A COALITION BUILDING APPROACH"
+    },
+    {
+      "amount": 38226.0,
+      "is_new": false,
+      "name": "PEAK GRANTMAKING",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "VINEYARD THEATRE AND WORKSHOP CENTER INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "BRIDGES IMPACT FOUNDATION",
+      "purpose": "IMPACT FRONTIERS' PERFORMANCE REPORTING IMPLEMENTATION PROJECT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "HALCYON HOUSE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "ECOPEACE MIDDLE EAST ENVIRONMENTAL NGO FORUM",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "REPRODUCTIVE HEALTH INVESTORS ALLIANCE INC",
+      "purpose": "THE RACIAL EQUITY ASSET LAB'S DUE DILIGENCE 2.0"
+    },
+    {
+      "amount": 27424.0,
+      "is_new": false,
+      "name": "ENVIRONMENTAL GRANTMAKERS ASSOCIATION",
+      "purpose": "2024 MEMBERSHIP DUES"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "FAITHWORKS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LEGAL AID JUSTICE CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "GESHER FOUNDATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "THE JERUSALEM FOUNDATION INC",
+      "purpose": "VERTIGO DANCE ASSOCIATION"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CLAREMONT MCKENNA COLLEGE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NEW JERSEY PERFORMING ARTS CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "BEAN PATH",
+      "purpose": "BEAN PATH'S 2024 ANNUAL BLOCK PARTY"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "THE CLEVELAND AVENUE FOUNDATION FOR EDUCATION GROUP",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "THE WASHINGTON SCHOOL FOR GIRLS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 22500.0,
+      "is_new": true,
+      "name": "UPLIFT ALLIANCE INC",
+      "purpose": "AMBASSADOR ARTS BALTIMORE THEATER PROJECT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "JEWISH FUNDERS NETWORK",
+      "purpose": "2024 MEMBERSHIP DUES"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "CENTER FOR LAW AND SOCIAL POLICY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "DEV MISSION",
+      "purpose": "PRE-APPRENTICESHIP OCCUPATIONAL SKILLS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "LOS ANGELES CLEANTECH INCUBATOR",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "BERTIE COUNTY HIVE HOUSE",
+      "purpose": "BERTIE WORKFORCE & EDUCATION VITALITY CENTER"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "VANDERBILT UNIVERSITY MEDICAL CENTER",
+      "purpose": "DIRECTORS CANCER INNOVATION FUND (GENERAL FUND)"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "GRIP TRAINING INSTITUTE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 18500.0,
+      "is_new": false,
+      "name": "NEIGHBORHOOD FUNDERS GROUP",
+      "purpose": "FUNDERS FOR A JUST ECONOMY PROGRAM"
+    },
+    {
+      "amount": 18250.0,
+      "is_new": false,
+      "name": "CONFLUENCE PHILANTHROPY INC",
+      "purpose": "2024-2025 MEMBERSHIP DUES"
+    },
+    {
+      "amount": 18100.0,
+      "is_new": false,
+      "name": "PHILANTHROPY NEW YORK INC",
+      "purpose": "2024 MEMBERSHIP DUES"
+    },
+    {
+      "amount": 17500.0,
+      "is_new": false,
+      "name": "NATIONAL CONFERENCE OF BLACK LAWYERS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "4 R FRIENDS - RESCUE REHAB RE-HOME REACH OUT",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "NATIONAL CENTER FOR JEWISH FILM INC",
+      "purpose": "BELLY"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "NEW ENGLAND HANDICAPPED SPORTS ASSOCIATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "THE FUNDERS NETWORK INC",
+      "purpose": "2024 MEMBERSHIP DUES"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "ART COUNCIL INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "TREES ATLANTA INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 12834.0,
+      "is_new": true,
+      "name": "THE COMMUNITY FOUNDATION OF WESTERN NORTH CAROLINA",
+      "purpose": "EMERGENCY AND DISASTER RESPONSE FUND"
+    },
+    {
+      "amount": 12833.0,
+      "is_new": true,
+      "name": "CAROLINA FORWARD FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 12833.0,
+      "is_new": true,
+      "name": "MINKWON CENTER FOR COMMUNITY ACTION INC",
+      "purpose": "APA VOICE"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "GIRLS WHO INVEST INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "MAGIC BUS USA",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "NEW YORK JUNIOR TENNIS LEAGUE INC",
+      "purpose": "SCHOLAR ATHLETE PROGRAM"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "WOMENS SPORTS FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "FUNDERS FOR LESBIAN AND GAY ISSUES INC",
+      "purpose": "2024-2025 MEMBERSHIP DUES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "HISPANICS IN PHILANTHROPY",
+      "purpose": "2024-2025 MEMBERSHIP DUES"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "MARIN AGRICULTURAL LAND TRUST",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "NATIONAL CENTER FOR FAMILY PHILANTHROPY INC",
+      "purpose": "2024-2025 MEMBERSHIP RENEWAL"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "NATIVE AMERICANS IN PHILANTHROPY",
+      "purpose": "2024-2025 INSTITUTIONAL MEMBERSHIP"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "WILDERNESS TORAH",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "HISPANAS ORGANIZED FOR POLITICAL EQUALITY - CALIFORNIA",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "THE UCLA FOUNDATION",
+      "purpose": "LUSKIN SCHOOL OF PUBLIC AFFAIRS EQUITY, DIVERSITY, AND INCLUSION STUDENT SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CALIFORNIA DANCE INSTITUTE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "FUSION PARTNERSHIPS INC",
+      "purpose": "THE BLOOM COLLECTIVE"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "PLACER LAND TR",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "TRISHA BROWN COMPANY INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "ACLU OF ALABAMA FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "FOUNDERS AND FUNDERS OF COLOR INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "FUTURES WITHOUT VIOLENCE",
+      "purpose": "COURAGE MUSEUM"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "JEWBELONG INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "LA-MAS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "LOUISVILLE FILM SOCIETY INC",
+      "purpose": "499 DAYS"
+    },
+    {
+      "amount": 8500.0,
+      "is_new": false,
+      "name": "GRANTMAKERS FOR EFFECTIVE ORGANIZATIONS",
+      "purpose": "2024-2025 MEMBERSHIP DUES"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "INTERFAITH CENTER ON CORPORATE RESPONSIBILITY",
+      "purpose": "2024 MEMBERSHIP DUES"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "UNITED STATES VETERANS ARTISTS ALLIANCE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "EMERGING PRACTITIONERS IN PHILANTHROPY INC",
+      "purpose": "2024-2025 MEMBERSHIP DUES"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "GREENLIGHT FUND INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "KOVNO COMMUNICATIONS INC",
+      "purpose": "STRIPPED FOR PARTS DOCUMENTARY FILM"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "WORKERS REVOLUTIONARY COLLECTIVE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 6250.0,
+      "is_new": true,
+      "name": "VIRGINIA ORGANIZING INC",
+      "purpose": "HEALTH & ENVIRONMENTAL FUNDERS NETWORK 2024 MEMBERSHIP DUES"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "SOCIAL VENTURE CIRCLE",
+      "purpose": "2024-2025 MEMBERSHIP"
+    },
+    {
+      "amount": 5500.0,
+      "is_new": false,
+      "name": "MS FOUNDATION FOR WOMEN",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5500.0,
+      "is_new": false,
+      "name": "VOTEORG",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5500.0,
+      "is_new": true,
+      "name": "CARIBBEAN WOMEN'S HEALTH ASSOCIATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "AS YOU SOW",
+      "purpose": "2024 PROXY PREVIEW"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "ASSOCIATION OF BLACK FOUNDATION EXECUTIVES INC",
+      "purpose": "2024-2025 PHILANTHROPIC MEMBERSHIP"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "CONSULTATIVE GROUP ON BIOLOGICAL DIVERSITY",
+      "purpose": "2024 CLIMATE AND ENERGY FUNDERS GROUP MEMBERSHIP DUES"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "ENCOUNTER PROGRAMS INCORPORATED",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "PEF ISRAEL ENDOWMENT FUNDS INC",
+      "purpose": "KEREN GEFEN"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "SAVENATUREORG",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "ELECTRIC LODGE",
+      "purpose": "LA RIVER EXPEDITIONS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "SAN GERONIMO VALLEY COMMUNITY CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "SPIRIT ROCK MEDITATION CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "BALTIMORE ARTS REALTY CORPORATION",
+      "purpose": "MOTOR HOUSE"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "RIDEBACK RISE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "AMERICAN POLICY VENTURES INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "BLACK CHURCH FOOD SECURITY NETWORK",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "COMMUNITY COALITION FOR SUBSTANCE ABUSE PREVENTION AND TREATMENT",
+      "purpose": "LEROY HAMILTON PHOTO EXHIBIT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "GUARDIANORG FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "HENRY J KAISER FAMILY FOUNDATION",
+      "purpose": "KFF HEALTH NEWS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "MAYORS FUND FOR LOS ANGELES",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "MUSIC HEALS INTERNATIONAL",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "PLEASE ADOPT MY SENIOR YEAR - PAMSY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "TRELLIS CHURCHES INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 4500.0,
+      "is_new": false,
+      "name": "HAITIAN EDUCATION & LEADERSHIP PROGRAM",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": false,
+      "name": "WELCOMING CENTER FOR NEW PENNSYLVANIANS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": false,
+      "name": "THE ADVOCACY INSTITUTE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "ECOTRUST",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "LESBIAN AND GAY COMMUNITY SERVICES CENTER INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": false,
+      "name": "BOARDSOURCE",
+      "purpose": "2024 BOARDSOURCE - FOUNDATION BOARD ASSESSMENT PROGRAM"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": true,
+      "name": "SCHUMACHER CENTER FOR A NEW ECONOMICS INC",
+      "purpose": "VUNJA SEED CARNIVAL"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "DEMOCRACY NOW PRODUCTIONS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "THE TREVOR PROJECT INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "CHANCE ACADEMY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "BOARD OF TRUSTEES OF THE LELAND STANFORD JUNIOR UNIVERSITY",
+      "purpose": "STANFORD HEALTH CARE'S PERSONALIZED SERVICES"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "JUSTFUNDUS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "SAVE THE CHILDREN FEDERATION INC",
+      "purpose": "GAZA EMERGENCY RELIEF"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "EAST BAY CENTER FOR THE PERFORMING ARTS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "KOREAN AMERICAN COMMUNITY FOUNDATION OF SAN FRANCISCO",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "LIFE STORY CLUB",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "THE PHILANTHROPY WORKSHOP INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "SOUTHERN APPALACHIAN WILDERNESS STEWARDS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "CAPOEIRADC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "CONGREGATION B'NAI ISRAEL",
+      "purpose": "ABUNDANCE FARM"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "LIFE PIECES TO MASTERPIECES INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF CENTRAL ARKANSAS FOUNDATION INC",
+      "purpose": "SCHEDLER HONORS COLLEGE"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "NUESTROS NINOS DAY CARE CENTER INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "GRAND PRAIRIE HISTORICAL SOCIETY INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF ARKANSAS FOUNDATION INC",
+      "purpose": "LITTLE ROCK PUBLIC RADIO"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "NATHAN CUMMINGS FOUNDATION (NCF) WELCOMES PROPOSALS FOR PARTNERSHIPS VIA OUR LETTERS OF INQUIRY (LOI) PORTALS FOR GRANTS OR PROGRAM RELATED INVESTMENTS (PRI).",

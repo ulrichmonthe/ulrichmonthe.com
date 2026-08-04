@@ -48,6 +48,1106 @@
     "singleton_cluster_share": 0.4662,
     "total_grant_records": 960
   },
+  "recipients_latest_year": [
+    {
+      "amount": 3365871.0,
+      "is_new": false,
+      "name": "CREATIVE CAPITAL FOUNDATION",
+      "purpose": "SUPPORT FOR THE ARTS WRITING INITIATIVE"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "J PAUL GETTY TRUST",
+      "purpose": "FOR THE LA ARTS COMMUNITY FIRE RELIEF FUND (RESTRICTED TO VISUAL ARTISTS AND VISUAL ARTS WORKERS)"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "ANDY WARHOL MUSEUM",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "WASHINGTON PROJECT FOR THE ARTS",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 178228.0,
+      "is_new": true,
+      "name": "PHILANTHROPY FACTORY",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "BIG CAR",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": false,
+      "name": "PORTLAND INSTITUTE FOR CONTEMPORARY ART",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    },
+    {
+      "amount": 155000.0,
+      "is_new": false,
+      "name": "PU'UHONUA SOCIETY",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 151389.0,
+      "is_new": false,
+      "name": "MIDWAY CONTEMPORARY ART",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "516 ARTS",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "ANTENNA PRESS STREET",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "DIVERSEWORKS",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "LOS ANGELES CONTEMPORARY EXHIBITIONS",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "PROJECT FOR EMPTY SPACE",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "REDLINE DENVER",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "LUMINARY",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "THE UNION FOR CONTEMPORARY ART",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "TUFTS UNIVERSITY ART GALLERIES",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "SPACE GALLERY",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "WALKER ART CENTER",
+      "purpose": "DYANI WHITE HAWK EXHIBITION; AND CURATORIAL RESEARCH FELLOWSHIP: ROSARIO GIRALDES"
+    },
+    {
+      "amount": 140000.0,
+      "is_new": false,
+      "name": "LOCUST PROJECTS",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 140000.0,
+      "is_new": true,
+      "name": "ASIAN ARTS INITIATIVE",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 130642.0,
+      "is_new": false,
+      "name": "PUBLIC SPACE ONE",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    },
+    {
+      "amount": 102083.0,
+      "is_new": false,
+      "name": "SPACES",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    },
+    {
+      "amount": 101200.0,
+      "is_new": false,
+      "name": "CHARLOTTE STREET FOUNDATION",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    },
+    {
+      "amount": 100590.0,
+      "is_new": false,
+      "name": "3ARTS",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    },
+    {
+      "amount": 100489.0,
+      "is_new": false,
+      "name": "CULTURE SOURCE",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "AMERICAN FEDERATION OF ARTS",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BETA-LOCAL",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "COLBY COLLEGE MUSEUM OF ART",
+      "purpose": "\"IMAGINING AN ARCHIPELAGO: ART FROM CUBA, GUAM, THE PHILIPPINES, PUERTO RICO, AND THEIR DIASPORAS\" EXHIBITION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "DIRT PALACE PUBLIC PROJECTS",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "MUSEUM OF CONTEMPORARY ART",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "NEVADA MUSEUM OF ART",
+      "purpose": "\"INTO THE TIME HORIZON\" EXHIBITION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "OKLAHOMA VISUAL ARTS COALITION",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "POOR FARM",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "PUBLIC MEDIA INSTITUTE",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "SOUTHERN EXPOSURE",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "THE PEALE CENTER",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "TRI-STAR ARTS",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "VISUAL ART EXCHANGE",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ATLANTA CONTEMPORARY ART CENTER",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "DENVER ART MUSEUM",
+      "purpose": "ANDREA CARLSON: A CONSTANT SKY\" EXHIBITION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "MISSISSIPPI MUSEUM OF ART",
+      "purpose": "\"L.V. HULL: LOVE IS A SENSATION AND \"COULTER FUSSELL: THE PROVING GROUND\" EXHIBITIONS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "NEW MUSEUM",
+      "purpose": "\"NEW HUMANS: MEMORIES OF THE FUTURE\" EXHIBITION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CLEVELAND MUSEUM OF ART",
+      "purpose": "\"MARTIN PURYEAR: NEXUS\" EXHIBITION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BUFFALO INSTITUTE FOR CONTEMPORARY ART",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "US BIENNIAL",
+      "purpose": "SUPPORT FOR PROSPECT.6"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "UTAH MUSEUM OF CONTEMPORARY ART",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "BOSTON PUBLIC ART TRIENNIAL",
+      "purpose": "2025 BOSTON PUBLIC ART TRIENNIAL"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "BRUNELL STREET ARTS CENTER",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "CENTRE FOR THE LIVING ARTS",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "COLUMBIA MUSEUM OF ART",
+      "purpose": "\"RODNEY MCMILLIAN: A SON OF THE SOIL\" EXHIBITION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "HEART OF LOS ANGELES (HOLA)",
+      "purpose": "EXHIBITION PROGRAM SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "MISSISSIPPI CENTER FOR CULTURAL ART",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "MUMOK - MUSEUM MODERNER KUNST STIFTUNG LUDWIG WIEN",
+      "purpose": "(EXPENDITURE RESPONSIBILITY GRANT) DIANE SIMPSON EXHIBITION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "PEREZ ART MUSEUM MIAMI",
+      "purpose": "\"WOODY DE OTHELLO: COMING FORTH BY DAY\" EXHIBITION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "PHILLIPS COLLECTION",
+      "purpose": "\"VIVIAN BROWNE: MY KIND OF PROTEST\" EXHIBITION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "SITE SANTA FE",
+      "purpose": "\"12TH INTERNATIONAL\" EXHIBITION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "STUDIO MUSEUM IN HARLEM",
+      "purpose": "\"TOM LLOYD\" EXHIBITION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "TATE AMERICAS FOUNDATION",
+      "purpose": "\"NIGERIAN MODERNISM\" EXHIBITION"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "ZEITZ MUSEUM OF CONTEMPORARY ART AFRICA",
+      "purpose": "(EXPENDITURE RESPONSIBILITY GRANT) \"LANDINGS\" EXHIBITION"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": true,
+      "name": "INSITE",
+      "purpose": "\"ERRATIC FIELDS\" EXHIBITION"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": true,
+      "name": "MUSEO DEL BARRIO",
+      "purpose": "\"MESTRE DIDI: SPIRITUAL FORM\" EXHIBITION"
+    },
+    {
+      "amount": 89000.0,
+      "is_new": false,
+      "name": "JAPANESE AMERICAN CULTURAL AND COMMUNITY CENTER",
+      "purpose": "\"HIROKAZU KOSAKA: ART & ASYMMETRY\" EXHIBITION"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "DIA ART FOUNDATION",
+      "purpose": "RENE GREEN EXHIBITION"
+    },
+    {
+      "amount": 78000.0,
+      "is_new": true,
+      "name": "MONTGOMERY MUSEUM OF FINE ARTS",
+      "purpose": "\"WILLIE COLE: MY BRAND IS HISTORY\" EXHIBITION"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "FOWLER MUSEUM REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+      "purpose": "\"TEXTILES AS MONUMENT\" EXHIBITION"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "NATIONAL COALITION AGAINST CENSORSHIP",
+      "purpose": "ARTS ADVOCACY PROJECT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "MILDRED LANE KEMPER ART MUSEUM WASHINGTON UNIVERSITY",
+      "purpose": "\"SEEDS: CONTAINERS OF A WORLD TO COME\" EXHIBITION"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "CONTEMPORARY ART MUSEUM ST LOUIS",
+      "purpose": "LIKE WATER\" EXHIBITION"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "GEORGIA O'KEEFE MUSEUM",
+      "purpose": "\"TEWA NANGEH/TEWA COUNTRY: TEWA INTERPRETATIONS OF \"O'KEEFFE COUNTRY\" EXHIBITION"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "NSU ART MUSEUM FORT LAUDERDALE",
+      "purpose": "\"JACQUELINE DE JONG: VICIOUS CIRCLES\" EXHIBITION"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": true,
+      "name": "CROCKER ART MUSEUM",
+      "purpose": "\"GLADYS NILSSON: GLEEFULLY ASKEW\" RETROSPECTIVE EXHIBITION"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": true,
+      "name": "THE ISAMU NOGUCHI FOUNDATION AND GARDEN MUSEUM",
+      "purpose": "\"TEMITAYO OGUNBIYI: YOU WILL WONDER IF WE WOULD HAVE BEEN FRIENDS\" EXHIBITION"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "KATHERINE E NASH GALLERY UNIVERSITY OF MINNESOTA",
+      "purpose": "\"EL VAIVN: 21ST CENTURY ART OF PUERTO RICO AND ITS DIASPORA\" EXHIBITION"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "BARD COLLEGE",
+      "purpose": "\"ALL MANNER OF EXPERIMENTS: LEGACIES OF THE BAGHDAD GROUP FOR MODERN ART\" EXHIBITION"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "QUEENS MUSEUM",
+      "purpose": "\"SONIA BOYCE: DEMONSTRATE\" EXHIBITION"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "RHODE ISLAND SCHOOL OF DESIGN MUSEUM",
+      "purpose": "\"LIZ COLLINS: MOTHERLODE\" EXHIBITION"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": true,
+      "name": "JOHN MICHAEL KOHLER ARTS CENTER",
+      "purpose": "\"PAO HOUA HER: THE IMAGINATIVE LANDSCAPE\" EXHIBITION"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ABRONS ARTS CENTER - HENRY STREET SETTLEMENT",
+      "purpose": "VISUAL ARTS PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ARIZONA STATE UNIVERSITY ART MUSEUM",
+      "purpose": "EXHIBITION PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "AURORA PICTURE SHOW",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BEMIS CENTER FOR CONTEMPORARY ARTS",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "BLAFFER ART MUSEUM UNIVERSITY OF HOUSTON",
+      "purpose": "EXHIBITION PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BOMB NEW ART PUBLICATIONS INC",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "HYDE PARK ART CENTER",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "LOWER MANHATTAN CULTURAL COUNCIL",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "NEW ORLEANS FILM SOCIETY",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SWISS INSTITUTE NY",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "VERA LIST CENTER FOR ART AND POLITICS AT THE NEW SCHOOL",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ART PAPERS",
+      "purpose": "CURATORIAL RESEARCH FELLOWSHIP: SARAH HIGGINS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ART21",
+      "purpose": "SEASON 12 OF \"ART IN THE TWENTY-FIRST CENTURY\", \"NEW YORK CLOSE UP\", AND \"EXTENDED PLAY\" (OVER 2 YEARS)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "GALLERY 400 AT THE UNIVERSITY OF ILLINOIS",
+      "purpose": "EXHIBITION PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "RENAISSANCE SOCIETY AT THE UNIVERSITY OF CHICAGO",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SAN JOSE MUSEUM OF ART",
+      "purpose": "PROGRAM SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ALDRICH CONTEMPORARY ART MUSEUM",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "INTERNATIONAL CENTER OF PHOTOGRAPHY",
+      "purpose": "CURATORIAL RESEARCH FELLOWSHIP: ELISABETH SHERMAN"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "LESLIE-LOHMAN MUSEUM OF ART",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "LOS ANGELES POVERTY DEPARTMENT",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MCCOLL CENTER",
+      "purpose": "ARTIST-IN-RESIDENCE PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "OREGON CONTEMPORARY",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "AFRICAN FILM FESTIVAL",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "APERTURE",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "ART GALLERIES AT BLACK STUDIES AT THE UNIV OF TEXAS AT AUSTIN",
+      "purpose": "CURATORIAL RESEARCH FELLOWSHIP: DR. ARIEL EVANS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "ASSOCIATION IRTIJAL",
+      "purpose": "(EXPENDITURE RESPONSIBILITY GRANT) CURATORIAL RESEARCH FELLOWSHIP: ALINTA SARA"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "BLUEBOY ARCHIVES AND CULTURAL ARTS FOUNDATION",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "GRAY AREA FOUNDATION FOR THE ARTS",
+      "purpose": "CURATORIAL RESEARCH FELLOWSHIP: HANNAH SCOTT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "HAMMONDS HOUSE MUSEUM",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "PHILBROOK MUSEUM OF ART",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "RUBIN CENTER FOR THE VISUAL ARTS UNIVERSITY OF TEXAS AT EL PASO",
+      "purpose": "EXHIBITION PROGRAM SUPPORT (OVER 2 YEARS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "TILT INSTITUTE FOR THE CONTEMPORARY IMAGE",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "UNION DOCS",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "SMACK MELLON",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": true,
+      "name": "MONTEZ PRESS RADIO",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 42455.0,
+      "is_new": true,
+      "name": "BROWN UNIVERSITY",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 41000.0,
+      "is_new": false,
+      "name": "WAGE",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "ARTSPACE",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "BAS FISHER INVITATIONAL",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "BLANK FORMS",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "COLEMAN CENTER FOR THE ARTS",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "LAXART",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "SCOTTSDALE MUSEUM OF CONTEMPORARY ART",
+      "purpose": "EXHIBITION PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "SPACE ONE ELEVEN",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "ELIZABETH FOUNDATION FOR THE ARTS",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "RIVERS INSTITUTE FOR CONTEMPORARY ART & THOUGHT",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "ALMA LEWIS",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "APEXART",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "ART OMI",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "CALIFORNIA INSTITUTE OF THE ARTS",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "CREATIVE GROWTH ART CENTER",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "EXPRESS NEWARK RUTGERS UNIVERSITY FOUNDATION",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "GATHERMAKESHELTER",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "KITCHEN",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "NXTHVN",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "PUBLIC FUNCTIONARY",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "RESIDENCY UNLIMITED",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "RIVER VALLEY ARTS COLLECTIVE",
+      "purpose": "(EXPENDITURE RESPONSIBILITY GRANT) PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "SCULPTURE CENTER",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "STUDIO IN THE WOODS",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "VISUAL ART EXCHANGE RALEIGH",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "(SLASH)",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "BROOKLYN RAIL INC",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "CENTER FOR CRAFT",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "DAVID WINTON BELL GALLERY BROWN UNIVERSITY",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "DEL VAZ PROJECTS",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "DONKEY MILL ART CENTER HOLUALOA FOUNDATION",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "EMERSON CONTEMPORARY EMERSON COLLEGE",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "HERMITAGE ARTIST RETREAT",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "INSTITUTE OF CONTEMPORARY ART SAN DIEGO",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "MUSEUM FOR ART IN WOOD",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "OGDEN CONTEMPORARY ARTS",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "RADIANT HALL",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "RAIR INC",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "SOIL FACTORY - THE WEAVE COMMUNITY",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "UKRAINIAN INSTITUTE OF MODERN ART",
+      "purpose": "WYNN KRAMARSKY FREEDOM OF ARTISTIC EXPRESSION GRANT: PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "ZIKHA GALLERY CENTER FOR THE ARTS WESLEYAN UNIVERSITY",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 37500.0,
+      "is_new": true,
+      "name": "CARNEGIE",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "BUFFALO ARTS STUDIO",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "PRINT CENTER NEW YORK",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 34000.0,
+      "is_new": true,
+      "name": "LOS ANGELES FILM FORUM",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 32000.0,
+      "is_new": true,
+      "name": "MEMPHIS BROOKS MUSEUM OF ART",
+      "purpose": "CURATORIAL RESEARCH FELLOWSHIP: DR. PATRICIA LEE DAIGLE"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "AFRO CHARITIES",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "VOX POPULI",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "WENDY'S SUBWAY",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "SUMMERTIME",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "BOFFO",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "EPICENTER",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "FLUX PROJECTS",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "JOAN",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "LIGHT INDUSTRY",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "NATIVE AMERICAN COMMUNITY DEVELOPMENT INSTITUTE",
+      "purpose": "VISUAL ARTS PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "NIAD ART CENTER",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "STOVE WORKS",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "HEMISPHERIC CONVERSATIONS URBAN ART PROJECT AT THE UNIV OF PITTSBURGH",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "OPEN SOURCE GALLERY",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NATURE CONSERVANCY",
+      "purpose": "SUPPORT FOR THE 2024 ANDY WARHOL PRESERVE VISUAL ARTS PROGRAM"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CROW'S SHADOW INSTITUTE OF THE ARTS",
+      "purpose": "PROGRAM SUPPORT (OVER 2 YEARS)"
+    },
+    {
+      "amount": 14094.0,
+      "is_new": true,
+      "name": "WARHOL INITIATIVE",
+      "purpose": "WARHOL REGRANTING INITIATIVE"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ARTISTS SPACE",
+      "purpose": "MICHAEL ASHER SURVEY EXHIBITION"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "HOUSTON MUSEUM OF AFRICAN AMERICAN CULTURE",
+      "purpose": "FOR THE FEATURE LENGTH DOCUMENTARY FILM \"BURY ME STANDING\" WHICH EXPLORES THE COMPLEX LEGACY OF CONFEDERATE MONUMENTS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "QUEENSBOROUGH COMMUNITY COLLEGE",
+      "purpose": "\"WE THE PEOPLE CONFESS\" EXHIBITION"
+    },
+    {
+      "amount": 8844.0,
+      "is_new": true,
+      "name": "HAMPTON INN BY HILTON",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    },
+    {
+      "amount": 7182.0,
+      "is_new": true,
+      "name": "THE RAMBLE HOTEL",
+      "purpose": "WARHOL RE-GRANTING INITIATIVE"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "THE FOUNDATION DOES NOT HAVE AN APPLICATION FORM. INSTEAD, A FULL PROPOSAL FOR FUNDING SHOULD BE SUBMITTED IN THE FORM OF A LETTER OF APPROXIMATELY 3 PAGES DESCRIBING THE ACTIVITY FOR WHICH FUNDS ARE BEING REQUESTED; IF APPLYING FOR THE FIRST TIME, GIVE A BRIEF DESCRIPTION OF THE ORGANIZATION'S MISSION, PURPOSE AND GOALS. IN ADDITION, INCLUDE A PROJECT BUDGET AND A COPY OF THE ORGANIZATION'S 501(C)(3) RULING FROM THE IRS. APPLICANTS FOR CURATORIAL RESEARCH FELLOWSHIPS MUST APPLY THROUGH THEIR INSTITUTIONS AND MUST INCLUDE A LETTER OF SUPPORT FROM THE INSTITUTION'S DIRECTOR. PROPOSALS MAY BE SUBMITTED BY MAIL OR EMAIL.",

@@ -47,6 +47,374 @@
     "singleton_cluster_share": 0.6356,
     "total_grant_records": 231
   },
+  "recipients_latest_year": [
+    {
+      "amount": 7918296.0,
+      "is_new": false,
+      "name": "AMERICAN ONLINE GIVING FOUNDATION INC",
+      "purpose": "General & Unrestricted"
+    },
+    {
+      "amount": 1534000.0,
+      "is_new": false,
+      "name": "CHARITIES AID FOUNDATION AMERICA",
+      "purpose": "The Visa Foundation Fund"
+    },
+    {
+      "amount": 1500000.0,
+      "is_new": false,
+      "name": "VILCAP INC",
+      "purpose": "GreenTech Europe 2023: Accelerating Women-Led Sustainability SMBs"
+    },
+    {
+      "amount": 1500000.0,
+      "is_new": false,
+      "name": "2X GLOBAL LIMITED",
+      "purpose": "to support growing membership base and promote gender lens investing in the market"
+    },
+    {
+      "amount": 1500000.0,
+      "is_new": true,
+      "name": "GUDINA TUMSA FOUNDATION",
+      "purpose": "To support community development in Addis Ababa through an unrestricted grant"
+    },
+    {
+      "amount": 1300000.0,
+      "is_new": false,
+      "name": "SWISS ASSOCIATION FOR ENTREPRENEURSHIP IN EMERGING",
+      "purpose": "To support Accelerating Gender-Inclusive Care Entrepreneurship Ecosystem Programme (GICEEP) in Asia-Pacific"
+    },
+    {
+      "amount": 1200000.0,
+      "is_new": false,
+      "name": "WOMENS WORLD BANKING INC",
+      "purpose": "Empowering Women-Owned Small and Micro Businesses"
+    },
+    {
+      "amount": 1200000.0,
+      "is_new": false,
+      "name": "TIPPING POINT COMMUNITY",
+      "purpose": "For Tipping Point Community to address and prevent youth homelessness across the Bay Area"
+    },
+    {
+      "amount": 1100000.0,
+      "is_new": false,
+      "name": "TECHNOSERVE INC",
+      "purpose": "To support Potencia Tu Agroempresa"
+    },
+    {
+      "amount": 1059099.0,
+      "is_new": false,
+      "name": "THE UK ONLINE GIVING FOUNDATION",
+      "purpose": "General & Unrestricted"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "BLACK ECONOMIC ALLIANCE FOUNDATION",
+      "purpose": "the center for black entrepreneurship (CBE) program"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "AMERICAN FRIENDS OF MAGEN DAVID ADOM",
+      "purpose": "To support Humanitarian Assistance efforts in Israel"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "FRIENDS OF THE WORLD FOOD PROGRAM INC",
+      "purpose": "To support Humanitarian Assistance efforts in Gaza"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "INCO COMMUNITY INC",
+      "purpose": "Unlocking the economic potential of women-led businesses in the UK&I"
+    },
+    {
+      "amount": 850000.0,
+      "is_new": false,
+      "name": "AMERICAN NATIONAL RED CROSS",
+      "purpose": "To support the Kenya Red Cross Society (KRCS) emergency appeal and the Tanzania Red Cross (TRC) emergency appeal, to deliver assistance and support the recovery of people affected by the devastating floods caused by the El NiNo rains across both Kenya and Tanzania"
+    },
+    {
+      "amount": 800000.0,
+      "is_new": false,
+      "name": "ROOT CAPITAL INC",
+      "purpose": "To support expanding access to capital for gender inclusive agri-SGBs"
+    },
+    {
+      "amount": 750000.0,
+      "is_new": true,
+      "name": "BLACK INNOVATION ALLIANCE",
+      "purpose": "To support Strengthening the Inclusive Entrepreneurship Ecosystem in the U.S."
+    },
+    {
+      "amount": 583000.0,
+      "is_new": false,
+      "name": "INTERNATIONAL FUND FOR AGRICULTURAL DEVELOPMENT",
+      "purpose": "To support financial inclusion by facilitating access to financial tools; supporting low-income women and women-owned enterprises, and by supporting the development and scaling of sustainable financial services products"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "GLOBAL IMPACT INVESTING NETWORK INC",
+      "purpose": "To support The Impact Lab"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "VALUE FOR WOMEN LTD",
+      "purpose": "Expenditure Responsibility Grant"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "SECONDMUSE FOUNDATION",
+      "purpose": "To support the Future Economy Labs Asia program"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "INCLUSIV INC",
+      "purpose": "To support Maximizing Financial Inclusion Impact in the U.S."
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "OPERATION HOPE",
+      "purpose": "To develop a digital technical assistance tool that will support 4000 women entrepreneurs and a one-year membership to HOPE network"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": true,
+      "name": "THE ASPEN INSTITUTE INC",
+      "purpose": "To support the Digital Equity Frontiers Pilot Project"
+    },
+    {
+      "amount": 343741.0,
+      "is_new": false,
+      "name": "CHARITABLE GIVING",
+      "purpose": "General & Unrestricted"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "SINGA GLOBAL",
+      "purpose": "to support the Leading Newcomer Entrepreneurship Support Programs in Europe"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "TIDES CENTER",
+      "purpose": "to help diverse fund managers build their funds and access technical assistance, while creating connections to LPs, through an entity such as VC Include"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": true,
+      "name": "FINANCIAL ALLIANCE FOR WOMEN INC",
+      "purpose": "Expenditure Responsibility Grant"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "INTERNATIONAL TRADE CENTRE",
+      "purpose": "Expenditure Responsibility Grant"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "THE MILKEN INSTITUTE",
+      "purpose": "To support the Corporate Philanthropy Leadership Collective"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "AMERICAN HEART ASSOCIATION",
+      "purpose": "To support the American Heart Association's Go Red for Women program"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "CHIEF EXECUTIVES FOR CORPORATE PURPOSE INC",
+      "purpose": "To support a new business and societal ROI framework for corporate foundations"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "COMMUNITY REINVESTMENT FUND INC",
+      "purpose": "To support the program From Outputs to Outcomes: Deploying CRF Insights to Measure the Impact of the California Rebuilding Fund"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "HUGE THING SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+      "purpose": "Expenditure Responsibility Grant"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "KIZ SINNOVA GES FUER SOZIALE INNOVATIONEN GGMBH",
+      "purpose": "To support Perspektive neuStart in fostering inclusive entrepreneurship and strengthening the entrepreneurial ecosystem in Germany"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "NATIONAL BANKERS COMMUNITY ALLIANCE INC",
+      "purpose": "To support the planning phase of the B.O.S.S (Back-Office Support and Seed-Capital) Tank initiative"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "PT KANIKA CAHAYA (AKA INSTELLAR)",
+      "purpose": "Expenditure Responsibility Grant"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "SAN FRANCISCO FOOD BANK",
+      "purpose": "To support the Community Markets Initiative"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "SOUTH AFRICAN WOMEN IN ENGINEERING",
+      "purpose": "To support the \"STEM is Everywhere\" Female Founder Incubator"
+    },
+    {
+      "amount": 217605.0,
+      "is_new": false,
+      "name": "KIVA MICROFUNDS",
+      "purpose": "DONOR ADVISER FUND - K-DAF"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "GRACA MACHEL TRUST",
+      "purpose": "Africa's Firestarters program Igniting Women's Entrepreneurship in Uganda, Kenya and South Africa"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "SMITHSONIAN INSTITUTION",
+      "purpose": "to support the NMAAHC mission"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": true,
+      "name": "FONDS DE DOTATION AMBITION SAINT-DENIS",
+      "purpose": "To support the Les Essentielles program"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "AFRICAN PRIVATE EQUITY AND VENTURE CAPITAL ASSOCIA",
+      "purpose": "Expenditure Responsibility"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "AMERICAN CORPORATE PARTNERS",
+      "purpose": "To support creating an entrepreneurship mentorship program for post-9/11 veterans"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "FUNDACJA EDUKACYJNA PERSPEKTYWY",
+      "purpose": "To support the Women in Tech Summit and community engagement activities for women founders in Poland"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "CENTRAL TEXAS FOOD BANK INC",
+      "purpose": "General & Unrestricted"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "GIRLSTART",
+      "purpose": "the Visa Foundation Gives partnership to help support addressing youth education"
+    },
+    {
+      "amount": 120000.0,
+      "is_new": false,
+      "name": "INSTITUTO REDE MULHER EMPREENDEDORA - IRME",
+      "purpose": "To support the W20 as the official engagement group of the G20 focused on gender equity, equality, and women's economic empowerment"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "DONORSCHOOSE ORG",
+      "purpose": "To support Visa's MissionRock campaign to fully fund all San Francisco Projects"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "GLOBALGIVING FOUNDATION INC",
+      "purpose": "To support the Brazilian Red Cross (Cruz Vermelha Brasileira) in their response to the flooding in Rio Grande do Sul"
+    },
+    {
+      "amount": 88214.0,
+      "is_new": false,
+      "name": "CANADIAN ONLINE GIVING FOUNDATION",
+      "purpose": "General & Unrestricted"
+    },
+    {
+      "amount": 78000.0,
+      "is_new": true,
+      "name": "SOCIETE EDITRICE DU MONDE",
+      "purpose": "Expenditure Responsibility Grant"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "GALLAUDET UNIVERSITY",
+      "purpose": "To support the Necessity of Now campaign"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ASIA FOUNDATION",
+      "purpose": "To support the Asia Foundation's 2024 Lotus Leadership Awards Gala"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "MISSION CURE INC",
+      "purpose": "To support the organization's goal to help find a cure for chronic pancreatitis"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "THE AFRICA-AMERICA INSTITUTE",
+      "purpose": "To Support 40th Anniversary Gala."
+    },
+    {
+      "amount": 15093.0,
+      "is_new": false,
+      "name": "THE TRUSTEE FOR THE AUSTRALIAN ONLINE GIVING FOUND",
+      "purpose": "General & Unrestricted"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "CONCORDANCE ACADEMY OF LEADERSHIP",
+      "purpose": "General & Unrestricted"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "THE NORTHERN MICHIGAN UNIVERSITY FOUNDATION",
+      "purpose": "General & Unrestricted"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "GREATER CINCINNATI FOUNDATION",
+      "purpose": "P&G Alumni Foundation Fund"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

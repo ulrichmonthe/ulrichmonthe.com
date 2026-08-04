@@ -50,6 +50,14 @@
     "singleton_cluster_share": 0.0,
     "total_grant_records": 5
   },
+  "recipients_latest_year": [
+    {
+      "amount": 18237511.0,
+      "is_new": false,
+      "name": "See Exhibit A",
+      "purpose": "Various"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "See Statement Attached",

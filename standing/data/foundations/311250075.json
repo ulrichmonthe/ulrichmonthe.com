@@ -48,6 +48,230 @@
     "singleton_cluster_share": 0.5679,
     "total_grant_records": 163
   },
+  "recipients_latest_year": [
+    {
+      "amount": 5758188.0,
+      "is_new": false,
+      "name": "Cincinnati Symphony Orchestra",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 987118.0,
+      "is_new": false,
+      "name": "Cincinnati Opera",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 411299.0,
+      "is_new": false,
+      "name": "Cincinnati Ballet",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 411299.0,
+      "is_new": false,
+      "name": "Cincinnati May Festival",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 324049.0,
+      "is_new": true,
+      "name": "Utah State University",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 230660.0,
+      "is_new": true,
+      "name": "Michigan State University",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 170647.0,
+      "is_new": true,
+      "name": "The Ohio State University",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 97020.0,
+      "is_new": false,
+      "name": "The Greater Cincinnati Arts & Education Center",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": false,
+      "name": "Xavier University",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 87900.0,
+      "is_new": true,
+      "name": "Noble Research Institute",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 85828.0,
+      "is_new": true,
+      "name": "Kent State University Foundation Inc",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": true,
+      "name": "Vocal Arts Ensemble of Cincinnati",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "Cincinnati Boy Choir Inc",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "Cincinnati Children's Choir",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "Cincinnati Chamber Orchestra",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "Kennedy Heights Arts Center",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "Lives UnitedVidas Unidas",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 28000.0,
+      "is_new": false,
+      "name": "Linton Incorporated",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 28000.0,
+      "is_new": false,
+      "name": "Queen City Chamber Opera",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Blue AshMontgomery Symphony Orchestra",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Price Hill Will MYCincinnati",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "School House Symphony",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 18000.0,
+      "is_new": false,
+      "name": "Northern Kentucky Symphony",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Cincinnati Museum Center",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": true,
+      "name": "The Cincinnati String Project",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Ken Anderson Alliance",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "Queen City Performing Arts Organization Inc",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 8500.0,
+      "is_new": true,
+      "name": "Northern Kentucky University",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 6496.0,
+      "is_new": true,
+      "name": "Miami University",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Cincinnati Choral Society",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": false,
+      "name": "Jazz Alive Inc",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "MadeiraIndian Hill Join Fire District",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "Oldenburg Academy",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "Summer Bash Inc",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 300.0,
+      "is_new": true,
+      "name": "Margaret Mary Health Foundation",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 100.0,
+      "is_new": false,
+      "name": "Batesville Area Arts Council",
+      "purpose": "Organization's Charitable Purpose"
+    },
+    {
+      "amount": 100.0,
+      "is_new": true,
+      "name": "EECO",
+      "purpose": "Organization's Charitable Purpose"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

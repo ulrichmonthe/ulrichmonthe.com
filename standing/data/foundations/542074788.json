@@ -48,6 +48,284 @@
     "singleton_cluster_share": 0.5865,
     "total_grant_records": 321
   },
+  "recipients_latest_year": [
+    {
+      "amount": 5275820.0,
+      "is_new": true,
+      "name": "ST LOUIS COMMUNITY FOUNDATION",
+      "purpose": "REGIONAL RESPONSE TEAM CAPACITY BUILDING GRANT"
+    },
+    {
+      "amount": 5120000.0,
+      "is_new": true,
+      "name": "FOREST PARK FOREVER INC",
+      "purpose": "IN SUPPORT OF \"FOREVER: THE CAMPAIGN FOR FOREST PARK'S FUTURE\""
+    },
+    {
+      "amount": 4073168.0,
+      "is_new": true,
+      "name": "CURATORS OF THE UNIVERSITY OF MISSOURI-ST LOUIS ON BEHALF OF THE UNIVERSITY",
+      "purpose": "ST. LOUIS ANCHOR ACTION NETWORK CAPACITY BUILDING GRANT"
+    },
+    {
+      "amount": 2250000.0,
+      "is_new": true,
+      "name": "FEDERATION OF AMERICAN SCIENTISTS",
+      "purpose": "IN SUPPORT OF THE ECONOMIC MOBILITY INITIATIVE"
+    },
+    {
+      "amount": 2160564.0,
+      "is_new": true,
+      "name": "BIOSTL",
+      "purpose": "BIOGENERATOR: BUILDING INNOVATION ECONOMY LEADERS THROUGH THE BIOSCIENCE EQUITABLELEADERSHIP (BEL) VENTURE FELLOWS PROGRAM"
+    },
+    {
+      "amount": 1185500.0,
+      "is_new": true,
+      "name": "NEIGHBORHOOD SOLIDARITY FUND",
+      "purpose": "IN SUPPORT OF STAFFING, PILOT PROGRAM COSTS, EVALUATION, AND DISSEMINATION OF FINDINGS"
+    },
+    {
+      "amount": 1160000.0,
+      "is_new": true,
+      "name": "DAVIS & ELKINS COLLEGE",
+      "purpose": "ENDOWMENT F/T SECURE THE FUTURE CAMPAIGN, PHASE II"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": true,
+      "name": "SMALL BUSINESS EMPOWERMENT CENTER",
+      "purpose": "ST. LOUIS LOW-INCOME INVESTMENT FUND AND TECHNICAL ASSISTANCE (ST. LOUIS LIFT)"
+    },
+    {
+      "amount": 900000.0,
+      "is_new": true,
+      "name": "HABITAT FOR HUMANITY INTERNATIONAL INC",
+      "purpose": "BUILDING OUR FINANCIAL FUTURE"
+    },
+    {
+      "amount": 662539.0,
+      "is_new": true,
+      "name": "WEPOWER",
+      "purpose": "ST. LOUIS MARKET RATE SURVEY RAPID RESPONSE COORDINATION"
+    },
+    {
+      "amount": 575000.0,
+      "is_new": true,
+      "name": "ST LOUIS SCIENCE CENTER FOUNDATION",
+      "purpose": "FOR THE ST. LOUIS SCIENCE CENTER CAMPAIGN TO BE LAUNCHED IN 2024, WITH THE SPECIFIC PURPOSE OF THIS GIFT TO BE DECIDED LATER"
+    },
+    {
+      "amount": 539488.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF WASHINGTON",
+      "purpose": "PREPARING TEACHERS TO FACILITATE ASSET-BASED SCIENCE & LITERACY DISCOURSE IN DUAL AND MULTILINGUAL ELEMENTARY CLASSROOMS"
+    },
+    {
+      "amount": 494831.0,
+      "is_new": true,
+      "name": "TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA",
+      "purpose": "FACILITATING DIGITAL DISCOURSE: TEACHERS AS LEARNERS IN A DIGITAL AGE"
+    },
+    {
+      "amount": 454000.0,
+      "is_new": true,
+      "name": "GOALSETTER FOUNDATION",
+      "purpose": "FERGUSON FLORISSANT FINANCIAL EMPOWERMENT PROJECT"
+    },
+    {
+      "amount": 449569.0,
+      "is_new": true,
+      "name": "ARIZONA BOARD OF REGENTS UNIVERSITY OF ARIZONA",
+      "purpose": "TEACHERS AS THINKERS: IMPROVING CLASSROOM COMMUNICATION IN MATHEMATICS"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": true,
+      "name": "IFF",
+      "purpose": "JOYFUL SPACES"
+    },
+    {
+      "amount": 345562.0,
+      "is_new": true,
+      "name": "TEMPLE UNIVERSITY-OF THE COMMONWEALTH SYSTEM OF HIGHER EDUC",
+      "purpose": "THE DEVELOPMENT OF NOVICE TEACHERS ROLE-IDENTITIES AS DISCUSSION FACILITATORS IN SOCIAL STUDIES CLASSROOMS"
+    },
+    {
+      "amount": 303500.0,
+      "is_new": true,
+      "name": "MISSOURI HISTORICAL SOCIETY JEFFERSON MEMORIAL BUILDING",
+      "purpose": "FOR EXHIBIT GALLERY RENOVATION AND EXHIBIT ENDOWMENT."
+    },
+    {
+      "amount": 300026.0,
+      "is_new": true,
+      "name": "THE REGENTS OF THE UNIVERSITY OF COLORADO",
+      "purpose": "DEVELOPING A MODEL OF TEACHER LEARNING TO SUPPORT COMPUTATIONALLY RICH COMMUNICATION IN SCIENCE CLASSROOMS"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": true,
+      "name": "ENTREPRENEUR STARTUP BUSINESS DEVELOPMENT CORPORATION",
+      "purpose": "ARCH GRANTS COMMUNITY CAPITAL FUND"
+    },
+    {
+      "amount": 275000.0,
+      "is_new": true,
+      "name": "INTERNATIONAL INSTITUTE OF METROPOLITAN ST LOUIS",
+      "purpose": "GENERAL SUPPORT OF THE MISSION"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": true,
+      "name": "ST LOUIS LIFE SCIENCES PROJECT",
+      "purpose": "GENERAL PURPOSES"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "CORTEX",
+      "purpose": "ASSESSING IMPACT OF FIRST YEAR OF MISSOURI TECH FIRST"
+    },
+    {
+      "amount": 182108.0,
+      "is_new": true,
+      "name": "CURATORS OF THE UNIVERSITY OF MISSOURI",
+      "purpose": "CIVIC COLLABORATION FELLOWS: BUILDING LEADERSHIP CAPACITY FOR ECONOMIC MOBILITY"
+    },
+    {
+      "amount": 157264.0,
+      "is_new": true,
+      "name": "LEGAL SERVICES OF EASTERN MO INC",
+      "purpose": "IN SUPPORT OF STAFFING, TECHNOLOGY, INITIATIVE OPERATIONS, STIPENDS TO PARTNERING HOME REPAIR ORGANIZATIONS"
+    },
+    {
+      "amount": 121532.0,
+      "is_new": true,
+      "name": "MASTERS CHANCELLOR AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+      "purpose": "EMERGENCE AND SELF-ORGANIZATION OF PATTERNS IN PLANETARY POLAR ATMOSPHERES"
+    },
+    {
+      "amount": 120000.0,
+      "is_new": true,
+      "name": "ST LOUIS ZOO FOUNDATION",
+      "purpose": "THE CAMPAIGN FOR THE ST. LOUIS ZOO"
+    },
+    {
+      "amount": 116268.0,
+      "is_new": true,
+      "name": "BOSTON COLLEGE TRUSTEES",
+      "purpose": "PLANNING, IMPLEMENTATION, AND EVALUATION OF CITY CONNECTS IN THE SCHOOL DISTRICT OF UNIVERSITY CITY IN ST. LOUIS, MO"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": true,
+      "name": "THE FOUNDATION FOR BARNES-JEWISH HOSPITAL",
+      "purpose": "CHALLENGE GRANT - TO ENDOW AND SUPPORT THE NEW INITIATIVE IN PALLIATIVE CARE AND FORMATION OF THE INSTITUTE FOR SUPPORTIVE CARE AT BJC HEALTH (ISC)."
+    },
+    {
+      "amount": 91478.0,
+      "is_new": true,
+      "name": "PRESIDENT AND FELLOWS OF HARVARD COLLEGE",
+      "purpose": "INTEGRATIVE THEORY OF MEMORY AND COGNITIVE PROCESSES"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "THE CLARK-FOX FAMILY FOUNDATION",
+      "purpose": "FOR BLUEPRINT4 TO PROVIDE STEM SCHOLARSHIPS"
+    },
+    {
+      "amount": 72000.0,
+      "is_new": true,
+      "name": "HARRIS-STOWE FOUNDATION INC",
+      "purpose": "HARRIS-STOWE UNIVERSITY STRATEGIC ASSESSMENT AND PLANNING INITIATIVE: VISITING COMMITTEE SUPPORT - PART 1"
+    },
+    {
+      "amount": 67000.0,
+      "is_new": true,
+      "name": "EISENHOWER FELLOWSHIPS INC",
+      "purpose": "TO ENDOW ON NAMED ST. LOUIS USA FELLOWSHIP ANNUALLY"
+    },
+    {
+      "amount": 62500.0,
+      "is_new": true,
+      "name": "UNIVERIDAD ADOLFO IBOOEZ",
+      "purpose": "A METHOD FOR STUDYING SHARED MEANING IN CULTURAL GROUPS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "ARCH GRANTS",
+      "purpose": "CAMPAIGN TO ENDOW THE GRANT-MAKING TO ATTRACT START-UP COMPANIES IN ST. LOUIS"
+    },
+    {
+      "amount": 41439.0,
+      "is_new": true,
+      "name": "PARAQUAD INC",
+      "purpose": "IN SUPPORT OF STAFFING, TECHNOLOGY, INITIATIVE OPERATIONS, STIPENDS TO PARTNERING HOME REPAIR ORGANIZATIONS"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "A RED CIRCLE",
+      "purpose": "EXPLORING AND CREATING A COOPERATIVE KITCHEN AND ECOSYSTEM FOR FOOD ENTREPRENEURS"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "LOVETHELOU",
+      "purpose": "LIFT MENTORING"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "HEALTHCARE ANCHOR NETWORK INC",
+      "purpose": "2024 STL CONVENING - REGIONAL SPONSORSHIP"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "WASHINGTON UNIVERSITY IN ST LOUIS",
+      "purpose": "FOR THE ENDOWMENT OF THE DANFORTH SCHOLARS PROGRAM IN HONOR OF WILLIAM H. DANFORTH"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "JAYSON TATUM FOUNDATION",
+      "purpose": "4TH ANNUAL THE JAYSON TATUM FOUNDATIONCHARITY GOLF TOURNAMENT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "THE FAM",
+      "purpose": "HOMECOMING GALA - SILVER SPONSORSHIP"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "ST LOUIS AMERICAN FOUNDATION",
+      "purpose": "37TH ANNUAL SALUTE TO EXCELLENCE IN EDUCATION SCHOLARSHIP & AWARDS GALA - SALUTATORIAN"
+    },
+    {
+      "amount": 13813.0,
+      "is_new": true,
+      "name": "ST LOUIS INTEGRATED HEALTH NETWORK",
+      "purpose": "IN SUPPORT OF STAFFING, TECHNOLOGY, INITIATIVE OPERATIONS, STIPENDS TO PARTNERING HOME REPAIR ORGANIZATIONS"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "IVY FOUNDATION OF ST LOUIS",
+      "purpose": "PHIRST PHAMILY PARAGON AWARDS & SOIREE SPONSORSHIP"
+    },
+    {
+      "amount": 1181.0,
+      "is_new": false,
+      "name": "FROM K-1S",
+      "purpose": "CHARITABLE"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "REQUEST FOR PROPOSALS(RFP) SUBMISSION INFORMATION ON FUNDING PROGRAMS CAN BE OBTAINED AT THE FOUNDATION'S WEBSITE ADDRESS: WWW.JSMF.ORG",

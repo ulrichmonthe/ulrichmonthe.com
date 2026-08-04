@@ -48,6 +48,38 @@
     "singleton_cluster_share": 0.2727,
     "total_grant_records": 33
   },
+  "recipients_latest_year": [
+    {
+      "amount": 17000000.0,
+      "is_new": false,
+      "name": "GIVEWELL",
+      "purpose": "GENERAL USE"
+    },
+    {
+      "amount": 10000000.0,
+      "is_new": false,
+      "name": "PARTNERS IN HEALTH",
+      "purpose": "GENERAL USE"
+    },
+    {
+      "amount": 7000000.0,
+      "is_new": false,
+      "name": "THE CARTER CENTER",
+      "purpose": "GENERAL USE"
+    },
+    {
+      "amount": 2500000.0,
+      "is_new": false,
+      "name": "COMMUNITY PARTNERS INTERNATIONAL",
+      "purpose": "GENERAL USE"
+    },
+    {
+      "amount": 2500000.0,
+      "is_new": false,
+      "name": "THE HERTZ FOUNDATION",
+      "purpose": "GENERAL USE"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

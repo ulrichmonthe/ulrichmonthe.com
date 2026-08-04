@@ -48,6 +48,2258 @@
     "singleton_cluster_share": 0.3795,
     "total_grant_records": 2372
   },
+  "recipients_latest_year": [
+    {
+      "amount": 740000.0,
+      "is_new": false,
+      "name": "TIDES FOUNDATION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 670000.0,
+      "is_new": false,
+      "name": "CENTER FOR INVESTIGATIVE REPORTING",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 600000.0,
+      "is_new": false,
+      "name": "WGBH EDUCATIONAL FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 550000.0,
+      "is_new": false,
+      "name": "NEO PHILANTHROPY INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 450000.0,
+      "is_new": false,
+      "name": "NEW VENTURE FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 420000.0,
+      "is_new": false,
+      "name": "PROJECT ON GOVERNMENT OVERSIGHT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "GEORGIA ALLIANCE EDUCATION FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 385000.0,
+      "is_new": false,
+      "name": "CENTER FOR TRANSFORMATIVE ACTION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 375000.0,
+      "is_new": true,
+      "name": "GREATER WASHINGTON EDUCATIONAL TELEC ASSOC INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 357000.0,
+      "is_new": false,
+      "name": "SUSTAINABLE MARKETS FOUNDATION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "FREE PRESS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "CHEF ANN FOUNDATION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 325000.0,
+      "is_new": false,
+      "name": "TIDES CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "FUND FOR CONSTITUTIONAL GOVERNMENT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "PROPUBLICA INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 240000.0,
+      "is_new": false,
+      "name": "FOOD & WATER WATCH",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": false,
+      "name": "AMERICAN UNIVERSITY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 220000.0,
+      "is_new": false,
+      "name": "CENTER FOR COMMUNITY TRANSPORTATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "ROCK THE VOTE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "STATE LEADERSHIP PROJECT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "THEGUARDIANORG",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "VOTER PARTICIPATION CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "WINDWARD FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "ROCKEFELLER PHILANTHROPY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 195000.0,
+      "is_new": false,
+      "name": "HISTORIC ITHACA INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 180000.0,
+      "is_new": false,
+      "name": "TYPE MEDIA CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": true,
+      "name": "INSIDE CLIMATE NEWS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 166500.0,
+      "is_new": false,
+      "name": "ITHACA COLLEGE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 155200.0,
+      "is_new": false,
+      "name": "CORNELL UNIVERSITY",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 155000.0,
+      "is_new": false,
+      "name": "MULTIPLIER",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 155000.0,
+      "is_new": false,
+      "name": "VIRGINIA ORGANIZING INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 152250.0,
+      "is_new": false,
+      "name": "HUMAN SERVICES COALITION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "ADVANCEMENT PROJECT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "AS YOU SOW",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "BLUEPRINT NORTH CAROLINA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "BRENNAN CENTER FOR JUSTICE AT NYU SCHOOL OF LAW",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "CENTER FOR MEDIA AND DEMOCRACY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "CENTER FOR POPULAR DEMOCRACY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "COMMON DREAMS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "DEMOCRACY NOW PRODUCTIONS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "FLORIDA ALLIANCE FOR CIVIC ENGAGEMENT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "FREEDOM OF THE PRESS FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "LEAGUE OF CONSERVATION VOTERS EDUCATION FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "MALDEF",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "MICHIGAN CIVIC EDUCATION FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "ONE ARIZONA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "PA ALLIANCE FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "SOUTHSIDE COMMUNITY CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "GROUNDTRUTH PROJECT INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "TOGETHER WISCONSIN INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "ACTION FOR THE CLIMATE EMERGENCY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "IMAGINE NORTH CAROLINA FIRST",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "NAACP LEGAL DEFENSE AND EDUCATIONAL FUND INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "NATIONAL CONGRESS OF AMERICAN INDIANS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "VOTER REGISTRATION PROJECT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "BLACK VOTERS MATTER CAPACITY BUILDING INSTITUTE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "COLOR OF CHANGE EDUCATION FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "SUNRISE MOVEMENT EDUCATION FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "NEXTGEN EDUCATION FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "ASIAN AMERICAN LEGAL DEFENSE AND EDUCATION FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "BLACK PROGRESSIVE ACTION COALITION EDUCATION FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "NAACP LEGAL DEPARTMENT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "THE INTERCEPT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 148000.0,
+      "is_new": false,
+      "name": "TOMPKINS COUNTY",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 143000.0,
+      "is_new": false,
+      "name": "FINGER LAKES REUSE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 140000.0,
+      "is_new": false,
+      "name": "MOTE MARINE LABORATORY INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 135000.0,
+      "is_new": false,
+      "name": "CORNELL COOPERATIVE EXTENSION OF TOMPKINS COUNTY",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 135000.0,
+      "is_new": false,
+      "name": "NATURAL RESOURCES DEFENSE COUNCIL INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 125500.0,
+      "is_new": false,
+      "name": "NEW YORK PUBLIC INTEREST RESEARCH GROUP FUND",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "AMERICAN SUSTAINABLE BUSINESS INSTITUTE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "BENNINGTON COLLEGE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "CLEAN WATER FUND",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "CORPORATE ACCOUNTABILITY",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "ENVIRONMENT AMERICA RESEARCH AND POLICY CENTER INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "STATE VOICES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "OCCIDENTAL ARTS AND ECOLOGY CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "CLIMATE AND CLEAN ENERGY EQUITY FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "AMPLIFY EQUITY INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 121500.0,
+      "is_new": false,
+      "name": "GROUNDSWELL CENTER FOR LOCAL FOOD & FARMING",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 115000.0,
+      "is_new": false,
+      "name": "GROTON CENTRAL SCHOOL",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "MOUNTAIN WATERSHED ASSOCIATION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "REDFORD CENTER INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 105000.0,
+      "is_new": false,
+      "name": "MAJORITY ACTION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ACCELERATE CHANGE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "AMERICAN OVERSIGHT INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ARIZONA CENTER FOR EMPOWERMENT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CATHOLIC CHARITIES FOOD BANK OF THE SOUTHERN TIER",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CATHOLIC CHARITIES OF TOMPKINSTIOGA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "COMMON CAUSE EDUCATION FUND",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "EARTHWORKS",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ENVIRONMENTAL ADVOCATES OF NEW YORK INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ENVIRONMENTAL WORKING GROUP",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ESSENTIAL INFORMATION INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "GREENPEACE FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "HIP HOP CAUCUS EDUCATION FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "INSTITUTE FOR NONPROFIT NEWS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ITVS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "MISSISSIPPI VOTES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "NEW GEORGIA PROJECT INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "PASTORS UNITED COMMUNITY ADVOCACY INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "PENNSYLVANIA VOICE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "PUSHBLACK",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "SOCIAL AND ENVIRONMENTAL ENTREPRENEURS",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "STATE INNOVATION EXCHANGE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "TEXAS ORGANIZING PROJECT EDUCATION FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "THE MARSHALL PROJECT INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF MARYLAND COLLEGE PARK FOUNDATION INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "WILDEARTH GUARDIANS",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "WORKING AMERICA EDUCATION FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "AMALGAMATED CHARITABLE FOUNDATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "FAIR ELECTIONS CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "NEW VIRGINIA MAJORITY EDUCATION FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "PROGEORGIA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "THE MARKUP",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CAPITAL B NEWS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "DEMOS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "FIRELIGHT MEDIA INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "NEW YORK FOCUS INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "OPENSECRETS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ROCKEFELLER FAMILY FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "GLOBAL IMPACT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "PEOPLE'S PARITY PROJECT",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "PHYSICIANS SCIENTISTS AND ENGINEERS FOR SUSTAINABLE & HE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "STUDENT ORGANIZING INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 95000.0,
+      "is_new": false,
+      "name": "FRACK ACTION FUND",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": true,
+      "name": "ALLIANCE FOR GLOBAL JUSTICE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": false,
+      "name": "PUBLIC CITIZEN FOUNDATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": false,
+      "name": "SO OTHERS MIGHT EAT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": false,
+      "name": "SUSTAINABLE FINGER LAKES",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 85100.0,
+      "is_new": false,
+      "name": "TOMPKINS COUNTY SPCA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "CENTER FOR BIOLOGICAL DIVERSITY INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "NEW ROOTS CHARTER SCHOOL",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "SOUTHWEST PENNSYLVANIA ENVIRONMENTAL HEALTH PROJECT",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "ALLIANCE FOR A GREEN ECONOMY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "DELAWARE RIVERKEEPER NETWORK",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "CLEAN ENERGY GROUP",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "AMERICAN CONSTITUTION SOCIETY FOR LAW AND POLICY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "AMERICAN DOCUMENTARY INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "AMERICAN RIVERS INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "CITIZENS CAMPAIGN FUND FOR THE ENVIRONMENT",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "FRACTRACKER ALLIANCE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "FREE SPEECH FOR PEOPLE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "FUND FOR INVESTIGATIVE JOURNALISM INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "PHYSICIANS FOR SOCIAL RESPONSIBILITY PENNSYLVANIA INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "PUBLIC POLICY AND EDUCATION FUND OF NEW YORK",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "REPRESENTUS EDUCATION FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "RIVER NETWORK",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "RIVERKEEPER INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "SENECA LAKE GUARDIAN INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "STAND",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "AMERICAN PROMISE EDUCATION FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "ENDANGERED SPECIES COALITION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "NATIONAL AUDUBON SOCIETY INC (PROJECT PUFFIN)",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "SOMERSET FOUNDATION INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "CERES INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "ENVIRONMENTAL INTEGRITY PROJECT",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "INVESTIGATIVE REPORTERS AND EDITORS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "ITHACA CITY SCHOOL DISTRICT",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "OIL CHANGE INTERNATIONAL",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "PRIVATE EQUITY STAKEHOLDER PROJECT",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "INVESTOR ADVOCATES FOR SOCIAL JUSTICE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": true,
+      "name": "NORTHEAST ORGANIC FARMING ASSOCIATION OF NY",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "CENTER FOR FOOD SAFETY",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "DEFENDERS OF WILDLIFE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "CORNELL UNIVERSITY-COLLEGE OF AGRICULTURE & LIFE SCIENCES",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "GREAT LAKES AQUATIC HABITAT NETWORK AND FUND",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 64500.0,
+      "is_new": true,
+      "name": "CNTR FOR ORANGUTAN AND CHIMPANZEE CONSERVATION INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "CATSKILL MOUNTAINKEEPER INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "INST FOR ENERGY ECONOMICS AND FINANCIAL ANALYSIS INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "PUBLIC EMPLOYEES FOR ENVIRONMENTAL RESPONSIBILITY INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "NATIONAL WILDLIFE FEDERATION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": true,
+      "name": "AMERICAN INDIAN COMMUNITY HOUSE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": true,
+      "name": "BOARD OF REGENTS OF THE UNIVERSITY OF WISCONSIN SYSTM",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": true,
+      "name": "SOLAR UNITED NEIGHBORS",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 57500.0,
+      "is_new": false,
+      "name": "FRIENDS OF THE ITHACA FARMERS MARKET INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "ITHACA HEALTH ALLIANCE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "RACHEL'S NETWORK INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "BARN RAISING MEDIA INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ALLIANCE FOR JUSTICE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "AMERICAN PROSPECT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CAYUGA LAKE WATERSHED NETWORK",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CHILDREN'S ENVIRONMENTAL HEALTH NETWORK",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "FRIENDS OF STEWART PARK INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "GREEN AMENDMENTS FOR THE GENERATIONS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ICIVICS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ITHACA COMMUNITY RADIO INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "NISKANEN CENTER",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "PALEONTOLOGICAL RESEARCH INSTITUTION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "PEOPLE FOR THE AMERICAN WAY FOUNDATION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "PHYSICIANS FOR SOCIAL RESPONSIBILITY",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "PITTSBURGH COMMUNITY BROADCASTING CORPORATION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "PROJECT CHIMPS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "STORY OF STUFF PROJECT",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "THE FINGER LAKES LAND TRUST INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "THE ITHACA VOICE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "THE REACH PROJECT INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "WASHINGTON PERFORMING ARTS SOCIETY",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "WSKG PUBLIC TELECOMMUNICATIONS COUNCIL",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CENTER FOR INDEPENDENT DOCUMENTARY INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CENTER FOR LAW AND HUMAN VALUES (DBA THE ACTION LAB)",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CONSERVATION LAW FOUNDATION INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "GRASSROOTS INTERNATIONAL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "THE ASPEN INSTITUTE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "US ASSOCIATION OF FORMER MEMBERS OF CONGRESS",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "VOCAL-NY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BINGHAMTON REGIONAL SUSTAINABILITY COALITION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ENVIRONMENTAL ACTION RESEARCH CENTER INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "VET VOICE FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SPRING STREET CLIMATE FUND INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "DEMOCRACY MATTERS FOUNDATION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "FIX THE COURT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "FLORIDA RISING TOGETHER INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "FOUNDATION FOR APPALACHIAN KENTUCKY INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "HUMANE WORLD FOR ANIMALS",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "INDIJ PUBLIC MEDIA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "NATIONAL CENTER FOR CIVIC INNOVATION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "NYCOFI INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "PCRF",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "ROSENWALD PARK CAMPAIGN",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 45795.0,
+      "is_new": false,
+      "name": "TOMPKINS-SENECA-TIOGA BOCES",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "CHILD DEVELOPMENT COUNCIL OF CENTRAL NEW YORK INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "CORTLAND COLLEGE FOUNDATION INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "CURIOUS COMMUNICATIONS INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "DROP-IN CHILDREN'S CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "PUBLIC ACCOUNTABILITY INITIATIVE INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "SEA SHEPHERD CONSERVATION SOCIETY",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "THE VILLAGE AT ITHACA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "TOXIC FREE FUTURE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 44000.0,
+      "is_new": false,
+      "name": "ITHACA CHILDREN'S GARDEN",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "BREAD FOR THE CITY INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "FREE SCIENCE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "GEORGETOWN MINISTRY CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "OUR CHILDREN'S TRUST",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "UPSTREAM POLICY INSTITUTE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "GREATER YELLOWSTONE COALITION INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "WESTERN ENVIRONMENTAL LAW CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "HABITAT MEDIA",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "OUR CLIMATE EDUCATION FUND",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "POWERSWITCH ACTION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "SOCIAL GOOD FUND",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "CALIFORNIA OCEAN SCIENCE TRUST",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "CLIMATE SOLUTIONS ACCELERATOR",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "COMMUNITY FOUNDATION FOR THE ALLEGHENIES",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "NEW YORK FOUNDATION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "THE SHAREHOLDER COMMONS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "INDIGENOUS VALUES INITIATIVE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "NUCLEAR INFORMATION AND RESOURCE SERVICE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "ONE OCEAN MEDIA FOUNDATION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 39000.0,
+      "is_new": false,
+      "name": "ENVIRONMENTAL HEALTH SCIENCES",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 37000.0,
+      "is_new": false,
+      "name": "DISCOVER CAYUGA LAKE INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "ALL OUR ENERGY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "CHILDREN'S LAW CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "CIVIC ENSEMBLE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "CLEAN AND HEALTHY NEW YORK INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "COMING CLEAN",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "COMMUNITY FOUNDATION OF TOMPKINS COUNTY INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "COMMUNITY UNITY MUSIC EDUCATION PROGRAM",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "ECOLOGY CENTER",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "FAMILY AND CHILDREN'S SERVICE OF ITHACA INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "FIRST AMENDMENT COALITION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "GIFTS FOR THE HOMELESS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "HEALTHY SCHOOLS NETWORK INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "LOAVES AND FISHES OF TOMPKINS COUNTY",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "DOULA ACCESS INITIATIVE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "NAT'L ALLIANCE ON MENTAL ILLNESS OF THE FINGER LAKES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "NO MAS LAGRIMAS - NO MORE TEARS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "LEGAL ASSISTANCE OF WESTERN NEW YORK INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 34000.0,
+      "is_new": false,
+      "name": "OJISDA' SUSTAINABLE INDIGENOUS FUTURES",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "CHRIS DENNIS ENVIRONMENT FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "SAVE THE CHIMPS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "WOMEN'S VOICES FOR THE EARTH",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "CLIMATE FINANCE ACTION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "FISCAL POLICY INSTITUTE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "JANE GOODALL INST FOR WILDLIFE RESEARCH EDUC & CONS",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "MOCKINGBIRD INCUBATOR",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "PROMOTE PT INC DBA PROTECT PT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BREAST CANCER PREVENTION PARTNERS",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CHIMP HAVEN INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "DC CENTRAL KITCHEN INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "EARTH ISLAND INSTITUTE INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "GRIST MAGAZINE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "MIRIAM'S KITCHEN",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "MOTHERS OUT FRONT",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NATIONAL GALLERY OF ART",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "POSITIVE FUTURES NETWORK",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ROOTSACTION EDUCATION FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SOLON CENTER FOR RESEARCH AND PUBLISHING",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "TRUTHOUT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "TUDOR PLACE FOUNDATION INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "WORLD CENTRAL KITCHEN INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "THE ARC OF THE UNITED STATES",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NEW YORK STATE LABOR RELIGION COALITION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "THE FOOD FIX CAMPAIGN",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "US PIRG EDUCATION FUND",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "CLIMATE EMERGENCY FUND",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "FORWARDTN",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "GO ITHACA INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "INTERNATIONAL LEAGUE OF CONSERVATION PHOTOGRAPHERS",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "MARCH ON FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "PENNFUTURE",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "ROSE FOUNDATION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "THE BIG BAD PROJECT",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "TOMPKINS COUNTY MENTAL HEALTH ASSOCIATION",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "VOTERIDERS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "WOMEN'S OPPORTUNITY CNTR OF TOMPKINS & ONONDAGA",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "BEYOND PESTICIDESNT'L COALITION AGAINST THE MISUSE OF PESTICIDES",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "CENTER FOR THE ARTS AT ITHACA INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "FAIRNESS & ACCURACY IN REPORTING",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "INSTITUTE FOR PUBLIC ACCURACY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "MYFACE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "TOMPKINS COUNTY WORKERS' CENTER INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "SCIENCENTER DISCOVERY MUSEUM",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "TRIBE OF HEART",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "BEYOND EXTREME ENERGY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "NORTH CAROLINA COMMUNITY FOUNDATIONNCNG",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "SHOWING UP FOR RACIAL JUSTICE EDUCATION FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "THE COMMUNITY FOUNDATION OF WESTERN NC INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 19654.0,
+      "is_new": false,
+      "name": "ENVIRONMENTAL GRANTMAKERS ASSOCIATION",
+      "purpose": "OTHER"
+    },
+    {
+      "amount": 18000.0,
+      "is_new": false,
+      "name": "GLOBAL FEDERATION OF ANIMAL SANCTUARIES",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 18000.0,
+      "is_new": false,
+      "name": "BJM ENRICHMENT PROGRAM INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "CAYUGA CHAMBER ORCHESTRA INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "CENTER FOR SCIENCE IN THE PUBLIC INTEREST",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "DISCOVERY TRAIL",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "INSTITUTE FOR POLICY STUDIES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "INTERNATIONAL MEDIA PROJECT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "TOWN OF LANSING",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "RUNNING TO PLACES THEATRE COMPANY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 13000.0,
+      "is_new": false,
+      "name": "THE CHERRY ARTS",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 11200.0,
+      "is_new": true,
+      "name": "CONSULTATIVE GROUP ON BIOLOGICAL DIVERSITY",
+      "purpose": "OTHER"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "100REPORTERS",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "COMMUNITY SCIENCE INSTITUTE INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "MEDIA IMPACT FUNDERS",
+      "purpose": "OTHER"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "TEA LEAVES INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "HOOD HUGGERS FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "HUPSTATE CIRCUS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "LOVE LIVING AT HOME INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "SOUTHWEST ENVIRONMENT CENTER DBA WILDLIFE FOR ALL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 9000.0,
+      "is_new": false,
+      "name": "NATIONAL COMMITTEE FOR RESPONSIVE PHILANTHROPY",
+      "purpose": "OTHER"
+    },
+    {
+      "amount": 8250.0,
+      "is_new": false,
+      "name": "CONFLUENCE PHILANTHROPY INC",
+      "purpose": "OTHER"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "INTERFAITH CENTER ON CORPORATE RESPONSIBILITY",
+      "purpose": "OTHER"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "STATE THEATRE OF ITHACA INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "THE FUNDERS NETWORK INC",
+      "purpose": "OTHER"
+    },
+    {
+      "amount": 7000.0,
+      "is_new": true,
+      "name": "ECOWOMEN",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5500.0,
+      "is_new": false,
+      "name": "NY FUNDERS ALLIANCE",
+      "purpose": "OTHER"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "ENVIRONMENTAL FILM FESTIVAL IN THE NATION'S CAPITAL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "FAMILY READING PARTNERSHIP",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "GREATER ITHACA ACTIVITIES CENTER INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 4500.0,
+      "is_new": false,
+      "name": "HISTORY CENTER IN TOMPKINS COUNTY",
+      "purpose": "OTHER"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": false,
+      "name": "PEAK GRANTMAKING",
+      "purpose": "OTHER"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "LATINO CIVIC ASSOCIATION OF TOMPKINS COUNTY INC",
+      "purpose": "PROJECT SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "NATIONAL URBAN FELLOWS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "UNITARIAN UNIVERSALIST URBAN MINISTRY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 600.0,
+      "is_new": true,
+      "name": "HOSPICARE AND PALLIATIVE CARE SERVICES OF TC INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 550.0,
+      "is_new": false,
+      "name": "ITHACA COMMUNITY RECOVERY INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 550.0,
+      "is_new": true,
+      "name": "TRUMANSBURG FOOD PANTRY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "DOCTORS WITHOUT BORDERS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "MERCY CENTER INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "CENTRAL NEW YORK COMMUNITY FOUNDATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500.0,
+      "is_new": false,
+      "name": "MANGALA SHRI BHUTI",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "ECOSTUDIO FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "FEARLESS FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 300.0,
+      "is_new": true,
+      "name": "KIDSAVE INTERNATIONAL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200.0,
+      "is_new": false,
+      "name": "CORTLAND LOAVES & FISHES INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200.0,
+      "is_new": false,
+      "name": "ST MARY CHURCH",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200.0,
+      "is_new": false,
+      "name": "T-BURG TAKES ON PEDIATRIC CANCER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200.0,
+      "is_new": true,
+      "name": "CORTLAND CNTY CHILD DEVELOPMENT DAY CARE PROGRAM INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200.0,
+      "is_new": true,
+      "name": "FOODNET MEALS ON WHEELS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200.0,
+      "is_new": true,
+      "name": "FOOTPRINT PROJECT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200.0,
+      "is_new": true,
+      "name": "THE SATO PROJECT INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200.0,
+      "is_new": true,
+      "name": "ULYSSES PHILOMATHIC LIBRARY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100.0,
+      "is_new": false,
+      "name": "ST JUDE CHILDREN'S RESEARCH HOSPITAL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100.0,
+      "is_new": false,
+      "name": "ST BALDRICK'S FOUNDATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100.0,
+      "is_new": false,
+      "name": "YWCA",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 90.0,
+      "is_new": true,
+      "name": "CENTER FOR THE ARTS OF HOMER INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50.0,
+      "is_new": false,
+      "name": "CORTLAND REPERTORY THEATRE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "WRITTEN REQUEST IDENTIFYING ORGANZATION AND PURPOSE OF FUNDS",

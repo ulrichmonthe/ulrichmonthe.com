@@ -48,6 +48,788 @@
     "singleton_cluster_share": 0.4732,
     "total_grant_records": 456
   },
+  "recipients_latest_year": [
+    {
+      "amount": 10194000.0,
+      "is_new": false,
+      "name": "NEW WORLD SYMPHONY INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5526979.0,
+      "is_new": false,
+      "name": "NATIONAL FOUNDATION FOR ADVANCEMENT IN THE ARTS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 4800000.0,
+      "is_new": false,
+      "name": "BALLET THEATRE FOUNDATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2590939.0,
+      "is_new": false,
+      "name": "NATIONAL YOUNGARTS FOUNDATION SUPPORTING ORGANIZATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1894000.0,
+      "is_new": false,
+      "name": "MUSEUM OF MODERN ART",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1822118.0,
+      "is_new": false,
+      "name": "PS1 CONTEMPORARY ART CENTER INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1275000.0,
+      "is_new": false,
+      "name": "LINCOLN CENTER FOR THE PERFORMING ARTS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1025000.0,
+      "is_new": true,
+      "name": "BARYSHNIKOV ARTS CENTER INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "MIAMI CITY BALLET INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 665500.0,
+      "is_new": false,
+      "name": "ASPEN ART MUSEUM",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "NEW YORK LIVE ARTS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 463333.0,
+      "is_new": false,
+      "name": "HALEAKALA INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 420833.0,
+      "is_new": false,
+      "name": "JACOBS PILLOW DANCE FESTIVAL INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 412338.0,
+      "is_new": false,
+      "name": "THE METROPOLITAN MUSEUM OF ART",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 372050.0,
+      "is_new": false,
+      "name": "BROOKLYN INSTITUTE OF ARTS AND SCIENCES",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "NATIONAL DANCE INSTITUTE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "SERAPHIC FIRE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "SAN FRANCISCO CONSERVATORY OF MUSIC INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 217500.0,
+      "is_new": false,
+      "name": "EMORY UNIVERSITY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "FRACTURED ATLAS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "THE STUDIO MUSEUM IN HARLEM",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "NXTHVN INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 157000.0,
+      "is_new": false,
+      "name": "CAMERA CLUB OF NEW YORK INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "FIND YOUR LIGHT FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "THE YOUNG MENS AND YOUNG WOMENS HEBREW ASSOCIATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "TRI314 MULTIDISCIPLINARY VISUAL PERFORMANCES INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "MASSACHUSETTS MUSEUM OF CONTEMPORARY ART FOUNDATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 106000.0,
+      "is_new": false,
+      "name": "NU DECO ENSEMBLE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 105000.0,
+      "is_new": false,
+      "name": "THE MIAMI FOUNDATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "HARLEM SCHOOL OF THE ARTS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "SUNDANCE INSTITUTE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "AMERICANS FOR THE ARTS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "COMPLEXIONS FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "PROJECT FOR EMPTY SPACE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ART AND ADVOCACY SOCIETY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CHILDRENS MUSEUM OF MANHATTAN",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "NEW YORK SHAKESPEARE FESTIVAL",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "OPERALIA FOUNDATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "TURRELL ART FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "REBOOT INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 77500.0,
+      "is_new": true,
+      "name": "SMITHSONIAN INSTITUTE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "EN GARDE ARTS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "INSTITUTE OF CONTEMPORARY ART MIAMI INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "AMERICAN FRIENDS OF BATSHEVA DANCE COMPANY INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 73400.0,
+      "is_new": false,
+      "name": "ANDERSON RANCH ARTS FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 68000.0,
+      "is_new": false,
+      "name": "BAKEHOUSE ART COMPLEX INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "AMERICAS FOUNDATION OF THE SERPENTINE GALLERIES",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "UNITED STATES ARTISTS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 63000.0,
+      "is_new": false,
+      "name": "JORGE M PEREZ ART MUSEUM OF MIAMI DADE COUNTY INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "JUILLIARD SCHOOL",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "THE CARNEGIE HALL CORPORATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "DIA CENTER FOR THE ARTS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "THE MISTY COPELAND FOUNDATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ART 21 INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "CHARM CITY CULTURAL CULTIVATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "FREE ARTS FOR ABUSED CHILDREN OF NEW YORK CITY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "SITE SANTA FE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "SOURCE STUDIO INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "TRUSTEES OF RESERVATIONS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "NEW YORK FOUNDATION FOR THE ARTS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "MESERVE-KUNHARDT FOUNDATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "NEW ART PUBLICATIONS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 32500.0,
+      "is_new": false,
+      "name": "SWISS INSTITUTE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 30600.0,
+      "is_new": false,
+      "name": "ART COUNCIL INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "JOYCE THEATER FOUNDATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "BYRD HOFFMAN WATER MILL FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "ARTISTS SPACE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PERFORMA INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "THE FOUNTAINHEAD RESIDENCY INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "WILLIAM A FARNSWORTH LIBRARY AND ART MUSEUM INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ARTTABLE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "KAATSBAAN INTERNATIONAL DANCE CENTER INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "WHITNEY MUSEUM OF AMERICAN ART",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "YOUTH AMERICA GRAND PRIX INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "ARTISTS AND MOTHERS INCORPORATED",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "BLANK FORMS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "MIAMI DANCE FUTURES INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "MOVING THEATER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "PARRISH ART MUSEUM INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "SEVENTH REGIMENT ARMORY CONSERVANCY INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 24100.0,
+      "is_new": true,
+      "name": "MERIDIAN INTERNATIONAL CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 23750.0,
+      "is_new": false,
+      "name": "DANSPACE PROJECT INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "INSTITUTE OF CLASSICAL ARCHITECTURE AND ART INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "LOCUST PROJECTS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "ARTISTS IN RESIDENCE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 17500.0,
+      "is_new": true,
+      "name": "MYRIAD USA INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "FRIENDS OF THE BASS MUSEUM INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "DRAWING CENTER INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "SKOWHEGAN SCHOOL OF PAINTING AND SCULPTURE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "STEPHEN PETRONIO DANCE COMPANY INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "AMERICAN FEDERATION OF ARTS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "FRIENDS OF THE HIGH LINE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "MUSIC ASSOCIATES OF ASPEN INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "NEW ORLEANS VIDEO ACCESS CENTER INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "SCULPTURE CENTER INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "WASSAIC PROJECT INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 12600.0,
+      "is_new": false,
+      "name": "ART PRODUCTION FUND INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": true,
+      "name": "ALVIN AILEY DANCE FOUNDATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": true,
+      "name": "MUSEUM ASSOCIATES",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ISAMU NOGUCHI FOUNDATION AND GARDEN MUSEUM",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CENTER FOR ART RESEARCH AND ALLIANCES INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "COOL CULTURE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "INEVITABLE FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "ABRAHAM IN MOTION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "AMERICAN ACADEMY IN ROME",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "FRANKLIN FURNACE ARCHIVE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "INTERNATIONAL COMMUNITY FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "LES BALLETS TROCKADERO DE MONTE CARLO INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "MUSEUMS MOVING FORWARD INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "PRATT INSTITUTE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "US PRESIDENTIAL SCHOLARS FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": false,
+      "name": "PERFORMANCE SPACE 122 INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "CANOPY CANOPY CANOPY INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "ARS NOVA THEATER I INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "JONAH BOKAER ARTS FOUNDATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "CHICKEN & EGG PICTURES INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "RX ART INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "STOREFRONT FOR ART AND ARCHITECTURE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "DANCE ASPEN",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "KATONAH MUSEUM OF ART INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "SILVER ART PROJECTS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "TOUT-MONDE FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "MEMORIAL SLOAN KETTERING CANCER CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "APERTURE FOUNDATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "HUNTER COLLEGE FOUNDATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "THEATER ET AL",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "YOUNG DANCE COLLECTIVE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "AWARE-USA INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "HENRY STREET SETTLEMENT",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "WNET",
+      "purpose": "GENERAL SUPPORT"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

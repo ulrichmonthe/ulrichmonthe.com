@@ -48,6 +48,1406 @@
     "singleton_cluster_share": 0.326,
     "total_grant_records": 1144
   },
+  "recipients_latest_year": [
+    {
+      "amount": 13008331.0,
+      "is_new": false,
+      "name": "92ND ST Y",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 3997900.0,
+      "is_new": false,
+      "name": "CONSERVATION INTERNATIONAL",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 3975000.0,
+      "is_new": false,
+      "name": "INTERNATIONAL RESCUE COMMITTEE",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 3719713.0,
+      "is_new": false,
+      "name": "UC REGENTS",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 3500000.0,
+      "is_new": false,
+      "name": "NIA TERO FOUNDATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 3375800.0,
+      "is_new": false,
+      "name": "JUILLIARD SCHOOL",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 2696750.0,
+      "is_new": false,
+      "name": "JAZZ AT LINCOLN CENTER",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 2500000.0,
+      "is_new": true,
+      "name": "BATSHEVA DANCE COMPANY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 1800000.0,
+      "is_new": false,
+      "name": "WNET THIRTEEN",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 1602324.0,
+      "is_new": false,
+      "name": "ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 1519250.0,
+      "is_new": false,
+      "name": "WHITNEY MUSEUM OF AMERICAN ART",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 1283685.0,
+      "is_new": false,
+      "name": "TEACHERS COLLEGE COLUMBIA UNIVERSITY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 1250000.0,
+      "is_new": false,
+      "name": "LINCOLN CENTER FOR THE PERFORMING ARTS",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 1059000.0,
+      "is_new": false,
+      "name": "CHILDREN'S MUSEUM OF MANHATTAN",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 950000.0,
+      "is_new": false,
+      "name": "AFRO LATIN JAZZ ALLIANCE",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 582833.0,
+      "is_new": false,
+      "name": "HUNTER COLLEGE FOUNDATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 550000.0,
+      "is_new": false,
+      "name": "NEW SCHOOL",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 536616.0,
+      "is_new": false,
+      "name": "FUND FOR PUBLIC SCHOOLS",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 507275.0,
+      "is_new": false,
+      "name": "NEW YORK UNIVERSITY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "SING FOR HOPE",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 418348.0,
+      "is_new": false,
+      "name": "METROPOLITAN MUSEUM OF ART",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "NUVANCE HEALTHNEW MILFORDDANBURY HOSPITAL",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 375000.0,
+      "is_new": false,
+      "name": "NEW YORK CITY CENTER",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "PUBLIC THEATRE",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 295000.0,
+      "is_new": false,
+      "name": "JOYCE THEATER FOUNDATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 275000.0,
+      "is_new": false,
+      "name": "CENTRAL PARK CONSERVANCY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 269300.0,
+      "is_new": false,
+      "name": "ALVIN AILEY DANCE FOUNDATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "VAIL VALLEY FOUNDATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 249940.0,
+      "is_new": false,
+      "name": "BALLET HISPANICO",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 238200.0,
+      "is_new": false,
+      "name": "THRESHOLD DANCE PROJECTS INC",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 226667.0,
+      "is_new": false,
+      "name": "JACOB'S PILLOW",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "BREAST CANCER RESEARCH FOUNDATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 197200.0,
+      "is_new": false,
+      "name": "PAUL TAYLOR DANCE COMPANY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 167125.0,
+      "is_new": false,
+      "name": "INTERNATIONAL TENNIS HALL OF FAME",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 154670.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF WISCONSIN FOUNDATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 133333.0,
+      "is_new": false,
+      "name": "GINA GIBNEY DANCE INC",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 127103.0,
+      "is_new": false,
+      "name": "NEW 42ND STREET",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "AMERICAN CANCER SOCIETY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "GALLIM DANCE",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "MARTHA GRAHAM DANCE COMPANY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "NATIONAL DANCE EDUCATION ORGANIZATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "NEW YORK CITY BALLET",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "NEW YORK PUBLIC LIBRARY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "POSSE FOUNDATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": false,
+      "name": "BALLET THEATRE FOUNDATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "DANCE NYC",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": true,
+      "name": "MT SINAI HOSPITAL",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "ACADEMY FOR TEACHERS",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "NEW YORK CITY ARTS EDUCATION ROUNDTABLE",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 71460.0,
+      "is_new": false,
+      "name": "FRICK COLLECTION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "NEW YORK PRESBYTERIAN HOSPITAL",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CHAMPLAIN AREA TRAILS",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MONICA BILL BARNES & COMPANY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MISTY COPELAND FOUNDATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "LIL BUCK FOUNDATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 48455.0,
+      "is_new": false,
+      "name": "VASSAR COLLEGE",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 47150.0,
+      "is_new": false,
+      "name": "TRINITY SCHOOL",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 45968.0,
+      "is_new": false,
+      "name": "MANHATTAN THEATRE CLUB",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 43750.0,
+      "is_new": false,
+      "name": "STORM KING ART CENTER",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 42500.0,
+      "is_new": false,
+      "name": "JEWISH MUSEUM",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 37000.0,
+      "is_new": false,
+      "name": "BETHEL HIGH SCHOOL EMT ACTIVITY FUND",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 35899.0,
+      "is_new": false,
+      "name": "AMERICAN DANCE FESTIVAL",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 34728.0,
+      "is_new": false,
+      "name": "PARK AVENUE ARMORY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "IRISH ARTS CENTER",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 27785.0,
+      "is_new": false,
+      "name": "RUTGERS UNIVERSITY FOUNDATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 26240.0,
+      "is_new": false,
+      "name": "PLANNED PARENTHOOD",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25100.0,
+      "is_new": true,
+      "name": "CASITA MARIA INC",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BALLET X",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BARYSHNIKOV ARTS CENTER",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BROOKLYN ACADEMY OF MUSIC",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CAMILLE A BROWN & DANCERS",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CELEBRATE THE BEAT",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "DANCE THEATRE OF HARLEM",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "DANCES FOR A VARIABLE POPULATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "DANCING CLASSROOMS",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "DOVA",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "FRESH AIR FUND",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LA MAMA",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LATSKY DANCE INC",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "MOVING FOR LIFE",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NEW JERSEY DANCE THEATRE ENSEMBLE",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NEW YORK STEM CELL FOUNDATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PREP FOR PREP",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SELF-HELP",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ST ANN'S WAREHOUSE",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "STEPHEN PETRONIO DANCE COMPANY INC",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "STUDIO MUSEUM IN HARLEM",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "UNIQUE PROJECTS INC",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF PENNSYLVANIA",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "WOMEN'S SPORTS FOUNDATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "WORKS & PROCESS",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "INTERCOLLEGIATE TENNIS ASSOCIATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NEW YORK BOTANICAL GARDEN",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "AMERICAN MUSEUM OF NATURAL HISTORY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PARSONS SCHOOL OF DESIGN",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SUMMATION DANCE",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "YOUNGARTS",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "AMERICAN DANCE MACHINE",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "4A ARTS AMERICAN ALLIANCE OF ARTISTS AND AUDIENCES",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "AIM",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "FILM OF LINCOLN CENTER",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "PENNSYLVANIA STATE UNIVERSITY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "SHED THE",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "TWYLA THARP DANCE FOUNDATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 24500.0,
+      "is_new": false,
+      "name": "JOSE LIMON DANCE FOUNDATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 23292.0,
+      "is_new": false,
+      "name": "MUSEUM OF MODERN ART",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 22000.0,
+      "is_new": false,
+      "name": "LEO BAECK INSTITUTE",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 21420.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF TEXAS FOUNDATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "COLUMBIA BUSINESS SCHOOL",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "DREAMYARD",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "NEW YORK LIVE ARTS",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "YOUNG DANCEMAKERS COMPANY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "CITYMEALS ON WHEELS",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 14860.0,
+      "is_new": false,
+      "name": "SCHOOL OF AMERICAN BALLET",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 13680.0,
+      "is_new": false,
+      "name": "NEW YORK HISTORICAL SOCIETY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 13570.0,
+      "is_new": false,
+      "name": "LOYOLA MARYMOUNT UNIVERSITY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 12800.0,
+      "is_new": true,
+      "name": "BALLROOM MARFA",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10210.0,
+      "is_new": false,
+      "name": "WASHINGTON UNIVERSITY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10109.0,
+      "is_new": false,
+      "name": "DIA ART FOUNDATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "AMERICAN DANCE GUILD",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ANIMAL MEDICAL CENTER",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "APOLLO THEATER",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ASPCA",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "BABY2BABY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "DANCES BY ISADORA INC",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "DANCEWAVE",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "DORRANCE DANCE INCORPORATED",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "EDNA SCHWARTZ SCHOLARSHIP FUND",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "JOHN HOPKINS UNIVERSITY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "NORTHWEST CONNECTICUT LAND CONSERVANCY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "PARSONS DANCE",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "PILOBOLUS",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "PORT JEFFERSON YACHT CLUB FOUNDATION INC",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "SYLVIA CENTER",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "PEGASUS THERAPEUTIC RIDING",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "SPRINGBOARD ENTERPRISES",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "KEIGWIN & COMPANY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CREATIVE NETWERK",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "YIN YUE DANCE COMPANY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "YOUTH AMERICA GRAND PRIX",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "HEALTHY LIVING COMMUNITY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "MOMA PS1",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "PERELMAN PERFORMING ARTS CENTER",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "PHILHARMONIC SOCIETY OF NEW YORK",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "YOUNG CONCERT ARTISTS",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 9957.0,
+      "is_new": true,
+      "name": "UMASS AMHERST FOUNDATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 9759.0,
+      "is_new": false,
+      "name": "WILDLIFE CONSERVATION SOCIETY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 9690.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF MARYLAND COLLEGE PARK FOUNDATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 8912.0,
+      "is_new": false,
+      "name": "SOLOMON R GUGGENHEIM FOUNDATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 6860.0,
+      "is_new": false,
+      "name": "LINCOLN CENTER THEATER",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 6270.0,
+      "is_new": false,
+      "name": "MONTCLAIR STATE UNIVERSITY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": true,
+      "name": "NEXUS IMPACT SOCIETY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "BATTERY DANCE CORPORATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "BROADWAY MALL ASSOCIATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "BRONX ACADEMY OF ARTS AND DANCE",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "CHILDREN'S ORCHESTRA SOCIETY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "CLARK CENTER NYC",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "CREATIVE TIME",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "DANCE LAB NEW YORK",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "DANSPACE PROJECT",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "FIELD THE",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "FOUNTAIN HOUSE",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "FRACTURED ATLAS",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "GODDARD RIVERSIDE COMMUNITY CENTER",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "HARLEM JUNIOR TENNIS & EDUCATION PROGRAM",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "HUMANE SOCIETY OF THE UNITED STATES THE",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "INTERNATIONAL CENTER OF PHOTOGRAPHY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "INTERNATIONAL WOMEN'S MEDIA FOUNDATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "LITTLE BRITCHES THERAPEUTIC RIDING",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "LUBOVITCH DANCE FOUNDATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "MUSEUM OF THE CITY OF NEW YORK",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "NATIONAL DANCE INSTITUTE",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "NAUMBURG ORCHESTRAL CONCERTS INC",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "NEW YORK JUNIOR TENNIS & LEARNING",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "NEW YORK PUBLIC RADIO",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "NEW YORK STATE DANCE EDUCATION ASSOC",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "STREB INC",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "TINA CROLL DANCE FOUNDATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "TRISHA BROWN DANCE COMPANY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "TURTLES INC",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "USDAN CENTER",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "JONAH BOKAER ARTS FOUNDATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "MOVENYC",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "ASBURY PARK DANCE FESTIVAL",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "EAST SIDE HOUSE",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "JUNIOR TENNIS CHAMPIONS CENTER",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "MUSEUM OF JEWISH HERITAGE",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "WATKINSON SCHOOL",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 4850.0,
+      "is_new": false,
+      "name": "ROUNDABOUT THEATRE COMPANY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 4690.0,
+      "is_new": false,
+      "name": "NEUE GALERIE",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 4600.0,
+      "is_new": false,
+      "name": "MUSEUM OF ARTS AND DESIGN",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 3500.0,
+      "is_new": false,
+      "name": "MARTHA HILL DANCE FUND",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 3200.0,
+      "is_new": false,
+      "name": "SECOND STAGE THEATRE",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 2600.0,
+      "is_new": false,
+      "name": "SIGNATURE THEATRE COMPANY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "AMERICAN FOLK ART MUSEUM",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "BOTTOMLESS CLOSET",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "DANCE FILMS ASSOCIATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "KAUFMAN MUSIC CENTER",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "ROXBURY AMBULANCE ASSOCIATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "ROXBURY LAND TRUST",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "ROXBURY VOLUNTEER FIRE DEPARTMENT",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "ARTS RESOURCES IN COLLABORATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "JAMEL GAINES CREATIVE OUTLET",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "BRONX COMMUNITY FOUNDATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "NATIONAL COUNCIL OF JEWISH WOMEN NY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "PRINCETON BALLET",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "TOWN OF ROXBURY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 2460.0,
+      "is_new": false,
+      "name": "ATLANTIC THEATER COMPANY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "PHI BETA KAPPA SOCIETY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "CHELSEA FACTORY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": false,
+      "name": "NEW YORKERS FOR CULTURE AND ARTS",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "EDUCATION THROUGH MUSIC",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "FEMINIST PRESS",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "FRIENDS OF BURNHAM LIBRARY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "LOTUS MUSIC & DANCE",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "MADD",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "PARKSIDE SCHOOL",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "RIVERSIDE SYMPHONY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "WASHINGTON ART ASSOCIATION",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "WEST SIDE COMMUNITY GARDEN",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "BEST BUDDIES INTERNATIONAL",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "ASAP",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "BRONX HOUSE EMANUEL CAMPS",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "CLARION MUSIC SOCIETY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "ECUADORIAN CIVIC CENTER OF GREATER DANBURY",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "FRIENDS OF HUDSON RIVER PARK",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "KAGENO",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "MARK DEGARMO DANCE",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "SALVADORI CENTER",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "SHEPAUG VALLEY HIGH SCHOOL",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "WHITE WAVE RISING",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 250.0,
+      "is_new": false,
+      "name": "GUNN MEMORIAL LIBRARY INC",
+      "purpose": "GENERAL FUND"
+    },
+    {
+      "amount": 250.0,
+      "is_new": false,
+      "name": "MINOR MEMORIAL LIBRARY",
+      "purpose": "GENERAL FUND"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

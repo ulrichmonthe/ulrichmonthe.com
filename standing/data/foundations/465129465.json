@@ -47,6 +47,1580 @@
     "singleton_cluster_share": 0.3899,
     "total_grant_records": 1224
   },
+  "recipients_latest_year": [
+    {
+      "amount": 2646461.0,
+      "is_new": false,
+      "name": "SAN DIEGO STATE UNIVERSITY RESEARCH FOUNDATION",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 1634521.0,
+      "is_new": true,
+      "name": "PRICESMART FOUNDATION",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 894061.0,
+      "is_new": false,
+      "name": "SAN DIEGO UNIFIED SCHOOL DISTRICT",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 655000.0,
+      "is_new": false,
+      "name": "INTERFAITH COMMUNITY SERVICES",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 568706.0,
+      "is_new": false,
+      "name": "SAN DIEGO NATURAL HISTORY MUSEUM",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS; CAPITAL FUND SUPPORT"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "ACLU FOUNDATION OF SAN DIEGO & IMPERIAL COUNTIES",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 338372.0,
+      "is_new": false,
+      "name": "YMCA OF SAN DIEGO COUNTY",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "CENTER ON BUDGET & POLICY PRIORITIES",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "THE URBAN INSTITUTE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 259717.0,
+      "is_new": false,
+      "name": "THE OLD GLOBE",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 252000.0,
+      "is_new": false,
+      "name": "CAMPANILE FOUNDATION",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 222796.0,
+      "is_new": false,
+      "name": "REGENTS OF THE UNIVERISTY OF CA AT SAN DIEGO",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 214717.0,
+      "is_new": false,
+      "name": "SOCIAL ADVOCATES FOR YOUTH SAN DIEGO",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 207829.0,
+      "is_new": false,
+      "name": "SAN DIEGO ZOO WILDLIFE ALLIANCE",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "SAN DIEGO PARKS FOUNDATION",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 199100.0,
+      "is_new": false,
+      "name": "CASA CORNELIA LAW CENTER",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 185000.0,
+      "is_new": false,
+      "name": "OCEAN DISCOVERY INSTITUTE",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 173086.0,
+      "is_new": false,
+      "name": "MENDING MATTERS",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 168000.0,
+      "is_new": false,
+      "name": "VAPA FOUNDATION",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 152202.0,
+      "is_new": false,
+      "name": "SAN DIEGO YOUTH SYMPHONY",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 126324.0,
+      "is_new": false,
+      "name": "UNITED WOMEN'S EAST AFRICAN SUPPORT TEAM",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 123425.0,
+      "is_new": false,
+      "name": "SAN DIEGO AIR & SPACE MUSEUM",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 113568.0,
+      "is_new": false,
+      "name": "FEEDING SAN DIEGO",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 111790.0,
+      "is_new": false,
+      "name": "YOUTH EMPOWERMENT FINEST",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 111500.0,
+      "is_new": false,
+      "name": "JACOBS & CUSHMAN SAN DIEGO FOOD BANK",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 107827.0,
+      "is_new": false,
+      "name": "MINGEI INTERNATIONAL MUSEUM",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 107229.0,
+      "is_new": false,
+      "name": "SAN DIEGO HISTORY CENTER",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 105000.0,
+      "is_new": false,
+      "name": "VOICE OF SAN DIEGO",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 102182.0,
+      "is_new": false,
+      "name": "FLEET SCIENCE CENTER",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CSUSM FOUNDATION",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "INVESTIGATIVE NEWSOURCE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "KPBS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "UC SAN DIEGO FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 99782.0,
+      "is_new": false,
+      "name": "OUTDOOR OUTREACH",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS; CAPITAL FUND SUPPORT"
+    },
+    {
+      "amount": 96887.0,
+      "is_new": true,
+      "name": "MUSEUM OF US",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 95480.0,
+      "is_new": false,
+      "name": "INCAE FOUNDATION",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 95000.0,
+      "is_new": false,
+      "name": "JEWISH FAMILY SERVICE OF SAN DIEGO",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 92987.0,
+      "is_new": false,
+      "name": "VISION TO LEARN",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": false,
+      "name": "CASA FAMILIAR INC",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 86000.0,
+      "is_new": true,
+      "name": "CATHOLIC CHARITIES DIOCESE OF SAN DIEGO",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "AMERICAN ACADEMY OF PEDIATRICS CALIFORNIA CHAPTER 3",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 83743.0,
+      "is_new": false,
+      "name": "INTERNATIONAL RESCUE COMMITTEE",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 83339.0,
+      "is_new": false,
+      "name": "SAN DIEGO COMIC CONVENTION",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 79976.0,
+      "is_new": true,
+      "name": "MAKE PROJECTS",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 77634.0,
+      "is_new": false,
+      "name": "UNION OF PAN ASIAN COMMUNITIES",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "SALK INSTITUTE FOR BIOLOGICAL STUDIES",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": true,
+      "name": "ORGANIZATION FOR YOUTH EMPOWERMENT",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 67500.0,
+      "is_new": false,
+      "name": "SAN DIEGO STATE UNIVERSITY",
+      "purpose": "SCHOLARSHIP"
+    },
+    {
+      "amount": 65600.0,
+      "is_new": false,
+      "name": "KITCHENS FOR GOOD",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "SERVING SENIORS",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 64750.0,
+      "is_new": false,
+      "name": "REALITY CHANGERS",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 63000.0,
+      "is_new": false,
+      "name": "BOYS & GIRLS CLUB OF OCEANSIDE",
+      "purpose": "CAPITAL FUND SUPPORT"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "LA MAESTRA FAMILY CLINIC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 57500.0,
+      "is_new": false,
+      "name": "ST VINCENT DE PAUL VILLAGE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "COMMUNITY HOUSING WORKS",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "CONSUMER WATCHDOG",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 51766.0,
+      "is_new": false,
+      "name": "SAN DIEGO JUNIOR THEATRE",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CESAR CHAVEZ SERVICE CLUBS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CITY HEIGHTS COMMUNITY DEVELOPMENT CORPORATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ESCUELA AGRICOLA PANAMERICANA",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "FOUNDATION FOR THE CHILDREN OF THE CALIFORNIAS",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "IMPERIAL VALLEY FOOD BANK",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "INTERNATIONAL REFUGEE ASSISTANCE PROJECT",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "NORTH COUNTY LIFELINE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "PRO KIDS GOLF ACADEMY & LEARNING CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SAN DIEGO OPERA ASSOCIATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SAN DIEGO SYMPHONY ORCHESTRA ASSOCIATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SBCS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "VOICES FOR CHILDREN",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "SAN DIEGO COMMUNITY COLLEGE AUXILIARY ORGANIZATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 46000.0,
+      "is_new": false,
+      "name": "PEOPLE ASSISTING THE HOMELESS",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 44926.0,
+      "is_new": false,
+      "name": "CHICANO FEDERATION OF SAN DIEGO COUNTY",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 44740.0,
+      "is_new": false,
+      "name": "MEDIA ARTS CENTER SAN DIEGO",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 43361.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF CALIFORNIA LOS ANGELES",
+      "purpose": "SCHOLARSHIP"
+    },
+    {
+      "amount": 42500.0,
+      "is_new": false,
+      "name": "KAREN ORGANIZATION OF SAN DIEGO",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 42500.0,
+      "is_new": false,
+      "name": "SAN DIEGO PUBLIC LIBRARY FOUNDATION",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 42500.0,
+      "is_new": false,
+      "name": "SOMALI FAMILY SERVICE OF SAN DIEGO INC",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "CALIFORNIA WESTERN SCHOOL OF LAW",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "LICENSE TO FREEDOM",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "METROPOLITAN AREA ADVISORY COMMITTEE ON ANTI-POVERTY OF SAN DIEGO",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "IMPACT CHARITABLE",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 37500.0,
+      "is_new": false,
+      "name": "MID CITY COMMUNITY ADVOCACY NETWORK",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 37000.0,
+      "is_new": false,
+      "name": "BIG BROTHERS BIG SISTERS OF SD COUNTY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "ARMED SERVICES YMCA AT CAMP PENDLETON",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "HOME START",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "NAMI SAN DIEGO",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "SAN DIEGO CENTER FOR CHILDREN",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "SAN DIEGO FAMILY CARE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "SAN DIEGO LGBT COMMUNITY CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "THE CITY OF SAN DIEGO",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 31000.0,
+      "is_new": false,
+      "name": "CENTER FOR COMMUNITY SOLUTIONS",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 30500.0,
+      "is_new": false,
+      "name": "PLANNED PARENTHOOD OF THE PACIFIC SOUTHWEST",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 30291.0,
+      "is_new": false,
+      "name": "MISSION EDGE SAN DIEGO",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 30086.0,
+      "is_new": false,
+      "name": "HORN OF AFRICA COMMUNITY IN NORTH AMERICA",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "BARRIO LOGAN COLLEGE INSTITUTE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "HOME OF GUIDING HANDS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "MONARCH SCHOOL PROJECT",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "SAN DIEGO ORGANIZING PROJECT",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "ANGELS FOSTER NETWORK",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "JUST IN TIME FOR FOSTER YOUTH",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 28000.0,
+      "is_new": false,
+      "name": "SAN DIEGO YOUTH SERVICES",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 26000.0,
+      "is_new": false,
+      "name": "DREAMS FOR CHANGE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 26000.0,
+      "is_new": true,
+      "name": "LITTLE SAIGON SAN DIEGO FOUNDATION",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BAYSIDE COMMUNITY CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "GIRL SCOUTS SAN DIEGO-IMPERIAL COUNCIL INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "KIDS' TURN SAN DIEGO",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "MUSEUM OF PHOTOGRAPHIC ARTS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NATIONAL CONFLICT RESOLUTION CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "RONALD MCDONALD HOUSE CHARITIES SAN DIEGO",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SAN YSIDRO HEALTH CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SURVIVORS OF TORTURE INTERNATIONAL",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "WOMANHAVEN",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "WOMEN'S RESOURCE CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CIRCLE OF LIFE CONNECTIONS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SAN DIEGO REFUGEE TUTORING",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "URBAN RESTORATION COUNSELING CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ARTS EDUCATION CONNECTION SAN DIEGO",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "CEDARS-SINAI MEDICAL CENTER",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "FRED FINCH YOUTH & FAMILY SERVICES",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "NORTH COUNTY HEALTH PROJECT",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA CO UC SAN DIEGO FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 24200.0,
+      "is_new": true,
+      "name": "ULTIMATE BLOCK PARTY INC",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 24024.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF SAN DIEGO",
+      "purpose": "SCHOLARSHIP"
+    },
+    {
+      "amount": 24000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF CALIFORNIA BERKELEY",
+      "purpose": "SCHOLARSHIP"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "ASSISTANCE LEAGUE OF GREATER SAN DIEGO",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "COASTAL ROOTS FARM",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "COMMUNITY THROUGH HOPE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "LA JOLLA PLAYHOUSE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "OUTSIDE THE LENS",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "UNSCRIPTED LEARNING",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 17000.0,
+      "is_new": true,
+      "name": "CASA DI AMICI DAY PROGRAM",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 16000.0,
+      "is_new": false,
+      "name": "ROTARY CLUB OF SAN DIEGO FOUNDATION",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "A REASON TO SURVIVE - ARTS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "LA JOLLA COUNTRY DAY SCHOOL",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "OCEANSIDE MUSEUM OF ART",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "PILLARS OF THE COMMUNITY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "SHARIA'S CLOSET",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "SMITHSONIAN INSTITUTION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "STUDENTS WITHOUT LIMITS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "UNITED STATES HOLOCAUST MEMORIAL MUSEUM",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "YOUTH EASTSIDE SERVICES",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "FEEDING SOUTH FLORIDA INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "HEALTHRIGHT 360",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "DEEP",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "MOVEMENT BRAVE ENTREPRENEUR",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "PROJECT NEW VILLAGE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "WHISPERING WINDS CATHOLIC CONFERENCE CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 14000.0,
+      "is_new": false,
+      "name": "FIRST GEN SCHOLARS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF CALIFORNIA RIVERSIDE",
+      "purpose": "SCHOLARSHIP"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF CALIFORNIA SANTA BARBARA",
+      "purpose": "SCHOLARSHIP"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ACCESS YOUTH ACADEMY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CHILD CARE LAW CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "SAMUEL & ALTHEA STROUM JEWISH COMMUNITY CENTER",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "SAN DIEGO FOUNDATION",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "SCRIPPS HEALTH FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "purpose": "SCHOLARSHIP"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "URBAN STREET ANGELS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CATALYST OF SAN DIEGO & IMPERIAL COUNTIES",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "FRED HUTCHINSON CANCER CENTER",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "POINT LOMA NAZARENE UNIVERSITY",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "THE STORY PROJECT",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "CUREBOUND",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "FRIENDS OF THE LANGUAGE ACADEMY INC",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "PEACE4KIDS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "THE ATHLETE ACADEMY FOUNDATION",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "VILLA MUSICA",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 8500.0,
+      "is_new": false,
+      "name": "GREATER SAN DIEGO CITY TENNIS COUNCIL",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "JACK & JILL CHILDREN'S CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "MIAMI RESCUE MISSION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "AIDS HEALTHCARE FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "BIPOC SUPPORT FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "MIAMI CHILDREN'S INITIATIVE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 7259.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF CALIFORNIA SAN DIEGO",
+      "purpose": "SCHOLARSHIP"
+    },
+    {
+      "amount": 7000.0,
+      "is_new": true,
+      "name": "JAPANESE FRIENDSHIP GARDEN SOCIETY OF SAN DIEGO",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 6500.0,
+      "is_new": true,
+      "name": "SAN DIEGO CHINESE HISTORICAL MUSEUM",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "CITY HEIGHTS TOWN COUNCIL",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "SHARP HEALTHCARE FOUNDATION",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "SOUTHERN SUDANESE COMMUNITY CENTER",
+      "purpose": "GENERAL SUPPORT; PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF CALIFORNIA DAVIS",
+      "purpose": "SCHOLARSHIP"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+      "purpose": "SCHOLARSHIP"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "ANTI-DEFAMATION LEAGUE FOUNDATION",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "CASA DE AMISTAD CENTRO DE ENSENANZA",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "COMMUNITY RESOURCE CENTER",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "DOCTORS WITHOUT BORDERS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "HUMAN RIGHTS CAMPAIGN FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "NEW AMERICANS MUSEUM",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "SAN DIEGO HABITAT FOR HUMANITY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "SAN DIEGO JUSTICE FOUNDATION INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "SAN DIEGO RESCUE MISSION INC",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "THE KLINE GALLAND CENTER",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF WASHINGTON FOUNDATION",
+      "purpose": "SCHOLARSHIP"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "NORMAL HEIGHTS COMMUNITY DEVELOPMENT CORPORATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "HOLOCAUST MUSEUM LA",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "LA JOLLA HISTORICAL SOCIETY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "LA JOLLA MUSIC SOCIETY",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "LEGAL AID SOCIETY OF SAN DIEGO",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "POINTBREAK VOLLEYBALL CLUB",
+      "purpose": "SCHOLARSHIP"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "THRIVE IN JOY NICK FAGNANO FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF CALIFORNIA BERKELEYSCHOOL OF LAW SCHOLARSHIP FUND",
+      "purpose": "SCHOLARSHIP"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "VOICES FOR CHILDREN FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": false,
+      "name": "RESCUE HOUSE INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": false,
+      "name": "LUCKIE WALLER LITTLE LEAGUE",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": false,
+      "name": "LA MESA SPRING VALLEY SCHOOL DISTRICT",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "YOUNG ACTOR'S THEATRE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "CYSTIC FIBROSIS FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "EDUCATIONAL ENRICHMENT SYSTEMS INC",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "BOY SCOUTS OF AMERICA - SAN DIEGO IMPERIAL COUNCIL",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "GARY SINISE FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "PTA CA CONGRESS OF PARENTS TEACHERS & STUDENTS (MAGNOLIA)",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "SAN DIEGO CITY COLLEGE",
+      "purpose": "SCHOLARSHIP"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "CLASSIC ROTORS MUSEUM",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "AL OTRO LADO INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "EQUALITY NEW MEXICO",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "THE FOOD BASKET",
+      "purpose": "EMERGENCY RESPONSE"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "ALZHEIMERS SAN DIEGO",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "DEPOSITING EMPOWERMENT THROUGH OUTREACH AND URBAN REDEVELOPMENT",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "LABOR'S TRAINING AND COMMUNITY DEVELOPMENT ALLIANCE",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "LAKESIDE OPTIMIST YOUTH FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "MENTAL HEALTH SYSTEMS INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "RADY CHILDREN'S HOSPITAL FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "THE INGENUITY PROJECT",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "TRANSCENDANCE YOUTH ARTS PROJECT",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "WOMEN INITIATING SUCCESS ENVISIONED INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "ASSOCIATED STUDENTS OF SAN DIEGO STATE UNIVERSITY",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "EQUATION COLLABORATIVE CORP",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "FRONT ROW CENTER INC",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "LAO HMONG FAMILY ASSOCIATION",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "SHELTER TO SOLDIER INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "SOLANA BEACH SCHOOLS FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "SPACE 4 ART INC",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": false,
+      "name": "FRIENDS OF GREAT KIDS FARM",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": false,
+      "name": "SOUTHEAST COMMUNITY DEVELOPMENT CORP",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": true,
+      "name": "CARLSBAD SOFTBALL ASSOCIATION",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": true,
+      "name": "SAN DIEGOS BALBOA PARK PUPPET GUILD",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "CYGNET THEATRE COMPANY",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "FERN STREET CIRCUS COMMUNITY ARTS",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "LEMON GROVE SCHOOL DISTRICT CO SAN ALTOS ELEMENTARY SCHOOL",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "PACIFIC ARTS MOVEMENT",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "SAN DIEGO HUMANE SOCIETY",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "SANTEE SCHOOL DISTRICT",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "ST MADELEINE SOPHIE'S CENTER",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "NATURE CONSERVANCY INC",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "COLLEGE PREPARATORY MIDDLE SCHOOL",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "MANA DE SAN DIEGO",
+      "purpose": "SCHOLARSHIP FUND"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "SANTEE SCHOOL DISTRICT FOUNDATION",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "SUSAN G KOMEN 3-DAY FOR THE CURE",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "ART FORM",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "WEE COMPANIONS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "BIKES DEL PUEBLO",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "BOYS & GIRLS CLUB OF CARLSBAD",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "GENTE UNIDA",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "HAWAII COMMUNITY FOUNDATION",
+      "purpose": "EMERGENCY RESPONSE"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "JAKE'S PROJECT",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "LOVE URBAN YOUTH UNIVERSITY",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "OUR TIME TO ACT UNITED",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "SAN YSIDRO SCHOOL DISTRICTMIDDLE SCHOOL",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "SANTANA PTSA",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "SO SAY WE ALL",
+      "purpose": "PROGRAMS & PROJECTS"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "SPAY NEUTER ACTION PROJECT (SNAP)",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "THE UNDERGROUND SCHOLARS",
+      "purpose": "GENERAL SUPPORT"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "TORREY PINES HIGH SCHOOL FOUNDATION",
+      "purpose": "PROGRAMS & PROJECTS"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "WE ASK THAT ALL APPLICANTS SUBMIT AN INITIAL GRANT REQUEST. AFTER AN INTERNAL SCREENING PROCESS SOME APPLICANTS WILL BE ASKED TO SUBMIT A MORE COMPREHENSIVE GRANT REQUEST. THE INITIAL GRANT REQUEST MUST INCLUDE THE FOLLOWING INFORMATION: - THE ORGANIZATION'S BACKGROUND; AMOUNT REQUESTED; BRIEF DESCRIPTION OF SPECIFIC PROJECTS FOR WHICH FUNDING IS DESIRED; SPECIFIC DESCRIPTION OF HOW THIS GRANT SEEKS TO IMPROVE LIFE OPPORTUNITIES FOR YOUTH AND FAMILIES; ORGANIZATION ANNUAL BUDGET; PROGRAM OR PROJECT BUDGET; CONTACT INFORMATION FOR THE PERSON WHO SHOULD BE CONTACTED REGARDING THIS REQUEST; LIST OF THE BOARD OF DIRECTORS; AND THE 501(C)(3) DETERMINATION LETTER THE INITIAL GRANT REQUEST MUST BE SUBMITTED THROUGH OUR ONLINE SYSTEM.",

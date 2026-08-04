@@ -48,6 +48,2090 @@
     "singleton_cluster_share": 0.342,
     "total_grant_records": 1731
   },
+  "recipients_latest_year": [
+    {
+      "amount": 761740.0,
+      "is_new": false,
+      "name": "Greater Houston Community Foundation",
+      "purpose": "For the Careggi Foundation in the name of Michele Filidoro"
+    },
+    {
+      "amount": 605000.0,
+      "is_new": false,
+      "name": "Environmental Defense Fund Incorporated",
+      "purpose": "Methane Satelite Project"
+    },
+    {
+      "amount": 415000.0,
+      "is_new": false,
+      "name": "Vision Galveston Inc",
+      "purpose": "To support the implementation of Vision Galveston's initiatives, including PhilanthroVision, MORTAR Galveston 2025, and the 2025 Learning Journey"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "Water Foundation",
+      "purpose": "To Advance a Resilient Water Future through the Water Table and Texas Wellspring"
+    },
+    {
+      "amount": 370000.0,
+      "is_new": false,
+      "name": "National Wildlife Federation (Austin)",
+      "purpose": "To promote nature-based solutions and advance local coastal resilience efforts on Galveston Island"
+    },
+    {
+      "amount": 367000.0,
+      "is_new": false,
+      "name": "Hill Country Alliance",
+      "purpose": "To build tools and networks for a more resilient Hill Country"
+    },
+    {
+      "amount": 315000.0,
+      "is_new": false,
+      "name": "US Water Alliance",
+      "purpose": "One Water, One Texas"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "Texas Agricultural Land Trust",
+      "purpose": "To Secure and Share Land Legacies and Advocate for Private Lands Through the Texas Land Policy Center"
+    },
+    {
+      "amount": 287000.0,
+      "is_new": false,
+      "name": "The University of Texas at Austin (EI)",
+      "purpose": "UT Energy Week Sponsorship"
+    },
+    {
+      "amount": 235878.0,
+      "is_new": false,
+      "name": "Texas A&M Foundation (College Station)",
+      "purpose": "To benefit three student programs (Sea Camp, the Sea Life Facility, and the George P. Mitchell Society) at TAMU Galveston"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": false,
+      "name": "Houston Advanced Research Center",
+      "purpose": "To provide independent analysis on energy, air and water issues to people seeking scientific ans..."
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "Rocky Mountain Institute",
+      "purpose": "Developing the Critical 'Connective Tissue' Infrastructure in Texas for Powering a new Energy Economy"
+    },
+    {
+      "amount": 185000.0,
+      "is_new": false,
+      "name": "The Aspen Institute Inc",
+      "purpose": "Supporting the Annual Summit of the Aspen Institute Business & Society Program and hosting the Ceres E&P Roundtable in Aspen"
+    },
+    {
+      "amount": 179292.0,
+      "is_new": false,
+      "name": "Nia Cultural Center",
+      "purpose": "Capacity building"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "Ceres Inc",
+      "purpose": "To catalyze the net zero pathway for exploration & production companies"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "Prairie View A&M University",
+      "purpose": "To support the Prairie View A&M Algae Center of Excellence for Climate Resilient Food-Energy-Water Systems (PACE-FEWS)"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": true,
+      "name": "Great Plains Institute for Sustainable Development Inc",
+      "purpose": "To Transform Education into Action: CO2nnect on Carbon Storage"
+    },
+    {
+      "amount": 160000.0,
+      "is_new": true,
+      "name": "The Last Kilometer Corp",
+      "purpose": "For the National Sustainability Society to continue The Pathway Towards Accreditation for Sustai..."
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "CE Buyers Institute",
+      "purpose": "To activate energy customers to drive resilient, reliable, affordable, and clean power for all Texans in 2025"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "PowerHouse Texas",
+      "purpose": "Advancing Texas's Energy Future Through Science, Policy and Collaboration"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "Water Finance Exchange Inc",
+      "purpose": "To Support the Advancement of Sustainable Water Infrastructure and Healthy Communities in Texas"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "Clean Air Task Force Inc",
+      "purpose": "Accelerating regional perspectives to enable deep power sector decarbonization through events and thought leadership"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "Texas AgriForestry Small Farmers and Ranchers",
+      "purpose": "In keeping with our vision: \"Assisting BIPOC small farmers, ranchers, and landowners in being successful\""
+    },
+    {
+      "amount": 143000.0,
+      "is_new": true,
+      "name": "Usher Syndrome Society Inc",
+      "purpose": "To support research funding; not intended for pupblicity campaigns"
+    },
+    {
+      "amount": 130000.0,
+      "is_new": false,
+      "name": "Bayou City Waterkeeper Inc",
+      "purpose": "For the protection of water quality, wetlands, and water resources in the lower Galveston Bay watershed in Houston"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "Wildwood School Inc",
+      "purpose": "For The Wildwood Outreach Center Fellowship Fund in the memory of Cynthia Woods Mitchell"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Public Citizen Foundation Inc",
+      "purpose": "To advance an affordable and equitable clean energy transition in Texas"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Texas Health and Environment Alliance Inc",
+      "purpose": "For the toxic superfund cleanup in upper Galveston Bay"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "EFI Foundation",
+      "purpose": "To support the transition to a low-carbon energy future"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "West Street Recovery",
+      "purpose": "To organize towards equitable water infrastructure in Northeast Houston"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "Duke University",
+      "purpose": "Aspen National Water Strategy Initiataive"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Build Galveston",
+      "purpose": "To provide Build Galveston operational funding for the 2024 fiscal year"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Communities Unlimited Inc",
+      "purpose": "To increase small community infrastructure capacity through regional project facilitation and infrastructure funding in the Texas Hill Country"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "The University of Texas Rio Grande Valley Foundation",
+      "purpose": "To support the transformation of food systems through research, education, and community engagement"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Fair Shot Texas",
+      "purpose": "Texas Climate Jobs Project"
+    },
+    {
+      "amount": 70000.0,
+      "is_new": false,
+      "name": "Texas Energy Poverty Research Institute",
+      "purpose": "Distributed Energy Resources (DERs) in the ERCOT Competitive Market through Virtual Power Plant ..."
+    },
+    {
+      "amount": 67500.0,
+      "is_new": false,
+      "name": "Puente a la Salud Comunitaria",
+      "purpose": "To contribute to food sovereignty and advance the health and well-being of rural communities in Mexico"
+    },
+    {
+      "amount": 65000.0,
+      "is_new": false,
+      "name": "EcoRise Youth Innovations",
+      "purpose": "Advancing K-12 Sustainability Programs with Data, Technology & Partnership in Texas"
+    },
+    {
+      "amount": 61447.0,
+      "is_new": false,
+      "name": "U C Santa Cruz Foundation",
+      "purpose": "To support Professor Sarker's research in the Kapuscinski-Sarker lab in the collaboration entitled PACE-FEWS"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "Sierra Club Foundation",
+      "purpose": "To expand clean energy and increase grassroots participation in electricity decision-making in Texas"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "The University of Texas Law School Fdn",
+      "purpose": "To Reduce Methane Emissions from Less-Capitalized Oil and Gas Operators in the Permian Basin"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "United Way of Galveston Inc",
+      "purpose": "June 3-5, 2024 for Blink Consulting's Critically Rethinking Diversity training for United Way Galveston, Vision Galveston and GISD educators"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "Texas A&M University (College Station)",
+      "purpose": "To support work by Professor Delbert Gatlin at Texas A&M College Station in the collaboration entitled PACE-FEWS"
+    },
+    {
+      "amount": 58792.0,
+      "is_new": false,
+      "name": "Khelshala Inc",
+      "purpose": "To develop and manage lifetime sports programs"
+    },
+    {
+      "amount": 57000.0,
+      "is_new": false,
+      "name": "William Marsh Rice University",
+      "purpose": "Carbon capture in Texas and emerging competition in the Middle East: Preserving Texas' national and global competitive advantage"
+    },
+    {
+      "amount": 56407.0,
+      "is_new": false,
+      "name": "Old Baldy Foundation",
+      "purpose": "For the preservation of Old Baldy, NC oldest lighthouse"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "The Other Ones Foundation",
+      "purpose": "To Provide Aid To People Undergoing Homelessness. Provide Opportunity. Support The Vulnerable"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Buffalo Bayou Partnership",
+      "purpose": "For 2024 public arts programming"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Eden Village of Wilmington",
+      "purpose": "For building an infrastructure for Wilmington, NC by building a tiny home community for the chronically homeless"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Greenpeace Fund Inc",
+      "purpose": "Protect and preserve the environment through the funding of grants to other organizations"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "R Street Institute",
+      "purpose": "To Advance a Freer and Cleaner Texas Energy Economy"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Solar United Neighbors",
+      "purpose": "To scale rooftop solar and distributed energy resources in Texas"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "St Jude Children's Research Hospital",
+      "purpose": "To find cures and means of prevention for childhood catastrophic diseases through research and treatment"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "The Funders Network",
+      "purpose": "To advance Texas water goals through coordinating and aligning a national network of urban water funders"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Truth Be Told",
+      "purpose": "Provides transformational tools for incarcerated women behind and beyond bars"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Environment America Research and Policy",
+      "purpose": "For advancing clean energy in Texas through research, public education and advocacy"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "Galveston Housing Plus",
+      "purpose": "To help the underserved and homeless population by providing transitional housing and social services"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "Galveston's Historic Downtown Cultural",
+      "purpose": "To bring together creativity, diversity and the rich heritage of Galveston's arts and cultural community through Galveston's Historic Downtown Cultural Arts District"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "Partnership for the Advancement & Immersion of Refugees",
+      "purpose": "To provide support to refugee children"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "ProUnitas Inc",
+      "purpose": "To build the digital infrastructure for Galveston ISD Student Support Department over three years"
+    },
+    {
+      "amount": 45017.0,
+      "is_new": false,
+      "name": "University of North Carolina Wilmington",
+      "purpose": "UNCW Village of BHI/Southport Scholarship"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "Great Springs Project Inc",
+      "purpose": "To conserve open space over the Edwards Aquifer and the life-sustaining waters that run through it and one great Texas trail from the Alamo to the Capitol"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "Solar Sister Inc",
+      "purpose": "To eradicate energy poverty by empowering women with economic opportunity"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "YES Prep Public Schools Inc",
+      "purpose": "For Education-Texas Charter School"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "Texas Solar Energy Society Inc",
+      "purpose": "To protect distributed solar energy consumers against discriminatory and unethical business practices"
+    },
+    {
+      "amount": 42500.0,
+      "is_new": false,
+      "name": "Artist Boat Inc",
+      "purpose": "For Artist Boat, Eco-Art Residency Program at NIA Cultural Center for summer programming"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": true,
+      "name": "Galveston Bay Foundation",
+      "purpose": "To Build Capacity for Galveston Bay Foundation by hiring a Senior Major Gifts Officer"
+    },
+    {
+      "amount": 36000.0,
+      "is_new": false,
+      "name": "KickStart International Inc",
+      "purpose": "To help millions of people out of poverty"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "The South Central Partnership for Energy Efficiency as a Resource",
+      "purpose": "To increase the understanding of energy efficiency utilization at the state and local levels"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "Advanced Energy Institute",
+      "purpose": "To Expand and Defend Advanced Energy Markets and Distributed Energy Resources in Texas"
+    },
+    {
+      "amount": 32000.0,
+      "is_new": false,
+      "name": "Amigos de las Americas",
+      "purpose": "To expand sustainability education through the Classroom Community Impact Project: iLEAD Program"
+    },
+    {
+      "amount": 30897.0,
+      "is_new": true,
+      "name": "Save Our Wild Salmon",
+      "purpose": "To restore wild salmon and steelhead to the rivers, streams and marine waters"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "Alimenta La Solidaridad Inc",
+      "purpose": "To mitigate child malnutrition in Venezuela"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "First Baptist Church",
+      "purpose": "To love and minister to the people of Kinney County through community outreach"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "Smithville Community Clinic",
+      "purpose": "To provide hope and healing to those without means"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "Womens Audio Mission",
+      "purpose": "For the advancement of women and gender-expansive people in music/audio production and creative tecnology"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "American Leadership Forum HoustonGulf Coast",
+      "purpose": "To build capacity for galvenize civic fellows through a community of practice methodology"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "Go Austin Vamos Austin",
+      "purpose": "To address flooding, water access, and neighborhood stability by building community leadership and strengthening water-based organizing networks"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "Center for Austin Independent Journalism",
+      "purpose": "Center for Austin Independent Journalism"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "Pueblo Organizado en Defensa de la Tierra y sus Recursos (PODER)",
+      "purpose": "For Community-Focused One Water in Austin"
+    },
+    {
+      "amount": 29000.0,
+      "is_new": false,
+      "name": "Sea Shepherd Conservation Society",
+      "purpose": "To protect and preserve marine life"
+    },
+    {
+      "amount": 28000.0,
+      "is_new": true,
+      "name": "Conservative Energy Network",
+      "purpose": "To support the Texas Land & Liberty Coalition's expansion and increased deployment of utility-scale renewable energy across rural Texas"
+    },
+    {
+      "amount": 26000.0,
+      "is_new": false,
+      "name": "Whidbey Environmental Action Network",
+      "purpose": "For the restoration and preservation of Whidbey Island and Pacific Northwest"
+    },
+    {
+      "amount": 25549.0,
+      "is_new": false,
+      "name": "The University of Texas Permian Basin",
+      "purpose": "PEDL Jobs Guide Research Intern"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Alliance for Sustainable Energy LLC",
+      "purpose": "NREL PEDL collaboration Jan-Apr 2024"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Clifford Antone Foundation",
+      "purpose": "To preserve Austin's music culture and community"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Galveston Island Humane Society Inc",
+      "purpose": "For promoting animal welfare and the protection and prevention of unwanted or homeless animals"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Big Bend Conservation Alliance",
+      "purpose": "To work to conserve the living heritage and unique natural and cultural resources of the greater Big Bend region of Texas"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Healing Transitions Inc",
+      "purpose": "To offer innovative peer-based recovery oriented services to homeless and underserved individuals with alcoholism and other drug addictions"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Hispanics in Philanthropy",
+      "purpose": "For the HipGive Innovando la Tradicion campaign"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Swan Songs Musical Last Wishes",
+      "purpose": "Organize private concerts for individuals with a terminal illness"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "World Resources Institute",
+      "purpose": "To design a multi-NGO initiative to accelerate development of clean firm power resources"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Carolina Abortion Fund",
+      "purpose": "For the CLT Betsy Fleming donation"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Galveston Chamber Partnership Inc",
+      "purpose": "Sail to Success, To enhance the leadership skills for leaders and aspiring leaders in Galveston Community"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NDN Collective Inc",
+      "purpose": "For the Land Back Projects"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Citizens For Responsible Energy Solutions Forum",
+      "purpose": "To increase support for 'Texas-led' energy during the 119th Congress"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Vassar College",
+      "purpose": "General opereating grant"
+    },
+    {
+      "amount": 20895.0,
+      "is_new": false,
+      "name": "Fairewinds Energy Education Corp",
+      "purpose": "Educate the public about nuclear power and other energy issues"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "Amazon Watch",
+      "purpose": "To protect the rainforest and advance the rights of indigenous peoples in the Amazon Basin"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "Davidson College",
+      "purpose": "For liberal arts education"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "Living Design Foundation Inc",
+      "purpose": "To support The Learning Lab"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "Preservation Austin",
+      "purpose": "To empower Austinites to shape a more inclusive, resilient and meaningful community culture through preservation"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "Texas Physicians for Social Responsibilit",
+      "purpose": "To Train Current and Future Texas Healthcare Professionals to Understand and Address Environment..."
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "The Shumla School Inc",
+      "purpose": "Preserving the Oldest 'Books' in North America"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "Thorne Ecological Institute",
+      "purpose": "Connecting youth to nature"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "Whidbey Island Waldorf School",
+      "purpose": "Educate, honor and inspire young human beings"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "Aspen Community Foundation",
+      "purpose": "General support"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "Austin Parks Foundation",
+      "purpose": "For friends of the West Austin Park"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "Central Rocky Mountain Permaculture Institute",
+      "purpose": "Teach alternative farming and gardening techniques"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "Pease Park Conservancy",
+      "purpose": "For the rehabilitation beautification, and preservation of Austin's central city park"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "Matagorda Bay Foundation",
+      "purpose": "To advocate for the protection of the Matagorda and San Antonio Bays"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "Whidbey Animals Improvement Foundation",
+      "purpose": "To provide a safe and loving home for every companion animal"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "Native Hawaiian Legal Corporation",
+      "purpose": "To protect and advance Native Hawaiian identity and culture"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "University of Houston-Texas Music Festival",
+      "purpose": "2024 Texas Music Festival"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "Forward Global",
+      "purpose": "Forward Global (TWP) Membership 2024"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "Living Grace Canine Ranch",
+      "purpose": "To care for displaced, unadoptable and unwanted Texas senior canines"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "Orca Conservancy",
+      "purpose": "Protect southern resident killer whales from extinction"
+    },
+    {
+      "amount": 19950.0,
+      "is_new": false,
+      "name": "Wrightsville Beach Museum of History",
+      "purpose": "To preserve and to share the history of Wrightsville Beach"
+    },
+    {
+      "amount": 19000.0,
+      "is_new": false,
+      "name": "Bald Head Island Conservancy",
+      "purpose": "For barrier island conservation, education, and preservation"
+    },
+    {
+      "amount": 19000.0,
+      "is_new": true,
+      "name": "YMCA of SENC Inc (Wilmington)",
+      "purpose": "For childcare, meals, senior outreach, community involvement"
+    },
+    {
+      "amount": 18500.0,
+      "is_new": true,
+      "name": "Housingworks Austin",
+      "purpose": "Austin Learning Journey"
+    },
+    {
+      "amount": 18000.0,
+      "is_new": false,
+      "name": "Planned Parenthood Gulf Coast Inc",
+      "purpose": "To ensure the right and ability of all indivuduals to manage their sexual and reproductive health"
+    },
+    {
+      "amount": 17500.0,
+      "is_new": true,
+      "name": "Fainting Robin Foundation",
+      "purpose": "For the NC location for scholar led non-partisan, non-profit supporting distinguished senior scholar scholarships"
+    },
+    {
+      "amount": 17500.0,
+      "is_new": true,
+      "name": "Spaceflight Mission",
+      "purpose": "Promote aspiring musicians"
+    },
+    {
+      "amount": 16459.0,
+      "is_new": true,
+      "name": "Carousel Center Inc",
+      "purpose": "Aid child victims of sexual abuse and their families"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Direct Relief International",
+      "purpose": "To provide humanitarian aid"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Downtown Women's Center",
+      "purpose": "To provide permanent supportive housing and a safe and health community"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Marfa Live Arts",
+      "purpose": "For Marfa Live Arts"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Marfa Studio of Arts Inc",
+      "purpose": "Provide continuous, year-round arts programming for children and young people in the Marfa, Texa..."
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Midnight Mission",
+      "purpose": "For offering paths to self-sufficiency to men, women and children who have lost direction"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Cape Fear Academy Inc",
+      "purpose": "For the scholarships program"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Health Alliance for Austin Musicians",
+      "purpose": "To provide access to affordable healthcare for greater Austin's low-income, working musicians, with a focus on prevention and wellness"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Lhaq'Temish Foundation",
+      "purpose": "For the Lummi Nation"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "National Center for Family Philanthropy",
+      "purpose": "To promote philanthropic values, vision and excellence"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "The SIMS Foundation Inc",
+      "purpose": "To provide mental health and substance abuse recovery services for musicians, music industry professionals and their family members"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Chrysalis Center",
+      "purpose": "Dedicated to creating a pathway to self-sufficiency for homeless and low-income individuals"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Earth Island Institute Inc",
+      "purpose": "Provides support to environmental action projects"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Room To Read",
+      "purpose": "To develop literacy skills among primary school children"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "St Vincent's House",
+      "purpose": "Galveston County Homeless Housing Solutions"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "The University of Texas at Austin (TARL)",
+      "purpose": "For the Colha Archival Project/TARL with Dr. Fred Valdez, Jr."
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "University of Hawaii Foundation",
+      "purpose": "For the Ka Huli Ao Center for Excellence in Native Hawaiian Law"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "Amarillo Area Foundation",
+      "purpose": "Panhandle Fires Disaster Refief Fund"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "Capital of Texas Public Telecommunication Council",
+      "purpose": "To support KLRU, Austin PBS's Austin City Limits"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "SongwritingWithSoldiers",
+      "purpose": "Transform lives through the process of collaborative songwriting"
+    },
+    {
+      "amount": 13758.0,
+      "is_new": false,
+      "name": "GHA Autism Supports",
+      "purpose": "Provide quality, community services to meet the needs of individuals with Autism Spectrum Disorder"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "Stephen Siller Tunnel to Towers Fdn",
+      "purpose": "To provide housing for first responders and injured war veterans"
+    },
+    {
+      "amount": 12500.0,
+      "is_new": false,
+      "name": "Penderosa Rescue & Sanctuary Inc",
+      "purpose": "Provide care until a permanent loving home can be found for horses of all breeds"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": false,
+      "name": "Moody Early Childhood Center",
+      "purpose": "To provide scholarships as part of Moody Early Childhood Center's Equity Access Scholarship Fund"
+    },
+    {
+      "amount": 11184.0,
+      "is_new": false,
+      "name": "Fulfillment Fund",
+      "purpose": "To make college a reality for students growing up in educationally and economically under resourced communities"
+    },
+    {
+      "amount": 11000.0,
+      "is_new": false,
+      "name": "Allies for Every Child",
+      "purpose": "To provide at risk children and their families with critical, high quality early education programs"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "1894 Inc",
+      "purpose": "To support the Grand 1894 Opera House"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "American Civil Liberties Union Foundation",
+      "purpose": "To protect the basic civil liberties of all people in the United States"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "American YouthWorks",
+      "purpose": "To empower at-risk youth through education, service and green jobs training"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Austin Film Society",
+      "purpose": "To empower our community to make, watch, and love film and creative media"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "California State Parks Foundation",
+      "purpose": "To enhance state parks with advocacy, educational programs, capital projects, competitive grants and fundraising"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Charlotte Mecklenburg Library Foundation",
+      "purpose": "To support Library programs through advocacy, fundraising and endowment management"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Chihuahuan Desert Research Institute",
+      "purpose": "Promote public awareness, appreciation, and concern for nature generally and the natural diversity of the Chihuahuan Desert region"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Chinquapin Preparatory School",
+      "purpose": "For general operating expenses to provide a high-quality, college preparatory education to able and motivated youth from under resourced communities"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Coastal Horizons Center Inc",
+      "purpose": "For Rape Crisis services"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Communities In Schools of Cape Fear Inc",
+      "purpose": "Community support of students, emplowering them to stay in school"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Domestic Violence Shelter and Service Inc",
+      "purpose": "To provide prevention and direct services for victims of domestic violence"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Food Bank of Central & Eastern North Carolina Inc",
+      "purpose": "No one goes hungry in Central & Eastern North Carolina"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "HITS Theatre",
+      "purpose": "To educate, train and inspire students by providing a professional-level performing arts education"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Heal the Bay",
+      "purpose": "Make Southern California's coastal waters and watersheds safe, healthy and clean"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Indigenous Environmental Network",
+      "purpose": "To protect the sacredness of Earth Mother from contamination and exploitation"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Los Angeles Education Partnership",
+      "purpose": "Facilitate access to and opportunities for quality educational and wellness practices so that ch..."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Marfa Education Foundation Inc",
+      "purpose": "Support and enhance the work of the Marfa Independent School District"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Masonboroorg",
+      "purpose": "Protect public access to Masonboro Island"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Mountains Recreation and Conservation Authority",
+      "purpose": "To acquire, develop and conserve additional park and open space lands; protect and conserve watersheds; and the development of river parkways"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Nourishnc Inc",
+      "purpose": "To provide health food to hungry children"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Orca Network",
+      "purpose": "Raising awareness about the whales"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "PS Arts",
+      "purpose": "To improve the lives of children by providing arts education"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Planned Parenthood of the Pacific Southwest",
+      "purpose": "To ensure broad public access to sexual and reproductive health care through direct service, education and advocacy"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Saint Andrew's On-The-Sound Episcopal Church",
+      "purpose": "To support local elementary school with school supplies"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "San Diego Children's Choir",
+      "purpose": "Provide children with choral music education and performance opportunities"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Santa Catalina Island Conservancy",
+      "purpose": "To be a responsible steward of our lands through a balance of conservation, education and recreation"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Surfrider Foundation",
+      "purpose": "For the Cape Fear Chapter"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Texas Tech Foundation Inc",
+      "purpose": "For the Wildlife Toxicology Lab to help develop solutions to threats against Texas native wildli..."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "The Woodlands Center for the Performing Arts",
+      "purpose": "For board give-or-get"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Wallowa Band Nez Perce Trail Interpretive Center",
+      "purpose": "To tell the story of the Wallowa Band Nez Perce Trail"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Art Institute of Chicago",
+      "purpose": "For the Sound Department"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Friends of Texas Wildlife",
+      "purpose": "Wildlife rescue and rehab in Magnolia, TX"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Galveston Urban Ministries",
+      "purpose": "To develop Holistic relationships to transform our community"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Happy Endings Animal Rescue Sanctuary",
+      "purpose": "To provide refuge to animals that would otherwise be euthanized"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Los Angeles Conservation Corps",
+      "purpose": "To offer paid work experience on green community projects and innovative after school, secondary..."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Los Angeles Waterkeeper",
+      "purpose": "To offer paid work experience on green community projects and innovative after school, secondary..."
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Montana Equestrian Events Inc",
+      "purpose": "To support national research working toward a cure for breast cancer, local community outreach pprograms, and breast cancer awareness"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "NAMI National",
+      "purpose": "To provide advocacy, education, support and public awareness so that all individuals and families affected by mental illness can build better lives"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "New Mexico State University",
+      "purpose": "PEDL collaboration Jan-Apr 2024"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "People's Community Clinic Inc",
+      "purpose": "To improve the health of medically underserved and uninsured central Texans"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "SDUHUBS Cultural and Family Services",
+      "purpose": "For the Snohomish Tribe of Indians"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Smith River Alliance Inc",
+      "purpose": "To protect the greater Smith River ecosystem in Northern California"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Sul Ross State University Friends of the Center For Big Bend Studies",
+      "purpose": "Support for SRSU Center For Big Bend Studies"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Texas Dance Hall Preservation Inc",
+      "purpose": "For saving historic Texas dance halls"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "United States Equestrian Team Foundation",
+      "purpose": "To provide the necessary resources to make equestrian competitive excellence possible, now and in the future"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Wilmington Area Rebuilding Ministry",
+      "purpose": "To make urgent, safety-related home repairs for low-income homeowners"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "American Farmland Trust",
+      "purpose": "To advance farmland protection, agriculture conservation easements, smart growth and tax policies"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Boys and Girls Club of Southeastern North Carolina",
+      "purpose": "To help children reach their full potential"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Cystic Fibrosis Foundation-Carolinas Chapter-Raleigh Office",
+      "purpose": "Pipeline To a Cure"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Dahlia Grove Inc",
+      "purpose": "To empower and employ women survivors of human trafficking, domestic violence and sexual exploitation"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Lower Cape Fear LifeCare Foundation Inc",
+      "purpose": "In memory of Doreen Sarver"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "National Harm Reduction Coalition",
+      "purpose": "To create spaces for dialogue and action that help heal the harms caused by racialized drug policies"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "New Mexico Institute of Mining and Technology",
+      "purpose": "PEDL collaboration Jan- Apr 2024"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Odessa College",
+      "purpose": "PEDL Collaboration Jan-Apr 2024"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "Rescuing Ocala Wildlife Inc",
+      "purpose": "For wildlife rescue and to provide educational opportunities"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "The University of Texas at El Paso",
+      "purpose": "PEDL collaboration Jan-Apr 2024"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "University of South Carolina Educational Foundation",
+      "purpose": "For the Athletics Excellence Fund"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "Breakthrough T1D",
+      "purpose": "For the Southern Florida Chapter in honor of Luka Beccar Varela"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "Childrens Home Society of North Carolina",
+      "purpose": "To promote the right of every child to a permanent, safe, and loving family"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "Grand Valley State University",
+      "purpose": "To support dissemination activities related to the forthcoming report, \"Community and Family Philanthropy in Mexico: Connections, Challenges, and Strategies"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "Santa Monica Education Foundation",
+      "purpose": "To engage the community to invest in a vibrant educational experience for all students in the Santa Monica public schools"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "Santa Monica Museum of Art",
+      "purpose": "For the Institute of Contemporary Art, Los Angeles-ICA LA"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "The University of Texas Foundation",
+      "purpose": "For the Lady Bird Johnson Wildflower Center for the conservation of native plants"
+    },
+    {
+      "amount": 9000.0,
+      "is_new": false,
+      "name": "A Safe Place Inc",
+      "purpose": "Prevention, advocacy, and restoration for victims of sex trafficking and exploitation."
+    },
+    {
+      "amount": 9000.0,
+      "is_new": true,
+      "name": "Anthony's Way-The Road to Kindness Inc",
+      "purpose": "To help children & teenagers with ADHD maintain a positive outlook on life"
+    },
+    {
+      "amount": 9000.0,
+      "is_new": true,
+      "name": "Family Support Network of Southeastern North Carolina Inc",
+      "purpose": "Provide support to families of children with disabilities, mental health challenges and special needs"
+    },
+    {
+      "amount": 9000.0,
+      "is_new": true,
+      "name": "Feast Down East Inc",
+      "purpose": "Work to enable all access to fresh affordable seasonal food"
+    },
+    {
+      "amount": 9000.0,
+      "is_new": true,
+      "name": "Project Sweet Peas",
+      "purpose": "Support to families of premature or sick infants and to those who have been affected by pregnancy and infant loss"
+    },
+    {
+      "amount": 8649.0,
+      "is_new": false,
+      "name": "The Care Project",
+      "purpose": "John Sexton's program for pediatric audiology"
+    },
+    {
+      "amount": 8500.0,
+      "is_new": false,
+      "name": "Guadalupe Neighborhood Development Corp",
+      "purpose": "Support affordable housing in East Austin"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": false,
+      "name": "California Fire Foundation",
+      "purpose": "To serve refugees, immigrants, and the most vulnerable amoung us to become self-sufficient, productive members of the community"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": false,
+      "name": "Old Central Cultural Center Inc",
+      "purpose": "Juneteenth 2024 Celebration (3) Juneteenth Banquet June 5th; Juneteenth Gala June 15th; Juneteen Proclamation June 19th"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "Skywatch Bird Rescue Inc",
+      "purpose": "For rehabilitation of wildlife and to provide an educational location for school children"
+    },
+    {
+      "amount": 7000.0,
+      "is_new": false,
+      "name": "All About Rabbits Rescue Inc",
+      "purpose": "For the rescue of abandoned and neglected rabbits and their placement into loving forever homes"
+    },
+    {
+      "amount": 6700.0,
+      "is_new": false,
+      "name": "The Salvation Army of Cape Fear",
+      "purpose": "To support the Wilmington location"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "Cape Fear Equine Rescue",
+      "purpose": "Rescue of abandoned and abused horses in SE NC"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "Good Shepherd Ministries of Wilmington In",
+      "purpose": "Feed the hungry, shelter the homeless, foster transition to housing"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "Grant School Community Foundation",
+      "purpose": "To support Grant TK-8 community STEAM program"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Arts Council of Wilmington & New Hanover County",
+      "purpose": "To establish the Cape Fear region as an arts destination"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Cape Fear Community College Foundation In",
+      "purpose": "To support student education opportunities through program support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Cape Fear Habitat for Humanity Inc",
+      "purpose": "To partner with local families to build and purchase safe, affordable homes alongside donors and volunteers"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Cape Fear River Watch",
+      "purpose": "To protect and improve water quality of Cape Fear River Basin"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Center For American Progress",
+      "purpose": "To improve the lives of all Americans"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Coastal Carolina Wildlife Rehab Inc",
+      "purpose": "Wildlife rescue and rehabilitation in North Carolina"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Doctors Without Borders USA Inc",
+      "purpose": "To provide lifesaving medical humanitarian care"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Fistula Foundation",
+      "purpose": "To raise awareness of and funding for fistula"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Food Forward Inc",
+      "purpose": "To rescue fresh local produce, that would otherwise go to waste, for people in need"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Galveston-Houston Immigrant Representation Project",
+      "purpose": "Comprehensive immigration legal services to individuals in Galveston."
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Girls' Leadership Academy of Wilmington Foundation",
+      "purpose": "To provide a unique single-gender educational environment for 6th-12th graders"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Halo for Freedom Warrior Foundation",
+      "purpose": "For the Bald Head Island chapter; vacations for wounded vets and their families"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Hanford Challenge",
+      "purpose": "To create a future for the Hanford Nuclear site which secures human health and safety, advance accountability, and promotes a sustainable environmental legacy"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Horses N Heroes of Marion County Inc",
+      "purpose": "To provide an equine learning and mentoring experience for young girls"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Lump to Laughter Inc",
+      "purpose": "To provide support and raise awareness of the spiritual and emotional journey through breast cancer"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Nami-Wilmington",
+      "purpose": "for the Wilmington, NC Chapter"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Nile Sisters Development Initiative",
+      "purpose": "To educate, support and offer training to refugee and immigrant women and their families"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "North Carolina Coastal Federation Inc",
+      "purpose": "To protect and restore the coastal water quality and habitats of the N.C. coast"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "North Carolina Harm Reduction Inc",
+      "purpose": "For the Wilmington Chapter"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "North Carolina Veterinary Medical Foundation Inc",
+      "purpose": "To provide funding for veterinary students and indigent horses"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Pennsylvania Hunt Cup Committee",
+      "purpose": "To support food cupboard for poor in SE PA"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Planned Parenthood South Atlantic",
+      "purpose": "Support for the Wilmington, NC location"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Samaritans Purse",
+      "purpose": "To provide spiritual and physical aid to hurting people around the world"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Santa Barbara Wildlife Care Network",
+      "purpose": "For the rehabilitation of wildlife and to provide an educational location for school children"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Shoal Creek Conservancy",
+      "purpose": "For stewardship of the 13 sq mi. Shoal Creek watershed in Austin, Texas"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "SurfAid International USA",
+      "purpose": "Improve the health, wellbeing and self-reliance of people living in isolated regions connected to us through surf"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Surfer's Healing Foundation Inc",
+      "purpose": "Surf therapy for autistic children"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Teach For America (LA)",
+      "purpose": "For the Los Angeles, California Program"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Thalian Association of Wilmington Inc",
+      "purpose": "Enhance the rich artistic environment of the Cape Fear region"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "War Horses For Veterans Inc",
+      "purpose": "Provide programs for veterans to aid in acclimation to society and coping with PTSD and job training for military and first responders"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Waves For Water Inc",
+      "purpose": "Get clean water to every single person"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "We Support The Troops Inc",
+      "purpose": "To help provide care packages to service members overseas"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "American National Red Cross",
+      "purpose": "For the Cape Fear chapter"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Barrel Bag",
+      "purpose": "For Coral Gardeners"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Best Friends Animal Society",
+      "purpose": "For disaster preparation"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Brooke USA Inc",
+      "purpose": "To increase productivity and improve lives and working conditions of 3rd world country animals and their owners"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Catholic Relief Services Inc",
+      "purpose": "For disaster preparation"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Experimental Sound Studio",
+      "purpose": "Dedicated to artistic evolution and the creative exploration of sound"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "The Labelle Foundation Inc",
+      "purpose": "To help rescued animals find loving forever families, save as many lives as possible, educate on the importance of responsible dog ownership"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Midwest Society for Acoustic Ecology",
+      "purpose": "To explore the role of sound in natural and cultural environments"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Paws4people Inc",
+      "purpose": "On behalf of Cameron and Evie Knight Family"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Planned Parenthood Federation of America",
+      "purpose": "To support family planning centers"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Shanthi Nikethanaya Buddhist Center",
+      "purpose": "To promote well-being, positive self-esteem and stress mgmt"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "The Landfall Foundation Inc",
+      "purpose": "To support local, underfunded non-profit organizations in the greater Wilmington area in the Arts, Education, and Health and Welfare"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Tulalip Foundation",
+      "purpose": "To empower the wellbeing of the Tulalip Reservation and surrounding community"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Alamo Pintado Equine Health Foundation",
+      "purpose": "For research and advancement in the equine vet medicine industry"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Big Dog Ranch Rescue Inc",
+      "purpose": "To rescue, rehabilitate and educate until every dog has a loving and safe place to call home"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Cajun Navy Relief Inc",
+      "purpose": "For hurricane first responder rescuers"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Carolina Youth Coalition",
+      "purpose": "Nurture and propel high-achieving students to and through college"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Community Building Initiative",
+      "purpose": "To build a more equitable and just Charlotte-Mecklenburg"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Hereditary Angioedema Association Inc",
+      "purpose": "HAEA Research Fund in the name of Cristina Moore"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Lakeview Neighborhood Alliance Inc",
+      "purpose": "To engage, educate and empower the community connecting them with resources and opportunities"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Meals on Wheels Council Inc",
+      "purpose": "Provide meals and social contact to seniors on weekends and other days not covered by weekday Home Delivered Meals program"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Smile Train Inc",
+      "purpose": "To support cleft surgery and essential care"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Afrorack Stem Learning",
+      "purpose": "To support making modular synthesis accessible to underprivileged children"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Charlotte Legal Initiative to Mobilize Business",
+      "purpose": "Provide pro bono business law legal services to historically underrepresented entrepreneurs and small business owners of limited means"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Creative Player Sports Foundation",
+      "purpose": "To use soccer as a tool to enhance the lives of children in need by engaging them in educational opportunities"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Garden Club of North Carolina",
+      "purpose": "For Harbor Island Garden Club, Inc."
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Halo Trust USA Inc",
+      "purpose": "For general operating support"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Just Bee",
+      "purpose": "To create a more welcoming environment for ASD-affected individuals and their families"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Mobile Loaves & Fishes Inc",
+      "purpose": "For the 'Community First! Village' project"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Planned Parenthood of the Rocky Mountains",
+      "purpose": "To ensure broad public access to sexual and reproductive health care (Aspen host)"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Secret Squirrel Wildlife Rehabilitation",
+      "purpose": "For wildlife rehabilitation and rescue"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Texas A&M Engineering Experiment Station TEES Fiscal Office",
+      "purpose": "To sponsor the Texas Energy Summit 2024"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "The House of Songs",
+      "purpose": "For repair of the Bentonville, Arkansas location from tornado damage"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "The Pegasus Project Inc",
+      "purpose": "For the rescue, rehabilitation, restraining and rehoming of neglected, abandoned or abused horses in East Texas"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "The Rainbow Connection",
+      "purpose": "To Childhood Connection Center, Inc., in memory of Janis Frank Matthews"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "West Side CLT",
+      "purpose": "To organize and empower the West Charlotte community neighborhood to the benefit of low income residents"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": false,
+      "name": "Mully Children's Family USA Inc",
+      "purpose": "Rehab & transformation of street children"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": false,
+      "name": "Museum of Jurassic Technology",
+      "purpose": "Support the Museum's dedication to the advancement of knowledge"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "La Jolla Music Society",
+      "purpose": "To present and produce a dynamic range of performing arts"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "Airlie Gardens Foundation Inc",
+      "purpose": "To establish an outstanding historical garden with cultural and educational programs"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "Alzheimer's Foundation of America Inc",
+      "purpose": "To provide education and support to individuals living with Alzheimer's disease"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "Cape Fear Literacy Council",
+      "purpose": "To provide individualized literacy services"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "Communities In Schools of Charlotte Mecklenburg Inc",
+      "purpose": "To empower students to stay in school and on a path to a brighter future"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "Eastern Surfing Association Inc",
+      "purpose": "Promote amateur surfing competition for the SNC District"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "Easterseals UCP North Carolina & Virginia",
+      "purpose": "For the Wilmington Chapter"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "Leading Into New Communities Inc",
+      "purpose": "To educate and motivate youth; empower men and women returning from incarceration to be producti..."
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "New Hanover Regional Medical Center Foundation Inc",
+      "purpose": "For the SECU Family house"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "Ocearch",
+      "purpose": "To enable students to learn STEM skills while following the real-time data on the movements of their favorite sharks"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "Paws Place Inc",
+      "purpose": "For a no-kill shelter dedicated to the rescue, rehabilitation and adoption of dogs"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "Plastic Ocean Project Inc",
+      "purpose": "For education and outreach to address the global plastic pollution problem"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "Sustainable Surf",
+      "purpose": "Be the catalyst that transforms surf culture into a powerful force for protecting the ocean playground"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "Teach For America (Charlotte)",
+      "purpose": "For educational equity and excellence in Charlotte, NC"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "The Busch Wildlife Sanctuary Inc",
+      "purpose": "To rehab wildlife and provide educational location for school children"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "The Sumba Foundation",
+      "purpose": "To help the indigenous people of Sumba"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "United Way of the Cape Fear Area",
+      "purpose": "Build a strong healthy community where people aspire to live"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "Welcome Home Angel Inc",
+      "purpose": "Bring joy and comfort to children in the Wilmington area with chronic/debilitating illnesses/injuries"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "Canines for Service Inc",
+      "purpose": "To provide service dogs at no cost to Veterans with service-connect PTSD, traumatic brain injuries, mobility challenges, and/or military sexual trauma"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "Pretty in Pink Foundation Inc",
+      "purpose": "To provide uninsured and under-insured breast cancer patients in NC with financial assistance for quality, lifesaving medical treatment"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "RescueConnect Animal Rescue",
+      "purpose": "To improve the lives of abused, abandoned, and homeless animals by aiding in their journey to a better life"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "Wrightsville Beach Volunteer Firefighters Assn",
+      "purpose": "For fire prevention, fire suppression and emergency medical services in Wrightsville Beach"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "Yampa Valley Community Foundation",
+      "purpose": "For the Nick Would Foundation Donor Advised Fund"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "Smithville Music Festival",
+      "purpose": "2024 Smithville Music Festival"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "Consultative Grp on Biological Diversity",
+      "purpose": "To provide program support for the Climate and Energy Funders Group (CEGF) for 2024"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "Good Friends of Wilmington",
+      "purpose": "To provide financial assistance to individuals and families in need or disadvantaged"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "Alliance for African Assistance",
+      "purpose": "To serve refugees, immigrants and the most vulnerable among us to become self-sufficient, productive members of the community"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "Los Angeles Opera Company",
+      "purpose": "For artistic innovation, while honoring the great historical legacy of opera"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "Library Foundation of New Hanover County",
+      "purpose": "To strengthen the services of New Hanover County Public Library"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "Wilmington Aquatic Center",
+      "purpose": "To increase access to swimming for all people in the Wilmington area"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "A Bike for Every Child",
+      "purpose": "To have our community come together and support our youth to ride into happier, healthier futures"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "Mauli Ola Foundation Breath of Life",
+      "purpose": "To educate, raise awareness of genetic respiratory disease and to propose natural treatment and water sprots to sufferers"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "Rise Up",
+      "purpose": "To preserve voices and opinions on public affairs that contain views often ignored or distorted"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "Save the Children Federation Inc",
+      "purpose": "In memory of Eli Beard"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "Whidbey Children's Theater",
+      "purpose": "Create opportunities to discover, experience and participate in the performing arts"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "COER Charitable",
+      "purpose": "To protect the health and welfare of the inhabitants of the region, including the marine, migratory and endangered species being threatened by military jet training flights"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "Whidbey Island Center for the Arts",
+      "purpose": "For Langley Arts Fund/Langley Creates Cascade Ave. Canoe Cultures Project Native Art and History support"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "La Jolla Playhouse",
+      "purpose": "To advance theatre as an art form, telling stories that inspire empathy and create a dialogue to..."
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "Volti",
+      "purpose": "For the discovery, creation and performance of new vocal music"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "Affordable Central Texas Inc",
+      "purpose": "For Texas Housing Conservancy"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "Danny and Rons Rescue",
+      "purpose": "To provide adoptive homes for abused and abandoned animals"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "Foundation Communities Inc",
+      "purpose": "To provide a better future for all Austin residents"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "Austin Community Foundation for the Capital Area",
+      "purpose": "To bring together philanthropists, dollars and ideas to build a better Austin today and tomorrow"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "Austin EMS Foundation",
+      "purpose": "For advocacy for workforce housing so the EMS medics/families can live and work in the communities they serve"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "Austin Ed Fund",
+      "purpose": "To help align partner financial and volunteer resources to support Austin ISD students"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "Austin Habitat for Humanity",
+      "purpose": "Fostering a safe place to build community and cooperation"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "Ballet Austin",
+      "purpose": "To involve and strengthen our community through the creation and experience of dance and the encouragement of health and well-being"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "Equidad ATX",
+      "purpose": "From the 2024 CGMF Austin Learning Journal"
+    },
+    {
+      "amount": 500.0,
+      "is_new": true,
+      "name": "HACA Scholarship Foundation Inc",
+      "purpose": "For HACA's Austin Pathways from the CGMF 2024 Austin Learning Journey"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "Grant inquiries and grant funding requests are made through the Foundation's website, www.cgmf.org.",

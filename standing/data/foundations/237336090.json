@@ -51,6 +51,38 @@
     "singleton_cluster_share": 0.8333,
     "total_grant_records": 22
   },
+  "recipients_latest_year": [
+    {
+      "amount": 58688.0,
+      "is_new": true,
+      "name": "ST MARY PARISH POLICE",
+      "purpose": "ASSISTANCE IN FUNDING OF PARK OPERATIONS"
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "ANN NGOC TRAN",
+      "purpose": "FELLOWSHIP AWARDED TO SCHOLARS PURSUING RESEARCH PROJECTS."
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "JONATHAN LANDE",
+      "purpose": "FELLOWSHIP AWARDED TO SCHOLARS PURSUING RESEARCH PROJECTS."
+    },
+    {
+      "amount": 4000.0,
+      "is_new": true,
+      "name": "JULIA BERNIER",
+      "purpose": "FELLOWSHIP AWARDED TO SCHOLARS PURSUING RESEARCH PROJECTS."
+    },
+    {
+      "amount": 1500.0,
+      "is_new": true,
+      "name": "JOHN BARDES",
+      "purpose": "WILLIAMS PRIZE WINNER FOR THE PUBLICATION \"\"THE CARCERAL CITY. SLAVERY AND THE MAKING OF MASS INCARCERATION IN NEW ORLEANS, 1803-1930\" - UNC PRESS, 2024"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

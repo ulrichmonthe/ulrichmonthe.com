@@ -48,6 +48,668 @@
     "singleton_cluster_share": 0.4982,
     "total_grant_records": 780
   },
+  "recipients_latest_year": [
+    {
+      "amount": 2574834.0,
+      "is_new": false,
+      "name": "Central Indiana Corporate Partnership Foundation Inc",
+      "purpose": "Continued funding for Ascend Indiana's Youth Apprenticeship Marion County Pilot and Statewide Master Plan"
+    },
+    {
+      "amount": 1350000.0,
+      "is_new": false,
+      "name": "The Mind Trust",
+      "purpose": "General Operating Support 2023-2025"
+    },
+    {
+      "amount": 1344950.0,
+      "is_new": false,
+      "name": "Indiana Chamber of Commerce Foundation",
+      "purpose": "General operating support"
+    },
+    {
+      "amount": 1065400.0,
+      "is_new": false,
+      "name": "WFYI",
+      "purpose": "Continued Support for Side Effects Health Reporting and Expanded Education Reporting"
+    },
+    {
+      "amount": 1019900.0,
+      "is_new": false,
+      "name": "Eskenazi Health Foundation Inc",
+      "purpose": "Support for Health Engagement Zone pilot"
+    },
+    {
+      "amount": 1006250.0,
+      "is_new": false,
+      "name": "Marian University",
+      "purpose": "School of Engineering"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "Newfields",
+      "purpose": "Virginia B. Fairbanks Art & Nature Park"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "Dove Recovery House for Women Inc",
+      "purpose": "Capital Support for Facility Expansion"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "Aspire Indiana Health Inc",
+      "purpose": "Capital support"
+    },
+    {
+      "amount": 327500.0,
+      "is_new": false,
+      "name": "MSD of Warren Township",
+      "purpose": "College Matters: Meeting the Moment."
+    },
+    {
+      "amount": 311566.0,
+      "is_new": false,
+      "name": "MSD of Wayne Township",
+      "purpose": "College Matters: Meeting the Moment."
+    },
+    {
+      "amount": 268942.0,
+      "is_new": false,
+      "name": "Victory College Prep",
+      "purpose": "College Matters: Meeting the Moment."
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "EdChoice",
+      "purpose": "General Operating Support 2023-2025"
+    },
+    {
+      "amount": 169650.0,
+      "is_new": false,
+      "name": "Franklin Township Community School Corporation",
+      "purpose": "College Matters: Reversing the Trend Planning Grant"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "Indiana Latino Institute Inc",
+      "purpose": "Support for expanded FAFSA/college enrollment supports as part of College Matters"
+    },
+    {
+      "amount": 139990.0,
+      "is_new": false,
+      "name": "Indianapolis Public Schools",
+      "purpose": "College Matters: Meeting the Moment."
+    },
+    {
+      "amount": 129278.0,
+      "is_new": true,
+      "name": "Indianapolis Public Schools Education Foundation",
+      "purpose": "College Matters: Reversing the Trend Implementation Grant"
+    },
+    {
+      "amount": 120000.0,
+      "is_new": false,
+      "name": "MSD of Lawrence Township",
+      "purpose": "College Matters: Meeting the Moment."
+    },
+    {
+      "amount": 120000.0,
+      "is_new": false,
+      "name": "Perry Township Schools",
+      "purpose": "College Matters: Meeting the Moment."
+    },
+    {
+      "amount": 120000.0,
+      "is_new": false,
+      "name": "MSD of Pike Township",
+      "purpose": "College Matters: Meeting the Moment."
+    },
+    {
+      "amount": 100514.0,
+      "is_new": false,
+      "name": "Herron Classical Schools - Herron and Riverside High Schools",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Center for Leadership Development",
+      "purpose": "Support for expanded FAFSA/college enrollment supports as part of College Matters"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "MSD of Decatur Township",
+      "purpose": "College Matters: Meeting the Moment."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Indianapolis Urban League",
+      "purpose": "Support for expanded FAFSA/college enrollment supports as part of College Matters"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Goodwill Foundation of Central and Southern Indiana",
+      "purpose": "College Matters: Meeting the Moment."
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "Indiana Black Expo Inc",
+      "purpose": "Support for expanded FAFSA/college enrollment supports as part of College Matters"
+    },
+    {
+      "amount": 91550.0,
+      "is_new": true,
+      "name": "Meals on Wheels Inc",
+      "purpose": "Funding for the NO Limits to Recovery pilot"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "Beech Grove City Schools",
+      "purpose": "College Matters: Meeting the Moment."
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "Purdue Polytechnic High School",
+      "purpose": "College Matters: Meeting the Moment."
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "Christel House Academy",
+      "purpose": "College Matters: Meeting the Moment."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "KIPP Indy Public Schools",
+      "purpose": "College Matters: Meeting the Moment."
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "Phalen Leadership Academies",
+      "purpose": "College Matters: Meeting the Moment."
+    },
+    {
+      "amount": 72750.0,
+      "is_new": false,
+      "name": "Irvington Community Schools",
+      "purpose": "College Matters: Meeting the Moment."
+    },
+    {
+      "amount": 65538.0,
+      "is_new": false,
+      "name": "MSD of Washington Township",
+      "purpose": "College Matters: Meeting the Moment."
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "Historic Landmarks Foundation of Indiana Inc dba Indiana Landmarks",
+      "purpose": "Family Legacy Grant for General Operating Support 2024-2025"
+    },
+    {
+      "amount": 39750.0,
+      "is_new": false,
+      "name": "Indianapolis Zoological Society Inc",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": true,
+      "name": "Careerwise Colorado",
+      "purpose": "Sponsorship of the NYAS Networking Happy Hour"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "St Andrew's School DE Inc",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "Crown Hill Heritage Foundation",
+      "purpose": "Family Legacy Grant designated for Historic Preservation and Education Programs 2024-2025"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Brookside Community Development Corporation",
+      "purpose": "2024 Charitable Grant"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Constructing Our Future",
+      "purpose": "2024 Charitable Grant"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Judah Ministries Inc",
+      "purpose": "2024 Charitable Grant"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "New Breed of Youth Mentoring Program",
+      "purpose": "2024 Charitable Grant"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "Step Up Inc",
+      "purpose": "2024 Charitable Grant"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "You Yes You Project",
+      "purpose": "2024 Charitable Grant"
+    },
+    {
+      "amount": 20500.0,
+      "is_new": false,
+      "name": "Indiana Philanthropy Alliance",
+      "purpose": "2024 Membership and Leadership Circle"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "Institute for Quality Education",
+      "purpose": "2024 Indiana Educational Excellence Awards Gala"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "Noblesville Youth Baseball",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "Davidson College",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "Spacetaker",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 14280.0,
+      "is_new": false,
+      "name": "Economic Club of Indiana Inc",
+      "purpose": "2024-2025 Platinum Sponsorship"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": false,
+      "name": "Ivy Tech Foundation Inc",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": false,
+      "name": "Young Life",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 11000.0,
+      "is_new": false,
+      "name": "Candid (dba)",
+      "purpose": "2024 Annual Membership"
+    },
+    {
+      "amount": 10900.0,
+      "is_new": false,
+      "name": "Community Health Network Foundation",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 9000.0,
+      "is_new": false,
+      "name": "Alzheimer's Association",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "Leelanau Conservancy",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "University High School of Indiana Inc",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "Dress for Success Indianapolis",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 6500.0,
+      "is_new": false,
+      "name": "Wabash College",
+      "purpose": "Gift Honoring Thomas Ristine's Service"
+    },
+    {
+      "amount": 6484.0,
+      "is_new": false,
+      "name": "Indiana Commission for Higher Education",
+      "purpose": "Support for expanded FAFSA/college enrollment supports as part of College Matters"
+    },
+    {
+      "amount": 5647.0,
+      "is_new": false,
+      "name": "United Way of Central Indiana",
+      "purpose": "Payroll Matching Gift"
+    },
+    {
+      "amount": 5250.0,
+      "is_new": false,
+      "name": "Second Presbyterian Church",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 5250.0,
+      "is_new": false,
+      "name": "Summer Stock Stage Inc",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "Butler University",
+      "purpose": "Gift Honoring Thomas Ristine's Service"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "Indiana Sports Corporation",
+      "purpose": "2024 Silver Medalist Corporate Membership"
+    },
+    {
+      "amount": 3750.0,
+      "is_new": false,
+      "name": "Eiteljorg Museum of American Indians & Western Art",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 3750.0,
+      "is_new": true,
+      "name": "Orchard School Foundation",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 3325.0,
+      "is_new": false,
+      "name": "Grantmakers In Health",
+      "purpose": "2024 Membership Renewal"
+    },
+    {
+      "amount": 3025.0,
+      "is_new": true,
+      "name": "Trinity Episcopal Church",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "Purdue Research Foundation",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "PEAK Grantmaking",
+      "purpose": "2024 Membership"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "Fishers Soccer Club",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "Fueled for School",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "Mitch Daniels Leadership Foundation",
+      "purpose": "Gift in Honor of Mitch Daniels"
+    },
+    {
+      "amount": 2010.0,
+      "is_new": true,
+      "name": "Soma Midtown Church",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "College of William & Mary Foundation",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 1901.0,
+      "is_new": true,
+      "name": "Fountain Square Presbyterian Church",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 1830.0,
+      "is_new": true,
+      "name": "Gamma Phi Delta Sorority",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 1730.0,
+      "is_new": false,
+      "name": "Circle City Fellows",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": true,
+      "name": "Friends of the Leland Township Library",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": true,
+      "name": "Little Red Door Cancer Agency",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": true,
+      "name": "Wake Forest University",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 1250.0,
+      "is_new": false,
+      "name": "Eagle Creek Park Foundation",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 1200.0,
+      "is_new": false,
+      "name": "Lyn House Inc",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 1150.0,
+      "is_new": true,
+      "name": "The Foundation for Leon County Schools Inc",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 1030.0,
+      "is_new": true,
+      "name": "Allies",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "American Cabaret Theatre",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "College of William & Mary",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 950.0,
+      "is_new": false,
+      "name": "Holliday Park Foundation",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 750.0,
+      "is_new": false,
+      "name": "Humane Society of Indianapolis",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 750.0,
+      "is_new": true,
+      "name": "The Honeywell Foundation",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 649.0,
+      "is_new": false,
+      "name": "Save the Children",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 635.0,
+      "is_new": false,
+      "name": "Wheeler Mission Ministries",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 622.0,
+      "is_new": false,
+      "name": "Indiana Diaper Bank",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 525.0,
+      "is_new": false,
+      "name": "Cancer Services of Northeast Indiana",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 521.0,
+      "is_new": true,
+      "name": "World Central Kitchen Inc",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 516.0,
+      "is_new": true,
+      "name": "Broadway CaresEquity Fights AIDS",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 450.0,
+      "is_new": true,
+      "name": "Planned Parenthood Great Northwest Hawaii Alaska Indiana Kentucky",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 383.0,
+      "is_new": true,
+      "name": "Indy Hub Foundation",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 300.0,
+      "is_new": false,
+      "name": "The Julian Center Inc",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 300.0,
+      "is_new": true,
+      "name": "Prelude Opera",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 256.0,
+      "is_new": true,
+      "name": "Indianapolis Movement Arts Collective",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 250.0,
+      "is_new": true,
+      "name": "Greater Indy Habitat for Humanity",
+      "purpose": "Gift Honoring life of Elaine Holmes"
+    },
+    {
+      "amount": 200.0,
+      "is_new": true,
+      "name": "First Congregational United Church of Christ",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 103.0,
+      "is_new": true,
+      "name": "City Church of East Nashville",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 103.0,
+      "is_new": true,
+      "name": "GenderNexus",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 100.0,
+      "is_new": false,
+      "name": "Indiana University Foundation",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 100.0,
+      "is_new": false,
+      "name": "Kheprw Institute",
+      "purpose": "Matching Gift Donation"
+    },
+    {
+      "amount": 100.0,
+      "is_new": true,
+      "name": "American Traditions Vocal Collection",
+      "purpose": "Matching Gift Donation"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

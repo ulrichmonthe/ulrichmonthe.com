@@ -48,6 +48,728 @@
     "singleton_cluster_share": 0.2234,
     "total_grant_records": 733
   },
+  "recipients_latest_year": [
+    {
+      "amount": 6221253.0,
+      "is_new": false,
+      "name": "NEW YORK GENOME CENTER INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2772489.0,
+      "is_new": false,
+      "name": "ROBIN HOOD FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2105128.0,
+      "is_new": false,
+      "name": "THE ROCKEFELLER UNIVERSITY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2050000.0,
+      "is_new": false,
+      "name": "CENTRAL PARK CONSERVANCY INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2000257.0,
+      "is_new": false,
+      "name": "MANHATTAN MARYMOUNT COLLEGE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2000000.0,
+      "is_new": false,
+      "name": "UNCOMMON SCHOOLS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 2000000.0,
+      "is_new": true,
+      "name": "MILLBROOK COMMUNITY PARTNERSHIP INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1250000.0,
+      "is_new": false,
+      "name": "LINCOLN CENTER FOR THE PERFORMING ARTS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1250000.0,
+      "is_new": false,
+      "name": "BREAKING GROUND HOUSING DEVELOPMENT FUND CORPORATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1200000.0,
+      "is_new": false,
+      "name": "BROOKLYN PUBLIC LIBRARY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1198756.0,
+      "is_new": false,
+      "name": "TRUSTEES OF DARTMOUTH COLLEGE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1025000.0,
+      "is_new": true,
+      "name": "UNIVERSITY OF MOUNT SAINT VINCENT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 1000000.0,
+      "is_new": false,
+      "name": "INTERNATIONAL RESCUE COMMITTEE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 750000.0,
+      "is_new": false,
+      "name": "MEMORIAL SLOAN-KETTERING CANCER CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 750000.0,
+      "is_new": false,
+      "name": "SPONSORS FOR EDUCATIONAL OPPORTUNITY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 729620.0,
+      "is_new": false,
+      "name": "50CAN INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 600000.0,
+      "is_new": false,
+      "name": "KIPP NEW YORK INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 600000.0,
+      "is_new": false,
+      "name": "NATIONAL SEPTEMBER 11 MEMORIAL AND MUSEUM AT THE WORLD TRADE CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 525000.0,
+      "is_new": false,
+      "name": "PROSPECT PARK ALLIANCE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "THE CHILDREN'S AID SOCIETY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "GODDARD RIVERSIDE COMMUNITY CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "GOOD SHEPHERD SERVICES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "HARLEM CHILDRENS ZONE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "MAKE THE ROAD NEW YORK",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "METROPOLITAN MUSEUM OF ART",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "NEW YORK CITY CENTER FOR CHARTER SCHOOL EXCELLENCE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "AMERICAN SOCIETY FOR TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "NEW CLASSROOMS INNOVATION PARTNERS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "THE NEW YORK PUBLIC LIBRARY ASTOR LENOX AND TILDEN FOUNDATIONS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": false,
+      "name": "ENVISION FREEDOM FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 425000.0,
+      "is_new": false,
+      "name": "EXALT YOUTH INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "RED HOOK INITIATIVE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "COOP CAREERS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 375000.0,
+      "is_new": false,
+      "name": "TRUST FOR THE NATIONAL MALL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 371570.0,
+      "is_new": false,
+      "name": "BERKSHIRE TACONIC COMMUNITY FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 350000.0,
+      "is_new": false,
+      "name": "THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "CENTER FOR EMPLOYMENT OPPORTUNITIES INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "SAFE PASSAGE PROJECT CORPORATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "JUSTICE INNOVATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": false,
+      "name": "NEIGHBORHOOD TRUST FINANCIAL PARTNERS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "EAST HARLEM SCHOOL AT EXODUS HOUSE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "EXCELLENCE COMMUNITY SCHOOLS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "NEW YORK HISTORICAL SOCIETY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "NEW YORK STEM CELL FOUNDATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "RELAY GRADUATE SCHOOL OF EDUCATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "STUDENT SPONSOR PARTNERSHIP INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "SUCCESS ACADEMY CHARTER SCHOOLS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "THE CHILD CENTER OF NY INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "THE CHILDREN'S HEALTH FUND",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "WORLD TRADE CENTER PERFORMING ARTS CENTER INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "UPWARDLY GLOBAL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "CRISTO REY MIAMI HIGH SCHOOL INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "NOTRE DAME SCHOOL OF MANHATTAN",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "ALLIED CLIMATE PARTNERS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "BROOKLYN ORG",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "COME TO BELIEVE FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "RIGHT TO PLAY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "BRONX CHILDREN'S MUSEUM",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 240000.0,
+      "is_new": false,
+      "name": "THE NEW YORK AND PRESBYTERIAN HOSPITAL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 201500.0,
+      "is_new": false,
+      "name": "CANCER RESEARCH INSTITUTE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "ACHIEVEMENT FIRST INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "BRAVEN INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "FUND FOR THE CITY OF NEW YORK INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "NEW YORK ACADEMY OF SCIENCES",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "PEER HEALTH EXCHANGE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "READWORKS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "TEACH FOR AMERICA INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "CRISTO REY BROOKLYN HIGH SCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "BARD COLLEGE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "HOSPITAL FOR SPECIAL SURGERY FUND INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "ST JOHNS BREAD & LIFE PROGRAM INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": true,
+      "name": "THE BETTER ANGELS SOCIETY INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "AMERICAN MUSEUM OF NATURAL HISTORY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "KENYON COLLEGE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "METROPOLITAN OPERA ASSOCIATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "NEIGHBORHOOD COALITION FOR SHELTER INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "NEW YORK HALL OF SCIENCE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 127500.0,
+      "is_new": false,
+      "name": "THE PARTNERSHIP SCHOOLS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "CRISTO REY NEW YORK HIGH SCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "COMMUNITY HELP IN PARK SLOPE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 110000.0,
+      "is_new": false,
+      "name": "BROOKLYN BOTANIC GARDEN CORPORATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "AMERICAN IMMIGRATION COUNCIL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BEGINNING WITH CHILDREN FOUNDATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "FRIENDS OF THE HIGH LINE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "GREENLIGHT FUND INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "LITTLE SISTERS OF THE ASSUMPTION FAMILY HEALTH SERVICE INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ROBERT A TOIGO FOUNDATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "TEACHING MATTERS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "THE FOUNDATION FOR VASSAR BROTHERS MEDICAL CENTER",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BROOKLYN CHILDREN'S MUSEUM CORPORATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "GRAHAM WINDHAM",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "AMERICAN NATIONAL RED CROSS",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "JOIN FREEWORLD INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "THE PHILHARMONIC SYMPHONY SOCIETY OF NY INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "GOSO (GETTING OUT STAYING OUT)",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "UNION SETTLEMENT ASSOCIATION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "DRIVE CHANGE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "IDEA FOUNDRY",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "MUSEUM OF THE CITY OF NEW YORK",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "REGIS HIGH SCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "URBAN ASSEMBLY CHARTER SCHOOL FOR COMPUTER SCIENCE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "VERA INSTITUTE OF JUSTICE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "CENTRAL QUEENS ACADEMY CHARTER SCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "INNOCENCE PROJECT",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "AMERICA NEEDS YOU",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CARY INSTITUTE OF ECOSYSTEM STUDIES INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "KESSLER FOUNDATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "NATIONAL COLLEGE ADVISING CORPS INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ADRIENNE ARSHT CENTER TRUST INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "THE FRICK COLLECTION",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "THE ASPEN INSTITUTE",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "HEU LEARNING INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "THE NEW SCHOOL",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ASSOCIATION TO BENEFIT CHILDREN",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "DUTCHESS LAND CONSERVANCY INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "MUSEUM OF ARTS AND DESIGN",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "INNISFREE FOUNDATION INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NOT ANOTHER CHILD",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "COLLEGIATE SCHOOL INC",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CONVENT OF THE SACRED HEART",
+      "purpose": "GENERAL OPERATING SUPPORT"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

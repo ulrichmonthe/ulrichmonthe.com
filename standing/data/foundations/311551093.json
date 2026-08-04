@@ -51,6 +51,14 @@
     "singleton_cluster_share": 0.0,
     "total_grant_records": 68
   },
+  "recipients_latest_year": [
+    {
+      "amount": 5106.0,
+      "is_new": false,
+      "name": "The Terry Scholars Fund",
+      "purpose": "Administrative expenses"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": false,
     "application_info_text": null,

@@ -50,6 +50,14 @@
     "singleton_cluster_share": 0.0,
     "total_grant_records": 5
   },
+  "recipients_latest_year": [
+    {
+      "amount": 74109794.0,
+      "is_new": false,
+      "name": "See Schedule Attached",
+      "purpose": "Charitable"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "Soliciting charities will need to be preapproved by the Foundation based on their compatibilty with the missions of the Schoen Foundation (see below). Once preapproved, they must submit their grant request electronically, using the Foundations application program which includes historical information, disclosure of mission statements, compatibility with the Foundations four mission focuses,financial statements, demonstration of needs for the requested grant, overall fund raising efforts, impact of the expenditure of the requested grant on the organization and those that it serves, and other operating and fundraising activities.",

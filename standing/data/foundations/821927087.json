@@ -47,6 +47,524 @@
     "singleton_cluster_share": 0.5243,
     "total_grant_records": 356
   },
+  "recipients_latest_year": [
+    {
+      "amount": 20000000.0,
+      "is_new": true,
+      "name": "JEWISH COMMUNITY FOUNDATION CHARITABLE FUND",
+      "purpose": "COMMUNITY CENTERS & PROGRAMS"
+    },
+    {
+      "amount": 1289016.0,
+      "is_new": false,
+      "name": "MILKEN INSTITUTE",
+      "purpose": "MILKEN SCHOLARS PROGRAM"
+    },
+    {
+      "amount": 925000.0,
+      "is_new": false,
+      "name": "MILKEN COMMUNITY SCHOOL",
+      "purpose": "PRESCHOOL - 12TH GRADE PROGRAMS"
+    },
+    {
+      "amount": 617000.0,
+      "is_new": true,
+      "name": "MATTEL CHILDREN'S HOSPITAL AT UCLA",
+      "purpose": "HEALTH CARE"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": true,
+      "name": "GEORGE WASHINGTON UNIVERSITY",
+      "purpose": "HIGHER ED & RESEARCH INST. & PROGS"
+    },
+    {
+      "amount": 302000.0,
+      "is_new": false,
+      "name": "PROSTATE CANCER FOUNDATION",
+      "purpose": "PROSTATE CANCER RESEARCH"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "AMERICAN EXCHANGE PROJECT",
+      "purpose": "PRESCHOOL - 12TH GRADE PROGRAMS"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": false,
+      "name": "OWNERSHIP WORKS",
+      "purpose": "COMMUNITY CENTERS & PROGRAMS"
+    },
+    {
+      "amount": 235000.0,
+      "is_new": false,
+      "name": "LOS ANGELES BALLET",
+      "purpose": "CULTURAL, LIBRARIES & MUSEUMS"
+    },
+    {
+      "amount": 225000.0,
+      "is_new": true,
+      "name": "ELLIS ISLAND HONORS SOCIETY",
+      "purpose": "CULTURAL, LIBRARIES & MUSEUMS"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "WINDWARD SCHOOL",
+      "purpose": "PRESCHOOL - 12TH GRADE PROGRAMS"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF PENNSYLVANIA - GRADUATE SCHOOL OF EDUCATION",
+      "purpose": "HIGHER ED & RESEARCH INST. & PROGS"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": true,
+      "name": "CAPITAL CARING HEALTH",
+      "purpose": "HEALTH CARE"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": true,
+      "name": "HORATIO ALGER ASSOCIATION OF DISTINGUISHED AMERICANS",
+      "purpose": "COMMUNITY CENTERS & PROGRAMS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "LOS ANGELES DODGERS FOUNDATION",
+      "purpose": "COMMUNITY CENTERS & PROGRAMS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "THE JOHN THOMAS DYE SCHOOL",
+      "purpose": "PRESCHOOL - 12TH GRADE PROGRAMS"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF SOUTHERN CALIFORNIA - MARSHALL SCHOOL OF BUSINESS",
+      "purpose": "HIGHER ED & RESEARCH INST. & PROGS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "LOS ANGELES PHILHARMONIC ASSOCIATION",
+      "purpose": "CULTURAL, LIBRARIES & MUSEUMS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "KEEP MEMORY ALIVE",
+      "purpose": "GENERAL RESEARCH"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "LOS ANGELES OPERA",
+      "purpose": "CULTURAL, LIBRARIES & MUSEUMS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "STANFORD UNIVERSITY GRADUATE SCHOOL OF BUSINESS",
+      "purpose": "HIGHER ED & RESEARCH INST. & PROGS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "PIONEER VALLEY SYMPHONY",
+      "purpose": "CULTURAL, LIBRARIES & MUSEUMS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BRENT SHAPIRO FOUNDATION FOR DRUG AWARENESS",
+      "purpose": "HUMAN SERVICE PROGRAMS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "STANDWITHUS",
+      "purpose": "COMMUNITY CENTERS & PROGRAMS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "VISION TO LEARN",
+      "purpose": "HEALTH CARE"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "CALIFORNIA FORWARD",
+      "purpose": "COMMUNITY CENTERS & PROGRAMS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "CHILDREN'S DIABETES FOUNDATION",
+      "purpose": "HEALTH CARE"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "JOE TORRE SAFE AT HOME FOUNDATION",
+      "purpose": "HUMAN SERVICE PROGRAMS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "KIPP SOCAL PUBLIC SCHOOLS",
+      "purpose": "PRESCHOOL - 12TH GRADE PROGRAMS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "IOLANI SCHOOL",
+      "purpose": "PRESCHOOL - 12TH GRADE PROGRAMS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "NATIONAL MULTIPLE SCLEROSIS SOCIETY",
+      "purpose": "GENERAL RESEARCH"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "PHASE ONE",
+      "purpose": "GENERAL RESEARCH"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "AMERICAN FRIENDS OF LUBAVITCH",
+      "purpose": "COMMUNITY CENTERS & PROGRAMS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "OREGON SHAKESPEARE FESTIVAL ASSOCIATION",
+      "purpose": "CULTURAL, LIBRARIES & MUSEUMS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "STAND UP TO CANCER",
+      "purpose": "GENERAL RESEARCH"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "STUDENTS RUN AMERICA",
+      "purpose": "PRESCHOOL - 12TH GRADE PROGRAMS"
+    },
+    {
+      "amount": 7000.0,
+      "is_new": false,
+      "name": "LOS ANGELES JEWISH SYMPHONY",
+      "purpose": "CULTURAL, LIBRARIES & MUSEUMS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "AMERICAN FRIENDS OF THE HEBREW UNIVERSITY",
+      "purpose": "HIGHER ED & RESEARCH INST. & PROGS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "FRIENDS OF SHEBA MEDICAL CENTER",
+      "purpose": "HEALTH CARE"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "LOS ANGELES POLICE FOUNDATION",
+      "purpose": "COMMUNITY CENTERS & PROGRAMS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "SIMON WIESENTHAL CENTER",
+      "purpose": "CULTURAL, LIBRARIES & MUSEUMS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "HADASSAH",
+      "purpose": "HEALTH CARE"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "WASHINGTON NATIONALS PHILANTHROPIES",
+      "purpose": "COMMUNITY CENTERS & PROGRAMS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "AMERICANS FOR BEN GURION UNIVERSITY",
+      "purpose": "HIGHER ED & RESEARCH INST. & PROGS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "BAR ILAN UNIVERSITY OF ISRAEL",
+      "purpose": "HIGHER ED & RESEARCH INST. & PROGS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "FIRST STAR INC",
+      "purpose": "HUMAN SERVICE PROGRAMS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "LOS ANGELES MASTER CHORALE",
+      "purpose": "CULTURAL, LIBRARIES & MUSEUMS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": true,
+      "name": "UNION RESCUE MISSION",
+      "purpose": "HUMAN SERVICE PROGRAMS"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": false,
+      "name": "PROVIDENCE TRINITY KIDS CARE",
+      "purpose": "HEALTH CARE"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "GABRIELS HOUSE",
+      "purpose": "COMMUNITY CENTERS & PROGRAMS"
+    },
+    {
+      "amount": 3000.0,
+      "is_new": true,
+      "name": "SANTA MONICA POLICE OFFICERS ASSOCIATION WELLNESS FUND",
+      "purpose": "COMMUNITY CENTERS & PROGRAMS"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "AMERICAN RED CROSS",
+      "purpose": "HUMAN SERVICE PROGRAMS"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "LOS ANGELES POLICE RESERVE FOUNDATION",
+      "purpose": "COMMUNITY CENTERS & PROGRAMS"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "UNITED STATES HOLOCAUST MEMORIAL MUSEUM",
+      "purpose": "COMMUNITY CENTERS & PROGRAMS"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "AMERICAN FRIENDS OF MAGEN DAVID ADOM",
+      "purpose": "COMMUNITY CENTERS & PROGRAMS"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "ST JOSEPH CENTER",
+      "purpose": "HUMAN SERVICE PROGRAMS"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": false,
+      "name": "LOS ANGELES POLICE MEMORIAL FOUNDATION",
+      "purpose": "COMMUNITY CENTERS & PROGRAMS"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "BREAKTHROUGH T1D",
+      "purpose": "GENERAL RESEARCH"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "FRIENDS OF THE ISRAEL DEFENSE FORCES",
+      "purpose": "COMMUNITY CENTERS & PROGRAMS"
+    },
+    {
+      "amount": 2500.0,
+      "is_new": true,
+      "name": "LOS ANGELES COUNTY MUSEUM OF ART",
+      "purpose": "CULTURAL, LIBRARIES & MUSEUMS"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "AMERICAN FRIENDS OF THE ISRAEL PHILHARMONIC ORCHESTRA",
+      "purpose": "CULTURAL, LIBRARIES & MUSEUMS"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "CENTER FOR EXCELLENCE IN EDUCATION",
+      "purpose": "PRESCHOOL - 12TH GRADE PROGRAMS"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "FRIENDS OF CANCER RESEARCH",
+      "purpose": "GENERAL RESEARCH"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "WAYFINDER FAMILY SERVICES",
+      "purpose": "HEALTH CARE"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "HAROLD PUMP FOUNDATION",
+      "purpose": "COMMUNITY CENTERS & PROGRAMS"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": true,
+      "name": "ROBERTO CLEMENTE FOUNDATION",
+      "purpose": "COMMUNITY CENTERS & PROGRAMS"
+    },
+    {
+      "amount": 1800.0,
+      "is_new": false,
+      "name": "ISRAEL GUIDE DOG CENTER FOR THE BLIND",
+      "purpose": "HEALTH CARE"
+    },
+    {
+      "amount": 1800.0,
+      "is_new": false,
+      "name": "JEWISH FAMILY SERVICE OF LOS ANGELES",
+      "purpose": "HUMAN SERVICE PROGRAMS"
+    },
+    {
+      "amount": 1800.0,
+      "is_new": true,
+      "name": "HILLEL THE FOUNDATION FOR JEWISH CAMPUS LIFE",
+      "purpose": "HIGHER ED & RESEARCH INST. & PROGS"
+    },
+    {
+      "amount": 1500.0,
+      "is_new": false,
+      "name": "MEND - MEET EACH NEED WITH DIGNITY",
+      "purpose": "HUMAN SERVICE PROGRAMS"
+    },
+    {
+      "amount": 1250.0,
+      "is_new": false,
+      "name": "LEUKEMIA & LYMPHOMA SOCIETY INC",
+      "purpose": "GENERAL RESEARCH"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "CHILDREN'S BURN FOUNDATION",
+      "purpose": "HEALTH CARE"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "CONCERN FOUNDATION",
+      "purpose": "GENERAL RESEARCH"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "CYSTIC FIBROSIS FOUNDATION",
+      "purpose": "GENERAL RESEARCH"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "JBI INTERNATIONAL",
+      "purpose": "HUMAN SERVICE PROGRAMS"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "NATIONAL COUNCIL OF JEWISH WOMEN",
+      "purpose": "COMMUNITY CENTERS & PROGRAMS"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "OPICA ADULT DAY CARE ASSOCIATES INC",
+      "purpose": "HUMAN SERVICE PROGRAMS"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "PROJECT ANGEL FOOD",
+      "purpose": "HUMAN SERVICE PROGRAMS"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "LOS ANGELES COUNTY POLICE CANINE ASSOCIATION",
+      "purpose": "COMMUNITY CENTERS & PROGRAMS"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "PARASOL TAHOE COMMUNITY FOUNDATION",
+      "purpose": "COMMUNITY CENTERS & PROGRAMS"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "BOYS TOWN JERUSALEM FOUNDATION OF AMERICA",
+      "purpose": "PRESCHOOL - 12TH GRADE PROGRAMS"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": false,
+      "name": "HOLOCAUST MUSEUM LA",
+      "purpose": "CULTURAL, LIBRARIES & MUSEUMS"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "ANTI-DEFAMATION LEAGUE",
+      "purpose": "COMMUNITY CENTERS & PROGRAMS"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "JEWS FOR JUDAISM INTERNATIONAL INC",
+      "purpose": "COMMUNITY CENTERS & PROGRAMS"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "MARC LUSTGARTEN PANCREATIC CANCER FOUNDATION",
+      "purpose": "GENERAL RESEARCH"
+    },
+    {
+      "amount": 1000.0,
+      "is_new": true,
+      "name": "ORTHODOX UNIONNCSY",
+      "purpose": "COMMUNITY CENTERS & PROGRAMS"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "A BRIEF WRITTEN STATEMENT, NOT EXCEEDING THREE PAGES, INCLUDING A DESCRIPTION OF PROJECT GOALS, PROCEDURES AND PERSONNEL; QUALIFICATIONS FOR SUPPORT AND A BRIEF BACKGROUND OF THE ORGANIZATION, INCLUDING THE NUMBER OF YEARS IN OPERATION, OTHER AREAS OF ACTIVITY, THE APPLICANT'S PREVIOUS AND CURRENT SOURCES OF FUNDING; THE AMOUNT OF THE REQUEST, TOTAL AMOUNT OF THE PROJECT, DETAILS OF THE BUDGET AND PLANS FOR OBTAINING TOTAL FUNDING; A LETTER OF EXEMPTION FROM THE INTERNAL REVENUE SERVICE. APPLICANTS MAY SUPPLEMENT THEIR PROPOSALS WITH SUPPORTING PRINTED MATERIALS.",

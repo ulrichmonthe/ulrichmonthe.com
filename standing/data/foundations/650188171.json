@@ -48,6 +48,1964 @@
     "singleton_cluster_share": 0.2462,
     "total_grant_records": 1589
   },
+  "recipients_latest_year": [
+    {
+      "amount": 3603000.0,
+      "is_new": false,
+      "name": "PELICAN HARBOR SEABIRD STA INC",
+      "purpose": "GENERAL OPERATIONS & CAPITAL IMPROVEMENT"
+    },
+    {
+      "amount": 2275000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF MIAMI MILLER SCHOOL OF MEDICINE",
+      "purpose": "GENERAL OPERATIONS & ENDOWMENT"
+    },
+    {
+      "amount": 2000000.0,
+      "is_new": true,
+      "name": "THE MIAMI FOUNDATION - RARE SPECIES",
+      "purpose": "ENDOWMENT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "OVERTOWN YOUTH CENTER INC",
+      "purpose": "CAPITAL IMPROVEMENT"
+    },
+    {
+      "amount": 500000.0,
+      "is_new": true,
+      "name": "PHILLIP AND PATRICIA FROST MUSEUM OF SCIENCE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 450000.0,
+      "is_new": false,
+      "name": "EASTER SEALS SOUTH FLORIDA INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 425000.0,
+      "is_new": false,
+      "name": "MIAMI LIGHTHOUSE FOR THE BLIND & VISUALLY IMPLAIRED INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "CHAPMAN PARTNERSHIP INC",
+      "purpose": "GENERAL OPERATIONS & ENDOWMENT"
+    },
+    {
+      "amount": 400000.0,
+      "is_new": false,
+      "name": "SOUTH FLORIDA PBS INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 315000.0,
+      "is_new": false,
+      "name": "AUDUBON OF FLORIDA",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 300000.0,
+      "is_new": true,
+      "name": "DIABETES RESEARCH INSTITUTE FOUNDATION",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 250000.0,
+      "is_new": true,
+      "name": "BAPTIST HEALTH SO FL FOUNDATION",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 245000.0,
+      "is_new": false,
+      "name": "BROWARD PARTNERSHIP FOR THE HOMELESS INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 210000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF FLORIDA FOUNDATION INC",
+      "purpose": "GENERAL OPERATIONS & ENDOWMENT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "AMERICAN SOC PREVOF CRUELTY TO ANIMALS",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "FAIRCHILD TROPICAL BOTANIC GARDEN",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "MCCARTHY'S WILDLIFE SANCTUARY INC",
+      "purpose": "GENERAL OPERATIONS & CAPITAL IMPROVEMENT"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "SOUTH FLORIDA WILDLIFE CENTER INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 200000.0,
+      "is_new": false,
+      "name": "WOMEN OF TOMORROW MENTOR & SCHOLARSHIP PROG INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 190000.0,
+      "is_new": false,
+      "name": "SHERIDAN HOUSE FAMILY MINISTRIES INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "FLAMINGO GARDENS INC",
+      "purpose": "CAPITAL IMPROVEMENT"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "UNITED WAY OF MIAMI-DADE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 175000.0,
+      "is_new": false,
+      "name": "LIFENET4FAMILIES",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 170000.0,
+      "is_new": false,
+      "name": "COVENANT HOUSE FLORIDA",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 165000.0,
+      "is_new": false,
+      "name": "SHAKE-A-LEG MIAMI INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 155000.0,
+      "is_new": false,
+      "name": "EASTER SEALS FLORIDA INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "CONSERVANCY OF SOUTHWEST FLORIDA INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "CLINIC FOR REHAB OF WILDLIFE INC",
+      "purpose": "CAPITAL IMPROVEMENT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "GIRL SCOUT COUNCIL OF TROPICAL FLORIDA INC",
+      "purpose": "GENERAL OPERATIONS & CAPITAL IMPROVEMENT"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF MIAMI SCH NURSING & HEALTH",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 150000.0,
+      "is_new": false,
+      "name": "UNIVERSITY OF MIAMI SYLVESTER COMPREH CANCER CTR",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "HUMANE SOCIETY OF GREATER MIAMI INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "MIAMI CHILDREN'S MUSEUM INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "PROJECT LIFT INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "THE VICTORY CENTER INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "VITA NOVA INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 125000.0,
+      "is_new": false,
+      "name": "COX SCIENCE CENTER & AQUARIUM INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 120000.0,
+      "is_new": false,
+      "name": "NATIONAL PARKS CONSERVATION ASSOC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 115000.0,
+      "is_new": false,
+      "name": "URBAN YOUTH IMPACT INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 115000.0,
+      "is_new": false,
+      "name": "BRANCHES INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "4KIDS OF SOUTH FLORIDA INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ADRIENNE ARSHT CENTER TRUST INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BREAKTHROUGH MIAMI INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "CONCERNED AFRICAN WOMEN INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "GREATER MIAMI YOUTH FOR CHRIST INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "HABITAT FOR HUMANITY OF GTR MIAMI INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "HIS HOUSE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "ISLAND DOLPHIN CARE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": true,
+      "name": "MIAMI RESCUE MISSION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "NEW HOPE CHARITIES INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "OPPORTUNITY INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "PALM BEACH CTY FOOD BANK INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "THE SALVATION ARMY",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "GULF STREAM COUNCIL OF BOY SCOUTS OF AMERICA INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 100000.0,
+      "is_new": false,
+      "name": "BOY SCOUTS OF AMERICA SOUTH FL COUNCIL INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 90000.0,
+      "is_new": true,
+      "name": "CHILDREN'S CASE MANAGEMENT DBA FAMILIES FIRST OF PBC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 85000.0,
+      "is_new": false,
+      "name": "GIRL SCOUTS OF SOUTHEAST FLORIDA INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "EDUCATE TOMORROW CORP",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 80000.0,
+      "is_new": false,
+      "name": "NETWORK FOR TEACHING ENTREPRENEURSHIP",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 78000.0,
+      "is_new": false,
+      "name": "BOYS & GIRLS CLUBS OF PALM BEACH INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 78000.0,
+      "is_new": false,
+      "name": "BROWARD COLLEGE FOUNDATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "FLORIDA KEYS OUTREACH COALITION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "KIDS IN DISTRESS INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "NATIONAL PARK FOUNDATION",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "YEAR UP INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "ZOOLOGICAL SCTY OF THE PALM BEACHES INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "SOUTH FLORIDA SPCA INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "SUNDARI FOUNDATION INC DBA LOTUS HOUSE",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "FLORIDA KEYS WILD BIRD REHABILITATION CENTER INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": false,
+      "name": "FOSTER CARE REVIEW INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 75000.0,
+      "is_new": true,
+      "name": "PATCHES-PEDIATRIC ALTERNATIVE TREATMENT",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "BOCA HELPING HANDS INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 60000.0,
+      "is_new": false,
+      "name": "KIDS CANCER FOUNDATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 55000.0,
+      "is_new": false,
+      "name": "MONTGOMERY BOTANICAL CENTER INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "AMERICAN CANCER SOCIETY FLORIDA DIV INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ARC BROWARD INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "BEST BUDDIES INTERNATIONAL INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CENTER FOR CHILD COUNSELING INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CHILDREN'S BEREAVEMENT CENTER INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ELS FOR AUTISM FOUNDATION",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "FOUNDATION FOR NEW EDUCATION INITIATIVES INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "GILDA'S CLUB OF SOUTH FLORIDA INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "HEALTH INFORMATION PROJECT INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "JACK & JILL CHILDREN'S CENTER INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "JESSICA JUNE CHILDREN'S CANCER FOUND INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "JUNIOR ACHIEVEMENT OF GREATER MIAMI INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "PEGGY ADAMS ANIMAL RESCUE LEAGUE",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "QUANTUM HOUSE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "THE BUSCH WILDLIFE SANCTUARY INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "THE EDUCATION FUND INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "TREASURE COAST FOOD BANK INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "YMCA OF THE PALM BEACHES INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "AMERICA'S VETDOGS-THE VETS K9 COPRS INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CHILDREN'S HOME SOCIETY OF FLORIDA- BROWARD",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "CHILDREN'S HOME SOCIETY OF FLORIDA - P B C",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "ENFAMILIA INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "FEEDING SOUTH FLORIDA INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "FRIENDSHIP CIRCLE MIAMI INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "MEALS ON WHEELS OF THE PALM BEACHES INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "FLITE CENTER INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "NATIONAL WILDLIFE REFUGE ASSOCIATION",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "FEED THE HUNGRY PANTRY OF PALM BEACH COUNTY INC",
+      "purpose": "CAPITAL IMPROVEMENT"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": false,
+      "name": "WHISPERING MANES THERAPEUTIC RIDING CENTER",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 50000.0,
+      "is_new": true,
+      "name": "MIAMI WATERKEEPER INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 45000.0,
+      "is_new": false,
+      "name": "FEEDING PETS OF THE HOMELESS",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "ADOPT-A-FAMILY OF THE PALM BEACHES INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "BIG BROTHERS BIG SISTERS OF PB & MARTIN COUNTIES INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "MIAMI DADE COLLEGE FOUNDATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "WOMEN IN DISTRESS OF BROWARD COUNTY INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "FLORENCE FULLER CHILD DEV CENTER INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 40000.0,
+      "is_new": false,
+      "name": "BROWARD CTY COMMUNITY DEV CORPDBA BROWARD HOUSING SOLUTIONS",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 36500.0,
+      "is_new": false,
+      "name": "MARIAN CENTER SCHOOL AND SERVICES INC",
+      "purpose": "GENERAL OPERATIONS & CAPITAL IMPROVEMENT"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "CENTER FOR FAMILY & CHILD ENRICHMENT INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "FLORIDA WILD MAMMAL ASSOC INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "CARIDAD CENTER INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "PARKINSON'S FOUNDATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "YOUTH FOR CHRIST USA PALM BEACH COUNTY",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "JUNIOR ACHIEVEMENT OF THE PALM BEACHES & TREASURE COAST INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 35000.0,
+      "is_new": false,
+      "name": "THE CLEVELAND ORCHESTRA",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "ALLIANCE FOR AGING INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "ALZHEIMER'S COMMUNITY CARE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "AMERICANS FOR IMMIGRANT JUSTICE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "EQUINE-ASSISTED THERAPIES OF SO FL INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "FISH & WILDLIFE FOUNDATION OF FLORIDA",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "GATEWAY COMMUNITY OUTREACH INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "GRANDMA'S PLACE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "JACK THE BIKE MAN INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "MIAMI HERALD CHARITIES INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "MIDWEST FOOD BANK FLORIDA DIVISION",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "MUSEUM OF DISCOVERY & SCIENCE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "NEW WORLD SYMPHONY INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "THE LORD'S PLACE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "WARRIOR CANINE CONNECTION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "ACHIEVE MIAMI INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "LIGHTHOUSE FOR THE BLIND OF PALM BEACHES",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "CENTER FOR FAMILY SERV OF PBC INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "EPILEPSY FLORIDAINC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "SPECIAL OLYMPICS FLORIDA INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "AMERICAN ASSOCIATION OF CAREGIVING YOUTH INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": false,
+      "name": "THE ARC OF PALM BEACH COUNTY INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 30000.0,
+      "is_new": true,
+      "name": "PAWS4YOU RESCUE INC",
+      "purpose": "CAPITAL IMPROVEMENT"
+    },
+    {
+      "amount": 28000.0,
+      "is_new": false,
+      "name": "UNITED WAY OF PALM BEACH COUNTY INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "AMIGOS FOR KIDS INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ANN NORTON SCULPTURE GARDENS INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ARMED FORCES SERVICE CENTER INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BIG DOG RANCH RESCUE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BOUND FOR COLLEGE",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CANCER ALLIANCE OF HELP & HOPE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CARE ELEMENTARY SCHOOL",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CHILDREN'S HARBOR INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CITY YEAR INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "COMMON THREADS",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "THE CORAL RESTORATION FOUNDATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "DUMOND CONSERVANCY FOR PRIMATES & TROPICAL FOREST INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ENCOUNTERS IN EXCELLENCE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "FIRST STAR INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "FLORIDA BAPTIST CHILDREN'S HOME INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "FOOD RESCUE US",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "FOR THE CHILDREN INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "GUITARS OVER GUNS ORGANIZATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "HABILITATION CENTER FOR THE HANDICAPPED INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "INT'L CRANE FOUNDATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "JEWISH COMMUNITY SERVICES OF SOUTH FLORIDA INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "KEY WEST BOTANICAL GARDEN SOCIETY INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "KIDS' DREAMS INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LABRADOR RETRIEVER RESCUE OF FLORIDA INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LIGHTHAWK",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "MIAMI CITY BALLET INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "MUSCULAR DYSTROPHY ASSOCIATION",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PET PROJECT FOR PETS INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PLACE OF HOPE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PROJECTART",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PROPEL INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SILENT VICTIMS OF CRIME",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SOUTH FLORIDA AUTISM CTR INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "TAKE STOCK IN CHILDREN PALM BEACH COUNTY",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "THE ARC OF THE GLADES INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "THE BATTIER TAKE CHARGE FOUNDATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "TOMORROWS RAIMBOW INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "WOUNDED VETERANS RELIEF FUND INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "YMCA OF SO PALM BEACH COUNTY INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "AMERICAN NATIONAL RED CROSS SO FL REGIONAL CHAPTER",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ANDREW RED HARRIS FOUNDATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "CHICAGO ZOOLOGICAL SOCIETY",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "DR STANLEY & PEARL GOODMAN JFS OF BROWARD COUNTY INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "FLORIDA KEYS HEALTHY START COALITION",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "FORGOTTEN SOLDIERS OUTREACH INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "FRIENDS OF SANDOWAY HOUSE CTR INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "HANNAHS'S HOME OF SOUTH FLORIDA",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "HISPANIC UNITY OF FLORIDA INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NAT'L FOUNDATION FOR ADVCMNT OF THE ARTS",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "THE SEED SCHOOL OF MIAMI",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ZOO MIAMI FOUNDATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "ANN STORCK CENTER INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "GOOD KARMA PET RESCUE INC",
+      "purpose": "CAPITAL IMPROVEMENT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "HELPING ABUSED NEGLECTED DISADVANTAGED YOUTH (HANDY) INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "HOMES INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "JORGE M PEREZ ART MUSEUM OF MIAMI-DADE COUNTY INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "LIGHT OF THE WORLD CLINIC INC (LUZ DEL MUNDO)",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PINEY GROVE ACADEMY INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "SAVE THE MUSIC FOUNDATION",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "AMERICAN HEART ASSOCIATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "BOYS & GIRLS CLUBS OF MIAMI INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "GUARDIAN ANGELS MEDICAL SERVICE DOGS INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "NMDP FOUNDATIONBE THE MATCH FOUNDATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "PAWS 2 HELP INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "THE CHILDREN'S PLACE AT HOME SAFE INC (HOMESAFE INC)",
+      "purpose": "ENDOWMENT"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": false,
+      "name": "THE EDUCATION FOUNDATION OF PALM BEACH COUNTY INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "CORAL SPRINGS NATURE CENTER AND WILDLIFE HOSPITAL INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "DAVE AND MARY ALPER JEWISH COMMUNITY CENTER INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "FLORIDA KEYS CHILDREN'S SHELTER INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 25000.0,
+      "is_new": true,
+      "name": "JUSTIN BARTLETT ANIMAL RESCUE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 24000.0,
+      "is_new": true,
+      "name": "JOE DIMAGGIO CHILDREN'S HOSPITAL FOUNDATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 22000.0,
+      "is_new": false,
+      "name": "SUNSHINE FOUNDATION INC",
+      "purpose": "CAPITAL IMPROVEMENT"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "A CHANCE FOR THERAPY INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "ACHIEVEMENT CTR FOR CHILDREN & FAMILIES",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "BACK TO BASICS INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "CITIZENS FOR A BETTER SO FLORIDA INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "CLEWISTON MUSEUM INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "CLINICS CAN HELP INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "FLORIDA INT'L UNIVERSITY FOUNDATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "MIAMI THEATER CENTER INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "SAINT BERNARD RESCUE FOUNDATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "SWEET DREAM MAKERS INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "THE CLEO INSTITUTE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "THE POSSE FOUNDATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "TRUSTBRIDGE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "WHEELCHAIRS 4 KIDS INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "ABANDONED PET RESCUE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "BAT CONSERVATION INTERNATIONAL INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "BIT-BY-BIT MED THERAPEUTIC RIDING CENTER",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "CHILDREN'S HOME NETWORK",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "GOLDEN RESCUE SO FLORIDA INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "JUNIOR ORANGE BOWL COMMITTEE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "MIAMI MUSIC PROJECT INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "NOVA SOUTHEASTERN UNIVERSITY INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "NU DECO ENSEMBLE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "SOS CHILDREN'S VILLAGE FLORIDA",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "THE GLADES INITIATIVE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "YOUNG MUSICIANS UNITE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "MIAMI VETERINARY FOUNDATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "PEDIATRIC ONCOLOGY SUPPORT TEAM INC (POST)",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "TAKE STOCK IN CHILDREN INC - MIAMI",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "THE SALVATION ARMY OF BROWARD COUNTY",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "BOCA RATON SOCIETY FOR THE DISABLED INC (TWIN PALMS)",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": false,
+      "name": "HEART GALLERY OF BROWARD COUNTY INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 20000.0,
+      "is_new": true,
+      "name": "THE CHILDREN'S HEALING INSTITUTE",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 18000.0,
+      "is_new": false,
+      "name": "SUNSET HOUSE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 17500.0,
+      "is_new": false,
+      "name": "JUNIOR ACHIEVEMENT OF SOUTH FLORIDA INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 16000.0,
+      "is_new": false,
+      "name": "MILAGRO FOUNDATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "CANINE ASSISTED THERAPY INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "DRESS FOR SUCCESS PALM BEACHES",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "FLIPANY INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "FLORIDA OUTREACH CTR FOR THE BLIND INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "GEORGE SNOW SCHOLARSHIP FUND INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "HELP OUR WOUNDED FOUNDATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "LITTLE SMILES INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "NAMI PALM BEACH COUNTY INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "SOUTH FLORIDA AUTISM CHARTER SCHOOL INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "SOUTHEASTERN GUIDE DOGS",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "THE ABLE TRUST",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "A POSITIVE STEP OF MONROE COUNTY INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "BIG BROTHERS BIG SISTERS OF BROWARD",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "FARMWORKERS COORDINATING COUNCIL OF PB CTY INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "FLORIDA'S CHILDREN FIRST",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "FRIENDS HORSE RESCUE & SANCTUARY",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "JOSHUA'S HEART FOUNDATION",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "LIGHTHOUSE OF BROWARD COUNTY INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "RU4ME PET RESCUE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "STAR OF THE SEA FOUNDATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "UP2US SPORTS",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "VOICES FOR CHILDREN FOUNDATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "SAMUEL'S HOUSE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": false,
+      "name": "RECAPTURING THE VISION INTERNATIONAL INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 15000.0,
+      "is_new": true,
+      "name": "MARINE CORPS SCHOLARSHIP FOUNDATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 12000.0,
+      "is_new": false,
+      "name": "DREAM IN GREEN INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10150.0,
+      "is_new": true,
+      "name": "PALM BEACH SCHOOL FOR AUTISM INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "AYUDA INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CATS EXCLUSIVE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "DADE HERITAGE TRUST INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "DARBSTER FOUNDATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "DENTAL LIFELINE NETWORK-FLORIDA INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "FIREWALL CENTERS INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "GENESIS ASSISTANCE DOGS",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "GOLD COAST DOWN SYNDROME ORG INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "GREATER MIAMI YOUTH SYMPHONY OF DCF INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "HEALTHY MOTHERS HEALTHY BABIES COALITION OF BROWARD COUNTY INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "HOUSE OF HOPE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "JEFF INDUSTRIES INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "MERCY MEDICAL ANGELS",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "SCHOOL OF THE ARTS FOUNDATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "SOUTH FLORIDA YOUTH SYMPHONY INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "SPIRIT OF GIVING NETWORK INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "STUDENT ACES INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "THE JACOB ZWEIG FOUNDATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "WESLEY HOUSE FAMILY SERVICES",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ARMOUR DANCE THEATRE",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "CAMP BOGGY CREEK",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "ELIZABETH H FAULK FOUNDATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "FRAMWORKER CHILDRENS CENTER INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "FRIENDS OF THE UNDERLINE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "MIRACLE FLIGHTS FOR KIDS INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "OPERATION HOMEFRONT",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "THE NATIONAL CHILDREN'S CANCER SOCIETY",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "COMMUNITY HEALTH CENTER OF WEST PALM BEACH",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "HEALTHY MOTHERS HEALTHY BABIES COALITION OF PALM BEACH CTY INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "HIBISCUS CHILDREN'S CENTER INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "MOBILE SCHOOL PANTRY INC SOUTH FLORIDA",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "BROWARD CHILDREN'S CENTER",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": false,
+      "name": "EL SOL JUPITER'S NEIGHBORHOOD RESOURCE CENTER",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "SICKLE CELL FOUNDATION OF PBC AND THE TREASURE COAST",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 10000.0,
+      "is_new": true,
+      "name": "THE FUND FOR WEST PALM BEACH POLICE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 8000.0,
+      "is_new": false,
+      "name": "PASSION FOR PAWS INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": false,
+      "name": "YOGA 4 CHANGE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 7500.0,
+      "is_new": true,
+      "name": "JACKSON HEALTH SYSTEM",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 7000.0,
+      "is_new": false,
+      "name": "HUMANE SOCIETY OF BROWARD COUNTY",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 6000.0,
+      "is_new": false,
+      "name": "ALHAMBRA MUSIC INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "ASSOCIATED SCIENTISTS AT WOODS HOLE INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "HOPECAM INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "PALM BEACH ISLAND CATS INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "REEF RELIEF",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "THE MURRAY DRANOFF FOUNDATION INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "DELIVER THE DREAM INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "SAMARITANS365 FOUNDATION DBA KINDNESS MATTERS 365",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 5000.0,
+      "is_new": false,
+      "name": "THE CHILDREN'S VOICE CHORUS INC",
+      "purpose": "GENERAL OPERATIONS"
+    },
+    {
+      "amount": 2000.0,
+      "is_new": false,
+      "name": "COALITION FOR THE HOMELESS INCDBACOALITION TO END HOMELESSNESS - BROWARD",
+      "purpose": "GENERAL OPERATIONS"
+    }
+  ],
   "self_reported": {
     "accepts_unsolicited": true,
     "application_info_text": "BOTH NEW AND RETURNING GRANTEES MUST SUBMIT AN INITIAL LETTER OF INTENT (\"LOI\")THROUGH OUR ONLINE GRANT PORTAL. PAPER APPLICATIONS WILL NOT BE ACCEPTED. LOIS ARE ACCEPTED DURING ONE OF THE FOUNDATION'S QUARTERLY GRANT CYCLES. ONCE THE LOI HAS BEEN INTERNALLY REVIEWED BY THE FOUNDATION'S MANAGEMENT, THE NONPROFIT ORGANIZATION WILL BE INFORMED VIA EMAIL IF IT HAS BEEN APPROVED FOR SUBMISSION OF A MORE FORMAL GRANT APPLICATION (\"FORMAL APPLICATION\") DURING ONE OF THE FOUNDATION'S QUARTERLY GRANT CYCLES. THE FULLY COMPLETED FORMAL APPLICATION MUST BE SUBMITTED ONLINE THROUGH OUR GRANT PORTAL.",
