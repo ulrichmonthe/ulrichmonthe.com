@@ -98,6 +98,7 @@
     .prov b { color: var(--ink-soft); font-weight: 600; }
     .flag { background: var(--paper-raised); border: 1px solid var(--rule); border-left: 3px solid var(--amber); border-radius: 0 8px 8px 0; padding: 12px 15px; font-size: 14px; color: var(--ink-soft); margin-bottom: 16px; }
     .flag b { color: var(--ink); }
+    a.act { text-decoration: none; display: inline-block; }
     .act { font-family: var(--sans); font-size: 13.5px; font-weight: 600; color: var(--accent-deep); background: var(--paper-raised); border: 1px solid var(--rule); border-radius: 100px; padding: 7px 15px; cursor: pointer; }
     .act:hover { border-color: var(--accent); }
     .act[data-on="1"] { background: var(--accent-deep); border-color: var(--accent-deep); color: var(--paper); }
@@ -239,7 +240,7 @@
     </section>
 
     <section>
-      <h2>How the figure is computed</h2>
+      <h2 id="how">How the figure is computed</h2>
       <p>
         Every US private foundation files Form 990-PF, and Part XV of that
         return itemises every grant it paid, with the recipient's name. Line
@@ -357,7 +358,8 @@
         '<div><div class="m-l">Match rate</div><div class="m-v">' + pct(f.match_rate) + '</div>' +
         '<div class="m-n">85% required before a figure is published</div></div></div>' +
         '<p class="prov"><b>Source.</b> Form 990-PF Part XV, ' + esc(String(f.latest_year || 'n/a')) +
-        ' · <b>Note.</b> A figure computed on this basis could mislead, so none is given.</p></div>';
+        ' · <b>Note.</b> A figure computed on this basis could mislead, so none is given.</p>' +
+        '<div style="margin-top:12px"><a class="act" href="/foundations/' + esc(f.slug) + '/">Full page →</a></div></div>';
     }
 
     var bar = Math.max(2, Math.min(100, Math.round((f.rate_pooled || 0) * 260)));
@@ -387,9 +389,12 @@
       '<p class="prov"><b>Source.</b> Form 990-PF Part XV line 3a, through FY' + f.latest_year +
       ' · <b>Lookback.</b> ' + (f.lookback || 3) + ' preceding filing years' +
       ' · <b>Recompute.</b> On the next filing<br><b>Excludes.</b> Grants approved for future payment, which the return lists separately</p>' +
-      '<div style="margin-top:14px"><button class="act" data-add="' + esc(f.ein) + '"' +
+      '<div style="margin-top:14px;display:flex;gap:10px;flex-wrap:wrap">' +
+      '<button class="act" data-add="' + esc(f.ein) + '"' +
       (SEL.indexOf(f.ein) > -1 ? ' data-on="1"' : '') + '>' +
-      (SEL.indexOf(f.ein) > -1 ? 'On your screen' : 'Add to screen') + '</button></div></div>';
+      (SEL.indexOf(f.ein) > -1 ? 'On your screen' : 'Add to screen') + '</button>' +
+      '<a class="act" href="/foundations/' + esc(f.slug) + '/">Full page, with who they funded →</a>' +
+      '</div></div>';
   }
 
   function render() {

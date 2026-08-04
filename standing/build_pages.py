@@ -137,6 +137,12 @@ HEAD = """<!doctype html>
     .cta h3{{font-family:var(--serif);font-size:21px;font-weight:600;margin-bottom:10px;color:var(--paper)}}
     .cta p{{color:#d8d0c2;max-width:60ch;font-size:15.5px}}
     .cta a{{color:var(--accent-soft)}}
+    ul.dir{{list-style:none;columns:2;column-gap:32px}}
+    ul.dir li{{break-inside:avoid;padding:5px 0;border-bottom:1px solid var(--rule);display:flex;justify-content:space-between;gap:12px;align-items:baseline}}
+    ul.dir a{{color:var(--accent-deep);text-decoration:none;font-size:15px}}
+    ul.dir a:hover{{text-decoration:underline}}
+    .dir-meta{{font-family:var(--mono);font-size:12px;color:#9a927f;white-space:nowrap}}
+    @media(max-width:620px){{ul.dir{{columns:1}}}}
     .links{{display:flex;flex-wrap:wrap;gap:9px;margin-top:16px}}
     .links a{{font-size:14px;text-decoration:none;border:1px solid var(--rule);border-radius:100px;padding:7px 15px;background:var(--paper-raised);color:var(--accent-deep)}}
     footer{{margin-top:54px;border-top:1px solid var(--rule);padding:24px 0 46px;font-size:13.5px;color:var(--ink-soft);display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px}}
@@ -300,29 +306,60 @@ def render_page(d, idx_row, total_pub):
 
 
 def render_index(rows):
-    canonical = f"{BASE}/foundations/"
-    desc = (f"New-grantee rates for {len(rows)} US private foundations, computed from their own "
-            f"Form 990-PF filings. How often each funds an organization it has not funded before.")
+    """A directory, not a second browsing surface.
+
+    Screening happens in the tool at /live-projects/funder-standing/. This page
+    exists because that tool renders its list in JavaScript, which search
+    engines largely cannot follow into the detail pages. So it is a plain,
+    crawlable A-Z of links, deliberately thin, pointing into the tool for
+    anything interactive.
+    """
+    canonical = BASE + "/foundations/"
+    desc = ("An A-Z directory of %d US private foundations with grant histories computed "
+            "from Form 990-PF filings. One page each, free and with no login." % len(rows))
     jsonld = json.dumps({
         "@context": "https://schema.org", "@type": "CollectionPage",
-        "name": "Foundation grant histories", "url": canonical,
+        "name": "Foundation grant histories - directory", "url": canonical,
         "creator": {"@type": "Person", "name": "Ulrich Monthe", "url": BASE},
     }, separators=(",", ":"))
-    out = [HEAD.format(title="Foundation Grant Histories", desc=e(desc), canonical=canonical,
-                       base=BASE, jsonld=jsonld, crumb="All foundations")]
-    out.append(f'''    <h1>Foundation grant histories</h1>
-    <p class="lead">How often each of these {len(rows)} foundations funds an organization it has
-      not funded before, computed from their own Form 990-PF filings.</p>
-    <section><div class="tablewrap"><table><thead><tr>
-      <th>Foundation</th><th>State</th><th style="text-align:right">New / total</th>
-      <th style="text-align:right">Rate</th></tr></thead><tbody>''')
+
+    out = [HEAD.format(title="Foundation Grant Histories \u2014 A\u2013Z", desc=e(desc),
+                       canonical=canonical, base=BASE, jsonld=jsonld, crumb="Directory")]
+
+    out.append("    <h1>Foundation grant histories</h1>")
+    out.append('    <p class="lead">One page for each of these %d foundations, showing how often '
+               'it funds an organization it has not funded before \u2014 computed from its own '
+               'Form 990-PF filings.</p>' % len(rows))
+    out.append('    <div class="notice"><b>Comparing several at once?</b> The '
+               '<a href="/live-projects/funder-standing/">screening tool</a> filters this list, '
+               'shows the evidence behind each figure, and builds a set you can export or share '
+               'as a link. This page is just the directory.</div>')
+
+    groups = {}
     for r in rows:
-        nt = f"{r['new_latest']} / {r['total_latest']}" if r["publishable"] else "—"
-        rt = pct(r["rate_pooled"]) if r["publishable"] else "—"
-        out.append(f'      <tr><td class="name"><a href="/foundations/{e(r["slug"])}/" style="color:var(--accent-deep);text-decoration:none">{e(r["name"])}</a></td>'
-                   f'<td>{e(r["state"])}</td><td class="n">{nt}</td><td class="n">{rt}</td></tr>')
-    out.append('    </tbody></table></div></section>')
-    out.append('''    <div class="links"><a href="/live-projects/funder-standing/">Screen a set of funders</a></div>''')
+        nm = r["name"]
+        if nm.lower().startswith("the "):
+            nm = nm[4:]
+        letter = (nm.strip() or "?")[0].upper()
+        if not letter.isalpha():
+            letter = "#"
+        groups.setdefault(letter, []).append(r)
+
+    out.append("    <section>")
+    for letter in sorted(groups):
+        out.append('    <h2 style="margin-top:26px">%s</h2>' % letter)
+        out.append('    <ul class="dir">')
+        for r in sorted(groups[letter], key=lambda x: x["name"]):
+            rate = pct(r["rate_pooled"]) if r["publishable"] else "no comparison"
+            st = (" \u00b7 " + e(r["state"])) if r.get("state") else ""
+            out.append('      <li><a href="/foundations/%s/">%s</a>'
+                       '<span class="dir-meta">%s%s</span></li>'
+                       % (e(r["slug"]), e(r["name"]), rate, st))
+        out.append("    </ul>")
+    out.append("    </section>")
+    out.append('    <div class="links">'
+               '<a href="/live-projects/funder-standing/">Screen a set of funders</a>'
+               '<a href="/live-projects/funder-standing/#how">How this is computed</a></div>')
     out.append(FOOT)
     return "\n".join(out)
 
