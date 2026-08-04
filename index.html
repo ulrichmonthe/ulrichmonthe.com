@@ -133,6 +133,19 @@
   .hero-sub{max-width:56ch;font-size:18px;color:var(--ink-soft);}
   .hero-sub b{color:var(--ink);font-weight:600;}
   .hero-ctas{display:flex;gap:14px;margin-top:34px;flex-wrap:wrap;}
+  .hero-proof{
+    margin-top:34px;padding-top:24px;border-top:1px solid var(--line);
+    display:flex;flex-wrap:wrap;gap:26px 40px;
+  }
+  .hero-proof .hp{max-width:23ch;}
+  .hero-proof .hp-n{
+    font-family:'IBM Plex Mono',monospace;font-size:23px;font-weight:500;
+    color:var(--ink);line-height:1.1;font-variant-numeric:tabular-nums;letter-spacing:-.01em;
+  }
+  .hero-proof .hp-l{font-size:13px;color:var(--ink-soft);margin-top:6px;line-height:1.45;}
+  .hero-proof a{color:var(--accent-deep);text-decoration:none;border-bottom:1px solid var(--line);}
+  .hero-proof a:hover{border-bottom-color:var(--accent);}
+  @media(max-width:640px){.hero-proof{gap:20px 28px;}.hero-proof .hp-n{font-size:20px;}}
   .btn{
     display:inline-flex;align-items:center;gap:8px;
     padding:13px 22px;border-radius:7px;text-decoration:none;font-weight:600;font-size:15px;
@@ -355,6 +368,21 @@
         <a class="btn btn-primary" href="#contact">Book a strategy sprint call</a>
         <a class="btn btn-ghost" href="#work">See the proof →</a>
       </div>
+
+      <div class="hero-proof">
+        <div class="hp">
+          <div class="hp-n">594,053</div>
+          <div class="hp-l">IRS filings parsed into <a href="/live-projects/funder-standing/">a working tool</a>, not a slide</div>
+        </div>
+        <div class="hp">
+          <div class="hp-n">118</div>
+          <div class="hp-l">foundation pages published, each <a href="/foundations/">citing its source line</a></div>
+        </div>
+        <div class="hp">
+          <div class="hp-n">4</div>
+          <div class="hp-l">defects my own checks caught — <a href="/notes/what-verification-caught/">written up in full</a></div>
+        </div>
+      </div>
     </div>
 
     <!-- SIGNATURE: verdict ticker -->
@@ -431,7 +459,7 @@
               <li>Tests that can stop a release, rather than a review written once it is already live</li>
             </ul>
           </div>
-          <p class="proof"><a href="/foundations/">See it refuse to answer →</a><span>Funder Standing shows no number when its matching falls below 85%, and says which condition failed instead.</span></p>
+          <p class="proof"><a href="/notes/what-verification-caught/">Read what my own checks caught →</a><span>Four defects in a live product, three invisible in every summary statistic — and the check still outstanding.</span></p>
           <p class="fit"><b>For:</b> orgs whose sprint said "build" — or who have a stalled AI project that needs governance.</p>
           <div class="handoff"><b>→ Feeds stage 03:</b> the habit of testing before release is what your team keeps.</div>
         </article>
