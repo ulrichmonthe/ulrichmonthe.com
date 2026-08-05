@@ -158,6 +158,8 @@
     }
     @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
   </style>
+<script defer src="https://cloud.umami.is/script.js" data-website-id="86c99d21-f829-492f-b06e-4428c6a72181"></script>
+<script defer src="/scripts/track.js"></script>
 </head>
 <body>
   <div class="wrap">
@@ -206,9 +208,8 @@
       <h2>Screen a set of funders</h2>
       <p>
         Filter the list, open any row for the evidence behind the figure, and
-        add rows to a screen you can export. Nothing is stored on a server and
-        there is no account.
-      </p>
+        add rows to a screen you can export. Nothing you build here is stored on a server and there is no account. A cookieless
+        analytics tool counts which features get used — never which funders you screen.</p>
 
       <div class="toolbar" style="margin-top:18px">
         <input id="q" type="search" placeholder="Search by name or state…" aria-label="Search foundations">
@@ -455,6 +456,7 @@
       'bookmark it, or send the link to whoever asks why a funder is not on the list.</div>';
 
     document.getElementById('copylink').onclick = function () {
+      if (window.track) track('Copied the screen link', { funders: window.trackSize ? trackSize(SEL.length) : '' });
       var btn = this, url = shareUrl();
       var done = function () { btn.textContent = 'Link copied'; setTimeout(function () { btn.textContent = 'Copy link to this screen'; }, 2200); };
       if (navigator.clipboard) navigator.clipboard.writeText(url).then(done, done);
@@ -475,6 +477,7 @@
                 'IRS Form 990-PF Part XV, grants paid'
         ].map(function (v) { return '"' + String(v).replace(/"/g, '""') + '"'; }).join(',');
       }));
+      if (window.track) track('Exported the screen', { format: 'CSV', funders: window.trackSize ? trackSize(picked.length) : '' });
       var blob = new Blob([lines.join('\n')], { type: 'text/csv' });
       var a = document.createElement('a');
       a.href = URL.createObjectURL(blob);
@@ -482,7 +485,10 @@
       a.click();
       URL.revokeObjectURL(a.href);
     };
-    document.getElementById('printit').onclick = function () { window.print(); };
+    document.getElementById('printit').onclick = function () {
+      if (window.track) track('Exported the screen', { format: 'print or PDF', funders: window.trackSize ? trackSize(picked.length) : '' });
+      window.print();
+    };
     document.getElementById('clear').onclick = function () {
       SEL = []; save(); render(); renderScreen();
     };
@@ -531,7 +537,8 @@
       var ein = add.getAttribute('data-add');
       var i = SEL.indexOf(ein);
       if (i > -1) { SEL.splice(i, 1); add.removeAttribute('data-on'); add.textContent = 'Add to screen'; }
-      else { SEL.push(ein); add.setAttribute('data-on', '1'); add.textContent = 'On your screen'; }
+      else { SEL.push(ein); add.setAttribute('data-on', '1'); add.textContent = 'On your screen';
+             if (window.track) track('Added a funder to the screen', { funders_on_screen: window.trackSize ? trackSize(SEL.length) : '' }); }
       save(); renderScreen();
       return;
     }
@@ -540,6 +547,10 @@
     var entry = btn.closest('.entry');
     var open = entry.classList.toggle('open');
     btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    if (open && window.track) {
+      var f0 = (DATA && DATA.foundations || []).filter(function (x) { return x.ein === entry.dataset.ein; })[0];
+      track('Opened the evidence for a funder', { verdict: f0 ? f0.status_band : 'unknown' });
+    }
   });
 
   Array.prototype.forEach.call(document.querySelectorAll('.chip'), function (c) {
@@ -568,6 +579,7 @@
       else miss.push(line);
     });
     save(); render(); renderScreen();
+    if (window.track) track('Pasted a list of funders', { pasted: window.trackSize ? trackSize(lines.length) : '', matched: window.trackSize ? trackSize(hit) : '' });
     msg.textContent = hit + ' matched' + (miss.length ? ' · not in this cohort: ' + miss.slice(0, 3).join(', ') + (miss.length > 3 ? '…' : '') : '');
   });
 
@@ -583,7 +595,10 @@
       // A link beats whatever is on the device: someone arriving from a
       // shared screen should see that screen, not their own.
       var fromUrl = (new URL(window.location.href)).searchParams.get('s');
-      if (fromUrl) SEL = fromUrl.split(',').map(function (x) { return x.trim(); }).filter(Boolean);
+      if (fromUrl) {
+        SEL = fromUrl.split(',').map(function (x) { return x.trim(); }).filter(Boolean);
+        if (window.track) track('Arrived on a shared screen', { funders: window.trackSize ? trackSize(SEL.length) : '' });
+      }
       SEL = SEL.filter(function (e) {
         return d.foundations.some(function (f) { return f.ein === e; });
       });

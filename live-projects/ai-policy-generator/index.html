@@ -134,6 +134,8 @@
     .cta a { color: var(--accent-soft); text-decoration: underline; text-underline-offset: 2px; }
     @media (max-width: 620px) { .cta { padding: 26px 22px; } }
   </style>
+<script defer src="https://cloud.umami.is/script.js" data-website-id="86c99d21-f829-492f-b06e-4428c6a72181"></script>
+<script defer src="/scripts/track.js"></script>
 </head>
 <body>
   <div class="wrap">
@@ -163,7 +165,9 @@
       <div class="privacy-note">
         <strong>Your answers stay in your browser.</strong> The form, the analysis, and the
         policy are generated entirely on this page — nothing you type is sent to a server
-        unless you optionally request the board packet by email. This tool provides general
+        unless you optionally request the board packet by email. I use a cookieless analytics
+        tool that counts which steps are reached and which sector you selected — never your
+        answers, your organization's name, or anything you type. This tool provides general
         information, not legal advice; have counsel review before adoption where possible.
       </div>
     </header>
@@ -334,8 +338,13 @@
       (stepIndex >= steps().length - 1 ? 'See my analysis →' : 'Continue →') + '</button></div>';
   }
 
+  var _started = false;
   function renderStep() {
     var list = steps();
+    if (!_started && stepIndex > 0 && window.track) {
+      _started = true;
+      track('Started the policy questions', {});
+    }
     if (stepIndex >= list.length) return renderAnalysis();
     var st = list[stepIndex];
     stage.innerHTML =
@@ -420,8 +429,13 @@
     return { score: score, tier: tier, gaps: gaps, regimes: regimes };
   }
 
+  var _seenAnalysis = false;
   function renderAnalysis() {
     var an = analyze();
+    if (!_seenAnalysis && window.track) {
+      _seenAnalysis = true;
+      track('Saw their AI risk profile', { risk: an.tier, gaps: String(an.gaps.length), rules_in_play: String(an.regimes.length) });
+    }
     var h = '<div class="tier-banner ' + an.tier + '"><div class="t">Your AI risk profile</div><div class="v">' +
       an.tier + ' · ' + an.regimes.length + ' rule ' + (an.regimes.length === 1 ? 'set' : 'sets') + ' in play · ' +
       an.gaps.length + ' gap' + (an.gaps.length === 1 ? '' : 's') + ' flagged</div></div>';
@@ -477,7 +491,12 @@
 
   /* ---------- outputs ---------- */
   var currentTab = 'policy';
+  var _seenPolicy = false;
   function renderOutputs(an) {
+    if (!_seenPolicy && window.track) {
+      _seenPolicy = true;
+      track('Generated their AI policy', { sector: A.subsector || 'not given', depth: A.depth || '', stance: A.posture || '' });
+    }
     var sel = selectClauses(an);
     var today = new Date().toISOString().slice(0, 10);
     var stamp = 'Generated ' + today + ' · Library v' + LIB.library_version + ' · ' + sel.length + ' clauses · ' + esc(A.depth) + ' depth, ' + esc(A.posture) + ' stance';
