@@ -251,6 +251,8 @@
     footer.site a { color: var(--accent-deep); text-decoration: none; }
     @media (max-width: 680px) { .cols { grid-template-columns: 1fr; } .panel { padding: 22px 20px; } nav ul { gap: 18px; } }
   </style>
+<script defer src="https://cloud.umami.is/script.js" data-website-id="86c99d21-f829-492f-b06e-4428c6a72181"></script>
+<script defer src="/scripts/track.js"></script>
 </head>
 <body>
   <div class="wrap">
@@ -299,6 +301,7 @@
       </div>
       <div id="result" aria-live="polite"></div>
       <div class="histbar" id="histbar"></div>
+      <p class="hint" style="margin-top:10px;font-size:13px;color:var(--ink-soft)">Your recent checks are kept on this device only. A cookieless analytics tool counts how the checker is used — never which organizations you look up.</p>
     </div>
 
     <section id="batch">
@@ -537,6 +540,7 @@
       });
       // The batch box is the qualification signal the whole conversion model
       // rests on, and nothing surfaces it to someone checking one at a time.
+      if (h.length === 3 && window.track) track('Checked three one at a time', {});
       if (h.length >= 3 && !document.getElementById('batchnudge')) {
         var n = document.createElement('div');
         n.id = 'batchnudge';
@@ -548,6 +552,9 @@
     }
 
     function renderCard(card, conf) {
+      try {
+        if (window.track) track('Checked one nonprofit', {});
+      } catch (e) {}
       try {
         var _n = (card && (card.name || (card.org && card.org.name))) || '';
         var _e = (card && (card.ein || (card.org && card.org.ein))) || '';
