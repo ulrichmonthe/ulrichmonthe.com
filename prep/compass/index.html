@@ -1,0 +1,612 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Compass Interview Prep — Markita Morris-Louis, CEO</title>
+<link rel="icon" type="image/svg+xml" href="../../favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Instrument+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#F5F1E8;--paper-deep:#EDE7D9;--ink:#1C1A17;--ink-soft:#5B554C;
+  --accent:#A8763E;--accent-deep:#8A5F30;--accent-darker:#714C26;
+  --green:#3E6B3A;--red:#9A4A32;--amber:#8A5F30;
+  --line:#E2DBCB;--card:#FBF9F3;
+  --serif:'Newsreader',Georgia,serif;--sans:'Instrument Sans',system-ui,sans-serif;--mono:'IBM Plex Mono',ui-monospace,monospace;
+  --maxw:960px;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:76px}
+body{background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.65;-webkit-font-smoothing:antialiased}
+a{color:var(--accent-deep)}
+.wrap{max-width:var(--maxw);margin:0 auto;padding:0 24px}
+::selection{background:var(--accent);color:var(--paper)}
+
+header{position:sticky;top:0;z-index:50;background:color-mix(in srgb,var(--paper) 90%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.nav{display:flex;align-items:center;justify-content:space-between;height:60px;max-width:var(--maxw);margin:0 auto;padding:0 24px;gap:16px}
+.brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--ink);font-weight:600;font-size:14px;white-space:nowrap}
+.brand .mark{width:28px;height:28px;border-radius:6px;background:var(--accent);color:var(--paper);display:grid;place-items:center;font-family:var(--serif);font-size:14px;font-weight:600}
+.nav-links{display:flex;gap:14px;font-size:13px;font-weight:500;color:var(--ink-soft);overflow-x:auto;scrollbar-width:none}
+.nav-links::-webkit-scrollbar{display:none}
+.nav-links a{text-decoration:none;color:var(--ink-soft);white-space:nowrap}
+.nav-links a:hover{color:var(--accent-deep)}
+
+.hero{padding:52px 0 8px}
+.kicker{font-family:var(--mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent-deep)}
+h1{font-family:var(--serif);font-size:clamp(30px,4.6vw,46px);font-weight:500;line-height:1.12;letter-spacing:-.015em;margin:12px 0 16px}
+.lede{font-size:18px;color:var(--ink-soft);max-width:68ch}
+.meta-chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:20px}
+.chip{font-family:var(--mono);font-size:12.5px;background:var(--card);border:1px solid var(--line);border-radius:100px;padding:6px 14px;color:var(--ink-soft)}
+.chip b{color:var(--ink);font-weight:600}
+.private{margin-top:18px;font-size:13px;color:var(--red);font-family:var(--mono)}
+
+section{padding:52px 0 0}
+h2{font-family:var(--serif);font-size:29px;font-weight:500;line-height:1.2;margin-bottom:6px}
+.h2-sub{font-size:15.5px;color:var(--ink-soft);margin-bottom:22px;max-width:70ch}
+h3{font-family:var(--serif);font-size:20px;font-weight:600;margin:28px 0 10px}
+p{color:var(--ink-soft);max-width:72ch}
+p+p{margin-top:10px}
+p b,li b{color:var(--ink)}
+ul.plain{list-style:none}
+section .num{font-family:var(--mono);font-size:12px;color:var(--accent);letter-spacing:.08em;text-transform:uppercase;display:block;margin-bottom:6px}
+
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:14px;margin-top:18px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:20px 22px}
+.card h4{font-family:var(--serif);font-size:17.5px;font-weight:600;margin-bottom:8px;line-height:1.3}
+.card p{font-size:14.5px}
+.card .tag{font-family:var(--mono);font-size:11px;letter-spacing:.07em;text-transform:uppercase;color:var(--accent-deep);display:block;margin-bottom:8px}
+
+.brief{counter-reset:brief;margin-top:18px;display:grid;gap:12px}
+.brief .item{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:0 10px 10px 0;padding:18px 22px;display:flex;gap:18px;align-items:flex-start}
+.brief .n{font-family:var(--serif);font-size:26px;color:var(--accent);font-weight:500;line-height:1.1;min-width:26px}
+.brief h4{font-family:var(--serif);font-size:18px;font-weight:600;margin-bottom:5px}
+.brief p{font-size:14.8px}
+
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:16px;margin:20px 0 6px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:20px 0}
+.stat .n{font-family:var(--serif);font-size:26px;font-weight:500;line-height:1.1}
+.stat .l{font-size:12.5px;color:var(--ink-soft);margin-top:4px;line-height:1.4}
+
+blockquote{border-left:3px solid var(--accent);padding:6px 0 6px 20px;margin:16px 0;font-family:var(--serif);font-size:18.5px;font-style:italic;color:var(--ink);max-width:64ch;line-height:1.5}
+blockquote .who{display:block;font-family:var(--mono);font-style:normal;font-size:12px;color:var(--ink-soft);margin-top:8px}
+
+.timeline{margin-top:20px;border-left:2px solid var(--line);padding-left:26px;display:grid;gap:18px}
+.tl{position:relative}
+.tl::before{content:"";position:absolute;left:-32.5px;top:7px;width:11px;height:11px;border-radius:50%;background:var(--accent);border:2px solid var(--paper)}
+.tl.red::before{background:var(--red)}
+.tl.green::before{background:var(--green)}
+.tl .d{font-family:var(--mono);font-size:12px;color:var(--accent-deep);letter-spacing:.04em}
+.tl h4{font-family:var(--serif);font-size:17px;font-weight:600;margin:2px 0 3px}
+.tl p{font-size:14.5px}
+
+table{width:100%;border-collapse:collapse;font-size:14px;margin-top:14px}
+th{text-align:left;font-family:var(--mono);font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-soft);border-bottom:2px solid var(--line);padding:8px 12px 8px 0}
+td{border-bottom:1px solid var(--line);padding:10px 12px 10px 0;color:var(--ink-soft);vertical-align:top}
+td:first-child{color:var(--ink);font-weight:600}
+.tablewrap{overflow-x:auto}
+
+details{background:var(--card);border:1px solid var(--line);border-radius:10px;margin-top:10px}
+details summary{cursor:pointer;padding:15px 20px;font-weight:600;font-size:15.5px;list-style:none;display:flex;gap:12px;align-items:baseline}
+details summary::-webkit-details-marker{display:none}
+details summary::before{content:"+";font-family:var(--mono);color:var(--accent);font-size:16px;flex-shrink:0}
+details[open] summary::before{content:"–"}
+details .body{padding:0 20px 18px 44px;font-size:14.5px;color:var(--ink-soft)}
+details .body ul{padding-left:18px;margin-top:6px}
+details .body li{margin-top:5px}
+details .body li::marker{color:var(--accent)}
+.qcat{font-family:var(--mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent-deep);margin:26px 0 4px}
+
+.notice{background:var(--paper-deep);border-radius:10px;padding:18px 22px;margin-top:16px;font-size:14.5px;color:var(--ink-soft)}
+.notice b{color:var(--ink)}
+.warn{border-left:4px solid var(--red);border-radius:0 10px 10px 0}
+.good{border-left:4px solid var(--green);border-radius:0 10px 10px 0}
+
+.twocol{display:grid;grid-template-columns:1fr 1fr;gap:22px;margin-top:16px}
+@media(max-width:760px){.twocol{grid-template-columns:1fr}}
+
+.glossary{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
+.glossary span{font-size:13.5px;background:var(--card);border:1px solid var(--line);border-radius:100px;padding:6px 14px;color:var(--ink)}
+
+.checklist{margin-top:14px;display:grid;gap:8px}
+.checklist label{display:flex;gap:12px;align-items:flex-start;background:var(--card);border:1px solid var(--line);border-radius:8px;padding:12px 16px;font-size:14.5px;color:var(--ink-soft);cursor:pointer}
+.checklist input{margin-top:4px;accent-color:var(--accent-deep)}
+.checklist label:has(input:checked){opacity:.55;text-decoration:line-through}
+
+.case{border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--card)}
+.case .head{padding:12px 20px;font-weight:600;font-size:15px;color:#fff}
+.case.bad .head{background:var(--red)}
+.case.good2 .head{background:var(--green)}
+.case .body2{padding:14px 20px 18px;font-size:14px;color:var(--ink-soft)}
+.case .body2 b{color:var(--ink)}
+.cases{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px;margin-top:16px}
+
+footer{margin-top:64px;border-top:1px solid var(--line);padding:26px 0 48px;font-size:13px;color:var(--ink-soft)}
+footer .wrap{display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px}
+.src{font-size:12.5px;color:#9a927f;margin-top:8px;font-family:var(--mono)}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="nav">
+    <a class="brand" href="#top"><span class="mark">C</span>Compass Prep</a>
+    <nav class="nav-links">
+      <a href="#brief">Brief</a>
+      <a href="#compass">Compass</a>
+      <a href="#moment">The Moment</a>
+      <a href="#markita">Markita</a>
+      <a href="#fit">Your Fit</a>
+      <a href="#landscape">Landscape</a>
+      <a href="#questions">Questions</a>
+      <a href="#judgment">Judgment</a>
+      <a href="#askher">Ask Her</a>
+      <a href="#homework">Homework</a>
+    </nav>
+  </div>
+</header>
+
+<main id="top">
+
+<div class="hero wrap">
+  <span class="kicker">Interview preparation · Executive in Residence — AI</span>
+  <h1>One hour with Markita Morris-Louis</h1>
+  <p class="lede">Zoom, 60 minutes, CEO only. Stated focus: <b>how you think about AI strategy, organizational adoption, and the judgment calls this role will ask you to make.</b> Last ten minutes are reserved for your questions — they are part of the evaluation, not a courtesy.</p>
+  <div class="meta-chips">
+    <span class="chip"><b>Role</b> — EIR, AI · 18–24 mo · C-suite tier · $175K</span>
+    <span class="chip"><b>Reports to</b> — CEO</span>
+    <span class="chip"><b>Format</b> — 50 min her agenda · 10 min yours</span>
+    <span class="chip"><b>Compiled</b> — Aug 6, 2026</span>
+  </div>
+  <p class="private">Private prep page — noindex, lives on a non-published branch. Do not merge to main.</p>
+</div>
+
+<!-- ============ 1. BRIEF ============ -->
+<section id="brief" class="wrap">
+  <span class="num">01 · The brief</span>
+  <h2>Five things that change how you should walk in</h2>
+  <p class="h2-sub">Everything below is fresh research (compiled Aug 6, 2026). These five findings materially update the application-stage picture.</p>
+
+  <div class="brief">
+    <div class="item">
+      <span class="n">1</span>
+      <div>
+        <h4>They are not AI-curious — they are already live.</h4>
+        <p>On <b>July 23, 2026</b>, TTEC Digital announced Compass as the <b>first live Salesforce customer worldwide on Agentforce Contact Center</b> — kickoff to production in six weeks. AI voice agents handle appointment scheduling, callbacks, routing to the right coach, and data entry, with AI-to-human handoffs. Compass estimates <b>~6,000 staff hours saved annually</b> across ~30 coaches averaging ~400 appointments/year. "Pilots underway" in the prospectus is this. Speak to it by name; ask what the first weeks taught them.</p>
+      </div>
+    </div>
+    <div class="item">
+      <span class="n">2</span>
+      <div>
+        <h4>The governing principle already has an internal author.</h4>
+        <p><b>George Reuter, Managing Director of Impact &amp; Innovation</b>, is the in-house tech champion. His public line: <i>"Everything we do starts with the relationship between a coach and a client… we aren't interested in AI that takes the coach out of the conversation."</i> The prospectus's "strengthen, not replace" principle is his institutionalized. Your job in the room: show you extend this philosophy with method (guardrails, evals, governance), not that you'd introduce it.</p>
+      </div>
+    </div>
+    <div class="item">
+      <span class="n">3</span>
+      <div>
+        <h4>A scaling cliff is the real reason this role exists.</h4>
+        <p>On <b>June 24, 2026</b> the Helping More Families Save Act passed inside the bipartisan 21st Century ROAD to Housing Act — HUD will pick up to 25 housing authorities to <b>auto-enroll up to 5,000 families</b> in opt-out FSS. Compass initiated that bill; it's the centerpiece of their 7-year, $72M strategic plan. Their Chicago "Build Your Nest" program is the largest opt-out test ever run — <b>zero families have opted out</b>. Enrollment is shifting from self-selection to default at scale while the FY26 and FY27 federal budget requests both <b>eliminated FSS coordinator funding</b>. Coach leverage isn't an efficiency play; it's survival math.</p>
+      </div>
+    </div>
+    <div class="item">
+      <span class="n">4</span>
+      <div>
+        <h4>Evidence discipline is the brand — and it's under live attack.</h4>
+        <p>HUD's national FSS randomized trial (18 PHAs) found <b>no significant earnings impacts</b>; Compass's Abt quasi-experimental studies show <b>+$6,300 earnings, +39 credit points, $6,999 net societal benefit per participant</b>. Shelterforce ran the defense in March 2026 using Compass as the counterexample. Expect measurement rigor to be the water they swim in — every AI claim you make should come with a measurement plan attached. An Abt-grade evaluation of AI-augmented coaching would be a <b>fundable first in the field</b>.</p>
+      </div>
+    </div>
+    <div class="item">
+      <span class="n">5</span>
+      <div>
+        <h4>Markita has no public AI position. She's hiring judgment, not a stack.</h4>
+        <p>Extensive search found <b>zero public AI statements</b> from her. She's a lawyer (NYU Root-Tilden-Kern scholar, ex-General Counsel), evidence-driven, and grew up in subsidized housing in North Philadelphia — she is proof-of-concept of Compass's own theory of change. Frame AI questions as exploration, land every answer on families and coaches, and never on technology. Her leadership vocabulary: <b>proximity, client voice, intuition and discernment, asset building as the norm</b>.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="notice good">
+    <b>Three cross-cutting rules for the hour</b> — (1) every answer ends on people or outcomes, never technology; (2) use their vocabulary — guardrails, no-fly zones, capability not dependence, people-process-trust; (3) own your gaps before they're found (finance/ops AI depth, board-title seniority) and bridge with method, don't stretch.
+  </div>
+</section>
+
+<!-- ============ 2. COMPASS ============ -->
+<section id="compass" class="wrap">
+  <span class="num">02 · The organization</span>
+  <h2>Compass Working Capital, cold</h2>
+  <p class="h2-sub">Founded 2005 in Boston by Sherry Riva, inspired by Michael Sherraden's <i>Assets and the Poor</i> — the thesis that poverty is a wealth problem, not just an income problem. Riva led it 17 years, hand-picked her successor, and still sits on the board (now also senior advisor to the Massachusetts Attorney General).</p>
+
+  <h3>The model in one breath</h3>
+  <p>HUD's Family Self-Sufficiency program (est. 1990) turns the rent formula into a savings engine: when a family in subsidized housing earns more, its ~30%-of-income rent rises — and FSS deposits that <b>increase</b> into an interest-bearing escrow account the family keeps, unrestricted, at graduation (~5 years). Compass co-administers FSS with housing authorities and multifamily owners: the housing partner runs escrow accounting; <b>Compass replaces referral-style case management with client-driven financial coaching</b> — credit, debt, goal-based planning — plus aspirational marketing that leads with families' dreams, not deficits.</p>
+
+  <div class="stats">
+    <div class="stat"><div class="n">5,000+</div><div class="l">households served as FSS administrator since 2010</div></div>
+    <div class="stat"><div class="n">$19M+</div><div class="l">escrow accumulated by families</div></div>
+    <div class="stat"><div class="n">~$10K</div><div class="l">average graduate escrow (prospectus: $8,500)</div></div>
+    <div class="stat"><div class="n">90%</div><div class="l">graduate with savings vs 23% of FSS grads nationally</div></div>
+    <div class="stat"><div class="n">3×</div><div class="l">national FSS graduation rate</div></div>
+    <div class="stat"><div class="n">+39 pts</div><div class="l">avg credit score gain (65% of enrollees improved)</div></div>
+  </div>
+
+  <div class="twocol">
+    <div>
+      <h3>Money &amp; muscle</h3>
+      <ul class="plain">
+        <li><p><b>FY2024 (Aug FYE): $17.6M revenue vs $9.1M expenses; $17M net assets.</b> The jump = multi-year strategic-plan commitments landing. They have a war chest, 4/4 Charity Navigator stars, and ~64 employees.</p></li>
+        <li><p><b>Funder stack:</b> Blue Meridian Partners (up to $30M unrestricted), Ballmer Group ($6M), Wells Fargo Foundation ($3.45M/3yr — first corporate gift to the strategic plan), JPMorganChase, MacArthur, DRK, GreenLight Fund (Philly + Chicago entries), Chicago Community Trust (LIHTC pilot).</p></li>
+        <li><p><b>Footprint:</b> 50+ sites, 3,000+ families/yr, 15 states + DC (prospectus figure; press said 13 + DC mid-2025). Offices in Boston + Philadelphia (8 Penn Center).</p></li>
+      </ul>
+    </div>
+    <div>
+      <h3>People you should know by name</h3>
+      <ul class="plain">
+        <li><p><b>George Reuter</b> — MD of Impact &amp; Innovation; owns the tech/AI agenda; led the Agentforce deployment. Your closest future collaborator.</p></li>
+        <li><p><b>Christy Garcia</b> — Chief Strategy &amp; Impact Officer. The prospectus says 90-day scoping happens with the MD of Impact &amp; Innovation — this is that orbit.</p></li>
+        <li><p><b>Moriah Garcia Nelson</b> (Chief Program Officer) · <b>McKinsey Alston</b> (CHRO) · <b>Jasmine Blakeney</b> (MD Ops) · <b>Isabelle Kallman</b> (Finance Dir).</p></li>
+        <li><p><b>Board:</b> Chair Precillia Redmond (Maeve Consulting), Thea James (Boston Medical Center), Meaghan McCarthy (Housing Partnership Network), Karen Wallace, Heather Wellington — plus Markita and founder Sherry Riva.</p></li>
+        <li><p><b>Ana</b> — Executive Operations Manager, your process contact.</p></li>
+      </ul>
+    </div>
+  </div>
+
+  <h3>Three lines of work (their theory of action)</h3>
+  <div class="cards">
+    <div class="card"><span class="tag">Direct service</span><h4>FSS coaching programs</h4><p>Co-administration with Boston, Cambridge, Lynn, Philadelphia, and Chicago housing authorities plus owners POAH, WinnCompanies, Related, Mercy Housing, The Caleb Group. Boston Housing Authority alone: 1,600+ families, $12M+ escrow — now the 3rd largest FSS program in the country.</p></div>
+    <div class="card"><span class="tag">Field-building</span><h4>Compass FSS Link</h4><p>Their TA arm since 2019: online platform, program materials, webinars, community — <b>2,400+ practitioners in nearly every state</b>. This is the obvious surface for initiative #2 (knowledge management) and a national distribution channel for anything you build.</p></div>
+    <div class="card"><span class="tag">Policy</span><h4>Federal + MA/PA advocacy</h4><p>Compass initiated the Reed–Britt opt-out bill that became law June 2026. Riva testified to House Financial Services (2017); Markita testified in Massachusetts (2024). "Housing assistance as a wealth-building platform" is the frame — never "welfare program."</p></div>
+  </div>
+</section>
+
+<!-- ============ 3. THE MOMENT ============ -->
+<section id="moment" class="wrap">
+  <span class="num">03 · Why now</span>
+  <h2>The 24 months that created this role</h2>
+  <p class="h2-sub">Read the timeline and the role explains itself: policy victory + auto-enrollment + funding threat + a successful first AI deployment = they need someone to turn one win into an operating capability.</p>
+
+  <div class="timeline">
+    <div class="tl"><span class="d">MAR 2024</span><h4>Opt-out FSS bill introduced</h4><p>Bipartisan Helping More Families Save Act (Sens. Reed D-RI &amp; Britt R-AL) — Compass initiated and advanced it.</p></div>
+    <div class="tl green"><span class="d">JUN 2025</span><h4>Chicago: "Build Your Nest" launches</h4><p>Chicago Housing Authority + GreenLight Fund ($600K). Largest test of automatic FSS enrollment ever. Seven months in: 884 families contacted, <b>zero opt-outs</b>.</p></div>
+    <div class="tl red"><span class="d">FY26–FY27</span><h4>Federal funding whiplash</h4><p>FSS funded at $141M in FY25, then the FY26 <i>and</i> FY27 budget requests eliminated it entirely (Congress restored FY26 at $125–156M). FY25 grant rounds funded renewals only — <b>no new FSS programs</b>. Efficiency and private-capital diversification stop being optional.</p></div>
+    <div class="tl"><span class="d">MAR 2026</span><h4>The evidence fight goes public</h4><p>HUD's national FSS RCT: null earnings results, 20% graduation. Shelterforce's rebuttal uses Compass — 3× graduation, real savings — as the proof that implementation quality is the variable.</p></div>
+    <div class="tl"><span class="d">APR 2026</span><h4>Stackwell partnership — Compass Capital Club</h4><p>75 FSS clients/alumni get robo-investing accounts + up to $2,000 seed capital each. Markita: "Ending asset poverty requires bold, layered strategies." First step into public capital markets.</p></div>
+    <div class="tl green"><span class="d">JUN 24, 2026</span><h4>Their bill becomes law</h4><p>Opt-out pilot passes inside the 21st Century ROAD to Housing Act: up to 25 PHAs, 5,000 auto-enrolled families, report to Congress. The strategic plan's centerpiece is now federal statute.</p></div>
+    <div class="tl"><span class="d">JUL 20, 2026</span><h4>Beyond Section 8: LIHTC savings pilot</h4><p>With POAH in Chicago: ~160 households earn up to $1,200/yr (on-time-rent rewards + coaching bonuses) — extending the escrow logic to LIHTC housing, where no FSS statute exists.</p></div>
+    <div class="tl green"><span class="d">JUL 23, 2026</span><h4>First live Agentforce Contact Center customer</h4><p>Six weeks to production with TTEC Digital. Voice AI for scheduling, routing, callbacks, data entry; ~6,000 staff hours/yr projected back to coaches. Two weeks old at interview time.</p></div>
+  </div>
+
+  <div class="notice">
+    <b>The synthesis you can say out loud:</b> "You've just won the policy change you designed, auto-enrollment works better than anyone expected, and federal coordinator funding is under threat — so every coach hour matters more than ever. You've proven you can ship AI fast with Agentforce. The open question is turning one deployment into an enterprise capability with governance, adoption, and internal capacity that outlast any vendor — and outlast me. That's how I read this role."
+  </div>
+</section>
+
+<!-- ============ 4. MARKITA ============ -->
+<section id="markita" class="wrap">
+  <span class="num">04 · The interviewer</span>
+  <h2>Markita Morris-Louis, Esq.</h2>
+  <p class="h2-sub">North Philadelphia native, raised in subsidized rental housing. First-ever student member of Philadelphia's Board of Education. Brown '98 (Africana Studies &amp; Anthropology), NYU Law '03 as a Root-Tilden-Kern public-interest scholar. She describes herself as "a daughter, wife, mother of Black sons, and mentor." She is the living case for Compass's theory of change and speaks about it openly.</p>
+
+  <div class="twocol">
+    <div>
+      <h3>The arc</h3>
+      <ul class="plain">
+        <li><p><b>~2004–2013</b> — Real estate attorney, Drinker Biddle &amp; Reath (Philadelphia); a dozen years across real estate law, economic justice, impact litigation.</p></li>
+        <li><p><b>2013–2018</b> — Clarifi: SVP Community Affairs &amp; General Counsel; ~20 counselors, 15,000 clients/yr; expanded Financial Empowerment Centers.</p></li>
+        <li><p><b>2019</b> — Joined Compass as founding Chief Strategy Officer — after first partnering with Compass <i>from the Philadelphia side</i> to bring FSS there. Partner before employee.</p></li>
+        <li><p><b>Jan 2022</b> — CEO, via deliberate planned succession from founder Sherry Riva (announced Sept 2021). Not a turnaround story.</p></li>
+        <li><p><b>Now</b> — Philadelphia-based leading a Boston-HQ national org (Zoom-native leadership). Boards: PA Housing Finance Agency, FHLBank Pittsburgh housing council (vice chair), PA IOLTA trustee, The Promise.</p></li>
+      </ul>
+    </div>
+    <div>
+      <h3>What she returns to</h3>
+      <blockquote>"Assets are a stronger predictor than income of financial well-being and economic mobility."<span class="who">— Econsult interview, 2021</span></blockquote>
+      <blockquote>"For every $1 men own, women own 32 cents; Black women 2 cents; Latina women 1 cent."<span class="who">— her go-to statistic</span></blockquote>
+      <blockquote>"Rules actually discourage and penalize savings, making it difficult for families to get ahead."<span class="who">— on housing &amp; welfare systems</span></blockquote>
+      <blockquote>"HUD's best-kept secret."<span class="who">— on FSS, NBC Boston, 2024</span></blockquote>
+      <blockquote>"Ending asset poverty requires bold, layered strategies."<span class="who">— Stackwell launch, Apr 2026</span></blockquote>
+    </div>
+  </div>
+
+  <h3>Leadership style signals</h3>
+  <div class="cards">
+    <div class="card"><span class="tag">Aug 2025 podcast</span><h4>"Leading with Intuition"</h4><p>Intuition and discernment as leadership competencies; self-trust; authenticity; <b>proximity</b> — staying close to the communities served. The single highest-yield 30 minutes of prep you can do.</p></div>
+    <div class="card"><span class="tag">CEP essay, late 2024</span><h4>"Main table, not a side table"</h4><p>She converted the Client Advisory Board into a <b>Program Committee of the actual Board of Directors</b>; coaches nominate clients for board seats annually. Client voice has been a guiding principle since 2018. Connect any co-design answer to this.</p></div>
+    <div class="card"><span class="tag">Generocity, 2018</span><h4>Non-linear careers</h4><p>"Career paths for women are often non-linear. And you have to be comfortable with that." Advises building a personal "board of directors." A residency-shaped role fits her worldview of careers.</p></div>
+  </div>
+
+  <h3>Watch-outs</h3>
+  <ul class="plain">
+    <li><p><b>No public AI stance exists.</b> Ask "how are you thinking about…" — never "I saw you said…" about AI. She hasn't.</p></li>
+    <li><p><b>Never say "welfare program."</b> Her frame is the inverse: housing assistance as a wealth-building platform; the rules that penalize saving are the problem.</p></li>
+    <li><p><b>Lawyer brain.</b> Ex-General Counsel + IOLTA trustee: expect precision on consent, privacy, data agreements. Your governance answers should be crisp enough for counsel.</p></li>
+    <li><p><b>Evidence + story, together.</b> She pairs hard numbers with client narrative in nearly every appearance. Mirror the pairing.</p></li>
+  </ul>
+
+  <h3>Her vocabulary — use it naturally</h3>
+  <div class="glossary">
+    <span>asset poverty</span><span>racial &amp; gender wealth divides</span><span>assets predict mobility better than income</span><span>putting rent to work</span><span>asset building as the norm, not the exception</span><span>benefits cliff</span><span>proximity</span><span>client voice</span><span>field-building</span><span>families with low incomes</span><span>bold, layered strategies</span>
+  </div>
+</section>
+
+<!-- ============ 5. FIT ============ -->
+<section id="fit" class="wrap">
+  <span class="num">05 · The case for you</span>
+  <h2>Why they need someone like you</h2>
+  <p class="h2-sub">The thesis from your application holds and the research strengthens it: most candidates are AI operators who are mission tourists, or mission people without deployment scars. You're credibly both — and the research shows exactly where each leg lands.</p>
+
+  <div class="tablewrap">
+  <table>
+    <tr><th>What they're grading</th><th>Your evidence</th><th>What the research adds</th></tr>
+    <tr><td>AI strategy &amp; deployment</td><td>5-month, funder-sanctioned BWDC AI sprint (50+ hrs user research); RAG over BigQuery Vector Search; genAI in Explore Data + Local Wealth Explorer</td><td>They shipped Agentforce in 6 weeks — they value speed-with-discipline. Your "what not to build" gate is the maturity they haven't formalized yet.</td></tr>
+    <tr><td>Responsible AI / governance</td><td>Braintrust LLM-as-judge eval pipelines, mandatory source citation, non-fabrication "gold standard" framework, bounded refusal</td><td>Sector context makes this a differentiator: 76% of nonprofits have no AI policy; NEDA/MyCity failures haunt this exact use case. A lawyer-CEO will hear eval gates as due diligence.</td></tr>
+    <tr><td>Change management &amp; adoption</td><td>6-month org-wide Notion + AI agents rollout; DAI: 5,000+ trained across 9 countries</td><td>Maps directly to initiative #2 — and to FSS Link's 2,400 practitioners, where internal knowledge systems become a national field product.</td></tr>
+    <tr><td>Mission alignment</td><td>BWDC, GlobalGiving, IFC, Catchafire — a decade of social-impact product</td><td>BWDC's racial-wealth-gap focus mirrors Compass's mission language nearly verbatim. This leg is effortless — spend your minutes elsewhere.</td></tr>
+  </table>
+  </div>
+
+  <h3>The four initiatives, re-read through the research</h3>
+  <div class="cards">
+    <div class="card"><span class="tag">Initiative 1 · consultant's lane</span><h4>Coach- &amp; client-facing AI</h4><p>A consultant owns program-delivery AI strategy (H2 2026), and Agentforce is already live at the contact-center edge. Your move: don't compete — define the <b>shared governance frame</b> so clients never experience two AI regimes, and feed guardrails into their lane. Beam's "Magic Notes" (46–63% admin-time reduction in UK social care) is the evidence that note-synthesis buys back coach presence.</p></div>
+    <div class="card"><span class="tag">Initiative 2 · your beachhead</span><h4>Knowledge management &amp; onboarding</h4><p>Your Notion story is this initiative already done once. Bonus insight: FSS Link means anything built internally has a <b>2,400-practitioner national distribution channel</b> — internal KM can become a field-facing product, which funders love.</p></div>
+    <div class="card"><span class="tag">Initiative 3 · fresh data</span><h4>Development &amp; communications</h4><p>Candid: only ~10% of foundations accept AI-drafted applications; 67% undecided. Position: AI drafts, humans own voice and facts, per-funder policy check, and propose a disclosure norm before being asked. Their FY24 fundraising surge means reporting volume is exploding.</p></div>
+    <div class="card"><span class="tag">Initiative 4 · thinnest — own it</span><h4>Finance &amp; operations</h4><p>Your thinnest leg. Bridge via DAI budget/forecasting/compliance scale, then commit to method: baseline first, expense categorization and variance-narrative drafting are low-risk category-(c) data, measurable in cycle-time. Don't stretch; say "this is where I'd learn their systems fastest."</p></div>
+  </div>
+
+  <h3>The two vulnerabilities, unchanged</h3>
+  <div class="twocol">
+    <div class="notice warn"><b>Seniority signal.</b> Title is Director; role is C-suite tier with board exposure. Play: establish executive <b>scope</b> — $2M budget, 21 staff, 5,000+ trained, Bloomberg-funder-facing. "Executive in Residence" framing is forgiving of exact title. Board gap: note you've prepared leaders for boards and briefed funders at board level; ask what her board needs (see Ask Her).</div>
+    <div class="notice warn"><b>Internal vs. external center of gravity.</b> Your work has been client/product-facing; this role's center is internal. The Notion rollout closes most of it. Never pitch a BWDC partnership (outside-in agenda + conflict optics) — BWDC is <i>field fluency you carry</i>; the portable asset is the gold-standard non-fabrication methodology.</div>
+  </div>
+</section>
+
+<!-- ============ 6. LANDSCAPE ============ -->
+<section id="landscape" class="wrap">
+  <span class="num">06 · The field</span>
+  <h2>Competitors, peers, and the AI money wave</h2>
+  <p class="h2-sub">Sharp positioning fact: <b>no other nonprofit scales FSS nationally as both direct administrator and intermediary.</b> Compass is the category creator. Its real competition is the status quo — 700 PHAs running referral-style FSS with ~20% graduation — and the question of who scales good practice to the 97% of eligible families FSS doesn't reach.</p>
+
+  <div class="stats">
+    <div class="stat"><div class="n">~700</div><div class="l">PHAs &amp; owners run FSS nationally</div></div>
+    <div class="stat"><div class="n">74K</div><div class="l">families served, of 2.2M+ eligible (~3%)</div></div>
+    <div class="stat"><div class="n">$141M</div><div class="l">FY25 FSS appropriation — twice proposed for elimination since</div></div>
+    <div class="stat"><div class="n">92% / 7%</div><div class="l">nonprofits using AI vs seeing major impact (2026)</div></div>
+    <div class="stat"><div class="n">76%</div><div class="l">of nonprofits have no AI policy</div></div>
+    <div class="stat"><div class="n">43%</div><div class="l">of consumers distrust AI for financial advice</div></div>
+  </div>
+
+  <h3>Peer map — who does what, and who's touched AI</h3>
+  <div class="tablewrap">
+  <table>
+    <tr><th>Org</th><th>Model</th><th>AI posture</th></tr>
+    <tr><td>SaverLife</td><td>Digital savings platform, 650K+ members</td><td><b>Most advanced peer:</b> AI "Navigator" financial guidance. Published lessons: judgment-free tone, deliberately not human-named, transparent about data. Cite it.</td></tr>
+    <tr><td>Change Machine</td><td>SaaS coaching platform (Salesforce), 800+ orgs</td><td>AI recommends vetted fintech products to <b>coaches</b> — nearest coach-copilot analog.</td></tr>
+    <tr><td>UpTogether</td><td>Unrestricted cash + community platform; $210M+ to 200K households</td><td>Platform-led; Gates grantee. No LLM deployment found.</td></tr>
+    <tr><td>LIFT</td><td>Parent coaching + quarterly cash, 4 cities</td><td>Closest coaching-model peer; no public AI.</td></tr>
+    <tr><td>Springboard To Opportunities</td><td>Resident services + Magnolia Mother's Trust guaranteed income</td><td>Same population (Black mothers in subsidized housing), different mechanism; no AI.</td></tr>
+    <tr><td>Prosperity Now / CFE Fund</td><td>Field network &amp; policy / municipal counseling centers</td><td>No notable AI. Field-building comparators for FSS Link.</td></tr>
+    <tr><td>Nan McKay / NAHRO</td><td>For-profit FSS training &amp; certification</td><td>The compliance-training incumbents Compass's FSS Link out-positions.</td></tr>
+  </table>
+  </div>
+
+  <h3>The playbook and the anti-playbook</h3>
+  <div class="cases">
+    <div class="case good2"><div class="head">Crisis Text Line — triage, not conversation</div><div class="body2">ML prioritizes highest-risk texters (~94% of high-risk served in &lt;5 min); humans do 100% of counseling. <b>Lesson:</b> AI allocates human attention; it doesn't substitute for it. Counter-lesson: the 2022 Loris.ai data-sharing scandal — consent-on-paper ≠ consent-in-spirit.</div></div>
+    <div class="case good2"><div class="head">Beam "Magic Notes" — UK social care</div><div class="body2">Meeting-to-case-notes genAI across ~85 UK councils; independent evals show 46–63% admin-time reduction and <i>better client engagement</i> reported by practitioners. <b>Lesson:</b> the strongest "strengthen the relationship" evidence anywhere — buy back coach presence.</div></div>
+    <div class="case bad"><div class="head">NEDA "Tessa" — the canonical failure</div><div class="body2">Eating-disorder helpline replaced unionized staff with a chatbot; vendor enabled generative responses <b>without the nonprofit's knowledge</b>; it gave dieting advice to eating-disorder sufferers. Pulled in days. <b>Lessons:</b> replacement framing is fatal; vendor change-control clauses are non-negotiable; monitor live outputs.</div></div>
+    <div class="case bad"><div class="head">NYC MyCity bot — wrong answers, real harm</div><div class="body2">Government genAI told landlords they could refuse Section 8 vouchers (illegal) and employers they could take tips. <b>Lesson:</b> generative answers about rights and eligibility for low-income families is the highest-harm category — vetted-source retrieval + human review, or don't automate.</div></div>
+    <div class="case bad"><div class="head">Benefits Data Trust — died of its own tech ambition</div><div class="body2">20-year-old benefits-access nonprofit; tech/AI spend grew to ~40% of expenses while revenue never covered delivery; closed Aug 2024 despite $20M from MacKenzie Scott. <b>Lesson:</b> an EIR proposing to build must show the cost model, not just the demo.</div></div>
+    <div class="case good2"><div class="head">Robin Hood AI Poverty Challenge winners</div><div class="body2">Beyond 12 (genAI college-success coaching), Legal Aid Society NYC (AI housing helpline), CodePath — $1M each. <b>Lesson:</b> "AI augments coaches" is now an actively funded category with named winners.</div></div>
+  </div>
+
+  <h3>The money wave (and why it matters to this role)</h3>
+  <p><b>NextLadder Ventures</b> (July 2025): $1B over 15 years from Ballmer Group, Gates Foundation, Stand Together, Valhalla, and John Overdeck — explicitly funding AI for frontline economic-mobility work, with <b>Anthropic as inaugural AI partner</b>. Note: <b>Ballmer already funds Compass with $6M.</b> Add Google.org's Generative AI Accelerator ($50M+ across cohorts), OpenAI's People-First AI Fund ($100M committed), and Robin Hood's challenge — a credible EIR should arrive able to help Compass <i>capture</i> this capital, not just spend it. That's a fundraising contribution the prospectus explicitly lists in the role.</p>
+</section>
+
+<!-- ============ 7. QUESTIONS ============ -->
+<section id="questions" class="wrap">
+  <span class="num">07 · The question bank</span>
+  <h2>What she's likely to ask — and where to land</h2>
+  <p class="h2-sub">Fifteen realistic questions across her three stated focus areas. Each note is a landing zone, not a script. Remember the failure mode on hypotheticals: reasoning aloud forever without landing the call. Reason briefly, then <b>land it</b>.</p>
+
+  <p class="qcat">AI Strategy</p>
+  <details><summary>"What would your first 90 days look like?"</summary><div class="body">
+    <ul>
+      <li>Listen first: ride along with coaches, sit with the Agentforce team, map data flows and pain points, inventory shadow AI use, meet the program-delivery consultant to fix decision rights.</li>
+      <li>Pressure-test the four initiatives against risk × readiness × value — expect the sequence to survive contact but the order of operations to change.</li>
+      <li>Ship one visible low-risk win (KM or funder reporting) inside the quarter; draft the governance baseline in parallel.</li>
+      <li>Mirror the prospectus: scoping happens with the MD of Impact &amp; Innovation. Do not arrive with a pre-baked plan or tool list.</li>
+    </ul>
+  </div></details>
+  <details><summary>"How do you decide where AI goes first across our four initiatives?"</summary><div class="body">
+    <ul>
+      <li>Sequence and criteria, not technology: start where data risk is low and time savings are provable (grants/reporting, onboarding KM, finance ops); client-adjacent AI sequences behind governance and consent architecture.</li>
+      <li>Cite the sector's 92%-adoption / 7%-impact gap: value comes from workflow redesign, not tool purchase.</li>
+      <li>Each phase validates before unlocking the next — your BWDC sprint's explicit build/no-build gate is the proof you actually operate this way.</li>
+    </ul>
+  </div></details>
+  <details><summary>"Our principle is AI strengthens, not replaces, the coach relationship. What does that mean operationally?"</summary><div class="body">
+    <ul>
+      <li>Make it testable: (1) does this give coaches more client-facing minutes? (2) does a named human stay accountable for every client-affecting output? (3) is there always a visible path to a person?</li>
+      <li>Evidence: Beam Magic Notes returned 46–63% of admin time to UK social workers <i>and</i> practitioners reported better engagement. Agentforce's 6,000 hours is Compass's own version — ask how they'll verify the hours actually flow back to families.</li>
+      <li>Contrast NEDA (replacement, ungoverned vendor) vs Crisis Text Line (triage that allocates human attention).</li>
+    </ul>
+  </div></details>
+  <details><summary>"How do you measure whether AI is working?"</summary><div class="body">
+    <ul>
+      <li>Baseline before deploying; then coach time reallocation, output quality (spot-audit AI-assisted notes), client trust signals, cycle times in dev/finance.</li>
+      <li>Speak their evaluation culture: Abt-grade rigor. Offer the ambition — the first rigorously evaluated AI-augmented financial coaching model in subsidized housing would be a fundable first.</li>
+      <li>Your Braintrust eval pipelines and LLM-as-judge gating are the concrete "I've done this" credential. Kill criteria defined upfront.</li>
+    </ul>
+  </div></details>
+  <details><summary>"A consultant already owns AI strategy for program delivery. How do you work with that?"</summary><div class="body">
+    <ul>
+      <li>Clarify decision rights in week one; EIR owns enterprise governance, data architecture, and initiatives 2–4; feeds requirements and guardrails into the consultant's lane.</li>
+      <li>One shared governance framework so staff and clients never experience two AI regimes. Name the seam risk out loud — naming it is the senior move.</li>
+      <li>Vendor management is in your mandate: their work should strengthen internal capability, not create dependence — same standard you hold yourself to.</li>
+    </ul>
+  </div></details>
+  <details><summary>"What's realistic for an organization our size, on a nonprofit budget?"</summary><div class="body">
+    <ul>
+      <li>Honest scoping: 2–3 durable wins plus an operating system for AI (policy, literacy, approved stack) — not a transformation program. Cite Benefits Data Trust as the cost-model cautionary tale.</li>
+      <li>Then the upside: their balance sheet is strong ($17M net assets), and the field's AI capital wave (NextLadder — backed by their own funder Ballmer — Google.org, OpenAI fund) means the work can be substantially funder-financed. Offer to help capture it.</li>
+    </ul>
+  </div></details>
+
+  <p class="qcat">Organizational adoption</p>
+  <details><summary>"Coaches may fear AI is a step toward replacing them. How do you handle that?"</summary><div class="body">
+    <ul>
+      <li>Name the fear directly — don't manage around it. Coaches co-design; first tools must remove their most-hated tasks (their words, discovered, not assumed).</li>
+      <li>Tell the Notion story with mechanics: resistance met → workflow discovery before design → role-specific training → the named skeptic who turned → the org runs on it today without you. Have the specific moment of resistance ready.</li>
+      <li>Connect to her CEP essay: co-design is "main table, not side table" applied to staff. Trust starts with what the tool <i>won't</i> do.</li>
+    </ul>
+  </div></details>
+  <details><summary>"Staff are already pasting things into ChatGPT. What do you do?"</summary><div class="body">
+    <ul>
+      <li>Channel, don't punish: 76% of nonprofits have no policy — this is normal, not a scandal. Prohibition just drives it underground.</li>
+      <li>Approved enterprise tools with data protections + a 2–4 page policy + role-specific training inside a quarter. The policy names red lines (client PII) and a named owner.</li>
+    </ul>
+  </div></details>
+  <details><summary>"How do you build capability that outlasts you? This role is designed to end."</summary><div class="body">
+    <ul>
+      <li>Exit plan from day one is in the prospectus — mirror it: internal champions and a community of practice, documentation as you go, every system with a named internal owner before it ships.</li>
+      <li>Evidence: DAI (5,000+ trained, 9 countries) and Notion (org runs on it today without you). "Capability, not dependence" is both their language and your track record.</li>
+    </ul>
+  </div></details>
+  <details><summary>"Tell me about an adoption effort that failed and what you learned."</summary><div class="body">
+    <ul>
+      <li>Show pattern fluency: pilot purgatory, tool-first thinking, no workflow change, champion leaves and it dies. Pick a real one and own your part in it.</li>
+      <li>The lesson that transfers: adoption is people-process-trust; the technology was never the binding constraint.</li>
+    </ul>
+  </div></details>
+
+  <p class="qcat">Judgment calls</p>
+  <details><summary>"Tell me about a time you decided NOT to ship something."</summary><div class="body">
+    <ul>
+      <li>Your prepared story: declining to ship because trust wasn't ready — the pressure, who disagreed, what you weighed, what happened after. This is their "comfortable saying no" qualification made flesh.</li>
+      <li>End on the principle: "a confident wrong answer doesn't cost a click — it lands on a family." (Your cover letter line; safe to reuse in the room.)</li>
+    </ul>
+  </div></details>
+  <details><summary>"A vendor pitches a client-facing financial-guidance chatbot. Walk me through your evaluation."</summary><div class="body">
+    <ul>
+      <li>Reason briefly, then land the call. Highest-harm category: generative answers about money, benefits, and eligibility for low-income families (MyCity told landlords they could refuse vouchers).</li>
+      <li>Demands: grounding in vetted content only, live output monitoring, contractual change control (Tessa's vendor flipped on generation without approval), visible human escalation, client co-design and consent.</li>
+      <li>Land it: "My default is not yet — coach-facing first, client-facing only when the guardrails have a track record. SaverLife's Navigator shows what careful looks like; I'd start where they started."</li>
+    </ul>
+  </div></details>
+  <details><summary>"What client data can go into an LLM?"</summary><div class="body">
+    <ul>
+      <li>The FSS-specific map (knowing this cold is a differentiator): (a) <b>EIV-derived income data — never</b>; federal access rules restrict it to PHA recertification purposes. (b) Client financial/coaching data — enterprise agreements with no-training commitments + consent, de-identified where possible, PHA data-sharing agreements reviewed first. (c) Internal knowledge, grant, finance content — low risk, move fast.</li>
+      <li>Note initiatives 2–4 live almost entirely in category (c) — that's the strategic reason they're the beachhead.</li>
+      <li>For a lawyer-CEO, add: consent at intake, revocable, no service penalty, plain language and Spanish; MA is a two-party consent state for any recorded coaching calls.</li>
+    </ul>
+  </div></details>
+  <details><summary>"AI flags a client as likely to disengage. Do we act on it?"</summary><div class="body">
+    <ul>
+      <li>Yes — with rules: human-in-the-loop, bias-audited, and used only to <b>offer more support, never to ration service</b>. Ask who bears the cost of a false positive, and design for that person.</li>
+      <li>Bridge to their world: re-engaging lapsed clients is exactly where Reuter said Agentforce's saved hours should go. Triage that allocates coach attention = Crisis Text Line pattern, the good one.</li>
+    </ul>
+  </div></details>
+  <details><summary>"What would make you tell me to stop an AI project?"</summary><div class="body">
+    <ul>
+      <li>Tripwires, stated in advance: any client-harm signal, consent gaps, vendor behavior change without approval, accuracy below the human baseline, coach trust collapsing, cost structure outrunning the funding model (Benefits Data Trust).</li>
+      <li>Willingness to kill your own projects is the judgment signal this role is screening for. Say you've done it; point to the sprint's no-build verdicts.</li>
+    </ul>
+  </div></details>
+</section>
+
+<!-- ============ 8. JUDGMENT ============ -->
+<section id="judgment" class="wrap">
+  <span class="num">08 · Your point of view</span>
+  <h2>No-fly zones and the governance spine</h2>
+  <p class="h2-sub">When she asks for your point of view on responsible AI at Compass, this is the developed answer — specific to their programs, their data, and their clients.</p>
+
+  <div class="twocol">
+    <div>
+      <h3>No-fly zones (say these unprompted)</h3>
+      <ul class="plain">
+        <li><p><b>No direct financial advice or eligibility decisions to clients from generative AI.</b> Escrow math, recertification, benefits questions — deterministic systems and humans only.</p></li>
+        <li><p><b>No client PII in any tool without consent architecture</b> — disclosed at intake, revocable, no service penalty, readable, in Spanish.</p></li>
+        <li><p><b>No EIV-derived income data in LLMs, period.</b> Federal restriction; PHA agreements govern everything adjacent.</p></li>
+        <li><p><b>No unreviewed funder-facing output.</b> Human owns voice, judgment, and every number. Never fabricate outcomes.</p></li>
+        <li><p><b>Augment coach prep and follow-up; never substitute the conversation.</b> The coach-client hour is the product.</p></li>
+      </ul>
+    </div>
+    <div>
+      <h3>The lightweight governance kit</h3>
+      <ul class="plain">
+        <li><p><b>A 2–4 page policy, not a binder:</b> approved-tool list, data classification with red lines, human-review-before-external rule, disclosure norms for clients and funders, one named owner, small cross-functional review group, quarterly refresh. NIST AI RMF as scaffolding, worn lightly.</p></li>
+        <li><p><b>Eval gates before scale:</b> your gold-standard non-fabrication framework and LLM-as-judge pipelines — models must cite sources and explain structural cause, or refuse. This travels from BWDC with no baggage.</p></li>
+        <li><p><b>Vendor clauses:</b> change control (Tessa), no-training commitments, data retention, exit portability. The consultant's deliverables are subject to the same gates.</p></li>
+        <li><p><b>Monitor live outputs, not just pilots.</b> Every public failure in this sector happened after launch, in production, unwatched.</p></li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 9. ASK HER ============ -->
+<section id="askher" class="wrap">
+  <span class="num">09 · The last ten minutes</span>
+  <h2>Questions worth asking a CEO</h2>
+  <p class="h2-sub">Pick four or five. The first three are recommended — each shows you've done the work and opens territory she'll want to talk about. The rest are strong substitutes depending on how the hour flows.</p>
+
+  <div class="brief">
+    <div class="item"><span class="n">★</span><div><h4>The Agentforce question (freshest, uniquely yours to ask)</h4><p>"You went live on Agentforce two weeks ago — first in the world on that product, six weeks to production. What did the first weeks teach you about how staff and clients actually react, and how does that shape your appetite and pace for the next initiatives?"</p></div></div>
+    <div class="item"><span class="n">★</span><div><h4>The boundary question</h4><p>"Where exactly does the program-delivery consultant's mandate end and this role's begin — and who arbitrates when an initiative touches both? Staff and families will experience one Compass, so I care about the seam."</p></div></div>
+    <div class="item"><span class="n">★</span><div><h4>The exit question (their favorite subject)</h4><p>"The role is designed to end. Walk me forward 24 months: what must be true at handoff — who owns the roadmap, who owns governance, what does the board expect to see — for you to call this residency a success?"</p></div></div>
+    <div class="item"><span class="n">4</span><div><h4>Data readiness</h4><p>"Before AI strategy: how clean and centralized is coaching and escrow data today — one Salesforce org, or spread across PHA systems and spreadsheets? And do your PHA data-sharing agreements contemplate AI processing yet?"</p></div></div>
+    <div class="item"><span class="n">5</span><div><h4>Coach voice</h4><p>"What have coaches themselves said about AI so far — enthusiasm, fear, quiet workarounds? Would you support coaches co-designing and holding real veto power over coach-facing tools?"</p></div></div>
+    <div class="item"><span class="n">6</span><div><h4>Client trust, beyond compliance</h4><p>"Your clients are mostly Black and Latina women inside a federal housing program — with earned reasons to be wary of both tech and government systems. Beyond consent forms, how do you want AI disclosure to <i>feel</i> to a family?"</p></div></div>
+    <div class="item"><span class="n">7</span><div><h4>Funding the work</h4><p>"Is this role and its tooling funded from unrestricted dollars or a capacity grant — and is there appetite to pursue the AI-for-economic-mobility capital that's moving right now, like NextLadder, given Ballmer's already at the table?"</p></div></div>
+    <div class="item"><span class="n">8</span><div><h4>Kill authority</h4><p>"If I conclude something on the AI roadmap shouldn't happen — including something the consultant proposes — what's the path? Do I have standing to say no, and to whom?"</p></div></div>
+  </div>
+</section>
+
+<!-- ============ 10. HOMEWORK ============ -->
+<section id="homework" class="wrap">
+  <span class="num">10 · Before the call</span>
+  <h2>Homework checklist</h2>
+  <p class="h2-sub">Roughly two hours of listening/reading, plus open items carried over from the application. Checkboxes persist only for this browser session — this is a working page.</p>
+
+  <h3>Listen &amp; read (highest yield first)</h3>
+  <div class="checklist">
+    <label><input type="checkbox"> <span><b>"Leading with Intuition"</b> — Our WellSpring podcast, Aug 27, 2025 (~30 min). Her current leadership self-description: intuition, discernment, proximity, authenticity.</span></label>
+    <label><input type="checkbox"> <span><b>CEP essay: "Centering Community Voice in Decision Making"</b> (late 2024, ~8 min). The "main table, not a side table" governance philosophy — quote it back when discussing co-design.</span></label>
+    <label><input type="checkbox"> <span><b>TTEC/Salesforce Agentforce announcements</b> (July 23, 2026) + Salesforce blog with George Reuter's quotes. Know the deployment's shape cold.</span></label>
+    <label><input type="checkbox"> <span><b>The Visible Voices podcast</b> (Mar 14, 2024) — her origin story and Compass's health/housing/equity frame, in her own words.</span></label>
+    <label><input type="checkbox"> <span><b>"How to Leverage Technology to Amplify Impact"</b> — Dec 27, 2022 YouTube episode. Her only extended tech-for-scale conversation on record.</span></label>
+    <label><input type="checkbox"> <span><b>Shelterforce, Mar 12, 2026</b> — the MDRC-vs-Compass evidence argument. Be able to state both sides fairly in two sentences.</span></label>
+    <label><input type="checkbox"> <span><b>ROAD to Housing Act press release</b> (June 24, 2026) — her quote, the 25-PHA / 5,000-family pilot shape.</span></label>
+  </div>
+
+  <h3>Rehearse (out loud, once each)</h3>
+  <div class="checklist">
+    <label><input type="checkbox"> <span>The <b>Notion adoption story with mechanics</b> — including the one named-skeptic moment of resistance and how it turned.</span></label>
+    <label><input type="checkbox"> <span>The <b>declined-to-ship story</b> — pressure, disagreement, what you weighed, outcome.</span></label>
+    <label><input type="checkbox"> <span>The <b>no-fly zones</b>, unprompted, in under 90 seconds.</span></label>
+    <label><input type="checkbox"> <span>The <b>90-day answer</b> ending on the four-initiative pressure-test, not a tool list.</span></label>
+    <label><input type="checkbox"> <span>The <b>five-month sprint</b> framing (funder-sanctioned, 50+ hours of user research, build/no-build verdicts) — not the old "two-week POC" version.</span></label>
+  </div>
+
+  <h3>Logistics carried over from the application</h3>
+  <div class="checklist">
+    <label><input type="checkbox"> <span>Resolve <b>Rich vs. Ulrich</b> — decide what name she'll hear and make it consistent everywhere, including your Zoom display name.</span></label>
+    <label><input type="checkbox"> <span>Confirm ulrichmonthe.com is presentation-ready — it's linked in the cover letter; assume she or Ana clicks it before the call.</span></label>
+    <label><input type="checkbox"> <span>Resume still needs the 5-month / 50+ hours sprint framing and the Notion metrics placeholders filled.</span></label>
+  </div>
+
+  <div class="notice warn" style="margin-top:26px">
+    <b>Accuracy notes for the room.</b> Figures marked from the prospectus (50+ sites, 15 states + DC, $8,500 avg savings) are the authority for the role; press/990 figures ($10K escrow, 13 states, staff counts) vary slightly — don't recite conflicting numbers at her, use hers. She has no public AI position, so attribute nothing to her on AI. Budget/staff estimates, vendor DPA terms, and MA recording-consent application were not independently verified — flagged in the source briefs.
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <div>Private interview prep · Compass Working Capital EIR–AI · compiled from four parallel research sweeps, Aug 6, 2026</div>
+    <div class="src">source briefs: <a href="research/01-compass-deep-dive.md">01</a> · <a href="research/02-markita-morris-louis.md">02</a> · <a href="research/03-competitive-landscape.md">03</a> · <a href="research/04-interview-angles.md">04</a> · not for distribution</div>
+  </div>
+</footer>
+
+</body>
+</html>
