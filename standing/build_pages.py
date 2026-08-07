@@ -87,6 +87,7 @@ HEAD = """<!doctype html>
   <script type="application/ld+json">{jsonld}</script>
   <script defer src="https://cloud.umami.is/script.js" data-website-id="86c99d21-f829-492f-b06e-4428c6a72181"></script>
   <script defer src="/scripts/track.js"></script>
+  <script defer src="/scripts/notify.js"></script>
   <style>
     :root {{
       --ink:#1c1a17; --ink-soft:#5b554c; --paper:#f5f1e8; --paper-raised:#fbf9f3;
