@@ -1,0 +1,345 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Compass Business Model — How Everybody Fits</title>
+<link rel="icon" type="image/svg+xml" href="../../favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Instrument+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#F5F1E8;--paper-deep:#EDE7D9;--ink:#1C1A17;--ink-soft:#5B554C;
+  --accent:#A8763E;--accent-deep:#8A5F30;--green:#3E6B3A;--red:#9A4A32;
+  --line:#E2DBCB;--card:#FBF9F3;
+  --serif:'Newsreader',Georgia,serif;--sans:'Instrument Sans',system-ui,sans-serif;--mono:'IBM Plex Mono',ui-monospace,monospace;
+  --maxw:1040px;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:76px}
+body{background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.65;-webkit-font-smoothing:antialiased}
+a{color:var(--accent-deep)}
+.wrap{max-width:var(--maxw);margin:0 auto;padding:0 24px}
+::selection{background:var(--accent);color:var(--paper)}
+header{position:sticky;top:0;z-index:50;background:color-mix(in srgb,var(--paper) 90%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.nav{display:flex;align-items:center;justify-content:space-between;height:60px;max-width:var(--maxw);margin:0 auto;padding:0 24px;gap:16px}
+.brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--ink);font-weight:600;font-size:14px;white-space:nowrap}
+.brand .mark{width:28px;height:28px;border-radius:6px;background:var(--accent);color:var(--paper);display:grid;place-items:center;font-family:var(--serif);font-size:14px;font-weight:600}
+.nav-links{display:flex;gap:14px;font-size:13px;font-weight:500}
+.nav-links a{text-decoration:none;color:var(--ink-soft);white-space:nowrap}
+.nav-links a:hover{color:var(--accent-deep)}
+.hero{padding:48px 0 6px}
+.kicker{font-family:var(--mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent-deep)}
+h1{font-family:var(--serif);font-size:clamp(28px,4.4vw,42px);font-weight:500;line-height:1.14;letter-spacing:-.015em;margin:12px 0 14px}
+.lede{font-size:17.5px;color:var(--ink-soft);max-width:70ch}
+section{padding:44px 0 0}
+h2{font-family:var(--serif);font-size:27px;font-weight:500;line-height:1.2;margin-bottom:6px}
+.h2-sub{font-size:15px;color:var(--ink-soft);margin-bottom:18px;max-width:72ch}
+p{color:var(--ink-soft);max-width:74ch}
+p+p{margin-top:10px}
+p b,li b{color:var(--ink)}
+.legend{display:flex;flex-wrap:wrap;gap:16px;margin:18px 0 8px;font-size:13px;color:var(--ink-soft)}
+.legend span{display:flex;align-items:center;gap:8px}
+.sw{display:inline-block;width:34px;height:0;border-top:3px solid var(--accent-deep);border-radius:2px}
+.sw.g{border-color:var(--green)}
+.sw.d{border-top-style:dashed;border-color:#5B554C}
+.diagramwrap{overflow-x:auto;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px 10px;margin-top:14px}
+.diagramwrap svg{display:block;min-width:900px;width:100%;height:auto}
+svg text{font-family:var(--sans)}
+.bt{font-size:15px;font-weight:600;fill:var(--ink)}
+.bl{font-size:12.5px;fill:var(--ink-soft)}
+.bs{font-size:11.5px;fill:var(--ink-soft)}
+.al{font-size:11px;fill:var(--accent-deep);font-weight:600}
+.alg{font-size:11px;fill:var(--green);font-weight:600}
+.ald{font-size:11px;fill:#5B554C;font-weight:600}
+.badge{font-family:var(--serif);font-size:14px;font-weight:600;fill:#F5F1E8}
+.walk{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:18px}
+@media(max-width:760px){.walk{grid-template-columns:1fr}}
+.wcard{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:18px 20px;display:flex;gap:14px}
+.wcard .n{flex-shrink:0;width:30px;height:30px;border-radius:50%;background:var(--accent);color:var(--paper);display:grid;place-items:center;font-family:var(--serif);font-weight:600;font-size:15px}
+.wcard h4{font-family:var(--serif);font-size:17px;font-weight:600;margin-bottom:5px}
+.wcard p{font-size:13.8px}
+.wcard .gg{margin-top:6px;font-size:13.3px}
+.wcard .gg b{font-family:var(--mono);font-size:11px;letter-spacing:.05em;text-transform:uppercase;color:var(--accent-deep)}
+.notice{background:var(--paper-deep);border-radius:10px;padding:18px 22px;margin-top:20px;font-size:14.5px;color:var(--ink-soft)}
+.notice b{color:var(--ink)}
+.good{border-left:4px solid var(--green);border-radius:0 10px 10px 0}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:16px;margin:18px 0 4px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0}
+.stat .n{font-family:var(--serif);font-size:25px;font-weight:500;line-height:1.1}
+.stat .l{font-size:12.5px;color:var(--ink-soft);margin-top:4px;line-height:1.4}
+footer{margin-top:60px;border-top:1px solid var(--line);padding:24px 0 46px;font-size:13px;color:var(--ink-soft)}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="nav">
+    <a class="brand" href="index.html"><span class="mark">C</span>Compass Prep</a>
+    <nav class="nav-links">
+      <a href="index.html#brief">Brief</a>
+      <a href="index.html#compass">Compass</a>
+      <a href="index.html#markita">Markita</a>
+      <a href="index.html#questions">Questions</a>
+      <a href="index.html#askher">Ask Her</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+<div class="hero wrap">
+  <span class="kicker">Interview prep · systems view</span>
+  <h1>The Compass business model — how everybody fits</h1>
+  <p class="lede">Compass is an <b>operator that sits between four groups</b>: government (which funds the rails), philanthropy (which funds the operator), housing partners (which hold the money mechanics), and families (who pay nothing and keep everything). Two more loops — evidence and field-building — turn one program into a national model.</p>
+  <div class="legend">
+    <span><i class="sw"></i> money flows</span>
+    <span><i class="sw g"></i> services &amp; value delivered</span>
+    <span><i class="sw d"></i> evidence &amp; influence</span>
+  </div>
+</div>
+
+<section class="wrap" style="padding-top:22px">
+  <div class="diagramwrap">
+  <svg viewBox="0 0 1000 1340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram of Compass Working Capital's business model showing money, service, and evidence flows among government, philanthropy, housing partners, Compass, families, the wider FSS field, evaluators, and new frontier partnerships">
+    <defs>
+      <marker id="mA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#8A5F30"/></marker>
+      <marker id="mG" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#3E6B3A"/></marker>
+      <marker id="mD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#5B554C"/></marker>
+    </defs>
+
+    <!-- ================= ROW 1 ================= -->
+    <!-- 1 HUD -->
+    <rect x="40" y="60" width="430" height="130" rx="10" fill="#FBF9F3" stroke="#E2DBCB"/>
+    <circle cx="64" cy="84" r="13" fill="#A8763E"/><text x="64" y="89" text-anchor="middle" class="badge">1</text>
+    <text x="86" y="89" class="bt">U.S. Government — HUD &amp; Congress</text>
+    <text x="60" y="116" class="bl">Funds the housing subsidies families live on</text>
+    <text x="60" y="136" class="bl">FSS coordinator grants: $141M FY25 — twice proposed for cut</text>
+    <text x="60" y="156" class="bl">Writes the rules (24 CFR 984) · opt-out pilot law, June 2026</text>
+
+    <!-- 2 Philanthropy -->
+    <rect x="530" y="60" width="430" height="130" rx="10" fill="#FBF9F3" stroke="#E2DBCB"/>
+    <circle cx="554" cy="84" r="13" fill="#A8763E"/><text x="554" y="89" text-anchor="middle" class="badge">2</text>
+    <text x="576" y="89" class="bt">Philanthropy &amp; impact capital</text>
+    <text x="550" y="116" class="bl">Blue Meridian (up to $30M) · Ballmer ($6M) · Wells Fargo ($3.45M)</text>
+    <text x="550" y="136" class="bl">JPMorganChase · MacArthur · DRK · GreenLight · Chicago Trust</text>
+    <text x="550" y="156" class="bl">≈78% of Compass revenue — FY24: $13.8M of $17.6M</text>
+
+    <!-- ================= ROW 2 ================= -->
+    <!-- 3 Housing partners -->
+    <rect x="150" y="300" width="310" height="170" rx="10" fill="#FBF9F3" stroke="#E2DBCB"/>
+    <circle cx="174" cy="324" r="13" fill="#A8763E"/><text x="174" y="329" text-anchor="middle" class="badge">3</text>
+    <text x="196" y="329" class="bt">Housing partners</text>
+    <text x="170" y="356" class="bl">PHAs: Boston · Cambridge · Lynn ·</text>
+    <text x="170" y="374" class="bl">Philadelphia · Chicago</text>
+    <text x="170" y="394" class="bl">Owners: POAH · Winn · Related · Mercy</text>
+    <text x="170" y="416" class="bl">Hold the rent formula; run the</text>
+    <text x="170" y="434" class="bl">FSS escrow accounts</text>
+    <text x="170" y="454" class="bl">Contract Compass for coaching</text>
+
+    <!-- 4 Compass hub -->
+    <rect x="500" y="260" width="460" height="330" rx="12" fill="#FBF9F3" stroke="#A8763E" stroke-width="2"/>
+    <circle cx="526" cy="286" r="13" fill="#A8763E"/><text x="526" y="291" text-anchor="middle" class="badge">4</text>
+    <text x="548" y="291" class="bt">COMPASS WORKING CAPITAL — the operator</text>
+    <rect x="520" y="310" width="420" height="56" rx="8" fill="#F5F1E8" stroke="#E2DBCB"/>
+    <text x="536" y="332" class="bl" style="font-weight:600;fill:#1C1A17">Engine 1 · Direct service</text>
+    <text x="536" y="352" class="bs">FSS coaching — 50+ sites · 3,000+ families/yr · 15 states + DC</text>
+    <rect x="520" y="376" width="420" height="56" rx="8" fill="#F5F1E8" stroke="#E2DBCB"/>
+    <text x="536" y="398" class="bl" style="font-weight:600;fill:#1C1A17">Engine 2 · Field-building</text>
+    <text x="536" y="418" class="bs">FSS Link: training &amp; TA for 2,400+ practitioners (fee revenue)</text>
+    <rect x="520" y="442" width="420" height="56" rx="8" fill="#F5F1E8" stroke="#E2DBCB"/>
+    <text x="536" y="464" class="bl" style="font-weight:600;fill:#1C1A17">Engine 3 · Policy</text>
+    <text x="536" y="484" class="bs">Wrote the opt-out FSS bill → federal law, June 2026 (+ MA, PA)</text>
+    <text x="520" y="526" class="bs">Enablers: ~30 coaches · Salesforce + Agentforce AI (live 7/2026)</text>
+    <text x="520" y="546" class="bs">· Abt evaluation partnership · ~64 staff · Boston + Philadelphia</text>
+    <text x="520" y="570" class="bs" style="font-weight:600">FY24: $17.6M revenue vs $9.1M expenses · $17M net assets</text>
+
+    <!-- ================= ROW 3: FAMILIES ================= -->
+    <rect x="150" y="660" width="700" height="240" rx="12" fill="#FBF9F3" stroke="#8A5F30" stroke-width="2"/>
+    <circle cx="176" cy="686" r="13" fill="#A8763E"/><text x="176" y="691" text-anchor="middle" class="badge">5</text>
+    <text x="198" y="691" class="bt">The family &amp; the escrow engine — the product everything serves</text>
+
+    <rect x="170" y="712" width="150" height="112" rx="8" fill="#F5F1E8" stroke="#E2DBCB"/>
+    <text x="182" y="734" class="bs" style="font-weight:600;fill:#1C1A17">Step 1</text>
+    <text x="182" y="754" class="bs">Family in subsidized</text>
+    <text x="182" y="770" class="bs">housing increases</text>
+    <text x="182" y="786" class="bs">its earnings</text>
+
+    <rect x="342" y="712" width="150" height="112" rx="8" fill="#F5F1E8" stroke="#E2DBCB"/>
+    <text x="354" y="734" class="bs" style="font-weight:600;fill:#1C1A17">Step 2</text>
+    <text x="354" y="754" class="bs">Rent (~30% of</text>
+    <text x="354" y="770" class="bs">income) rises with</text>
+    <text x="354" y="786" class="bs">those earnings</text>
+
+    <rect x="514" y="712" width="150" height="112" rx="8" fill="#F5F1E8" stroke="#E2DBCB"/>
+    <text x="526" y="734" class="bs" style="font-weight:600;fill:#1C1A17">Step 3</text>
+    <text x="526" y="754" class="bs">The increase goes</text>
+    <text x="526" y="770" class="bs">into an FSS escrow</text>
+    <text x="526" y="786" class="bs">account — not lost</text>
+    <text x="526" y="802" class="bs">to higher rent</text>
+
+    <rect x="686" y="712" width="150" height="112" rx="8" fill="#F5F1E8" stroke="#E2DBCB"/>
+    <text x="698" y="734" class="bs" style="font-weight:600;fill:#1C1A17">Step 4</text>
+    <text x="698" y="754" class="bs">Graduation (~5 yrs):</text>
+    <text x="698" y="770" class="bs">family keeps it all —</text>
+    <text x="698" y="786" class="bs">avg $8,500–$10,000,</text>
+    <text x="698" y="802" class="bs">unrestricted</text>
+
+    <path d="M320 768 L342 768" stroke="#8A5F30" stroke-width="2" marker-end="url(#mA)"/>
+    <path d="M492 768 L514 768" stroke="#8A5F30" stroke-width="2" marker-end="url(#mA)"/>
+    <path d="M664 768 L686 768" stroke="#8A5F30" stroke-width="2" marker-end="url(#mA)"/>
+
+    <rect x="170" y="842" width="666" height="38" rx="8" fill="#EDE7D9"/>
+    <text x="186" y="866" class="bs" style="fill:#3E6B3A;font-weight:600">Compass coaching throughout: credit +39 pts avg · $2,865 collections debt cleared · 90% graduate with savings (vs 23% nationally)</text>
+
+    <!-- ================= ROW 4 ================= -->
+    <!-- 6 Wider field -->
+    <rect x="40" y="980" width="420" height="150" rx="10" fill="#FBF9F3" stroke="#E2DBCB"/>
+    <circle cx="64" cy="1004" r="13" fill="#A8763E"/><text x="64" y="1009" text-anchor="middle" class="badge">6</text>
+    <text x="86" y="1009" class="bt">The wider FSS field</text>
+    <text x="60" y="1036" class="bl">~700 PHAs &amp; owners run FSS · 74,000 families served</text>
+    <text x="60" y="1056" class="bl">2.2M+ eligible families — only ~3% reached today</text>
+    <text x="60" y="1076" class="bl">Incumbent trainers: Nan McKay, NAHRO (compliance-style)</text>
+    <text x="60" y="1096" class="bl">Opt-out law: 25 PHAs, 5,000 auto-enrolled families next</text>
+
+    <!-- 7 Evidence -->
+    <rect x="540" y="980" width="420" height="150" rx="10" fill="#FBF9F3" stroke="#E2DBCB"/>
+    <circle cx="564" cy="1004" r="13" fill="#A8763E"/><text x="564" y="1009" text-anchor="middle" class="badge">7</text>
+    <text x="586" y="1009" class="bt">The evidence engine (Abt Global)</text>
+    <text x="560" y="1036" class="bl">Independent quasi-experimental studies since 2014</text>
+    <text x="560" y="1056" class="bl">+$6,300 earnings vs comparison · $6,999 net societal benefit</text>
+    <text x="560" y="1076" class="bl">3× national graduation rate · counters HUD's null national RCT</text>
+    <text x="560" y="1096" class="bl">The moat: evidence keeps funders and Congress on board</text>
+
+    <!-- 8 Frontiers -->
+    <rect x="150" y="1210" width="700" height="100" rx="10" fill="#FBF9F3" stroke="#E2DBCB"/>
+    <circle cx="176" cy="1234" r="13" fill="#A8763E"/><text x="176" y="1239" text-anchor="middle" class="badge">8</text>
+    <text x="198" y="1239" class="bt">New frontiers (2025–26) — diversifying beyond the FSS statute</text>
+    <text x="170" y="1266" class="bl">Stackwell Capital Club: investing accounts + up to $2,000 seed capital for graduates</text>
+    <text x="170" y="1286" class="bl">LIHTC savings pilot with POAH (no FSS statute needed) · Merit America (workforce)</text>
+
+    <!-- ================= FLOWS ================= -->
+    <!-- A: HUD -> Partners (money) -->
+    <path d="M300 190 L300 300" stroke="#8A5F30" stroke-width="2.5" marker-end="url(#mA)"/>
+    <text x="312" y="238" class="al">housing subsidy +</text>
+    <text x="312" y="253" class="al">FSS coordinator grants</text>
+
+    <!-- B: HUD -> Field (money, left margin) -->
+    <path d="M70 190 L70 980" stroke="#8A5F30" stroke-width="2.5" marker-end="url(#mA)"/>
+    <text x="58" y="700" class="al" transform="rotate(-90 58 700)">FSS grants fund ~700 local programs</text>
+
+    <!-- C: Compass policy -> HUD (dashed influence) -->
+    <path d="M505 470 C 462 470, 480 420, 480 370 L480 215" stroke="#5B554C" stroke-width="2" stroke-dasharray="6 5" fill="none" marker-end="url(#mD)"/>
+    <text x="472" y="240" class="ald" transform="rotate(-90 472 240)" text-anchor="end">policy advocacy → opt-out law</text>
+
+    <!-- D: Philanthropy -> Compass (money) -->
+    <path d="M745 190 L745 260" stroke="#8A5F30" stroke-width="2.5" marker-end="url(#mA)"/>
+    <text x="757" y="222" class="al">grants ≈78% of revenue</text>
+
+    <!-- E: Partners <-> Compass -->
+    <path d="M460 330 L500 330" stroke="#8A5F30" stroke-width="2" marker-end="url(#mA)"/>
+    <text x="480" y="320" class="al" text-anchor="middle">contracts $</text>
+    <path d="M500 360 L460 360" stroke="#3E6B3A" stroke-width="2" marker-end="url(#mG)"/>
+    <text x="480" y="378" class="alg" text-anchor="middle">coaching ops</text>
+
+    <!-- F: Compass -> Families (service) -->
+    <path d="M730 590 L730 660" stroke="#3E6B3A" stroke-width="2.5" marker-end="url(#mG)"/>
+    <text x="742" y="618" class="alg">coaching · enrollment ·</text>
+    <text x="742" y="633" class="alg">Agentforce contact center</text>
+
+    <!-- G: Partners -> Families (money/custody) -->
+    <path d="M300 470 L300 660" stroke="#8A5F30" stroke-width="2.5" marker-end="url(#mA)"/>
+    <text x="312" y="555" class="al">subsidized home +</text>
+    <text x="312" y="570" class="al">escrow custody</text>
+
+    <!-- H: FSS Link -> Field (service, left route) -->
+    <path d="M500 405 C 320 405, 100 460, 100 700 L100 980" stroke="#3E6B3A" stroke-width="2" fill="none" marker-end="url(#mG)"/>
+    <text x="88" y="880" class="alg" transform="rotate(-90 88 880)">FSS Link: training the field</text>
+
+    <!-- I: Families -> Evidence (dashed) -->
+    <path d="M700 900 C 700 940, 750 946, 750 980" stroke="#5B554C" stroke-width="2" stroke-dasharray="6 5" fill="none" marker-end="url(#mD)"/>
+    <text x="762" y="944" class="ald">outcomes data</text>
+
+    <!-- J: Evidence -> Philanthropy + HUD (dashed, right margin) -->
+    <path d="M958 986 C 990 960, 990 600, 990 320 C 990 245, 972 212, 948 192" stroke="#5B554C" stroke-width="2" stroke-dasharray="6 5" fill="none" marker-end="url(#mD)"/>
+    <text x="981" y="640" class="ald" transform="rotate(-90 981 640)">evidence de-risks funding &amp; policy</text>
+
+    <!-- K: Families -> Frontiers (service) -->
+    <path d="M500 900 L500 1210" stroke="#3E6B3A" stroke-width="2" marker-end="url(#mG)"/>
+    <text x="512" y="1160" class="alg">graduates' next step</text>
+  </svg>
+  </div>
+</section>
+
+<section class="wrap">
+  <h2>Walkthrough — what each party gives and gets</h2>
+  <p class="h2-sub">The numbers match the badges on the diagram. The model's elegance: <b>every party's incentive points the same direction</b> — toward the family's savings account.</p>
+  <div class="walk">
+    <div class="wcard"><div class="n">1</div><div>
+      <h4>Government — HUD &amp; Congress</h4>
+      <p class="gg"><b>Gives</b> — housing subsidies (the rails), FSS coordinator grants, and the statute itself; the June 2026 opt-out law is the newest gift.</p>
+      <p class="gg"><b>Gets</b> — a rare anti-poverty program with bipartisan appeal and (via Compass) actual results to point to. FSS costs almost nothing: the escrow is the family's own foregone rent increase.</p>
+      <p class="gg"><b>Tension</b> — the FY26 and FY27 budget requests both tried to zero out FSS funding. Washington is simultaneously Compass's platform and its biggest single risk.</p>
+    </div></div>
+    <div class="wcard"><div class="n">2</div><div>
+      <h4>Philanthropy &amp; impact capital</h4>
+      <p class="gg"><b>Gives</b> — ~78% of Compass's revenue: Blue Meridian (up to $30M unrestricted), Ballmer ($6M), Wells Fargo ($3.45M), JPMC, GreenLight, Chicago Community Trust.</p>
+      <p class="gg"><b>Gets</b> — an evidence-backed, scalable lever on the racial and gender wealth gap. Funders here buy <i>system change</i> (opt-out law, field adoption), not just direct service.</p>
+    </div></div>
+    <div class="wcard"><div class="n">3</div><div>
+      <h4>Housing partners — PHAs &amp; owners</h4>
+      <p class="gg"><b>Give</b> — access to residents, the rent formula, escrow accounting, and service contracts (part of Compass's ~19% earned revenue).</p>
+      <p class="gg"><b>Get</b> — a high-performing FSS program without building coaching capacity themselves, HUD compliance, and resident success stories. Boston Housing Authority's Compass-run FSS is now the 3rd largest in the nation.</p>
+    </div></div>
+    <div class="wcard"><div class="n">4</div><div>
+      <h4>Compass — the operator</h4>
+      <p class="gg"><b>Gives</b> — the three engines: coaching (direct service), FSS Link training (field-building), and policy design. Plus the enablers: ~30 coaches, Salesforce/Agentforce, Abt partnership.</p>
+      <p class="gg"><b>Gets</b> — philanthropic grants + partner contracts + FSS Link fees. Note the FY24 surplus ($17.6M in vs $9.1M out): multi-year commitments banked to fund the strategic plan — including this AI role.</p>
+    </div></div>
+    <div class="wcard"><div class="n">5</div><div>
+      <h4>Families — the client who pays nothing</h4>
+      <p class="gg"><b>Give</b> — only participation and trust. The program is free; the savings are their own foregone rent increases returned to them.</p>
+      <p class="gg"><b>Get</b> — a coach, a credit-and-debt turnaround (+39 pts, $2,865 collections cleared), and an average $8,500–$10,000 unrestricted at graduation. 90% women, 95% people of color, ~$25K starting income.</p>
+    </div></div>
+    <div class="wcard"><div class="n">6</div><div>
+      <h4>The wider FSS field</h4>
+      <p class="gg"><b>Gives</b> — FSS Link membership and TA fees; a national audience.</p>
+      <p class="gg"><b>Gets</b> — Compass's playbook. This is how Compass reaches beyond its 50+ sites toward the 97% of eligible families it will never serve directly. No other nonprofit plays both operator and national intermediary.</p>
+    </div></div>
+    <div class="wcard"><div class="n">7</div><div>
+      <h4>The evidence engine — Abt Global</h4>
+      <p class="gg"><b>Gives</b> — independent rigor: quasi-experimental studies since 2014.</p>
+      <p class="gg"><b>Gets / produces</b> — the moat. Evidence is what converts outcomes into philanthropy (2) and policy wins (1), and what defends the model against HUD's null national RCT. Nothing at Compass scales without surviving this loop.</p>
+    </div></div>
+    <div class="wcard"><div class="n">8</div><div>
+      <h4>New frontiers — de-risking the statute</h4>
+      <p class="gg"><b>What it is</b> — Stackwell (investing + seed capital for graduates), the POAH LIHTC savings pilot (escrow logic with <i>no federal statute needed</i>), Merit America (workforce).</p>
+      <p class="gg"><b>Why it matters</b> — if Washington ever kills FSS funding, these prove the asset-building model can run on private rails. "Bold, layered strategies" is Markita's own phrase for this.</p>
+    </div></div>
+  </div>
+
+  <div class="notice good">
+    <b>The flywheel, in one sentence for the interview:</b> government funds the rails, philanthropy funds the operator, the family's own earnings growth funds the savings — and outcomes become evidence, evidence unlocks funders and policy, policy expands the field, and the field multiplies outcomes. <b>The one constraint every loop shares is coach capacity</b> — roughly 30 coaches at ~400 appointments a year — which is exactly why an AI Executive in Residence exists: every hour AI returns to a coach compounds through the entire flywheel.
+  </div>
+
+  <h2 style="margin-top:44px">Where AI plugs into the model</h2>
+  <p class="h2-sub">Keyed to the diagram — useful when she asks how you'd sequence the four initiatives.</p>
+  <div class="stats">
+    <div class="stat"><div class="n">④</div><div class="l"><b>Live today:</b> Agentforce contact center — scheduling, routing, ~6,000 hrs/yr back to coaches</div></div>
+    <div class="stat"><div class="n">④→⑤</div><div class="l">Coach copilot: session prep, note synthesis, follow-up (consultant's lane — governance is yours)</div></div>
+    <div class="stat"><div class="n">④→⑥</div><div class="l">FSS Link knowledge products: internal KM becomes a field-facing asset for 2,400+ practitioners</div></div>
+    <div class="stat"><div class="n">②</div><div class="l">Grant prospecting, drafting, funder reporting — human owns voice and every number</div></div>
+    <div class="stat"><div class="n">④ ops</div><div class="l">Finance &amp; operations: AP workflows, variance narratives, audit prep — low-risk data, fast wins</div></div>
+    <div class="stat"><div class="n">⑤ ⚠</div><div class="l">Client-facing generative advice: the no-fly zone until governance has a track record</div></div>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="wrap">Private interview prep · diagram compiled from the Aug 6, 2026 research briefs · <a href="index.html">back to the prep site</a></div>
+</footer>
+
+</body>
+</html>
