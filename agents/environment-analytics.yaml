@@ -1,0 +1,32 @@
+# Sandbox for Index Watch.
+#
+# Separate from standing-agents on purpose. The Coverage Expander has no
+# business reaching Google or the analytics API, and Index Watch has no
+# business reaching the 990 corpus. Two environments cost nothing and keep
+# each agent's reachable surface to what its job needs.
+#
+#   ant beta:environments create < agents/environment-analytics.yaml --transform id -r
+
+name: standing-analytics
+description: >-
+  Read-only reporting agent. Reaches Google Search Console and the analytics
+  API; has no access to the filing corpus.
+
+config:
+  type: cloud
+  networking:
+    type: limited
+    allow_package_managers: false
+    allow_mcp_servers: true
+    allowed_hosts:
+      # Search Console: coverage, index inspection, search analytics.
+      - searchconsole.googleapis.com
+      - www.googleapis.com
+      # Token refresh for the service-account credential.
+      - oauth2.googleapis.com
+      # Umami Cloud — event and pageview counts.
+      - api.umami.is
+      - cloud.umami.is
+      # The site itself, so a URL reported as indexed can be checked for what
+      # it actually serves.
+      - ulrichmonthe.com
