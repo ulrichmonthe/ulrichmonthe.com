@@ -7,8 +7,14 @@ lives here, in git, rather than being clicked together in a console.
 | Agent | Cadence | Environment | Status |
 |---|---|---|---|
 | Coverage Expander | Mondays 06:00 ET | `standing-agents` | ready |
-| Index Watch | Mondays 08:00 ET | `standing-analytics` | **blocked** — needs Search Console |
+| Index Watch | Mondays 08:00 ET | `standing-analytics` | **created paused** — needs Search Console |
 | Evidence-Led Note Writer | 1st of the month, 07:00 ET | `standing-agents` | ready |
+
+`deploy.sh` creates Index Watch paused, because Search Console is not verified
+for the property yet — left active it would spend a session every Monday
+reporting that it cannot read anything. Unpause it after the prerequisites
+below; a manual run works while paused, which is how to test the credentials
+the moment they exist.
 
 ```
 ./agents/deploy.sh --dry-run     # print what would be sent
@@ -145,10 +151,15 @@ The agent is written and applies cleanly. It has nothing to read from yet.
    | `GSC_ACCESS_TOKEN` | Search Console API bearer token | `searchconsole.googleapis.com`, `www.googleapis.com`, `oauth2.googleapis.com` |
    | `UMAMI_API_KEY` | `x-umami-api-key` header | `api.umami.is`, `cloud.umami.is` |
 
-3. **Attach the vault** to the deployment (`vault_ids`), then unpause it.
+3. **Attach the vault** to the deployment (`vault_ids`), then unpause it:
 
-Until step 1 is done there is no coverage data to read, and the report would
-be two sentences saying so every week. Leave the deployment paused.
+   ```
+   ant beta:deployments unpause --deployment-id "$DEPLOY_INDEX_WATCH"
+   ```
+
+Until step 1 is done there is no coverage data to read, and the report would be
+two sentences saying so every week — which is why `deploy.sh` pauses it on
+creation rather than trusting anyone to remember.
 
 ---
 

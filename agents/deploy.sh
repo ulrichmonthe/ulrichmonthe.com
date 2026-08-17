@@ -126,6 +126,25 @@ deploy "index-watch" "$AGENT_INDEX_WATCH" "$ENV_ENVIRONMENT_ANALYTICS" \
   "Read the last 28 days of Search Console coverage, impressions and queries against the 28 days before, cross-reference the analytics API, reconcile against sitemap.xml, and write the report to /mnt/session/outputs/. Say plainly where the data does not support a conclusion." \
   "" "300"
 
+# Created paused: Search Console is not verified for the property yet and the
+# vault credentials do not exist, so every firing would burn a session to
+# report that it cannot read anything. Unpause once agents/README.md §
+# "Index Watch prerequisites" is done:
+#
+#   ant beta:deployments unpause --deployment-id "$DEPLOY_INDEX_WATCH"
+#
+# Pausing suppresses the schedule only — a manual run still works, which is
+# how to test the credentials the moment they exist.
+[[ $DRY == 0 ]] && source "$IDS"     # deploy() only wrote the id to the file
+if [[ $DRY == 0 && -n "${DEPLOY_INDEX_WATCH:-}" ]]; then
+  state=$(ant beta:deployments retrieve --deployment-id "$DEPLOY_INDEX_WATCH" \
+          --transform status -r 2>/dev/null || echo unknown)
+  if [[ "$state" == "active" ]]; then
+    ant beta:deployments pause --deployment-id "$DEPLOY_INDEX_WATCH" >/dev/null
+    echo "  paused — blocked on Search Console (see agents/README.md)"
+  fi
+fi
+
 # 1st of the month, 07:00.
 deploy "note-writer" "$AGENT_NOTE_WRITER" "$ENV_ENVIRONMENT" \
   "0 7 1 * *" \
