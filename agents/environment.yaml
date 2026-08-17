@@ -1,0 +1,28 @@
+# Sandbox the standing agents run in.
+#
+# Deny-by-default egress. The pipeline reaches exactly one data host, and the
+# agents reach GitHub to open pull requests. Nothing else needs to resolve,
+# so nothing else is allowed to — an agent that starts fetching from an
+# unexpected host fails loudly instead of succeeding quietly.
+#
+# Package managers are off: standing/ is standard library only (json, csv,
+# urllib, statistics, collections, xml.etree). If a future change adds a
+# dependency, that is a decision to make deliberately here, not a pip install
+# an agent performs on its own.
+#
+#   ant beta:environments create < agents/environment.yaml --transform id -r
+
+name: standing-agents
+description: >-
+  Runs the funder-standing pipeline and the site's content checks. Egress is
+  limited to the GivingTuesday 990 mirror and GitHub.
+
+config:
+  type: cloud
+  networking:
+    type: limited
+    allow_package_managers: false
+    allow_mcp_servers: true
+    allowed_hosts:
+      # The 990-PF corpus: yearly filing indices and per-filing XML.
+      - gt990datalake-rawdata.s3.amazonaws.com
