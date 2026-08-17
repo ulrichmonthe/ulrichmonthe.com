@@ -153,6 +153,12 @@ deploy "index-watch" "$AGENT_INDEX_WATCH" "$ENV_ENVIRONMENT_ANALYTICS" \
   "Read the last 28 days of Search Console coverage, impressions and queries against the 28 days before, cross-reference the analytics API, reconcile against sitemap.xml, and write the report to /mnt/session/outputs/. Say plainly where the data does not support a conclusion." \
   "" "300"
 
+# 1st of the month, 07:00.
+deploy "note-writer" "$AGENT_NOTE_WRITER" "$ENV_ENVIRONMENT" \
+  "0 7 1 * *" \
+  "Find one publishable finding in the funder-standing dataset, draft a note in the site's voice with a claims file covering every figure, verify it with standing/checks/figure_provenance.py, render the page, update the sitemap and open a pull request. If no finding clears the bar this month, publish nothing and report what you examined and why each candidate was rejected." \
+  "agents/note-writer.rubric.md" "600"
+
 # Pausing suppresses the schedule only — a manual run still works, which is
 # both how you test credentials and how you measure a real run's cost.
 pause_deployment() {  # name-of-id-variable  reason
@@ -179,31 +185,30 @@ if [[ $PAUSED == 1 ]]; then
 fi
 
 if [[ $PAUSED == 1 && $DRY == 0 ]]; then
-  cat <<GUIDE
+  # Quoted delimiter: the text below contains dollar amounts, and an unquoted
+  # heredoc would read "$12 / $6 / $3" as positional parameters — with $6
+  # unset, `set -u` kills the script here, after the deployments above have
+  # already been created. Nothing in this block should ever be expanded.
+  cat <<'GUIDE'
 
 Everything is created and dormant. Nothing will fire on a schedule.
 
 The caps in this file ($12 / $6 / $3 per session) are guesses, not
 measurements. Replace them with one real number:
 
+  source agents/.ids.env
+
   1. Run one session by hand — a manual run works while paused:
-       ant beta:deployments run --deployment-id "\$DEPLOY_COVERAGE_EXPANDER"
+       ant beta:deployments run --deployment-id "$DEPLOY_COVERAGE_EXPANDER"
 
   2. Read what it actually cost, once it goes idle:
        ./agents/measure.sh <session-id>
 
   3. Put a cap based on that figure into the deploy calls in this file,
      re-run ./agents/deploy.sh, then unpause:
-       ant beta:deployments unpause --deployment-id "\$DEPLOY_COVERAGE_EXPANDER"
+       ant beta:deployments unpause --deployment-id "$DEPLOY_COVERAGE_EXPANDER"
 
-Ids are in $IDS — source it to get those variables.
 GUIDE
 fi
-
-# 1st of the month, 07:00.
-deploy "note-writer" "$AGENT_NOTE_WRITER" "$ENV_ENVIRONMENT" \
-  "0 7 1 * *" \
-  "Find one publishable finding in the funder-standing dataset, draft a note in the site's voice with a claims file covering every figure, verify it with standing/checks/figure_provenance.py, render the page, update the sitemap and open a pull request. If no finding clears the bar this month, publish nothing and report what you examined and why each candidate was rejected." \
-  "agents/note-writer.rubric.md" "600"
 
 say "done. IDs in $IDS (gitignored)."
