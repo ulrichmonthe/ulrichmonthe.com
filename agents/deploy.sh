@@ -20,7 +20,17 @@ IDS="agents/.ids.env"
 TZ_NAME="America/New_York"
 [[ -f "$IDS" ]] && source "$IDS"
 
-command -v ant >/dev/null || { echo "ant CLI not found — see the URL above"; exit 1; }
+# --dry-run only renders payloads, so it does not need the CLI or credentials.
+# That makes it useful as a first check on a machine where nothing is set up.
+if [[ $DRY == 0 ]]; then
+  command -v ant >/dev/null || { echo "ant CLI not found — see the URL above"; exit 1; }
+fi
+
+# On a fresh checkout nothing has been created yet and .ids.env does not exist.
+# Under `set -u` an unset id would abort the run, so give them all a value.
+: "${ENV_ENVIRONMENT:=}" "${ENV_ENVIRONMENT_ANALYTICS:=}"
+: "${AGENT_COVERAGE_EXPANDER:=}" "${AGENT_NOTE_WRITER:=}" "${AGENT_INDEX_WATCH:=}"
+: "${DEPLOY_COVERAGE_EXPANDER:=}" "${DEPLOY_NOTE_WRITER:=}" "${DEPLOY_INDEX_WATCH:=}"
 
 say() { printf '\n\033[1m%s\033[0m\n' "$*"; }
 record() { grep -v "^$1=" "$IDS" 2>/dev/null > "$IDS.tmp" || true
@@ -64,8 +74,9 @@ done
 
 # ----------------------------------------------------------------- deployments
 # Deployments are a newer surface than the rest; older CLI builds do not expose
-# them. Check before assuming.
-if ! ant beta:deployments --help >/dev/null 2>&1; then
+# them. Check before assuming — but not in dry-run, which renders the payloads
+# without needing the CLI at all.
+if [[ $DRY == 0 ]] && ! ant beta:deployments --help >/dev/null 2>&1; then
   say "NOTE: this ant build has no beta:deployments — see agents/README.md for
 the raw-HTTP form. Agents and environments above are applied and usable now;
 only the cron schedules are missing."
