@@ -17,9 +17,15 @@ below; a manual run works while paused, which is how to test the credentials
 the moment they exist.
 
 ```
-./agents/deploy.sh --dry-run     # print what would be sent
-./agents/deploy.sh               # create or update everything
+./agents/deploy.sh --dry-run     # print what would be sent, needs neither CLI nor login
+./agents/deploy.sh --paused      # create everything dormant; nothing fires
+./agents/deploy.sh               # create or update everything, schedules live
 ```
+
+**Use `--paused` the first time.** The budget caps below are guesses. Creating
+agents, environments and deployments costs nothing — only sessions cost — so
+the honest order is to create everything dormant, run one session by hand, and
+set the caps from what it actually cost. See *Setting the caps from a real run*.
 
 IDs land in `agents/.ids.env` (gitignored), so re-running updates rather than
 duplicating. Agent updates create a new version; sessions already running keep
@@ -185,17 +191,61 @@ to open the pull request.
 
 Every deployment carries a hard cap, in cents, on list-priced spend:
 
-| Agent | Cap | Why |
+| Agent | Cap | Where the number came from |
 |---|---|---|
-| Coverage Expander | $12.00 | Long sessions — index rebuild plus several hundred filings fetched and parsed. Runtime dominates. |
-| Note Writer | $6.00 | Reads the dataset, drafts, iterates against the gate. |
-| Index Watch | $3.00 | A handful of API reads and a report. |
+| Coverage Expander | $12.00 | A guess. |
+| Note Writer | $6.00 | A guess. |
+| Index Watch | $3.00 | A guess. |
 
-A session that reaches its cap **pauses** rather than terminating — it goes
-idle with `stop_reason: budget_reached`, keeping its history and sandbox. Raise
-or remove the budget to resume, or leave it and read what it got done. Start
-here and adjust from the first month's actual figures rather than guessing
-upward.
+These were picked as a descending ladder of round numbers — heaviest agent
+highest, lightest lowest — and nothing more. They are not derived from a run
+and should not be treated as forecasts. They are a stop, not a budget to spend
+down to.
+
+A session that reaches its cap **pauses** rather than terminating: it goes idle
+with `stop_reason: budget_reached`, keeping its history and sandbox. Raise or
+remove the budget to resume, or leave it and read what it got done.
+
+What actually generates cost, for calibrating expectations:
+
+| Source | Rate | Notes |
+|---|---|---|
+| Model tokens | Opus 5, $5/M in, $25/M out | Dominates every run |
+| Outcome grader | same rates, separate context | Scores each iteration against the rubric — easy to forget |
+| Container runtime | $0.08/hour | Negligible: a 40-minute run is five cents |
+| Web search | $10 per 1,000 | None of these agents search |
+
+Note what this implies: the pipeline work is nearly free. Fetching several
+hundred filings and running entity resolution is bash and Python in the
+container — runtime, not tokens. The cost is the agent reasoning about the
+result.
+
+### Setting the caps from a real run
+
+```
+./agents/deploy.sh --paused                 # nothing fires
+source agents/.ids.env
+
+ant beta:deployments run --deployment-id "$DEPLOY_COVERAGE_EXPANDER"
+# a manual run works while paused; note the session id it returns
+
+./agents/measure.sh <session-id>            # once the session goes idle
+```
+
+`measure.sh` prints token counts, active time, and the session's `list_cost` —
+consumption at public list rates, which is exactly what the cap is compared
+against. It suggests a cap at 3× measured, rounded up.
+
+It deliberately suggests **nothing** when the session is still running or hit
+its cap, because both produce a floor rather than a cost, and tripling a floor
+bakes the error into the cap. Let it finish, or raise the cap, and measure
+again.
+
+Then edit the budget argument in `deploy.sh`, re-run it, and unpause:
+
+```
+ant beta:deployments unpause --deployment-id "$DEPLOY_COVERAGE_EXPANDER"
+```
 
 ---
 
