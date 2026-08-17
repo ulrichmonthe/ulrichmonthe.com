@@ -8,14 +8,30 @@
 #
 #   ./agents/deploy.sh            create or update everything
 #   ./agents/deploy.sh --dry-run  print what would be sent, change nothing
+#   ./agents/deploy.sh --paused   create everything dormant; nothing fires
+#
+# --paused exists because the budget caps in this file are guesses. Creating
+# resources costs nothing — only sessions cost — so the honest order is to
+# create everything paused, run one session by hand, read what it actually
+# cost with agents/measure.sh, and set the caps from that number instead of
+# from an estimate. See agents/README.md § "Setting the caps from a real run".
 #
 # Requires: ant (https://platform.claude.com/docs/en/api/sdks/cli), and either
-# ANTHROPIC_API_KEY exported or `ant auth login` already run.
+# ANTHROPIC_API_KEY exported or `ant auth login` already run. --dry-run needs
+# neither.
 
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
-DRY=0; [[ "${1:-}" == "--dry-run" ]] && DRY=1
+DRY=0; PAUSED=0
+for arg in "$@"; do
+  case "$arg" in
+    --dry-run) DRY=1 ;;
+    --paused)  PAUSED=1 ;;
+    -h|--help) sed -n '2,16p' "$0" | sed 's/^#\ \?//'; exit 0 ;;
+    *) echo "unknown flag: $arg (try --help)"; exit 2 ;;
+  esac
+done
 IDS="agents/.ids.env"
 TZ_NAME="America/New_York"
 [[ -f "$IDS" ]] && source "$IDS"
@@ -137,23 +153,51 @@ deploy "index-watch" "$AGENT_INDEX_WATCH" "$ENV_ENVIRONMENT_ANALYTICS" \
   "Read the last 28 days of Search Console coverage, impressions and queries against the 28 days before, cross-reference the analytics API, reconcile against sitemap.xml, and write the report to /mnt/session/outputs/. Say plainly where the data does not support a conclusion." \
   "" "300"
 
-# Created paused: Search Console is not verified for the property yet and the
-# vault credentials do not exist, so every firing would burn a session to
-# report that it cannot read anything. Unpause once agents/README.md §
-# "Index Watch prerequisites" is done:
-#
-#   ant beta:deployments unpause --deployment-id "$DEPLOY_INDEX_WATCH"
-#
 # Pausing suppresses the schedule only — a manual run still works, which is
-# how to test the credentials the moment they exist.
-[[ $DRY == 0 ]] && source "$IDS"     # deploy() only wrote the id to the file
-if [[ $DRY == 0 && -n "${DEPLOY_INDEX_WATCH:-}" ]]; then
-  state=$(ant beta:deployments retrieve --deployment-id "$DEPLOY_INDEX_WATCH" \
+# both how you test credentials and how you measure a real run's cost.
+pause_deployment() {  # name-of-id-variable  reason
+  local id="${!1:-}" reason="$2" state
+  [[ $DRY == 1 || -z "$id" ]] && return 0
+  state=$(ant beta:deployments retrieve --deployment-id "$id" \
           --transform status -r 2>/dev/null || echo unknown)
   if [[ "$state" == "active" ]]; then
-    ant beta:deployments pause --deployment-id "$DEPLOY_INDEX_WATCH" >/dev/null
-    echo "  paused — blocked on Search Console (see agents/README.md)"
+    ant beta:deployments pause --deployment-id "$id" >/dev/null
+    echo "  paused $id — $reason"
   fi
+}
+
+[[ $DRY == 0 ]] && source "$IDS"     # deploy() only wrote the ids to the file
+
+# Always paused: Search Console is not verified for the property and the vault
+# credentials do not exist, so every firing would spend a session reporting
+# that it cannot read anything.
+pause_deployment DEPLOY_INDEX_WATCH "blocked on Search Console (agents/README.md)"
+
+if [[ $PAUSED == 1 ]]; then
+  pause_deployment DEPLOY_COVERAGE_EXPANDER "--paused: measure before scheduling"
+  pause_deployment DEPLOY_NOTE_WRITER      "--paused: measure before scheduling"
+fi
+
+if [[ $PAUSED == 1 && $DRY == 0 ]]; then
+  cat <<GUIDE
+
+Everything is created and dormant. Nothing will fire on a schedule.
+
+The caps in this file ($12 / $6 / $3 per session) are guesses, not
+measurements. Replace them with one real number:
+
+  1. Run one session by hand — a manual run works while paused:
+       ant beta:deployments run --deployment-id "\$DEPLOY_COVERAGE_EXPANDER"
+
+  2. Read what it actually cost, once it goes idle:
+       ./agents/measure.sh <session-id>
+
+  3. Put a cap based on that figure into the deploy calls in this file,
+     re-run ./agents/deploy.sh, then unpause:
+       ant beta:deployments unpause --deployment-id "\$DEPLOY_COVERAGE_EXPANDER"
+
+Ids are in $IDS — source it to get those variables.
+GUIDE
 fi
 
 # 1st of the month, 07:00.
